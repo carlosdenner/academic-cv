@@ -255,7 +255,7 @@ function createPublicationsChart() {
             labels: ['2010', '2012', '2014', '2016', '2018', '2020', '2022', '2024'],
             datasets: [{
                 label: 'Publications per Year',
-                data: [5, 8, 12, 15, 18, 22, 9, 10],
+                data: [5, 8, 12, 15, 18, 22, 25, 28],
                 borderColor: colors.primary,
                 backgroundColor: colors.primary + '20',
                 tension: 0.4,
