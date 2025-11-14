@@ -795,6 +795,92 @@ function initBackToTop() {
 }
 
 /* ===================================
+   Form Handlers
+   =================================== */
+
+async function handleContactSubmit(e) {
+    e.preventDefault();
+    const form = e.target;
+    const formData = new FormData(form);
+    const status = document.getElementById('formStatus');
+    const submitBtn = form.querySelector('button[type="submit"]');
+    
+    // Disable button during submission
+    submitBtn.disabled = true;
+    submitBtn.innerHTML = '<span>Sending...</span><i class="fas fa-spinner fa-spin"></i>';
+    
+    try {
+        const response = await fetch(form.action, {
+            method: 'POST',
+            body: formData,
+            headers: {
+                'Accept': 'application/json'
+            }
+        });
+        
+        if (response.ok) {
+            status.textContent = '✅ Message sent successfully! I\'ll get back to you soon.';
+            status.className = 'form-status success';
+            form.reset();
+        } else {
+            throw new Error('Form submission failed');
+        }
+    } catch (error) {
+        status.textContent = '❌ Oops! There was a problem. Please email me directly.';
+        status.className = 'form-status error';
+    } finally {
+        submitBtn.disabled = false;
+        submitBtn.innerHTML = '<span>Send Message</span><i class="fas fa-arrow-right"></i>';
+        
+        // Hide status after 5 seconds
+        setTimeout(() => {
+            status.className = 'form-status';
+        }, 5000);
+    }
+}
+
+async function handleNewsletterSubmit(e) {
+    e.preventDefault();
+    const form = e.target;
+    const formData = new FormData(form);
+    const status = document.getElementById('newsletterStatus');
+    const submitBtn = form.querySelector('button[type="submit"]');
+    
+    // Disable button during submission
+    submitBtn.disabled = true;
+    submitBtn.innerHTML = '<i class="fas fa-spinner fa-spin"></i>';
+    
+    try {
+        const response = await fetch(form.action, {
+            method: 'POST',
+            body: formData,
+            headers: {
+                'Accept': 'application/json'
+            }
+        });
+        
+        if (response.ok) {
+            status.textContent = '🎉 Welcome! Check your email to confirm.';
+            status.className = 'form-status success';
+            form.reset();
+        } else {
+            throw new Error('Form submission failed');
+        }
+    } catch (error) {
+        status.textContent = '❌ Error subscribing. Please try again.';
+        status.className = 'form-status error';
+    } finally {
+        submitBtn.disabled = false;
+        submitBtn.innerHTML = '<i class="fas fa-arrow-right"></i>';
+        
+        // Hide status after 5 seconds
+        setTimeout(() => {
+            status.className = 'form-status';
+        }, 5000);
+    }
+}
+
+/* ===================================
    Event Listeners
    =================================== */
 
@@ -830,6 +916,18 @@ function setupEventListeners() {
     const loadMoreBtn = document.getElementById('loadMorePubs');
     if (loadMoreBtn) {
         loadMoreBtn.addEventListener('click', loadMorePublications);
+    }
+    
+    // Contact Form
+    const contactForm = document.getElementById('contactForm');
+    if (contactForm) {
+        contactForm.addEventListener('submit', handleContactSubmit);
+    }
+    
+    // Newsletter Form
+    const newsletterForm = document.getElementById('newsletterForm');
+    if (newsletterForm) {
+        newsletterForm.addEventListener('submit', handleNewsletterSubmit);
     }
     
     // Smooth scroll for all internal links
