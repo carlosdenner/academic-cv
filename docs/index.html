@@ -3,24 +3,32 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Carlos Denner dos Santos Jr. - Academic CV</title>
-    <link rel="stylesheet" href="style.css">
+    <title>Carlos Denner dos Santos - Academic Portfolio</title>
+    <meta name="description" content="Academic portfolio of Carlos Denner dos Santos - AI Expert, Data Scientist, and Associate Professor with 99+ publications">
+    <link rel="stylesheet" href="style_new.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
 </head>
 <body>
     <!-- Navigation -->
-    <nav id="nav-bar">
-        <div class="container nav-content">
-            <div class="nav-brand">Carlos Denner dos Santos Jr.</div>
-            <div class="nav-links">
-                <a href="#about">About</a>
-                <a href="#metrics">Metrics</a>
-                <a href="#publications">Publications</a>
-                <a href="#positions">Experience</a>
-                <a href="#education">Education</a>
-                <a href="#projects">Projects</a>
-                <a href="#contact">Contact</a>
-                <button id="theme-toggle" class="theme-toggle" title="Toggle dark mode">
+    <nav class="navbar" id="navbar">
+        <div class="container nav-container">
+            <a href="#hero" class="nav-brand">
+                <div class="brand-logo">CD</div>
+                <span class="brand-text">Carlos Denner</span>
+            </a>
+            <button class="nav-toggle" id="navToggle" aria-label="Toggle navigation">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+            <div class="nav-menu" id="navMenu">
+                <a href="#about" class="nav-link">About</a>
+                <a href="#experience" class="nav-link">Experience</a>
+                <a href="#publications" class="nav-link">Publications</a>
+                <a href="#research" class="nav-link">Research</a>
+                <a href="#contact" class="nav-link">Contact</a>
+                <button class="theme-toggle" id="themeToggle" aria-label="Toggle theme">
                     <i class="fas fa-moon"></i>
                 </button>
             </div>
@@ -28,117 +36,377 @@
     </nav>
 
     <!-- Hero Section -->
-    <header id="hero">
-        <div class="container">
-            <h1 id="cv-name">Loading...</h1>
-            <p id="cv-title" class="hero-subtitle">Associate Professor | Data Scientist | Researcher</p>
-            <div id="hero-links" class="hero-links"></div>
-        </div>
-    </header>
-
-    <!-- About Section -->
-    <section id="about" class="section">
-        <div class="container">
-            <h2 class="section-title">About</h2>
-            <p id="about-text" class="about-text">Loading...</p>
-        </div>
-    </section>
-
-    <!-- Metrics Section -->
-    <section id="metrics" class="section metrics-section">
-        <div class="container">
-            <h2 class="section-title">Research Impact</h2>
-            <div id="metrics-grid" class="metrics-grid"></div>
-        </div>
-    </section>
-
-    <!-- Publications Section -->
-    <section id="publications" class="section">
-        <div class="container">
-            <h2 class="section-title">Publications</h2>
-            
-            <!-- Filters -->
-            <div class="pub-filters">
-                <input type="text" id="pub-search" class="search-input" placeholder="Search publications by title, author, or venue...">
-                <div class="filter-buttons">
-                    <button class="filter-btn active" data-type="all">All (<span id="count-all">0</span>)</button>
-                    <button class="filter-btn" data-type="journal_articles">Journals (<span id="count-journal">0</span>)</button>
-                    <button class="filter-btn" data-type="conference_papers">Conferences (<span id="count-conf">0</span>)</button>
-                    <button class="filter-btn" data-type="book_chapters">Books (<span id="count-book">0</span>)</button>
-                    <button class="filter-btn" data-type="technical">Technical (<span id="count-tech">0</span>)</button>
+    <section id="hero" class="hero">
+        <div class="hero-bg"></div>
+        <div class="container hero-content">
+            <div class="hero-text">
+                <div class="hero-label">Welcome to my portfolio</div>
+                <h1 class="hero-title">
+                    Hi, I'm <span class="gradient-text">Carlos Denner</span>
+                </h1>
+                <p class="hero-subtitle">
+                    AI Expert • Data Scientist • Associate Professor
+                </p>
+                <p class="hero-description">
+                    Specializing in AI governance, open-source ecosystems, and data-driven decision systems.
+                    20+ years of experience with 99+ peer-reviewed publications.
+                </p>
+                <div class="hero-buttons">
+                    <a href="#contact" class="btn btn-primary">
+                        <i class="fas fa-envelope"></i>
+                        <span>Get in Touch</span>
+                    </a>
+                    <a href="#publications" class="btn btn-outline">
+                        <i class="fas fa-book-open"></i>
+                        <span>View Publications</span>
+                    </a>
                 </div>
-                <div class="sort-options">
-                    <label>Sort by:</label>
-                    <select id="pub-sort">
-                        <option value="year-desc">Year (newest first)</option>
-                        <option value="year-asc">Year (oldest first)</option>
-                        <option value="citations-desc">Citations (high to low)</option>
-                        <option value="title-asc">Title (A-Z)</option>
-                    </select>
+                <div class="hero-social">
+                    <a href="https://www.linkedin.com/in/carlosdenner" target="_blank" rel="noopener" class="social-link" aria-label="LinkedIn">
+                        <i class="fab fa-linkedin"></i>
+                    </a>
+                    <a href="https://www.researchgate.net/profile/Carlos-Santos-31" target="_blank" rel="noopener" class="social-link" aria-label="ResearchGate">
+                        <i class="fab fa-researchgate"></i>
+                    </a>
+                    <a href="https://scholar.google.com/citations?user=YOUR_ID" target="_blank" rel="noopener" class="social-link" aria-label="Google Scholar">
+                        <i class="fas fa-graduation-cap"></i>
+                    </a>
+                    <a href="https://github.com/carlosdenner-videns" target="_blank" rel="noopener" class="social-link" aria-label="GitHub">
+                        <i class="fab fa-github"></i>
+                    </a>
                 </div>
             </div>
+        </div>
+        <div class="scroll-down">
+            <span>Scroll Down</span>
+            <i class="fas fa-chevron-down"></i>
+        </div>
+    </section>
 
-            <!-- Publications List -->
-            <div id="publications-list" class="publications-list"></div>
+    <!-- Stats Section -->
+    <section class="stats">
+        <div class="container">
+            <div class="stats-grid">
+                <div class="stat-item">
+                    <div class="stat-icon"><i class="fas fa-file-alt"></i></div>
+                    <div class="stat-number" data-target="99">0</div>
+                    <div class="stat-label">Publications</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-icon"><i class="fas fa-briefcase"></i></div>
+                    <div class="stat-number" data-target="28">0</div>
+                    <div class="stat-label">Positions</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-icon"><i class="fas fa-user-graduate"></i></div>
+                    <div class="stat-number" data-target="14">0</div>
+                    <div class="stat-label">PhDs Supervised</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-icon"><i class="fas fa-calendar-alt"></i></div>
+                    <div class="stat-number" data-target="26">0</div>
+                    <div class="stat-label">Years Experience</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about" class="section about">
+        <div class="container">
+            <div class="section-header">
+                <span class="section-label">Get to know me</span>
+                <h2 class="section-title">About Me</h2>
+            </div>
+            <div class="about-content">
+                <div class="about-text">
+                    <p class="lead">
+                        With technical backgrounds in computer science, business, and statistics, I am an information systems 
+                        researcher, university professor, and AI expert focused on data-driven decision support systems for 
+                        strategic analysis.
+                    </p>
+                    <div class="highlights">
+                        <div class="highlight">
+                            <i class="fas fa-check-circle"></i>
+                            <span>26 years of experience in IT development and research</span>
+                        </div>
+                        <div class="highlight">
+                            <i class="fas fa-check-circle"></i>
+                            <span>Expert in AI governance and open-source ecosystems</span>
+                        </div>
+                        <div class="highlight">
+                            <i class="fas fa-check-circle"></i>
+                            <span>Multilingual: Portuguese, English, French, Python</span>
+                        </div>
+                        <div class="highlight">
+                            <i class="fas fa-check-circle"></i>
+                            <span>Current: AI Expert at Videns Analytics, Montreal</span>
+                        </div>
+                    </div>
+                    <div class="research-areas">
+                        <h3>Research Interests</h3>
+                        <div class="tags">
+                            <span class="tag">Data Science</span>
+                            <span class="tag">AI Governance</span>
+                            <span class="tag">Open Source Software</span>
+                            <span class="tag">Decision Support Systems</span>
+                            <span class="tag">IT Governance</span>
+                            <span class="tag">Digital Innovation</span>
+                            <span class="tag">Technology Adoption</span>
+                            <span class="tag">Software Engineering</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
     </section>
 
     <!-- Experience Section -->
-    <section id="positions" class="section">
+    <section id="experience" class="section experience">
         <div class="container">
-            <h2 class="section-title">Professional Experience</h2>
-            <div id="positions-timeline" class="timeline"></div>
+            <div class="section-header">
+                <span class="section-label">My journey</span>
+                <h2 class="section-title">Professional Experience</h2>
+            </div>
+            <div class="timeline">
+                <!-- Current Position -->
+                <div class="timeline-item">
+                    <div class="timeline-marker"></div>
+                    <div class="timeline-content">
+                        <div class="timeline-date">July 2025 - Present</div>
+                        <h3>AI Expert</h3>
+                        <h4>Videns Analytics</h4>
+                        <p class="location"><i class="fas fa-map-marker-alt"></i> Montreal, Canada</p>
+                        <ul>
+                            <li>Leading AI/ML initiatives and LLM security research</li>
+                            <li>Developing advanced RAG systems and recommendation engines</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Bell Canada -->
+                <div class="timeline-item">
+                    <div class="timeline-marker"></div>
+                    <div class="timeline-content">
+                        <div class="timeline-date">November 2021 - January 2025</div>
+                        <h3>Data Scientist Consultant</h3>
+                        <h4>Bell Canada</h4>
+                        <p class="location"><i class="fas fa-map-marker-alt"></i> Montreal, Canada</p>
+                        <ul>
+                            <li>Data analytics and visualization for 5G migration</li>
+                            <li>AI for management automation</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- ETS -->
+                <div class="timeline-item">
+                    <div class="timeline-marker"></div>
+                    <div class="timeline-content">
+                        <div class="timeline-date">May 2021 - April 2023</div>
+                        <h3>Research Associate</h3>
+                        <h4>École de Technologie Supérieure</h4>
+                        <p class="location"><i class="fas fa-map-marker-alt"></i> Montreal, Canada</p>
+                    </div>
+                </div>
+
+                <!-- Jooay -->
+                <div class="timeline-item">
+                    <div class="timeline-marker"></div>
+                    <div class="timeline-content">
+                        <div class="timeline-date">February 2020 - Present</div>
+                        <h3>Co-Investigator</h3>
+                        <h4>Jooay App, McGill University</h4>
+                        <p class="location"><i class="fas fa-map-marker-alt"></i> Montreal, Canada</p>
+                        <ul>
+                            <li>AI recommendation system for digital inclusion</li>
+                            <li>Data analytics and visualization</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- UnB -->
+                <div class="timeline-item">
+                    <div class="timeline-marker"></div>
+                    <div class="timeline-content">
+                        <div class="timeline-date">December 2011 - December 2023</div>
+                        <h3>Associate Professor</h3>
+                        <h4>University of Brasília</h4>
+                        <p class="location"><i class="fas fa-map-marker-alt"></i> Brasília, Brazil</p>
+                        <ul>
+                            <li>Information systems and technology adoption research</li>
+                            <li>Supervised 14 PhD and MSc students</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="timeline-more">
+                    <button class="btn btn-outline" id="showMoreExp">
+                        <i class="fas fa-history"></i>
+                        <span>View 23 More Positions</span>
+                    </button>
+                </div>
+            </div>
         </div>
     </section>
 
-    <!-- Education Section -->
-    <section id="education" class="section">
+    <!-- Publications Section -->
+    <section id="publications" class="section publications">
         <div class="container">
-            <h2 class="section-title">Education</h2>
-            <div id="education-list" class="timeline"></div>
+            <div class="section-header">
+                <span class="section-label">Academic contributions</span>
+                <h2 class="section-title">Publications</h2>
+                <p class="section-description">99 peer-reviewed publications in top-tier journals and conferences</p>
+            </div>
+
+            <div class="pub-controls">
+                <div class="search-box">
+                    <i class="fas fa-search"></i>
+                    <input type="text" id="pubSearch" placeholder="Search by title, author, or keyword...">
+                </div>
+                <div class="filter-buttons">
+                    <button class="filter-btn active" data-filter="all">All (99)</button>
+                    <button class="filter-btn" data-filter="journal">Journals (61)</button>
+                    <button class="filter-btn" data-filter="conference">Conferences (31)</button>
+                    <button class="filter-btn" data-filter="book">Book Chapters (4)</button>
+                    <button class="filter-btn" data-filter="inprep">In Prep (3)</button>
+                </div>
+            </div>
+
+            <div id="pubList" class="pub-list">
+                <!-- Publications will be loaded dynamically -->
+                <div class="pub-placeholder">
+                    <i class="fas fa-spinner fa-spin"></i>
+                    <p>Loading publications...</p>
+                </div>
+            </div>
+
+            <div class="load-more-container">
+                <button class="btn btn-outline" id="loadMorePubs">
+                    <i class="fas fa-arrow-down"></i>
+                    <span>Load More</span>
+                </button>
+            </div>
         </div>
     </section>
 
-    <!-- Projects Section -->
-    <section id="projects" class="section">
+    <!-- Research Section -->
+    <section id="research" class="section research">
         <div class="container">
-            <h2 class="section-title">Research Projects</h2>
-            <div id="projects-grid" class="projects-grid"></div>
-        </div>
-    </section>
+            <div class="section-header">
+                <span class="section-label">Current work</span>
+                <h2 class="section-title">Research Projects</h2>
+            </div>
+            <div class="research-grid">
+                <div class="research-card">
+                    <div class="research-icon">
+                        <i class="fas fa-shield-alt"></i>
+                    </div>
+                    <h3>LLM Firewall Development</h3>
+                    <p>Building multi-phase defense systems against prompt injection attacks from patent landscape to deployable guardrails.</p>
+                    <div class="research-meta">
+                        <span class="badge badge-review">Under Review - CACM</span>
+                    </div>
+                </div>
 
-    <!-- Awards Section -->
-    <section id="awards" class="section">
-        <div class="container">
-            <h2 class="section-title">Awards & Honors</h2>
-            <div id="awards-list" class="awards-list"></div>
-        </div>
-    </section>
+                <div class="research-card">
+                    <div class="research-icon">
+                        <i class="fas fa-brain"></i>
+                    </div>
+                    <h3>RAG Hallucination Mitigation</h3>
+                    <p>Experimental framework for evaluating and mitigating hallucinations in Retrieval-Augmented Generation systems.</p>
+                    <div class="research-meta">
+                        <span class="badge badge-prep">In Preparation</span>
+                    </div>
+                </div>
 
-    <!-- Supervisions Section -->
-    <section id="supervisions" class="section">
-        <div class="container">
-            <h2 class="section-title">Academic Supervision</h2>
-            <div id="supervisions-grid" class="supervisions-grid"></div>
+                <div class="research-card">
+                    <div class="research-icon">
+                        <i class="fas fa-universal-access"></i>
+                    </div>
+                    <h3>AI for Digital Inclusion</h3>
+                    <p>Recommendation system enhancing digital inclusion for children and youth with disabilities through Jooay.com platform.</p>
+                    <div class="research-meta">
+                        <span class="badge badge-ongoing">Ongoing</span>
+                    </div>
+                </div>
+            </div>
         </div>
     </section>
 
     <!-- Contact Section -->
-    <section id="contact" class="section contact-section">
+    <section id="contact" class="section contact">
         <div class="container">
-            <h2 class="section-title">Contact</h2>
-            <div id="contact-info" class="contact-grid"></div>
+            <div class="section-header">
+                <span class="section-label">Let's connect</span>
+                <h2 class="section-title">Get in Touch</h2>
+                <p class="section-description">Open to collaboration opportunities and research discussions</p>
+            </div>
+            <div class="contact-grid">
+                <div class="contact-card">
+                    <div class="contact-icon">
+                        <i class="fas fa-envelope"></i>
+                    </div>
+                    <h3>Email</h3>
+                    <p><a href="mailto:cdenner@cofomo.com">cdenner@cofomo.com</a></p>
+                    <p><a href="mailto:carlosdenner@gmail.com">carlosdenner@gmail.com</a></p>
+                </div>
+                <div class="contact-card">
+                    <div class="contact-icon">
+                        <i class="fas fa-map-marker-alt"></i>
+                    </div>
+                    <h3>Location</h3>
+                    <p>Montreal, QC</p>
+                    <p>Canada</p>
+                </div>
+                <div class="contact-card">
+                    <div class="contact-icon">
+                        <i class="fas fa-phone"></i>
+                    </div>
+                    <h3>Phone</h3>
+                    <p><a href="tel:+14388364116">+1 (438) 836-4116</a></p>
+                </div>
+            </div>
+            <div class="social-links-large">
+                <a href="https://www.linkedin.com/in/carlosdenner" target="_blank" rel="noopener" class="social-card linkedin">
+                    <i class="fab fa-linkedin"></i>
+                    <span>LinkedIn</span>
+                </a>
+                <a href="https://www.researchgate.net/profile/Carlos-Santos-31" target="_blank" rel="noopener" class="social-card researchgate">
+                    <i class="fab fa-researchgate"></i>
+                    <span>ResearchGate</span>
+                </a>
+                <a href="https://scholar.google.com/citations?user=YOUR_ID" target="_blank" rel="noopener" class="social-card scholar">
+                    <i class="fas fa-graduation-cap"></i>
+                    <span>Google Scholar</span>
+                </a>
+                <a href="https://github.com/carlosdenner-videns" target="_blank" rel="noopener" class="social-card github">
+                    <i class="fab fa-github"></i>
+                    <span>GitHub</span>
+                </a>
+            </div>
         </div>
     </section>
 
     <!-- Footer -->
     <footer class="footer">
         <div class="container">
-            <p>© 2025 Carlos Denner dos Santos Jr. | Generated from automated publication pipeline</p>
-            <p>Data sources: ORCID, OpenAlex, Crossref, Google Scholar, ResearchGate, Lattes CV</p>
+            <div class="footer-content">
+                <p>&copy; 2025 Carlos Denner dos Santos. All rights reserved.</p>
+                <div class="footer-links">
+                    <a href="https://github.com/carlosdenner-videns/academic-cv" target="_blank" rel="noopener">
+                        <i class="fab fa-github"></i> Source Code
+                    </a>
+                </div>
+            </div>
         </div>
     </footer>
 
-    <script src="script.js"></script>
+    <!-- Back to Top Button -->
+    <button id="backToTop" class="back-to-top" aria-label="Back to top">
+        <i class="fas fa-arrow-up"></i>
+    </button>
+
+    <script src="script_new.js"></script>
 </body>
 </html>
