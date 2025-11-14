@@ -206,7 +206,14 @@ function animateCounter(element) {
 }
 
 function initCounters() {
-    const counters = document.querySelectorAll('.counter[data-target]');
+    const counters = document.querySelectorAll('.counter[data-target], .stat-value[data-target]');
+    
+    if (counters.length === 0) {
+        console.warn('No counters found');
+        return;
+    }
+    
+    console.log(`Found ${counters.length} counters to animate`);
     
     const observer = new IntersectionObserver((entries) => {
         entries.forEach(entry => {
@@ -215,9 +222,13 @@ function initCounters() {
                 animateCounter(entry.target);
             }
         });
-    }, { threshold: 0.5 });
+    }, { threshold: 0.1 });
     
-    counters.forEach(counter => observer.observe(counter));
+    counters.forEach(counter => {
+        // Set initial value
+        counter.textContent = '0';
+        observer.observe(counter);
+    });
 }
 
 /* ===================================
