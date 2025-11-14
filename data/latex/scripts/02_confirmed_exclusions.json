@@ -1,0 +1,62 @@
+{
+  "confirmed_at": "2025-11-12",
+  "total_excluded": 5,
+  "note": "Publications manually reviewed and confirmed as not yours",
+  "excluded_works": [
+    {
+      "title": "First Report of <i>Ralstonia syzygii</i> Causing Bacteria Wilt on Eucalyptus in Brazil",
+      "year": 2025,
+      "type": "article",
+      "reason": "Unlikely research area: bacteria, eucalyptus, microbiology, botany",
+      "authors": [
+        "Carlos Denner dos Santos"
+      ],
+      "orcid_found": true,
+      "confirmed": true
+    },
+    {
+      "title": "AFTER-SALES AND CRM: THEIR ROLE AS A DIFFERENTIATION STRATEGY FOR CLIENTS",
+      "year": 2016,
+      "type": "article",
+      "reason": "No matching research areas/institutions found",
+      "authors": [
+        "Carlos Denner dos Santos"
+      ],
+      "orcid_found": true,
+      "confirmed": true
+    },
+    {
+      "title": "No data? No problem! A Search-based Recommendation System with Cold\\n Starts",
+      "year": 2020,
+      "type": "preprint",
+      "reason": "No matching research areas/institutions found",
+      "authors": [
+        "Carlos Denner dos Santos"
+      ],
+      "orcid_found": true,
+      "confirmed": true
+    },
+    {
+      "title": "Unlocking New Frontiers: The Versatile Potential of the Brazilian Multipurpose Reactor",
+      "year": 2025,
+      "type": "preprint",
+      "reason": "No matching research areas/institutions found",
+      "authors": [
+        "Carlos Denner dos Santos"
+      ],
+      "orcid_found": true,
+      "confirmed": true
+    },
+    {
+      "title": "The Relevance of Simons’ Levers of Control Model on Individual Performance",
+      "year": 2025,
+      "type": "book-chapter",
+      "reason": "No matching research areas/institutions found",
+      "authors": [
+        "Carlos Denner dos Santos"
+      ],
+      "orcid_found": true,
+      "confirmed": true
+    }
+  ]
+}

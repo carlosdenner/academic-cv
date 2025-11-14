@@ -1,0 +1,4 @@
+pdf-engine: xelatex
+variables:
+  geometry: margin=1in
+  mainfont: "Latin Modern Roman"

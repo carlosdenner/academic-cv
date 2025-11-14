@@ -1,0 +1,276 @@
+
+\documentclass[accentcolor=005F9E,sans,tight]{dennercv} % options: accentcolor=HEX, sans, tight
+
+% --- Optional bibliography setup (uncomment to use) --------------------------
+\usepackage[
+    backend=biber,
+    style=authoryear,
+    sorting=ydnt,
+    maxbibnames=99,
+    giveninits=true,
+    uniquename=init,
+    dashed=false,
+]{biblatex}
+
+% ============================================================================
+% CUSTOM BIBLIOGRAPHY FORMATTING FOR CV
+% ============================================================================
+
+% Title formatting: bold and clickable if DOI exists
+\DeclareFieldFormat{title}{%
+  \iffieldundef{doi}
+    {\textbf{#1}}
+    {\href{https://doi.org/\thefield{doi}}{\textbf{#1}}}}
+\DeclareFieldFormat[article]{title}{%
+  \iffieldundef{doi}
+    {\textbf{#1}}
+    {\href{https://doi.org/\thefield{doi}}{\textbf{#1}}}}
+\DeclareFieldFormat[incollection]{title}{%
+  \iffieldundef{doi}
+    {\textbf{#1}}
+    {\href{https://doi.org/\thefield{doi}}{\textbf{#1}}}}
+
+% Suppress "In:" before journal names
+\renewbibmacro{in:}{}
+
+% Journal/booktitle in italics
+\DeclareFieldFormat{journaltitle}{\textit{#1}}
+\DeclareFieldFormat{booktitle}{\textit{#1}}
+
+% Volume in bold
+\DeclareFieldFormat[article]{volume}{\textbf{#1}}
+
+% Issue in parentheses
+\DeclareFieldFormat[article]{number}{(#1)}
+
+% Compact spacing between entries
+\setlength\bibitemsep{0.75\baselineskip}
+
+% Better line breaking in bibliography (balanced approach)
+\setlength{\emergencystretch}{2em}
+\setlength{\tolerance}{3000}
+\hbadness=10000  % Suppress underfull hbox warnings (cosmetic only)
+
+% Hide separate DOI/URL display since title is clickable
+\DeclareFieldFormat{doi}{}
+\DeclareFieldFormat{url}{}
+
+% Year without parentheses - bold for emphasis
+\renewbibmacro*{date+extradate}{%
+  \iffieldundef{labelyear}
+    {}
+    {\printtext[\textbf]{%
+       \printfield{labelyear}%
+       \printfield{extradate}}}}
+
+% Custom driver for articles: Year. Authors. Title. Journal Volume(Issue), Pages.
+\DeclareBibliographyDriver{article}{%
+  \usebibmacro{bibindex}%
+  \usebibmacro{begentry}%
+  % Year first (bold)
+  \printtext[\textbf]{\printfield{labelyear}}%
+  \setunit{\addperiod\space}%
+  % Authors
+  \printnames{author}%
+  \setunit{\addperiod\space}%
+  % Title (bold, clickable with DOI)
+  \printfield{title}%
+  \setunit{\addperiod\space}%
+  % Journal name (italic)
+  \printfield{journaltitle}%
+  \setunit{\addspace}%
+  % Volume (bold)
+  \printfield{volume}%
+  % Issue (in parentheses)
+  \printfield{number}%
+  \setunit{\addcomma\space}%
+  % Pages
+  \printfield{pages}%
+  \setunit{\addperiod}%
+  \usebibmacro{finentry}}
+
+% Custom driver for book chapters
+\DeclareBibliographyDriver{incollection}{%
+  \usebibmacro{bibindex}%
+  \usebibmacro{begentry}%
+  \printtext[\textbf]{\printfield{labelyear}}%
+  \setunit{\addperiod\space}%
+  \printnames{author}%
+  \setunit{\addperiod\space}%
+  \printfield{title}%
+  \setunit{\addperiod\space}%
+  \printtext{In: }\printfield{booktitle}%
+  \setunit{\addcomma\space}%
+  \printfield{pages}%
+  \setunit{\addperiod}%
+  \usebibmacro{finentry}}
+
+% Custom driver for @misc (datasets, etc.)
+\DeclareBibliographyDriver{misc}{%
+  \usebibmacro{bibindex}%
+  \usebibmacro{begentry}%
+  \printtext[\textbf]{\printfield{labelyear}}%
+  \setunit{\addperiod\space}%
+  \printnames{author}%
+  \setunit{\addperiod\space}%
+  \printfield{title}%
+  \setunit{\addperiod\space}%
+  \printfield{howpublished}%
+  \setunit{\addperiod\space}%
+  \printfield{note}%
+  \setunit{\addperiod}%
+  \usebibmacro{finentry}}
+
+\addbibresource{publications.bib}
+
+% --- Identity ----------------------------------------------------------------
+\name{Carlos Denner dos Santos Júnior}
+\pronouns{he/him}
+\headline{Associate Professor | AI Governance \& Data Science Researcher}
+\contact{Email: \href{mailto:carlosdenner@unb.br}{carlosdenner@unb.br} \textbullet{} LinkedIn: \href{https://www.linkedin.com/in/carlosdenner/}{carlosdenner} \textbullet{} ORCID: \href{https://orcid.org/0000-0002-4481-0115}{0000-0002-4481-0115}}
+\address{University of Brasília, Brasília, Brazil}
+
+\begin{document}
+\makecvtitle
+
+\cvsection{Research Interests}
+\cvtag{AI governance}
+\cvtag{MLOps}
+\cvtag{Data-intensive systems}
+\cvtag{Open-source ecosystems}
+\cvtag{Public-sector IT}
+\cvtag{Predictive analytics}
+
+\cvsection{Academic Appointments}
+\begin{cventries}
+  \cventry{2011--present}{Associate Professor}{University of Brasília (UnB)}{Brasília, Brazil}{
+    \item Research and teaching in Information Systems at the intersection of management, computer science, and statistics.
+    \item Focus: AI~governance, open-source software ecosystems, IT~governance, and data-intensive systems.
+  }
+  \cventry{2024--present}{Visiting Professor}{Université de Sherbrooke}{Sherbrooke, Canada}{
+    \item Collaborative research on data-driven systems and business intelligence.
+  }
+  \cventry{2024--present}{Data Science Consultant}{Bell Canada}{Montreal, Canada}{
+    \item Business intelligence and advanced analytics for telecommunications sector.
+  }
+  \cventry{2019--2021}{Postdoctoral Researcher}{Université du~Québec à~Montréal (UQAM), LATECE~Lab}{Montreal, Canada}{
+    \item CAPES-funded research on software ecosystems and collaborative development.
+  }
+\end{cventries}
+
+\cvsection{Education}
+\begin{cventries}
+  \cventry{2009}{Ph.D., Management Information Systems}{Southern Illinois University Carbondale}{Carbondale, USA}{
+    \item Dissertation: \emph{Open Source Software Projects' Attractiveness, Activeness, and Efficiency as a Path to Software Quality: An Empirical Evaluation of their Relationships and Causes}.
+    \item CAPES scholarship (2005--2009).
+  }
+  \cventry{2005}{M.Sc., Business Administration}{Universidade Federal de Minas Gerais (UFMG)}{Belo Horizonte, Brazil}{
+    \item Thesis: \emph{Análise da Substituição de um Software Proprietário por um Software Livre sob a Ótica do TCO (Custo Total de Propriedade)}.
+    \item CNPq scholarship (2003--2005).
+  }
+  \cventry{2019--2020}{Postdoctoral Fellowship}{Université du~Québec à~Montréal (UQAM)}{Montreal, Canada}{
+    \item CAPES-funded research on open-source software ecosystems and collaborative development.
+  }
+  \cventry{2019}{Postdoctoral Fellowship}{Universidade Federal de Pernambuco (UFPE)}{Recife, Brazil}{
+    \item Research on software engineering and empirical studies.
+  }
+\end{cventries}
+
+\cvsection{Profile}
+\begin{itemize}[leftmargin=*]
+  \item AI scientist and data engineer bridging research and delivery; work spans AI governance, MLOps, and data-intensive systems.
+  \item External footprint: LinkedIn and Google Scholar showcase a substantial publications record (update counts when submitting).
+\end{itemize}
+
+\cvsection{Grants \& Sponsored Projects}
+\begin{cventries}
+  \cventry{20XX--20XX}{[Project or Grant Title]}{[Sponsor/Agency]}{}{
+    \item Role: PI/Co-PI; Amount: [\$X].
+    \item Highlights: [1--2 lines on outcomes/impact].
+  }
+\end{cventries}
+
+\cvsection{Teaching}
+\begin{cventries}
+  \cventry{20XX--20XX}{[Graduate Course Title]}{University of Brasília}{}{
+    \item [Brief description].
+  }
+  \cventry{20XX--20XX}{[Undergraduate Course Title]}{University of Brasília}{}{
+    \item [Brief description].
+  }
+\end{cventries}
+
+\cvsection{Advising \& Mentorship}
+\begin{itemize}[leftmargin=*]
+  \item [Name], Ph.D., UnB, [Year] — [Dissertation Title]. (Advisor/Co-advisor)
+  \item [Name], M.Sc., UnB, [Year] — [Thesis Title].
+\end{itemize}
+
+\cvsection{Service to Institution \& Profession}
+\begin{itemize}[leftmargin=*]
+  \item [Committee/Role], [Unit], [Years].
+  \item [Editorial/Reviewing], [Journal/Conference], [Years].
+\end{itemize}
+
+\cvsection{Selected Talks \& Outreach}
+\begin{itemize}[leftmargin=*]
+  \item [Talk Title], [Venue], [City], [Year]. \url{https://link}
+\end{itemize}
+
+\cvsection{Industry \& Applied Work}
+\begin{itemize}[leftmargin=*]
+  \item [Client/Organization] — built predictive models and scalable data pipelines; results: [metric].
+\end{itemize}
+
+\cvsection{Open-source, Data \& Software}
+\begin{itemize}[leftmargin=*]
+  \item [Repository/Package], [Language/Stack] — [one-line description]. \url{https://github.com/...}
+\end{itemize}
+
+\cvsection{Publications}
+
+\nocite{*} % Include all entries from publications.bib
+
+\textbf{Summary:} 67 publications (2005--2025) | 610+ citations | H-index: 10 | Open access: 62.7\%
+
+\vspace{0.5em}
+
+\subsection*{\Large Journal Articles}
+\printbibliography[heading=none,type=article]
+
+\vspace{1em}
+
+\subsection*{\Large Book Chapters}
+\printbibliography[heading=none,type=incollection]
+
+\vspace{1em}
+
+\subsection*{\Large Datasets}
+\printbibliography[heading=none,type=misc,keyword=dataset]
+
+\vspace{1em}
+
+\subsection*{\Large Open Reviews}
+\printbibliography[heading=none,type=article,keyword=review]
+
+% Preprints section removed - all reclassified as published articles
+%\subsection*{Preprints \& Working Papers}
+%\printbibliography[heading=none,type=unpublished]
+
+\cvsection{Technical Skills}
+\begin{itemize}[leftmargin=*]
+  \item Data/ML: model development, evaluation, MLOps, pipelines.
+  \item Languages/Tools: Python, R, Git.
+  \item Methods: governance analysis, text mining/NLP, survey/field studies.
+\end{itemize}
+
+\cvsection{Languages}
+Portuguese (native); English (fluent); French (fluent).
+
+\cvsection{Professional Memberships}
+[Association], [Years]; [SIG/Working Group], [Years].
+
+\cvsection{Awards \& Honors}
+[Award], [Grantor], [Year].
+
+\end{document}

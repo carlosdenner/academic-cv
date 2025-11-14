@@ -1,0 +1,448 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Academic CV - Carlos Denner dos Santos
+% Based on Medium Length Professional CV Template
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[
+	11pt, % Font size
+]{resume} % Use the resume class
+
+\usepackage{ebgaramond} % Use the EB Garamond font
+\usepackage{hyperref} % For clickable links
+
+% Hyperref setup
+\hypersetup{
+    colorlinks=true,
+    linkcolor=black,
+    urlcolor=blue,
+    citecolor=black
+}
+
+% Bibliography setup
+\usepackage[
+    backend=biber,
+    style=numeric,
+    sorting=ydnt,
+    maxbibnames=99,
+    giveninits=true,
+    defernumbers=true,
+    refsection=section,
+]{biblatex}
+
+\addbibresource{publications.bib}
+
+% Custom bibliography formatting
+% Title formatting: bold and clickable if DOI exists
+\DeclareFieldFormat{title}{%
+  \iffieldundef{doi}
+    {\textbf{#1}}
+    {\href{https://doi.org/\thefield{doi}}{\textbf{#1}}}}
+\DeclareFieldFormat[article]{title}{%
+  \iffieldundef{doi}
+    {\textbf{#1}}
+    {\href{https://doi.org/\thefield{doi}}{\textbf{#1}}}}
+\DeclareFieldFormat[incollection]{title}{%
+  \iffieldundef{doi}
+    {\textbf{#1}}
+    {\href{https://doi.org/\thefield{doi}}{\textbf{#1}}}}
+\DeclareFieldFormat[misc]{title}{%
+  \iffieldundef{doi}
+    {\textbf{#1}}
+    {\href{https://doi.org/\thefield{doi}}{\textbf{#1}}}}
+
+\renewbibmacro{in:}{}
+\DeclareFieldFormat{journaltitle}{\textit{#1}}
+\DeclareFieldFormat[article]{volume}{\textbf{#1}}
+\setlength\bibitemsep{0.5\baselineskip}
+
+% Hide DOI/URL display (titles are clickable instead)
+\DeclareFieldFormat{doi}{}
+\DeclareFieldFormat{url}{}
+
+%------------------------------------------------
+
+\name{Carlos Denner dos Santos} % Your name
+
+\address{AI Scientist \\ Montreal, QC, Canada}
+
+\address{
+    \href{mailto:carlosdenner@gmail.com}{carlosdenner@gmail.com} \\
+    +1 (438) 836-4116
+}
+
+\address{
+    \href{https://www.linkedin.com/in/carlosdenner}{LinkedIn} $\diamond$ 
+    \href{https://www.researchgate.net/profile/Carlos-Santos-Jr}{ResearchGate} $\diamond$ 
+    \href{https://scholar.google.com/citations?user=YOUR_ID}{Google Scholar}
+}
+
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	RESEARCH INTERESTS
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Research Interests}
+	AI governance, open-source software ecosystems, IT governance, digital transformation, technology adoption, crowdfunding platforms.
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Education}
+	
+	\textbf{University of Nottingham, England} \hfill \textit{December 2010 - December 2011} \\ 
+	PostDoc in Computer Science \\
+	Supervisor: George Kuk
+	
+	\textbf{University of São Paulo, Brazil} \hfill \textit{August 2009 - July 2011} \\ 
+	PostDoc in Computer Science \\
+	Supervisor: Fabio Kon
+	
+	\textbf{Southern Illinois University, United States} \hfill \textit{August 2005 - July 2009} \\ 
+	PhD in Information Systems \\
+	Supervisor: John Pearson
+	
+	\textbf{Federal University of Minas Gerais, Brazil} \hfill \textit{February 2003 - February 2005} \\ 
+	MSc in Management
+	
+	\textbf{State University of Minas Gerais, Montes Claros} \hfill \textit{February 1999 - December 2002} \\ 
+	BSc in Business
+	
+	\textbf{Technical School of Montes Claros, Brazil} \hfill \textit{February 1997 - December 1999} \\ 
+	Technical Degree in Data Processing
+	
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	PROFESSIONAL EXPERIENCE
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Professional Experience (1999--2025)}
+
+	\textbf{AI Expert} \hfill \textit{July 2025 - Present} \\
+	\href{https://videns.ai}{Videns AI} \hfill Montreal, Canada
+	
+	\textbf{Data Scientist Consultant} \hfill \textit{November 2021 - January 2025} \\
+	Bell Canada \hfill Montreal, Canada
+	
+	\textbf{Research Associate} \hfill \textit{May 2021 - April 2023} \\
+	École de Technologie Supérieure \hfill Montreal, Canada
+	
+	\textbf{Co-Investigator} \hfill \textit{February 2020 - Present} \\
+	\href{https://jooay.com/}{Jooay App}, McGill University \hfill Montreal, Canada
+	
+	\textbf{Assistant Researcher} \hfill \textit{November 2019 - February 2020} \\
+	CHU Sainte-Justine Research Center \hfill Montreal, Canada
+	
+	\textbf{Research Associate} \hfill \textit{June 2019 - May 2021} \\
+	Université du Québec à Montréal (UQAM) \hfill Montreal, Canada
+	
+	\textbf{Board Member} \hfill \textit{June 2017 - December 2018} \\
+	FINATEC (Foundation for Technological Projects) \hfill Brasília, Brazil
+	
+	\textbf{Consultant} \hfill \textit{November 2016 - February 2017} \\
+	Tribunal de Contas da União (Federal Court of Accounts) \hfill Brasília, Brazil
+	
+	\textbf{Adjunct Director} \hfill \textit{June 2016 - December 2020} \\
+	PhD Program in Management, University of Brasília \hfill Brasília, Brazil
+	
+	\textbf{Associate Director} \hfill \textit{January 2016 - December 2017} \\
+	Center for Technology Development (CDT), University of Brasília \hfill Brasília, Brazil
+	
+	\textbf{Consultant (Open Source Software Governance)} \hfill \textit{February 2014 - June 2016} \\
+	Ministry of Planning, Government of Brazil \hfill Brazil
+	
+	\textbf{Consultant} \hfill \textit{November 2013 - February 2014} \\
+	Ministry of Planning, Government of Brazil \hfill Brazil
+	
+	\textbf{Founder \& Manager} \hfill \textit{January 2013 - December 2023} \\
+	Socie-Dados Research Lab, University of Brasília \hfill Brasília, Brazil
+	
+	\textbf{Associate Professor} \hfill \textit{December 2011 - December 2023} \\
+	University of Brasília \hfill Brasília, Brazil
+	
+	\textbf{Postdoctoral Researcher} \hfill \textit{December 2010 - December 2011} \\
+	University of Nottingham \hfill Nottingham, UK
+	
+	\textbf{Collaborating Professor} \hfill \textit{August 2010 - January 2011} \\
+	University of São Paulo \hfill São Paulo, Brazil
+	
+	\textbf{Postdoctoral Researcher} \hfill \textit{August 2009 - August 2011} \\
+	University of São Paulo \hfill São Paulo, Brazil
+	
+	\textbf{Project Advisor (SoftwarePublico.gov.br)} \hfill \textit{July 2009 - December 2010} \\
+	CTI Renato Archer \hfill Campinas, Brazil
+	
+	\textbf{Graduate Instructor} \hfill \textit{January 2008 - May 2008} \\
+	Southern Illinois University Carbondale \hfill Carbondale, IL, USA
+	
+	\textbf{Instructor (Professional Training)} \hfill \textit{June 2005} \\
+	FAPEMIG, Minas Gerais Research Foundation \hfill Brazil
+	
+	\textbf{Part-Time Lecturer} \hfill \textit{August 2004 - July 2005} \\
+	Universidade FUMEC \hfill Belo Horizonte, Brazil
+	
+	\textbf{Consultant (IT)} \hfill \textit{May 2004 - December 2004} \\
+	Bioquímica e Química do Brasil Ltda. \hfill Belo Horizonte, Brazil
+	
+	\textbf{Substitute Professor} \hfill \textit{March 2004 - August 2005} \\
+	Federal University of Minas Gerais \hfill Belo Horizonte, Brazil
+	
+	\textbf{Computer Programmer} \hfill \textit{August 2002 - February 2003} \\
+	Universidade Estadual de Montes Claros \hfill Montes Claros, Brazil
+	
+	\textbf{Professor} \hfill \textit{August 2001 - February 2003} \\
+	Fundação Educacional Montes Claros \hfill Montes Claros, Brazil
+	
+	\textbf{Network Administrator / Computer Programmer} \hfill \textit{March 1999 - January 2003} \\
+	Unimed Montes Claros \hfill Montes Claros, Brazil
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	ACADEMIC SUPERVISIONS
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Academic Supervisions}
+
+	\subsection*{Postdoctoral Supervisions}
+	
+	\textbf{Pedro Jacome de Moura Junior} \hfill \textit{2023} \\
+	Universidade de Brasília
+	
+	\textbf{Almir Oliveira Junior} \hfill \textit{2018} \\
+	Instituto de Pesquisa Econômica Aplicada (IPEA), Universidade de Brasília
+	
+	\textbf{Fabio Buiati} \hfill \textit{2017} \\
+	Centro de Apoio ao Desenvolvimento Tecnológico, Universidade de Brasília
+	
+	\subsection*{PhD Supervisions}
+	
+	\textbf{Anna Carolina Ribeiro} \hfill \textit{2022} \\
+	Risk management in public administration $\cdot$ Universidade de Brasília
+	
+	\textbf{Claudia Tolentino Santos} \hfill \textit{2021} \\
+	Pension governance and financial performance $\cdot$ Universidade de Brasília
+	
+	\textbf{Pablo Péron} \hfill \textit{2021} \\
+	Organizational survival post-incubation (AI-driven analysis) $\cdot$ Universidade de Brasília
+	
+	\textbf{Gustavo Alves} \hfill \textit{2021} \\
+	IT governance in the public sector $\cdot$ Universidade de Brasília
+	
+	\textbf{Patrícia Almeida} \hfill \textit{2019--2024} \\
+	AI governance and digital government $\cdot$ Universidade de Brasília
+	
+	\textbf{Deise Goulart} \hfill \textit{2021--Present} \\
+	NGO and public sector efficiency $\cdot$ Universidade de Brasília
+	
+	\textbf{Isabela Ferraz} \hfill \textit{2019} \\
+	Virtual community governance $\cdot$ Universidade de Brasília
+	
+	\textbf{Silvia Satiko Onoyama} \hfill \textit{2018} \\
+	Mechanisms for effective IT governance $\cdot$ Universidade de Brasília
+	
+	\textbf{Paulo Meirelles} (co-supervisor) \hfill \textit{2013} \\
+	Open-source software metrics monitoring $\cdot$ Universidade de São Paulo
+	
+	\subsection*{MSc Supervisions}
+	
+	\textbf{Leonel Cerqueira Santos} \hfill \textit{2016} \\
+	Non-operational mechanisms in IT governance effectiveness $\cdot$ Universidade de Brasília
+	
+	\textbf{Daniel Shim de Sousa Esashika} \hfill \textit{2016} \\
+	Influence of sponsors on open-source community structures $\cdot$ Universidade de Brasília
+	
+	\textbf{Isadora Vergara} \hfill \textit{2015} \\
+	Adaptive management vs. environmental determinism in blogs $\cdot$ Universidade de Brasília
+	
+	\textbf{Leonardo Oliveira} \hfill \textit{2015} \\
+	Consequences of innovation adoption $\cdot$ Universidade de Brasília
+	
+	\textbf{Juliana Miranda} \hfill \textit{2015} \\
+	Environmental and organizational variables in startup performance $\cdot$ Universidade de Brasília
+	
+	\textbf{Luiz Fernando Silva Pinto} \hfill \textit{2015} \\
+	Factors influencing effort and contributions on Wikipedia $\cdot$ Universidade de Brasília
+	
+	\subsection*{Selected Undergraduate Research Supervisions}
+	
+	2020--2021: Thiago Lopes, Sara Andrade, Rayssa Lorrane, Rafael Azevedo Lima, Eduardo Martins, Edilson Niehues Rodrigues Lima \\
+	2018--2019: Valesca Scarlat C. da Fonseca, Raissa Paiva Pires, Vitor Gabriel G. da Silva, Saulo Barros de Melo, Ateldy Brasil Filho \\
+	2012--2014: Leonardo Alves dos Santos, André S. R. de Souza Marques, Wilton da Silva Rodrigues, Thiago F. Figueiredo, Lucas B. Cusinato Rodrigues \\
+	2009--2010: Rafael S. Suguiura (USP), Marcos Bonci (USP)
+	
+	\subsection*{Selected Specialization/MBA \& Undergraduate Final Projects}
+	
+	2021: Luiz Felipe Pimenta de Araujo (Serious games in teaching business strategy) \\
+	2014--2016: 15+ supervisions in business strategy and management topics
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	PUBLICATIONS
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Publications}
+
+\nocite{*} % Include all entries from publications.bib
+
+\subsection*{Journal Articles}
+\begin{refsection}
+\nocite{*}
+\printbibliography[heading=none, type=article, notkeyword=review, notkeyword=dataset]
+\end{refsection}
+
+\subsection*{Conference Papers}
+\begin{refsection}
+\nocite{*}
+\printbibliography[heading=none, type=inproceedings]
+\end{refsection}
+
+\subsection*{Book Chapters}
+\begin{refsection}
+\nocite{*}
+\printbibliography[heading=none, type=incollection]
+\end{refsection}
+
+\subsection*{Datasets}
+\begin{refsection}
+\nocite{*}
+\printbibliography[heading=none, type=misc, keyword=dataset]
+\end{refsection}
+
+\subsection*{Open Peer Reviews}
+\begin{refsection}
+\nocite{*}
+\printbibliography[heading=none, type=article, keyword=review]
+\end{refsection}
+
+\subsection*{Under Review / In Preparation}
+
+\textbf{Denner, C. D.} (et al.). Building an LLM Firewall: A Multi-Phase Defense Against Prompt Injection -- From Patent Landscape to Deployable Input-Side Guardrails. \textit{Communications of the ACM} -- Under review.
+
+\textbf{Denner, C. D.} (et al.). Evaluating and Mitigating Hallucinations in Retrieval-Augmented Generation (RAG): An Experimental Framework. Manuscript in preparation.
+
+\textbf{Denner, C. D.} (et al.). The AI Recommendation System of Jooay.com: Enhancing Digital Inclusion for Children and Youth with Disabilities. Manuscript in preparation.
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	RESEARCH GRANTS
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Research Grants}
+
+	\textbf{FAP-DF Demanda Espontânea} \hfill \textit{2016--2021} \\
+	Principal Investigator \\
+	Research Support Foundation of Distrito Federal \\
+	Amount: \texttildelow 70,000 BRL
+	
+	\textbf{CAPES Pesquisador Júnior} \hfill \textit{2018} \\
+	Principal Investigator \\
+	Young Investigator Grant, Coord. for Improvement of Higher Education Personnel \\
+	Amount: \texttildelow 100,000 BRL
+	
+	\textbf{CNPq Edital Universal} \hfill \textit{2013--2015} \\
+	Principal Investigator \\
+	Universal Research Grant, National Council for Scientific and Technological Development \\
+	Amount: \texttildelow 10,000 BRL
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	AWARDS & HONORS
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Awards \& Honors}
+
+	\textbf{Horizon Institute Postdoctoral Fellowship} \hfill \textit{2011--2012} \\
+	Horizon Digital Economy Research Institute, UK $\cdot$ University of Nottingham
+	
+	\textbf{FAPESP Postdoctoral Fellowship} \hfill \textit{2009--2010} \\
+	São Paulo Research Foundation, Brazil $\cdot$ University of São Paulo
+	
+	\textbf{Pontikes Research Center Fellowship} \hfill \textit{2007} \\
+	Southern Illinois University $\cdot$ Open-source community partnership study
+	
+	\textbf{John M. Fohr Memorial Scholarship} \hfill \textit{2007} \\
+	Southern Illinois University Foundation $\cdot$ Excellence in Management studies
+	
+	\textbf{Fulbright/CAPES PhD Fellowship} \hfill \textit{2005--2009} \\
+	Fulbright Commission \& CAPES, Brazil $\cdot$ Full fellowship for PhD studies in the USA
+	
+	\textbf{CNPq MSc Fellowship} \hfill \textit{2003--2005} \\
+	CNPq, Brazil $\cdot$ Graduate scholarship for M.Sc. studies in Management
+	
+	\textbf{Honorable Mentions} \hfill \textit{2013, 2015} \\
+	Two research papers received honorable mention at EnANPAD (Brazilian national conference)
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	PROFESSIONAL SERVICE
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Professional Service}
+
+	\textbf{Editorial Board Member} \hfill \textit{2015--2025} \\
+	Journal of Global Information Technology Management
+	
+	\textbf{Ad-hoc Reviewer (Funding Agencies)} \hfill \textit{2015--Present} \\
+	Research grant proposals for CAPES (2015) and FAP-DF (2015--Present)
+	
+	\textbf{Board Member} \hfill \textit{2017--2018} \\
+	Foundation for Technological Projects (FINATEC), Brasília $\cdot$ University-industry partnerships
+	
+	\textbf{Consultant (Data Analytics)} \hfill \textit{2016--2017} \\
+	Tribunal de Contas da União (Federal Audit Court), Brazil $\cdot$ Education data analysis
+	
+	\textbf{Consultant (Open Source Governance)} \hfill \textit{2014--2016} \\
+	Ministério do Planejamento -- softwarepublico.gov.br $\cdot$ Platform governance and licensing
+	
+	\textbf{Consultant (IT Management)} \hfill \textit{2013--2014} \\
+	Ministério do Planejamento, Brazil $\cdot$ IT workforce estimation and decision support
+	
+	\textbf{PhD Defense Committee Member} \hfill \textit{2013--2023} \\
+	Multiple dissertation committees at Universidade de Brasília and other institutions
+	
+	\textbf{Academic Hiring Committee Member} \hfill \textit{Various years} \\
+	University faculty hiring panels and graduate scholarship selection committees
+	
+	\textbf{Peer Reviewer (14 reviews, 2021--2025)} \\
+	$\cdot$ Future Business Journal (2025) \\
+	$\cdot$ Heliyon -- Cell Press (2024) \\
+	$\cdot$ Public Management Review (2023, 2 reviews) \\
+	$\cdot$ Journal of Global Information Technology Management (2022, 2023, 3 reviews) \\
+	$\cdot$ Journal of Open Innovation: Technology, Market, and Complexity (2023) \\
+	$\cdot$ Journal of Forensic Psychology Research and Practice (2023) \\
+	$\cdot$ IEEE Access (2022, 2 reviews) \\
+	$\cdot$ ACM Transactions on Software Engineering and Methodology (TOSEM) (2022) \\
+	$\cdot$ Revista de Administração Contemporânea (2022)
+	
+	\textbf{Conference Reviewer} \\
+	AMCIS, ECIS, ICIS, AoM, ANPAD (EnANPAD), and other information systems and management conferences
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	MEMBERSHIPS
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Professional Memberships}
+
+	\textbf{Association for Information Systems (AIS)} \hfill \textit{2015 - Present}
+	
+	\textbf{Brazilian Academy of Management (ANPAD)} \hfill \textit{2010 - Present}
+	
+	\textbf{Academy of Management (AOM)} \hfill \textit{2016 - Present}
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+
+\end{document}

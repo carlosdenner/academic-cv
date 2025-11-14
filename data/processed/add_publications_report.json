@@ -1,0 +1,260 @@
+{
+  "generated_at": "2025-11-12T12:41:45.655551",
+  "total_processed": 50,
+  "successful": 36,
+  "failed": 14,
+  "entries": [
+    {
+      "index": 1,
+      "entry": "@incollection{barbalho2019capí,\n  author = {Barbalho, SCM and Ghesti, GF and Carvalho, SMS and Santos, CD dos and AR Martin, ...},\n  title = {Cap{\\'i}tulo 2 A Gest{\\~a}o da Inova{\\c c}{\\~a}o na Universidade de Bras{\\'i}lia},\n  year = {2019},\n  booktitle = {BOAS PR{\\'A}TICAS DE GEST{\\~A}O EM N{\\'U}CLEOS DE INOVA{\\c C}{\\~A}O TECNOL{\\'O}GICA: Experi{\\^e}ncias …},\n}",
+      "title": "Capítulo 2 A Gestão da Inovação na Universidade de Brasília"
+    },
+    {
+      "index": 2,
+      "entry": "@article{franco2013adoç,\n  author = {Franco, Luisa and Denner, Carlos},\n  title = {Ado{\\c c}{\\~a}o de Pr{\\'a}ticas de Gest{\\~a}o de Seguran{\\c c}a da Informa{\\c c}{\\~a}o na Administra{\\c c}{\\~a}o P{\\'u}blica Federal (Adoption of Information Security Management Practices in the Federal Public …},\n  year = {2013},\n  journal = {SSRN Electronic Journal},\n  doi = {10.2139/ssrn.3641818},\n}",
+      "title": "Adoção de Práticas de Gestão de Segurança da Informação na Administração Pública Federal (Adoption of Information Security Management Practices in the Federal Public …"
+    },
+    {
+      "index": 3,
+      "entry": "@inproceedings{jr2011inex,\n  author = {Jr, CD Santos and Kuk, G and Kon, F and Suguiura, R},\n  title = {The Inextricable Role of Organizational Sponsorship for Open Source Sustainability},\n  year = {2011},\n  booktitle = {Proceedings of SOS},\n}",
+      "title": "The Inextricable Role of Organizational Sponsorship for Open Source Sustainability"
+    },
+    {
+      "index": 5,
+      "entry": "@article{jr2009open,\n  author = {Jr, C Santos},\n  title = {Open source software projects' attractiveness, activeness, and efficiency as a path to software quality: an empirical evaluation of their relationships and causes},\n  year = {2009},\n  journal = {Southern Illinois University at Carbondale},\n}",
+      "title": "Open source software projects' attractiveness, activeness, and efficiency as a path to software quality: an empirical evaluation of their relationships and causes"
+    },
+    {
+      "index": 11,
+      "entry": "@article{jr2009open,\n  author = {Jr, C Santos},\n  title = {Open source software projects' attractiveness, activeness, and efficiency as a path to software quality: an empirical evaluation of their relationships and causes},\n  year = {2009},\n  journal = {Southern Illinois University at Carbondale},\n}",
+      "title": "Open source software projects' attractiveness, activeness, and efficiency as a path to software quality: an empirical evaluation of their relationships and causes"
+    },
+    {
+      "index": 12,
+      "entry": "@article{chavez2011free,\n  author = {Chavez, C and Terceiro, A and Meirelles, P and Jr, C Santos and Kon, F},\n  title = {Free/libre/open source software development in software engineering education: Opportunities and experiences},\n  year = {2011},\n  journal = {F{\\'o}rum de Educa{\\c c}ao em Engenharia de Software (CBSoft’11-SBES-FEES)},\n}",
+      "title": "Free/libre/open source software development in software engineering education: Opportunities and experiences"
+    },
+    {
+      "index": 27,
+      "entry": "@inproceedings{jr2011inex,\n  author = {Jr, CD Santos and Kuk, G and Kon, F and Suguiura, R},\n  title = {The Inextricable Role of Organizational Sponsorship for Open Source Sustainability},\n  year = {2011},\n  booktitle = {Proceedings of SOS},\n}",
+      "title": "The Inextricable Role of Organizational Sponsorship for Open Source Sustainability"
+    },
+    {
+      "index": 31,
+      "entry": "@incollection{barbalho2019capí,\n  author = {Barbalho, SCM and Ghesti, GF and Carvalho, SMS and Santos, CD dos and AR Martin, ...},\n  title = {Cap{\\'i}tulo 2 A Gest{\\~a}o da Inova{\\c c}{\\~a}o na Universidade de Bras{\\'i}lia},\n  year = {2019},\n  booktitle = {BOAS PR{\\'A}TICAS DE GEST{\\~A}O EM N{\\'U}CLEOS DE INOVA{\\c C}{\\~A}O TECNOL{\\'O}GICA: Experi{\\^e}ncias …},\n}",
+      "title": "Capítulo 2 A Gestão da Inovação na Universidade de Brasília"
+    },
+    {
+      "index": 32,
+      "entry": "@article{santos2017estu,\n  author = {Santos, L and Santos, C Dos},\n  title = {Un estudio acerca de la influencia de los mecanismos no operacionales en la efectividad de lagobernanza de tecnolog{\\'i}a de la informaci{\\'o}n p{\\'u}blica},\n  year = {2017},\n  journal = {Sao Paulo: Scielo. Obtenido de http://www. scielo. br/scielo. php},\n}",
+      "title": "Un estudio acerca de la influencia de los mecanismos no operacionales en la efectividad de lagobernanza de tecnología de la información pública"
+    },
+    {
+      "index": 33,
+      "entry": "@article{gelenske2015rela,\n  author = {Gelenske, TL and Farias, JS and Junior, CD Dos Santos},\n  title = {A Rela{\\c c}{\\~a}o entre o risco percebido e a confian{\\c c}a na marca do banco na {\\'o}tica de usu{\\'a}rios de mobile banking},\n  year = {2015},\n  journal = {Semin{\\'a}rios de Administra{\\c c}{\\~a}o 27, 1-17},\n}",
+      "title": "A Relação entre o risco percebido e a confiança na marca do banco na ótica de usuários de mobile banking"
+    },
+    {
+      "index": 37,
+      "entry": "@inproceedings{melo2010estu,\n  author = {Melo, CO and Jr, CDS and Ferreira, GRM and Kon, F},\n  title = {Um estudo explorat{\\'o}rio dos fatores associados ao est{\\'i}mulo do aprendizado em times {\\'a}geis na ind{\\'u}stria},\n  year = {2010},\n  booktitle = {Experimental Software Engineering Latin American Workshop 7, 80-98},\n}",
+      "title": "Um estudo exploratório dos fatores associados ao estímulo do aprendizado em times ágeis na indústria"
+    },
+    {
+      "index": 38,
+      "entry": "@article{jr2008reso,\n  author = {Jr, C Santos and Gonçalves, M},\n  title = {A resource-based explanation for the Apache consistent dominance in the web-server industry},\n  year = {2008},\n  journal = {Associa{\\c c}{\\~a}o Nacional dos Programas de P{\\'o}s-Gradua{\\c c}{\\~a}o em Administra{\\c c}{\\~a}o (ANPAD)},\n}",
+      "title": "A resource-based explanation for the Apache consistent dominance in the web-server industry"
+    },
+    {
+      "index": 39,
+      "entry": "@inproceedings{amâncio2004aval,\n  author = {AMÂNCIO, JA and JÚNIOR, CDD SANTOS and GONÇALVES, MA},\n  title = {Avalia{\\c c}{\\~a}o de sistemas de informa{\\c c}{\\~o}es},\n  year = {2004},\n  booktitle = {CONGRESSO ANUAL DE TECNOLOGIA DA INFORMA{\\c C}{\\~A}O. Anais CATI, 1-14},\n}",
+      "title": "Avaliação de sistemas de informações"
+    },
+    {
+      "index": 43,
+      "entry": "@article{meirelles2011semi,\n  author = {Meirelles, P and Kon, F and Jr, C Santos},\n  title = {Semi-Automatic Evaluation of Free Software Projects: A Source Code Perspective},\n  year = {2011},\n  journal = {Salvador, Brazil, 42},\n}",
+      "title": "Semi-Automatic Evaluation of Free Software Projects: A Source Code Perspective"
+    },
+    {
+      "index": 46,
+      "entry": "@article{santos2017estu,\n  author = {Santos, LC and Jr, CD Santos},\n  title = {Um estudo sobre o impacto dos mecanismos n{\\~a}o operacionais na efetividade da governan{\\c c}a detecnologia da informa{\\c c}{\\~a}o p{\\'u}blica},\n  year = {2017},\n  journal = {Revista de Administra{\\c c}{\\~a}o (S{\\~a}o Paulo) 52 (3), 256-267},\n}",
+      "title": "Um estudo sobre o impacto dos mecanismos não operacionais na efetividade da governança detecnologia da informação pública"
+    },
+    {
+      "index": 51,
+      "entry": "@article{mori2025efei,\n  author = {Mori, SSO and Santos, CD and Ferraz, IN},\n  title = {Efeitos dos mecanismos de governan{\\c c}a na capacidade absortiva de projetos de colabora{\\c c}{\\~a}o internacional: um estudo de caso na organiza{\\c c}{\\~a}o Embrapa},\n  year = {2025},\n  journal = {Revista Brasileira de Inova{\\c c}{\\~a}o 24, e},\n}",
+      "title": "Efeitos dos mecanismos de governança na capacidade absortiva de projetos de colaboração internacional: um estudo de caso na organização Embrapa"
+    },
+    {
+      "index": 53,
+      "entry": "@article{mori2025effe,\n  author = {Mori, SSO and Santos, CD and Ferraz, IN},\n  title = {Effects of governance mechanisms on the absorptive capacity of international collaboration projects: a case study in the company Embrapa},\n  year = {2025},\n  journal = {Revista Brasileira de Inova{\\c c}{\\~a}o 24, e},\n}",
+      "title": "Effects of governance mechanisms on the absorptive capacity of international collaboration projects: a case study in the company Embrapa"
+    },
+    {
+      "index": 55,
+      "entry": "@article{ferraz2020tran,\n  author = {Ferraz, IN and Santos, CD},\n  title = {Transforma{\\c c}{\\~a}o de projetos de desenvolvimento de software livre: Uma governan{\\c c}a entre a catedral e o bazar},\n  year = {2020},\n  journal = {Revista de Administra{\\c c}{\\~a}o de Empresas 62, e},\n}",
+      "title": "Transformação de projetos de desenvolvimento de software livre: Uma governança entre a catedral e o bazar"
+    },
+    {
+      "index": 56,
+      "entry": "@article{bazar2020tran,\n  author = {BAZAR, CEO},\n  title = {TRANSFORMA{\\c C}{\\~A}O DE PROJETOS DE DESENVOLVIMENTO DE SOFTWARE LIVRE: UMA GOVERNAN{\\c C}A ENTRE A},\n  year = {2020},\n  journal = {Revista de Administra{\\c c}{\\~a}o de Empresas 62 (1), e},\n}",
+      "title": "TRANSFORMAÇÃO DE PROJETOS DE DESENVOLVIMENTO DE SOFTWARE LIVRE: UMA GOVERNANÇA ENTRE A"
+    },
+    {
+      "index": 58,
+      "entry": "@article{oliveira2019cons,\n  author = {Oliveira, LF and Santos, CD},\n  title = {CONSECUENCIAS PREVISTAS Y NO PREVISTAS DE LA ADOPCI{\\'O}N DE INNOVACI{\\'O}N: ADOPCI{\\'O}N DE DATOS ABIERTOS POR PARTE DEL GOBIERNO DE DISTRITO FEDERAL DE BRASIL},\n  year = {2019},\n  journal = {REAd. Revista Eletr{\\^o}nica de Administra{\\c c}{\\~a}o (Porto Alegre) 25, 1-25},\n}",
+      "title": "CONSECUENCIAS PREVISTAS Y NO PREVISTAS DE LA ADOPCIÓN DE INNOVACIÓN: ADOPCIÓN DE DATOS ABIERTOS POR PARTE DEL GOBIERNO DE DISTRITO FEDERAL DE BRASIL"
+    },
+    {
+      "index": 59,
+      "entry": "@article{oliveira2019cons,\n  author = {Oliveira, LF and Santos, CD},\n  title = {CONSEQU{\\^E}NCIAS PRETENDIDAS E N{\\~A}O PRETENDIDAS DA ADO{\\c C}{\\~A}O DE INOVA{\\c C}{\\~O}ES: A ADO{\\c C}{\\~A}O DE DADOS ABERTOS PELO GOVERNO DO DISTRITO FEDERAL DO BRASIL},\n  year = {2019},\n  journal = {REAd. Revista Eletr{\\^o}nica de Administra{\\c c}{\\~a}o (Porto Alegre) 25, 1-25},\n}",
+      "title": "CONSEQUÊNCIAS PRETENDIDAS E NÃO PRETENDIDAS DA ADOÇÃO DE INOVAÇÕES: A ADOÇÃO DE DADOS ABERTOS PELO GOVERNO DO DISTRITO FEDERAL DO BRASIL"
+    },
+    {
+      "index": 60,
+      "entry": "@article{santos2018whos,\n  author = {Santos, CD dos},\n  title = {Whose Stake in Open Source Software Projects.},\n  year = {2018},\n  journal = {AMCIS},\n}",
+      "title": "Whose Stake in Open Source Software Projects."
+    },
+    {
+      "index": 63,
+      "entry": "@article{oliviera2017sant,\n  author = {OLIVIERA, LO},\n  title = {SANTOS J{\\'U}NIOR, Carlos Denner},\n  year = {2017},\n  journal = {Inova{\\c c}{\\~o}es no setor p{\\'u}blico: uma abordagem te{\\'o}rica sobre os impactos de sua …},\n}",
+      "title": "SANTOS JÚNIOR, Carlos Denner"
+    },
+    {
+      "index": 64,
+      "entry": "@article{henrique2017cons,\n  author = {Henrique, BM and Júnior, CD dos Santos},\n  title = {As consequ{\\^e}ncias organizacionais das escolhas estrat{\\'e}gicas das coaliz{\\~o}es dominantes},\n  year = {2017},\n  journal = {Di{\\'a}logos Interdisciplinares 6 (1), 86-101},\n}",
+      "title": "As consequências organizacionais das escolhas estratégicas das coalizões dominantes"
+    },
+    {
+      "index": 70,
+      "entry": "@article{hayton2014glob,\n  author = {Williams, Nick},\n  title = {Global entrepreneurship: case studies of entrepreneurial firms operating around the world},\n  year = {2014},\n  journal = {International Journal of Entrepreneurial Behaviour \\& Research},\n  volume = {21},\n  number = {4},\n  pages = {642--643},\n  doi = {10.1108/ijebr-02-2015-0056},\n}",
+      "title": "Global entrepreneurship: case studies of entrepreneurial firms operating around the world"
+    },
+    {
+      "index": 71,
+      "entry": "@article{santos2014busi,\n  author = {Santos, NMBF and Sousa, CE de and Santos, CD dos and Santos, RF},\n  title = {Business Incubation and the Pipeway Business Case in Brazil},\n  year = {2014},\n  journal = {Global Entrepreneurship, 1-10},\n}",
+      "title": "Business Incubation and the Pipeway Business Case in Brazil"
+    },
+    {
+      "index": 72,
+      "entry": "@article{jr2014edit,\n  author = {Jr, CD dos Santos},\n  title = {EDITOR’s SPACE Special issue: Free Software},\n  year = {2014},\n  journal = {Revista Eletr{\\^o}nica de Sistemas de Informa{\\c c}{\\~a}o 13 (2)},\n}",
+      "title": "EDITOR’s SPACE Special issue: Free Software"
+    },
+    {
+      "index": 73,
+      "entry": "@article{jr2014ediç,\n  author = {Jr, CD dos Santos},\n  title = {Edi{\\c c}{\\~a}o tem{\\'a}tica: Software Livre/EDITOR's SPACE: Special issue: Free Software},\n  year = {2014},\n  journal = {Revista Electronica de Sistemas de Informa{\\c c}ao 13 (2), 1},\n}",
+      "title": "Edição temática: Software Livre/EDITOR's SPACE: Special issue: Free Software"
+    },
+    {
+      "index": 74,
+      "entry": "@article{castro2014rede,\n  author = {Castro, IV and Farias, JS and Júnior, C},\n  title = {Redes Sociais Virtuais-Uma investiga{\\c c}{\\~a}o de abordagens metodol{\\'o}gicas de pesquisa},\n  year = {2014},\n  journal = {CIAIQ},\n}",
+      "title": "Redes Sociais Virtuais-Uma investigação de abordagens metodológicas de pesquisa"
+    },
+    {
+      "index": 75,
+      "entry": "@article{heindrickson2014gove,\n  author = {Heindrickson, G and Jr, CD Santos},\n  title = {Governan{\\c c}a de ti em organiza{\\c c}{\\~o}es p{\\'u}blicas: como a efetividade percebida se relaciona com tr{\\^e}s mecanismos cl{\\'a}ssicos},\n  year = {2014},\n  journal = {JISTEM-Journal of Information Systems and Technology Management 11 (2), 297-326},\n}",
+      "title": "Governança de ti em organizações públicas: como a efetividade percebida se relaciona com três mecanismos clássicos"
+    },
+    {
+      "index": 78,
+      "entry": "@article{franco2013adoç,\n  author = {Franco, Luisa and Denner, Carlos},\n  title = {Ado{\\c c}{\\~a}o de Pr{\\'a}ticas de Gest{\\~a}o de Seguran{\\c c}a da Informa{\\c c}{\\~a}o na Administra{\\c c}{\\~a}o P{\\'u}blica Federal (Adoption of Information Security Management Practices in the Federal Public …},\n  year = {2013},\n  journal = {SSRN Electronic Journal},\n  doi = {10.2139/ssrn.3641818},\n}",
+      "title": "Adoção de Práticas de Gestão de Segurança da Informação na Administração Pública Federal (Adoption of Information Security Management Practices in the Federal Public …"
+    },
+    {
+      "index": 87,
+      "entry": "@article{nelson2007attr,\n  author = {Nelson, K and Santos, C},\n  title = {Attractiveness of Open Source Projects: A Path to Software Quality},\n  year = {2007},\n  journal = {AMCIS},\n}",
+      "title": "Attractiveness of Open Source Projects: A Path to Software Quality"
+    },
+    {
+      "index": 118,
+      "entry": "@article{open2025open,\n  title = {OPEN DATA 2.0: COLLABORATION IN ONLINE DATABASE PLATFORMS},\n  year = {2025},\n}",
+      "title": "OPEN DATA 2.0: COLLABORATION IN ONLINE DATABASE PLATFORMS"
+    },
+    {
+      "index": 121,
+      "entry": "@article{estudo2025estu,\n  title = {Estudos de Aston e a Teoria Formal da Diferencia{\\c c}{\\~a}o Estrutural Revisitados: Os Resultados Ainda se Aplicam?},\n  year = {2025},\n}",
+      "title": "Estudos de Aston e a Teoria Formal da Diferenciação Estrutural Revisitados: Os Resultados Ainda se Aplicam?"
+    },
+    {
+      "index": 122,
+      "entry": "@article{adoção2013adoç,\n  author = {Franco, Luisa and Denner, Carlos},\n  title = {Ado{\\c c}{\\~a}o de Pr{\\'a}ticas de Gest{\\~a}o de Seguran{\\c c}a da Informa{\\c c}{\\~a}o na Administra{\\c c}{\\~a}o P{\\'u}blica Federal (Adoption of Information Security Management Practices in the Federal Public Administration)},\n  year = {2013},\n  journal = {SSRN Electronic Journal},\n  doi = {10.2139/ssrn.3641818},\n}",
+      "title": "Adoção de Práticas de Gestão de Segurança da Informação na Administração Pública Federal (Adoption of Information Security Management Practices in the Federal Public Administration)"
+    },
+    {
+      "index": 123,
+      "entry": "@article{the2025inex,\n  title = {The Inextricable Role of Organizational Sponsorship for Open Source Sustainability},\n  year = {2025},\n}",
+      "title": "The Inextricable Role of Organizational Sponsorship for Open Source Sustainability"
+    }
+  ],
+  "failed_items": [
+    {
+      "index": 4,
+      "title": "Using Free/Libre/Open Source for Software Engineering Education",
+      "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+      "index": 6,
+      "title": "Inovação no setor público: teoria, tendências e casos no Brasil",
+      "error": "'NoneType' object has no attribute 'replace'"
+    },
+    {
+      "index": 40,
+      "title": "The role of firm-specific knowledge and technology on artificial intelligence breakthroughs: Oligopolistic evidence from global R&D expenditure",
+      "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+      "index": 47,
+      "title": "A influência dos patrocinadores nas estruturas organizacionais de comunidades de software livre",
+      "error": "'NoneType' object has no attribute 'get'"
+    },
+    {
+      "index": 57,
+      "title": "Governança de comunidades virtuais: entendendo a transformação da estrutura e dos processos de controle em projetos de software livre",
+      "error": "'NoneType' object has no attribute 'replace'"
+    },
+    {
+      "index": 61,
+      "title": "Stakeholders of Free Software Projects: What is missing in the literature?",
+      "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+      "index": 62,
+      "title": "Governance of collaborative projects organized as communities",
+      "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+      "index": 67,
+      "title": "O IMPACTO DOS MECANISMOS NÃO OPERACIONAIS NA GOVERNANÇA TECNOLÓGICA PÚBLICA",
+      "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+      "index": 103,
+      "title": "Using Free/Libre/Open Source for Software Engineering Education",
+      "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+      "index": 105,
+      "title": "Governança de projetos colaborativos organizados em comunidades",
+      "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+      "index": 113,
+      "title": "Innovation & Management Review",
+      "error": "'NoneType' object has no attribute 'replace'"
+    },
+    {
+      "index": 114,
+      "title": "Fatores Individuais Influenciadores do Esforço e das Contribuiçoes na Wikipédia",
+      "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+      "index": 115,
+      "title": "O Ambiente Organizacional e Os Fatores Inovadores: Influências na Adoção de Mídias Sociais",
+      "error": "'NoneType' object has no attribute 'lower'"
+    },
+    {
+      "index": 116,
+      "title": "231-AVALIAÇÃO DE SISTEMAS DE INFORMAÇÕES",
+      "error": "'NoneType' object has no attribute 'lower'"
+    }
+  ]
+}

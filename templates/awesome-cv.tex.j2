@@ -1,0 +1,29 @@
+\
+\documentclass[11pt, a4paper]{awesome-cv}
+\name{Carlos Denner}{dos Santos}
+\address{Montréal, QC, Canada}
+\mobile{+1 438-836-4116}
+\email{carlosdenner@gmail.com}
+\homepage{datasciencetech.ca}
+
+\begin{document}
+\makecvheader
+
+\cvsection{Publications}
+{% for name,works in sections.items() if works -%}
+\cvsubsection{ {{ name }} }
+\begin{cventries}
+{% for w in works -%}
+  \cventry
+    { {{ w.venue|replace('&','\\&') }} }
+    { {{ w.title|replace('&','\\&') }} }
+    { {% if w.year %}{{ w.year }}{% endif %} }
+    { }
+    { \begin{cvitems}
+      \item { {% if w.doi %}DOI: {{ w.doi }}{% endif %}{% if w.url %} \ \textbar\ \href{ {{ w.url }} }{link}{% endif %} }
+      \end{cvitems} }
+{% endfor -%}
+\end{cventries}
+{% endfor -%}
+
+\end{document}

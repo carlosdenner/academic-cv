@@ -1,0 +1,123 @@
+{
+  "timestamp": "2025-11-12T10:19:25.212388",
+  "total_validated": 59,
+  "issues_count": 34,
+  "by_type": {
+    "article": 44,
+    "review": 1,
+    "preprint": 6,
+    "book-chapter": 2,
+    "dataset": 3,
+    "editorial": 2,
+    "peer-review": 1
+  },
+  "by_year": {
+    "2006": 1,
+    "2007": 1,
+    "2008": 1,
+    "2010": 3,
+    "2011": 1,
+    "2012": 2,
+    "2013": 1,
+    "2014": 4,
+    "2015": 4,
+    "2016": 2,
+    "2017": 4,
+    "2018": 6,
+    "2019": 3,
+    "2020": 5,
+    "2021": 7,
+    "2022": 7,
+    "2023": 2,
+    "2024": 3,
+    "2025": 2
+  },
+  "by_journal": {},
+  "author_position": {
+    "1": 14,
+    "2": 33,
+    "3": 7,
+    "4": 4,
+    "8": 1
+  },
+  "citations": {
+    "total": 610,
+    "per_publication_avg": 10.34,
+    "distribution": {
+      "highly_cited_gt50": 3,
+      "cited_11_50": 5,
+      "cited_1_10": 29,
+      "not_cited": 22
+    }
+  },
+  "data_quality": {
+    "with_doi": 49,
+    "with_open_access": 37,
+    "with_keywords": 59,
+    "with_multiple_authors": 54
+  },
+  "top_cited": [
+    {
+      "title": "Artificial Intelligence Regulation: a framework for governance",
+      "year": 2021,
+      "citations": 245,
+      "doi": "https://doi.org/10.1007/s10676-021-09593-z"
+    },
+    {
+      "title": "The attraction of contributors in free and open source software projects",
+      "year": 2012,
+      "citations": 100,
+      "doi": "https://doi.org/10.1016/j.jsis.2012.07.004"
+    },
+    {
+      "title": "A Study of the Relationships between Source Code Metrics and Attractiveness in Free Software Projects",
+      "year": 2010,
+      "citations": 63,
+      "doi": "https://doi.org/10.1109/sbes.2010.27"
+    },
+    {
+      "title": "Information Technology Governance in Public Organizations: How Perceived Effectiveness Relates to Three Classical Mechanisms",
+      "year": 2014,
+      "citations": 23,
+      "doi": "https://doi.org/10.4301/s1807-17752014000200005"
+    },
+    {
+      "title": "Motivations of crowdsourcing contributors",
+      "year": 2018,
+      "citations": 23,
+      "doi": "https://doi.org/10.1108/inmr-02-2018-004"
+    }
+  ],
+  "recent_publications": [
+    {
+      "title": "Artificial intelligence governance: Understanding how public organizations implement it",
+      "year": 2025,
+      "type": "article",
+      "doi": "https://doi.org/10.1016/j.giq.2024.102003"
+    },
+    {
+      "title": "Gamification strategies that promote leisure participation in children and youth with disabilities",
+      "year": 2025,
+      "type": "article",
+      "doi": "https://doi.org/10.1080/17483107.2025.2529508"
+    },
+    {
+      "title": "The Over-Concentration of Innovation and Firm-Specific Knowledge in the Artificial Intelligence Industry",
+      "year": 2024,
+      "type": "article",
+      "doi": "https://doi.org/10.1007/s13132-024-01974-1"
+    },
+    {
+      "title": "Ensinando estratégia empresarial usando jogos sérios na graduação: estado atual e potencialidades futuras",
+      "year": 2024,
+      "type": "article",
+      "doi": "https://doi.org/10.51359/1679-1827.2023.256871"
+    },
+    {
+      "title": "VULNERABILIDADE INICIAL PÓS-INCUBAÇÃO: PREVENDO A SOBREVIVÊNCIA ORGANIZACIONAL COM APRENDIZAGEM DE MÁQUINA",
+      "year": 2024,
+      "type": "article",
+      "doi": "https://doi.org/10.25112/rgd.v21i1.3250"
+    }
+  ]
+}

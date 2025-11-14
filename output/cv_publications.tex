@@ -1,0 +1,205 @@
+%!TEX TS-program = xelatex
+\documentclass[11pt,letterpaper]{article}
+
+% Packages
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage[margin=0.75in]{geometry}
+\usepackage{hyperref}
+\usepackage{xcolor}
+\usepackage{titlesec}
+\usepackage{enumitem}
+\usepackage{fontawesome5}
+
+% Colors
+\definecolor{linkcolor}{HTML}{0066CC}
+\definecolor{sectioncolor}{HTML}{2C3E50}
+\definecolor{subsectioncolor}{HTML}{34495E}
+
+% Hyperlink setup
+\hypersetup{
+    colorlinks=true,
+    linkcolor=linkcolor,
+    urlcolor=linkcolor,
+    citecolor=linkcolor
+}
+
+% Section formatting
+\titleformat{\section}
+  {\Large\bfseries\color{sectioncolor}}
+  {}
+  {0em}
+  {}
+  [\titlerule]
+
+\titleformat{\subsection}
+  {\large\bfseries\color{subsectioncolor}}
+  {}
+  {0em}
+  {}
+
+
+% Custom commands
+\newcommand{\cvheader}[1]{
+  \begin{center}
+    {\Huge\bfseries #1}
+  \end{center}
+}
+
+\newcommand{\cvcontact}[1]{
+  \begin{center}
+    #1
+  \end{center}
+  \vspace{0.3cm}
+}
+
+\newcommand{\cvmetric}[2]{
+  \textbf{#1:} #2
+}
+
+% No page numbers
+\pagestyle{empty}
+
+\begin{document}
+
+% Header
+\cvheader{Carlos Denner dos Santos Jr.}
+
+% Contact Information
+\cvcontact{
+  \faIcon{map-marker-alt} Montréal, QC, Canada ~~$\bullet$~~
+  \faIcon{phone} +1 438-836-4116 ~~$\bullet$~~
+  \faIcon{envelope} \href{mailto:carlosdenner@gmail.com}{carlosdenner@gmail.com}
+  
+  \vspace{0.1cm}
+  
+  \faIcon{globe} \href{https://datasciencetech.ca}{datasciencetech.ca} ~~$\bullet$~~
+  \faIcon{linkedin} \href{https://linkedin.com/in/carlosdenner}{linkedin.com/in/carlosdenner} ~~$\bullet$~~
+  \faIcon{orcid} ORCID: 0000-0002-1783-7896
+}
+
+% Professional Title
+\begin{center}
+  \textit{Associate Professor | Data Science Consultant | AI Expert}
+\end{center}
+
+\vspace{0.3cm}
+
+% Research Metrics
+\section{Research Metrics}
+
+\cvmetric{Publications}{ 82 total} (59 journal articles, 16 conference papers, 4 book chapters)
+
+\cvmetric{Citations}{ 637 citations (Google Scholar) $\bullet$ h-index: 10 }
+
+\cvmetric{ResearchGate}{RG Score: 26.71 $\bullet$ Reads: 16,300+ $\bullet$ Citations: 600+}
+
+\cvmetric{Supervision}{ 0 Postdoc $\bullet$ 9 PhD $\bullet$ 6 Masters supervised}
+
+\cvmetric{Research Projects}{ 0 projects led}
+
+\vspace{0.3cm}
+
+\section{ Journal Articles }
+
+\begin{enumerate}[leftmargin=*, label={[\arabic*]}, itemsep=0.6em]
+\item Patricia Gomes Rêgo de Almeida, Carlos Denner dos Santos (2025). \href{ https://doi.org/10.1016/j.giq.2024.102003 }{ Artificial intelligence governance: Understanding how public organizations implement it }. \textit{ Government Information Quarterly }, 42(1), 102003. \url{ https://doi.org/10.1016/j.giq.2024.102003 }
+\item Ebrahim Mahmoudi, Mehrnoosh Movahed, Annette Majnemer, Carlos Denner dos Santos, Gillian Backlin, Alexandre Siou, Stephanie Glegg, Lesley Pritchard, Janet McCabe, Keiko Shikako‐Thomas (2025). \href{ https://doi.org/10.1080/17483107.2025.2529508 }{ Gamification strategies that promote leisure participation in children and youth with disabilities }. \textit{ Disability and Rehabilitation Assistive Technology }. \url{ https://doi.org/10.1080/17483107.2025.2529508 }
+\item Ebrahim Mahmoudi, Paul Yejong Yoo, Ananya Chandra, Roberta Cardoso, Carlos Denner dos Santos, Annette Majnemer, Keiko Shikako‐Thomas (2024). \href{ https://doi.org/10.2196/49029 }{ Gamification in Mobile Apps for Children With Disabilities: Scoping Review }. \textit{ JMIR Serious Games }, 12, e49029. \url{ https://doi.org/10.2196/49029 }
+\item Pedro Jácome de Moura, Carlos Denner dos Santos, Carlo Gabriel Porto Bellini, José Jorge Lima Dias (2024). \href{ https://doi.org/10.1007/s13132-024-01974-1 }{ The Over-Concentration of Innovation and Firm-Specific Knowledge in the Artificial Intelligence Industry }. \textit{ Journal of the Knowledge Economy }, 15(4), 20547--20577. \url{ https://doi.org/10.1007/s13132-024-01974-1 }
+\item Luiz Felipe Pimenta de Araújo, Carlos Denner dos Santos, Isabela Neves Ferraz, Pablo Peron de Paula (2024). \href{ https://doi.org/10.51359/1679-1827.2023.256871 }{ Ensinando estratégia empresarial usando jogos sérios na graduação: estado atual e potencialidades futuras }. \textit{ Gestão org }, 21(1). \url{ https://doi.org/10.51359/1679-1827.2023.256871 }
+\item Pablo Peron de Paula, Carlos Denner dos Santos (2024). \href{ https://doi.org/10.25112/rgd.v21i1.3250 }{ VULNERABILIDADE INICIAL PÓS-INCUBAÇÃO: PREVENDO A SOBREVIVÊNCIA ORGANIZACIONAL COM APRENDIZAGEM DE MÁQUINA }. \textit{ Revista Gestão e Desenvolvimento }, 21(1), 28--50. \url{ https://doi.org/10.25112/rgd.v21i1.3250 }
+\item Dyego Alves da Silva, Carlos Denner dos Santos, Isabela Neves Ferraz (2024). \href{ https://doi.org/10.5007/2175-8077.2024.e76382 }{ Como Promover a Colaboração em Plataformas de Dados Abertos? }. \textit{ Revista de Ciências da Administração }, 26(66), 1--30. \url{ https://doi.org/10.5007/2175-8077.2024.e76382 }
+\item Pablo Peron de Paula, Carlos Denner dos Santos, Felipe Fróes Couto (2023). \href{ https://doi.org/10.7819/rbgn.v25i4.4247 }{ Organizational Survival of Technology-Based Companies after Incubation: A Qualitative Comparative Explanation }. \textit{ Review of Business Management }, 25(4), 498--515. \url{ https://doi.org/10.7819/rbgn.v25i4.4247 }
+\item Carlos Denner dos Santos, Marina Moreira, Amanda Panis, Dyego Alves (2022). \href{ https://doi.org/10.4018/ijicte.315762 }{ Crowdfunding for Entrepreneurial Education }. \textit{ International Journal of Information and Communication Technology Education }, 18(1), 1--13. \url{ https://doi.org/10.4018/ijicte.315762 }
+\item Isabela Neves Ferraz, Carlos Denner dos Santos (2022). \href{ https://doi.org/10.1590/s0034-759020220104 }{ TRANSFORMATION OF FREE AND OPEN SOURCE SOFTWARE DEVELOPMENT PROJECTS: GOVERNANCE BETWEEN THE CATHEDRAL AND BAZAAR }. \textit{ Revista de Administração de Empresas }, 62(1). \url{ https://doi.org/10.1590/s0034-759020220104 }
+\item Gustavo de Freitas Alves, Carlos Denner dos Santos (2022). \href{ https://doi.org/10.1108/rausp-10-2020-0250 }{ The diffusion of innovations under normative induction in Brazil }. \textit{ RAUSP Management Journal }, 57(2), 149--164. \url{ https://doi.org/10.1108/rausp-10-2020-0250 }
+\item Patricia Gomes Rêgo de Almeida, Carlos Denner dos Santos, Josivânia Silva Farias (2021). \href{ https://doi.org/10.1007/s10676-021-09593-z }{ Artificial Intelligence Regulation: a framework for governance }. \textit{ Ethics and Information Technology }, 23(3), 505--525. \url{ https://doi.org/10.1007/s10676-021-09593-z }
+\item Isabela Neves Ferraz, Carlos Denner dos Santos (2021). \href{ https://doi.org/10.15728/bbr.2021.18.3.6 }{ Organization of Free and Open Source Software Projects: In-between the Community and Traditional Governance }. \textit{ Brazilian Business Review }, 18(3), 334--352. \url{ https://doi.org/10.15728/bbr.2021.18.3.6 }
+\item Dyego Alves da Silva, JEOVAN ASSIS DA SILVA, Gustavo de Freitas Alves, Carlos Denner dos Santos (2021). \href{ https://doi.org/10.21874/rsp.v72.i4.3991 }{ Gestão de riscos no setor público: revisão bibliométrica e proposta de agenda de pesquisa }. \textit{ Revista do Serviço Público }, 72(4), 824--854. \url{ https://doi.org/10.21874/rsp.v72.i4.3991 }
+\item Paul Yejong Yoo, Mehrnoosh Movahed, Ishana Rue, Carlos Denner dos Santos, Annette Majnemer, Keiko Shikako‐Thomas (2021). \href{ https://doi.org/10.2196/32274 }{ Changes in Use of a Leisure Activity Mobile App for Children With Disabilities During the COVID-19 Pandemic: Retrospective Study }. \textit{ JMIR Pediatrics and Parenting }, 5(1), e32274. \url{ https://doi.org/10.2196/32274 }
+\item Anna Carolina Mendonça Lemos Ribeiro, Gisela Demo, Carlos Denner dos Santos (2021). GRUPO FOCAL: APLICAÇÕES NA PESQUISA NACIONAL EM ADMINISTRAÇÃO. \textit{ Dialnet (Universidad de la Rioja) }.
+\item Carlos Denner dos Santos, Mário A. R. Dantas, Rogério Atem de Carvalho, Hélio Lemes Costa Júnior, Letícia Almeida Amaral (2021). Tecnologias e dados abertos para inovação em Governo. \textit{  }.
+\item Anna Carolina Mendonça Lemos Ribeiro, Carlos Denner dos Santos (2020). \href{ https://doi.org/10.18225/ci.inf.v49i2.5066 }{ Isso não é uma pirâmide: revisando o modelo clássico de dado, informação, conhecimento e sabedoria }. \textit{ Ciência da Informação }, 49(2). \url{ https://doi.org/10.18225/ci.inf.v49i2.5066 }
+\item Carlos Denner dos Santos, Isac de Castro, Silvia Satiko Onoyama, Marina Figueiredo Moreira (2020). \href{ https://doi.org/10.24251/hicss.2020.341 }{ Bucking the Trend: An Agentive Perspective of Managerial Influence on Blog’S Attractiveness }. \textit{ Proceedings of the ... Annual Hawaii International Conference on System Sciences/Proceedings of the Annual Hawaii International Conference on System Sciences }. \url{ https://doi.org/10.24251/hicss.2020.341 }
+\item Christina Rita Laila Kohler, Carlos Denner dos Santos, Marcel Bursztyn (2019). \href{ https://doi.org/10.1016/j.resglo.2019.100006 }{ Understanding environmental terrorism in times of climate change: Implications for asylum seekers in Germany }. \textit{ Research in Globalization }, 1, 100006. \url{ https://doi.org/10.1016/j.resglo.2019.100006 }
+\item Leonardo Ferreira de Oliveira, Carlos Denner dos Santos (2019). \href{ https://doi.org/10.1590/1413-2311.214.80559 }{ INTENDED AND UNINTENDED CONSEQUENCES OF INNOVATION ADOPTION: OPEN GOVERNMENT DATA ADOPTION BY THE FEDERAL DISTRICT OF BRAZIL }. \textit{ REAd Revista Eletrônica de Administração (Porto Alegre) }, 25(1), 1--25. \url{ https://doi.org/10.1590/1413-2311.214.80559 }
+\item LUIZ FERNANDO Silva PINTO, Carlos Denner dos Santos, Silvia Satiko Onoyoma Mori (2019). \href{ https://doi.org/10.5465/ambpp.2019.18429abstract }{ Individual factors that influence effort and contributions on Wikipedia }. \textit{ Academy of Management Proceedings }, 2019(1), 18429. \url{ https://doi.org/10.5465/ambpp.2019.18429abstract }
+\item Amanda Panis, Carlos Denner dos Santos, Júnio Borges Silva Silva (2019). Crowdfunding in Higher Education: A Classroom Exercise for Knowledge Application and Transfer. \textit{ AIS Electronic Library (AISeL) (Association for Information Systems) }.
+\item Dyego Alves Silva, Carlos Denner dos Santos (2019). Open Government Data: From Transparency to Social Participation. \textit{ AIS Electronic Library (AISeL) (Association for Information Systems) }.
+\item Luiz Fernando Silva Pinto, Carlos Denner dos Santos (2018). \href{ https://doi.org/10.1108/inmr-02-2018-004 }{ Motivations of crowdsourcing contributors }. \textit{ Innovation \& Management Review }, 15(1), 58--72. \url{ https://doi.org/10.1108/inmr-02-2018-004 }
+\item Leonardo Ferreira de Oliveira, Carlos Denner dos Santos (2018). \href{ https://doi.org/10.1145/3209281.3209357 }{ Public value innovation }. \textit{  }. \url{ https://doi.org/10.1145/3209281.3209357 }
+\item Thayssa Lamas Gelenske, Josivânia Silva Farias, Carlos Denner dos Santos (2018). \href{ https://doi.org/10.21714/2179-8834/2018v23n2p1-22 }{ THE PERCEIVED RISK AND TRUST IN THE BANK'S BRAND ON THE MOBILE BANKING USER VISION }. \textit{ Reuna }, 23(2), 1--22. \url{ https://doi.org/10.21714/2179-8834/2018v23n2p1-22 }
+\item Pablo Peron de Paula, Josivânia Silva Farias, Carlos Denner dos Santos (2018). \href{ https://doi.org/10.17648/egepe-2018-83624 }{ UMA ANÁLISE SOBRE STARTUPS DE BASE TECNOLÓGICA A PARTIR DA LITERATURA DO PERÍODO 2008-2017 }. \textit{ Anais do ... EGEPE }. \url{ https://doi.org/10.17648/egepe-2018-83624 }
+\item Gustavo de Freitas Alves, Carlos Denner dos Santos (2018). The Day after Adoption: Managerial Innovation Abandonment and Recycling. \textit{ AIS Electronic Library (AISeL) (Association for Information Systems) }.
+\item Anna Carolina Mendonça Lemos Ribeiro, Carlos Denner dos Santos (2018). Isso não é uma pirâmide: revisando o modelo clássico de dado, informação, conhecimento e sabedoria. \textit{  }.
+\item Leonel Cerqueira Santos, Carlos Denner dos Santos (2017). \href{ https://doi.org/10.1016/j.rausp.2017.05.005 }{ A study on the impact of non-operational mechanisms on the effectiveness of public information technology governance }. \textit{ Revista de Administração }, 52(3), 256--267. \url{ https://doi.org/10.1016/j.rausp.2017.05.005 }
+\item Carlos Denner dos Santos (2017). \href{ https://doi.org/10.1186/s13174-017-0062-3 }{ Changes in free and open source software licenses: managerial interventions and variations on project attractiveness }. \textit{ Journal of Internet Services and Applications }, 8(1). \url{ https://doi.org/10.1186/s13174-017-0062-3 }
+\item Daniel Esashika, Carlos Denner dos Santos (2017). \href{ https://doi.org/10.1145/3167020.3167060 }{ The influence of sponsors on organizational structure of free software communities }. \textit{  }. \url{ https://doi.org/10.1145/3167020.3167060 }
+\item Leonardo Ferreira de Oliveira, Carlos Denner dos Santos (2017). Inovações no setor público : uma abordagem teórica sobre os impactos de sua adoção. \textit{  }.
+\item Luiz Fernando Silva Pinto, Silvia Satiko Onoyama Mori, Carlos Denner dos Santos (2017). \href{ https://doi.org/10.15600/rau.v15i3.1341 }{ Inovação na contramão: uma bibliometria dos artigos relativos aos usuários que inventam }. \textit{ Revista de Administração }, 15(3), 74--94. \url{ https://doi.org/10.15600/rau.v15i3.1341 }
+\item Juliana Queirós Miranda, Carlos Denner dos Santos, Alexandre Teixeira Dias (2016). \href{ https://doi.org/10.14211/regepe.v5i1.256 }{ A INFLUÊNCIA DAS VARIÁVEIS AMBIENTAIS E ORGANIZACIONAIS NO DESEMPENHO DE STARTUPS }. \textit{ REGEPE Entrepreneurship and Small Business Journal }, 5(1), 28--65. \url{ https://doi.org/10.14211/regepe.v5i1.256 }
+\item Leonardo Ferreira de Oliveira, Carlos Denner dos Santos (2016). The Two Sides of the Innovation Coin. \textit{ Americas Conference on Information Systems }.
+\item Carlos Denner dos Santos, Pedro Isaías (2016). AFTER-SALES AND CRM: THEIR ROLE AS A DIFFERENTIATION STRATEGY FOR CLIENTS. \textit{  }.
+\item Isadora Vergara Castro, Carlos Denner dos Santos (2015). \href{ https://doi.org/10.1590/1982-7849rac20151831 }{ "O Que Gerencio e de Quem Dependo?": Determinantes da Ação de Blogueiros }. \textit{ Revista de Administração Contemporânea }, 19(4), 486--507. \url{ https://doi.org/10.1590/1982-7849rac20151831 }
+\item Luiz Fernando Silva Pinto, Carlos Denner dos Santos (2015). Motivações dos Contribuidores de Crowdsourcing Full paper. \textit{  }.
+\item Carlos Denner dos Santos, Luiz Fernando Silva Pinto (2015). Motivações dos Contribuidores de Crowdsourcing. \textit{ Americas Conference on Information Systems }.
+\item Daniel Hastenreiter, Carlos Denner dos Santos (2015). Impactos da Escolha da Licença na Dinâmica de Desenvolvimento de Software Livre. \textit{ Americas Conference on Information Systems }.
+\item Gelson Heindrickson, Carlos Denner dos Santos (2014). \href{ https://doi.org/10.4301/s1807-17752014000200005 }{ Information Technology Governance in Public Organizations: How Perceived Effectiveness Relates to Three Classical Mechanisms }. \textit{ Journal of Information Systems and Technology Management }, 11(2), 297--326. \url{ https://doi.org/10.4301/s1807-17752014000200005 }
+\item Laura Carletti, Tim Coughlan, Jon Christensen, Elizabeth M. Gerber, Gabriella Giannachi, Stefan Schutt, Rebecca Sinker, Carlos Denner dos Santos (2014). \href{ https://doi.org/10.1145/2556420.2558854 }{ Structures for knowledge co-creation between organisations and the public }. \textit{  }. \url{ https://doi.org/10.1145/2556420.2558854 }
+\item Josivânia Silva Farias, Susy Sanders, Carlos Denner dos Santos, Késia Rozzett (2014). \href{ https://doi.org/10.5753/sbsi.2014.6102 }{ Aceitação de tecnologia em terminais de autosserviço aeroportuários: explorando os efeitos dos moderadores idade, experiência e gênero }. \textit{  }. \url{ https://doi.org/10.5753/sbsi.2014.6102 }
+\item Isadora Teixeira V. Menin Netto Castro, Carlos Denner dos Santos (2013). \href{ https://doi.org/10.6008/ess2179-684x.2013.002.0013 }{ Popularidade em blogs: composição, causas e consequências }. \textit{ Revista Brasileira de Administração Científica }, 4(2), 185--198. \url{ https://doi.org/10.6008/ess2179-684x.2013.002.0013 }
+\item Carlos Denner dos Santos, George Kuk, Fábio Kon, John Pearson (2012). \href{ https://doi.org/10.1016/j.jsis.2012.07.004 }{ The attraction of contributors in free and open source software projects }. \textit{ The Journal of Strategic Information Systems }, 22(1), 26--45. \url{ https://doi.org/10.1016/j.jsis.2012.07.004 }
+\item Viviane Amaral dos Santos, Alfredo Goldman, Carlos Denner dos Santos (2012). \href{ https://doi.org/10.19153/cleiej.15.1.1 }{ Uncovering Steady Advances for an Extreme Programming Course }. \textit{ CLEI electronic journal }, 15(1). \url{ https://doi.org/10.19153/cleiej.15.1.1 }
+\item Carlos Denner dos Santos (2012). Atratividade de projetos de software livre: importância teórica e estratégias para administração. \textit{ Scientific Electronic Library Online (São Paulo Research Foundation, Latin American and Caribbean Center on Health Sciences Information, Conselho Nacional de Desenvolvimento Científico e Tecnológico) }.
+\item Carlos Denner dos Santos, Marcos Bonci Cavalca, Fábio Kon, Júlio M. Singer, Victor Ritter, Damaris Regina, Tamy Tsujimoto (2011). \href{ https://doi.org/10.1145/1958824.1958950 }{ Intellectual property policy and attractiveness }. \textit{  }. \url{ https://doi.org/10.1145/1958824.1958950 }
+\item Carlos Denner dos Santos, Marcos Bonci Cavalca, Fábio Kon, Júlio M. Singer, Victor Ritter, Damaris Regina, Tamy Tsujimoto (2011). Intellectual property policy and attractiveness. \textit{ Conference on Computer Supported Cooperative Work }.
+\item Paulo Meirelles, Carlos Denner dos Santos, João Machini de Miranda, Fábio Kon, Antonio Terceiro, Christina Chávez (2010). \href{ https://doi.org/10.1109/sbes.2010.27 }{ A Study of the Relationships between Source Code Metrics and Attractiveness in Free Software Projects }. \textit{  }. \url{ https://doi.org/10.1109/sbes.2010.27 }
+\item Carlos Denner dos Santos, Fábio Kon, John Pearson (2010). Attractiveness Of Free And Open Source Software Projects. \textit{ AIS Electronic Library (AISeL) (Association for Information Systems) }.
+\item Carlos Denner dos Santos, Kay M. Nelson (2010). \href{ https://doi.org/10.5329/resi.2010.0902004 }{ MOTIVATION TO CREATE FREE AND OPEN SOURCE PROJECTS AND HOW DECISIONS IMPACT SUCCESS }. \textit{ Revista Eletrônica de Sistemas de Informação }, 9(2), 4. \url{ https://doi.org/10.5329/resi.2010.0902004 }
+\item Carlos Denner dos Santos (2008). \href{ https://doi.org/10.1109/ms.2008.167 }{ Understanding Partnerships between Corporations and the Open Source Community: A Research Gap }. \textit{ IEEE Software }, 25(6), 96--97. \url{ https://doi.org/10.1109/ms.2008.167 }
+\item Scott Brookhart, Cristiano di Flora, Carlos Denner dos Santos (2007). \href{ https://doi.org/10.1109/ms.2007.7 }{ Bookshelf }. \textit{ IEEE Software }, 24(1), 92--94. \url{ https://doi.org/10.1109/ms.2007.7 }
+\item Carlos Denner dos Santos, Márcio Augusto Gonçalves (2006). Análise da Substituição de um Software Proprietário por umSoftware Livre sob a ótica do Custo Total de Propriedade:Estudo de Caso do Setor de Peças Automobilísticas. \textit{ DOAJ (DOAJ: Directory of Open Access Journals) }.
+\item Carlos Denner dos Santos, Márcio Augusto Gonçalves (2005). Análise da Substituição de um Software Proprietário por um Software Livre Sob a Ótica do TCO (Custo Total de Propriedade):Estudo de Caso do Setor de Peças Automobilísticas. \textit{ Americanae (AECID Library) }.
+\end{enumerate}
+
+\section{ Conference Papers }
+
+\begin{enumerate}[leftmargin=*, label={[\arabic*]}, itemsep=0.6em]
+\item Luiz P. de Oliveira, Alexandre P. S. Souza, Carlos Denner dos Santos, Iberê R. S. Júnior, Bárbara Silva, Marco Antônio Pereira, Frederico A. Genezini, J.A. Perrotta (2025). \href{ https://doi.org/10.48550/arxiv.2510.10657 }{ Unlocking New Frontiers: The Versatile Potential of the Brazilian Multipurpose Reactor }. \textit{ arXiv (Cornell University) }. \url{ https://doi.org/10.48550/arxiv.2510.10657 }
+\item Ebrahim Mahmoudi, Paul Yejong Yoo, Ananya Chandra, Roberta Cardoso, Carlos Denner dos Santos, Annette Majnemer, Keiko Shikako‐Thomas (2023). \href{ https://doi.org/10.2196/preprints.49029 }{ Gamification in Mobile Apps for Children With Disabilities: Scoping Review (Preprint) }. \textit{  }. \url{ https://doi.org/10.2196/preprints.49029 }
+\item Carlos Denner dos Santos (2023). \href{ https://doi.org/10.32388/5se6l0 }{ Review of: "Artificial Intelligence and Organizational Change" }. \textit{  }. \url{ https://doi.org/10.32388/5se6l0 }
+\item Ali Etkkali, Poba-Nzou Placide, Carlos Denner dos Santos (2022). \href{ https://doi.org/10.1109/icenco55801.2022.10032465 }{ ICT Governance Performance Implications in Higher Education: A Systematic Review of the Literature }. \textit{  }. \url{ https://doi.org/10.1109/icenco55801.2022.10032465 }
+\item Daniel Esashika, Carlos Denner dos Santos (2022). \href{ https://doi.org/10.48550/arxiv.2007.02426 }{ The influence of sponsors on organizational structure of free software communities }. \textit{ arXiv (Cornell University) }. \url{ https://doi.org/10.48550/arxiv.2007.02426 }
+\item Luiz Fernando Silva Pinto, Carlos Denner dos Santos, Silvia Satiko Onoyama (2022). \href{ https://doi.org/10.48550/arxiv.2007.07333 }{ Individual Factors that Influence Effort and Contributions on Wikipedia }. \textit{ arXiv (Cornell University) }. \url{ https://doi.org/10.48550/arxiv.2007.07333 }
+\item Carlos Denner dos Santos, Jessica Alves (2022). \href{ https://doi.org/10.48550/arxiv.2007.12255 }{ Home Advantage in the Brazilian Elite Football: Verifying managers' capacity to outperform their disadvantage }. \textit{ arXiv (Cornell University) }. \url{ https://doi.org/10.48550/arxiv.2007.12255 }
+\item Carlos Denner dos Santos, Isadora Castro, George Kuk, Silvia Satiko Onoyama, Marina Figueiredo Moreira (2022). \href{ https://doi.org/10.48550/arxiv.2006.16944 }{ Bucking the Trend: An Agentive Perspective of Managerial Influence on Blogs Attractiveness }. \textit{ arXiv (Cornell University) }. \url{ https://doi.org/10.48550/arxiv.2006.16944 }
+\item Paul Yejong Yoo, Mehrnoosh Movahed, Ishana Rue, Carlos Denner dos Santos, Annette Majnemer, Keiko Shikako‐Thomas (2021). \href{ https://doi.org/10.2196/preprints.32274 }{ Changes in Use of a Leisure Activity Mobile App for Children With Disabilities During the COVID-19 Pandemic: Retrospective Study (Preprint) }. \textit{  }. \url{ https://doi.org/10.2196/preprints.32274 }
+\item Anna Carolina Mendonça Lemos Ribeiro, Carlos Denner dos Santos (2020). \href{ https://doi.org/10.21452/1518-83532020006 }{ This is not a pyramid: revising the data, information, knowledge and wisdom classical model }. \textit{  }. \url{ https://doi.org/10.21452/1518-83532020006 }
+\item Carlos Denner dos Santos, Isadora Castro, George Kuk, Silvia Satiko Onoyama, Marina Figueiredo Moreira (2020). Bucking the Trend: An Agentive Perspective of Managerial Influence on Blogs Attractiveness. \textit{ arXiv (Cornell University) }.
+\item Carlos Denner dos Santos, Jessica Alves (2020). Home Advantage in the Brazilian Elite Football: Verifying managers' capacity to outperform their disadvantage. \textit{ arXiv (Cornell University) }.
+\item Pedro M. Gardete, Carlos Denner dos Santos (2020). \href{ https://doi.org/10.48550/arxiv.2010.03455 }{ No data? No problem! A Search-based Recommendation System with Cold  Starts }. \textit{ arXiv (Cornell University) }. \url{ https://doi.org/10.48550/arxiv.2010.03455 }
+\item Daniel Esashika, Carlos Denner dos Santos (2020). \href{ https://doi.org/10.48550/arxiv.2007.02426 }{ The influence of sponsors on organizational structure of free software  communities }. \textit{ arXiv (Cornell University) }. \url{ https://doi.org/10.48550/arxiv.2007.02426 }
+\item Carlos Denner dos Santos (2014). \href{ https://doi.org/10.21529/resi.2014.1302000 }{ Editorial }. \textit{ Revista Eletrônica de Sistemas de Informação }, 13(2). \url{ https://doi.org/10.21529/resi.2014.1302000 }
+\item Carlos Denner dos Santos (2014). \href{ https://doi.org/10.5329/resi.2014.1302000 }{ Editorial }. \textit{ Revista Eletrônica de Sistemas de Informação }, 13(2). \url{ https://doi.org/10.5329/resi.2014.1302000 }
+\end{enumerate}
+
+\section{ Book Chapters }
+
+\begin{enumerate}[leftmargin=*, label={[\arabic*]}, itemsep=0.6em]
+\item Rosane Moura Aguiar, Carla Campos, Carlos Denner dos Santos (2025). \href{ https://doi.org/10.1007/978-3-032-00701-8_33 }{ The Relevance of Simons’ Levers of Control Model on Individual Performance }. \textit{ Lecture notes in networks and systems }. \url{ https://doi.org/10.1007/978-3-032-00701-8_33 }
+\item Anna Carolina M. L. Ribeiro, Pedro Cavalcanti Ferreira, Carlos Denner dos Santos (2024). \href{ https://doi.org/10.38116/9786556350660cap7 }{ Automação e mercado de trabalho: análise da literatura e evidências empíricas }. \textit{ IPEA eBooks }. \url{ https://doi.org/10.38116/9786556350660cap7 }
+\item Leonardo Ferreira de Oliveira, Carlos Denner dos Santos (2018). \href{ https://doi.org/10.1007/978-3-319-96661-8_47 }{ Open Innovation in the Public Sector }. \textit{ Springer proceedings in complexity }. \url{ https://doi.org/10.1007/978-3-319-96661-8_47 }
+\item Carlos Denner dos Santos, Márcio Augusto Gonçalves, Fábio Kon (2011). \href{ https://doi.org/10.4018/978-1-61350-519-9.ch013 }{ Apache Sustained Competitive Advantage in the Web Server Industry }. \textit{ IGI Global eBooks }. \url{ https://doi.org/10.4018/978-1-61350-519-9.ch013 }
+\end{enumerate}
+
+
+\vspace{1cm}
+
+\begin{center}
+  \small
+  \textit{Last updated: November 11, 2025}
+\end{center}
+
+\end{document}

@@ -1,0 +1,50 @@
+{
+  "total_reclassified": 9,
+  "reclassifications": [
+    {
+      "doi": "https://doi.org/10.21452/1518-83532020006",
+      "old_type": "preprint",
+      "new_type": "article"
+    },
+    {
+      "doi": null,
+      "old_type": "preprint",
+      "new_type": "article"
+    },
+    {
+      "doi": "https://doi.org/10.48550/arxiv.2007.02426",
+      "old_type": "preprint",
+      "new_type": "article"
+    },
+    {
+      "doi": "https://doi.org/10.48550/arxiv.2007.07333",
+      "old_type": "preprint",
+      "new_type": "article"
+    },
+    {
+      "doi": "https://doi.org/10.2196/preprints.32274",
+      "old_type": "preprint",
+      "new_type": "article"
+    },
+    {
+      "doi": "https://doi.org/10.48550/arxiv.2007.02426",
+      "old_type": "preprint",
+      "new_type": "article"
+    },
+    {
+      "doi": "https://doi.org/10.48550/arxiv.2007.12255",
+      "old_type": "preprint",
+      "new_type": "article"
+    },
+    {
+      "doi": "https://doi.org/10.48550/arxiv.2007.12255",
+      "old_type": "preprint",
+      "new_type": "article"
+    },
+    {
+      "doi": "https://doi.org/10.48550/arxiv.2006.16944",
+      "old_type": "preprint",
+      "new_type": "article"
+    }
+  ]
+}

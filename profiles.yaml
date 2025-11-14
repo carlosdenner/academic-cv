@@ -1,0 +1,9 @@
+orcid: "https://orcid.org/0000-0002-4481-0115"
+scholar_bibtex: "data/raw/scholar_export.bib"        # export from Google Scholar
+scholar_html: "data/raw/scholar_profile.html"        # OR: saved Google Scholar profile page
+researchgate_csv: "data/raw/researchgate_export.csv" # export from ResearchGate
+researchgate_html: "data/raw/researchgate_profile.html" # OR: saved ResearchGate profile page
+lattes_xml: "data/raw/lattes.xml"                    # export from Plataforma Lattes (XML)
+cv_markdown: "data/raw/cv_markdown.md"               # existing CV in markdown format
+mailto: "carlosdenner@gmail.com"                     # used for polite API calls
+template: "awesome-cv"                               # options: awesome-cv | moderncv | markdown

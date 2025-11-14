@@ -1,0 +1,594 @@
+{
+  "id": "https://openalex.org/A5003721947",
+  "orcid": "https://orcid.org/0000-0002-4481-0115",
+  "display_name": "Carlos Denner dos Santos",
+  "display_name_alternatives": [
+    "Carlos Denner dos Santos",
+    "Carlos Carneiro dos Santos",
+    "Carlos D Santos Jr",
+    "Carlos D. Santos",
+    "Carlos Denner Dos Santos",
+    "Carlos Denner Dos Santos Jr.",
+    "Carlos Denner Dos Santos Júnior",
+    "Carlos Denner Santos",
+    "Carlos Denner Santos Jr",
+    "Carlos Denner Santos Jr."
+  ],
+  "works_count": 81,
+  "cited_by_count": 629,
+  "summary_stats": {
+    "2yr_mean_citedness": 1.5714285714285714,
+    "h_index": 10,
+    "i10_index": 10
+  },
+  "ids": {
+    "openalex": "https://openalex.org/A5003721947",
+    "orcid": "https://orcid.org/0000-0002-4481-0115"
+  },
+  "affiliations": [
+    {
+      "institution": {
+        "id": "https://openalex.org/I110200422",
+        "ror": "https://ror.org/0176yjw32",
+        "display_name": "Universidade Federal de Minas Gerais",
+        "country_code": "BR",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I110200422"
+        ]
+      },
+      "years": [
+        2006
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I135117807",
+        "ror": "https://ror.org/00kybxq39",
+        "display_name": "Université de Sherbrooke",
+        "country_code": "CA",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I135117807"
+        ]
+      },
+      "years": [
+        2025
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I142263535",
+        "ror": "https://ror.org/01ee9ar58",
+        "display_name": "University of Nottingham",
+        "country_code": "GB",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I142263535"
+        ]
+      },
+      "years": [
+        2011
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I150729083",
+        "ror": "https://ror.org/02xfp8v59",
+        "display_name": "Universidade de Brasília",
+        "country_code": "BR",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I150729083"
+        ]
+      },
+      "years": [
+        2024,
+        2023,
+        2022,
+        2021,
+        2020,
+        2019,
+        2018,
+        2017,
+        2016,
+        2015,
+        2014,
+        2013,
+        2012
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I159129438",
+        "ror": "https://ror.org/002rjbv21",
+        "display_name": "Université du Québec à Montréal",
+        "country_code": "CA",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I159129438",
+          "https://openalex.org/I49663120"
+        ]
+      },
+      "years": [
+        2022,
+        2021,
+        2019
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I17974374",
+        "ror": "https://ror.org/036rp1748",
+        "display_name": "Universidade de São Paulo",
+        "country_code": "BR",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I17974374"
+        ]
+      },
+      "years": [
+        2011,
+        2010
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I199691007",
+        "ror": "https://ror.org/0482b5b22",
+        "display_name": "Brazilian Agricultural Research Corporation",
+        "country_code": "BR",
+        "type": "government",
+        "lineage": [
+          "https://openalex.org/I199691007"
+        ]
+      },
+      "years": [
+        2020
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I3019322962",
+        "ror": "https://ror.org/04031z735",
+        "display_name": "Universidade Brasil",
+        "country_code": "BR",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I3019322962"
+        ]
+      },
+      "years": [
+        2010
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I4210131964",
+        "ror": "https://ror.org/03n5w2v49",
+        "display_name": "Universitas Nusa Bangsa",
+        "country_code": "ID",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I4210131964"
+        ]
+      },
+      "years": [
+        2014
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I4210135767",
+        "ror": "https://ror.org/03m4ve365",
+        "display_name": "Instituto Florestal",
+        "country_code": "BR",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I4210133215",
+          "https://openalex.org/I4210135767"
+        ]
+      },
+      "years": [
+        2025
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I4210159778",
+        "ror": "https://ror.org/04mte1k06",
+        "display_name": "National Research Council Canada",
+        "country_code": "CA",
+        "type": "government",
+        "lineage": [
+          "https://openalex.org/I4210159778"
+        ]
+      },
+      "years": [
+        2008
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I5023651",
+        "ror": "https://ror.org/01pxwe438",
+        "display_name": "McGill University",
+        "country_code": "CA",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I5023651"
+        ]
+      },
+      "years": [
+        2024
+      ]
+    },
+    {
+      "institution": {
+        "id": "https://openalex.org/I9736820",
+        "ror": "https://ror.org/0020snb74",
+        "display_name": "École de Technologie Supérieure",
+        "country_code": "CA",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I49663120",
+          "https://openalex.org/I9736820"
+        ]
+      },
+      "years": [
+        2024,
+        2021
+      ]
+    }
+  ],
+  "last_known_institutions": [
+    {
+      "id": "https://openalex.org/I135117807",
+      "ror": "https://ror.org/00kybxq39",
+      "display_name": "Université de Sherbrooke",
+      "country_code": "CA",
+      "type": "education",
+      "lineage": null
+    },
+    {
+      "id": "https://openalex.org/I4210135767",
+      "ror": "https://ror.org/03m4ve365",
+      "display_name": "Instituto Florestal",
+      "country_code": "BR",
+      "type": "education",
+      "lineage": [
+        "https://openalex.org/I4210133215"
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "id": "https://openalex.org/T11675",
+      "display_name": "Open Source Software Innovations",
+      "count": 19,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1706",
+        "display_name": "Computer Science Applications"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12028",
+      "display_name": "Knowledge Management and Sharing",
+      "count": 16,
+      "score": 0.9966999888420105,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3315",
+        "display_name": "Communication"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11530",
+      "display_name": "Business and Management Studies",
+      "count": 10,
+      "score": 0.9799000024795532,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1802",
+        "display_name": "Information Systems and Management"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/18",
+        "display_name": "Decision Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10953",
+      "display_name": "E-Government and Public Services",
+      "count": 10,
+      "score": 0.9994000196456909,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3320",
+        "display_name": "Political Science and International Relations"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10260",
+      "display_name": "Software Engineering Research",
+      "count": 7,
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1710",
+        "display_name": "Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "topic_share": [
+    {
+      "id": "https://openalex.org/T11675",
+      "display_name": "Open Source Software Innovations",
+      "value": 0.0002475,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1706",
+        "display_name": "Computer Science Applications"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10953",
+      "display_name": "E-Government and Public Services",
+      "value": 0.000129,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3320",
+        "display_name": "Political Science and International Relations"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12028",
+      "display_name": "Knowledge Management and Sharing",
+      "value": 0.0001036,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3315",
+        "display_name": "Communication"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14222",
+      "display_name": "Knowledge Management and Technology",
+      "value": 9.44e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1803",
+        "display_name": "Management Science and Operations Research"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/18",
+        "display_name": "Decision Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12478",
+      "display_name": "Wikis in Education and Collaboration",
+      "value": 5.57e-05,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3315",
+        "display_name": "Communication"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "x_concepts": [
+    {
+      "id": "10138342",
+      "wikidata": "https://www.wikidata.org/wiki/Q43015",
+      "display_name": "Finance",
+      "score": 0.0
+    },
+    {
+      "id": "10138342",
+      "wikidata": "https://www.wikidata.org/wiki/Q43015",
+      "display_name": "Finance",
+      "score": 0.0
+    },
+    {
+      "id": "10138342",
+      "wikidata": "https://www.wikidata.org/wiki/Q43015",
+      "display_name": "Finance",
+      "score": 0.0
+    },
+    {
+      "id": "100001284",
+      "wikidata": "https://www.wikidata.org/wiki/Q2248246",
+      "display_name": "Public economics",
+      "score": 0.32068875432014465
+    }
+  ],
+  "counts_by_year": [
+    {
+      "year": 2005,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 0
+    },
+    {
+      "year": 2006,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2007,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 0
+    },
+    {
+      "year": 2008,
+      "works_count": 1,
+      "oa_works_count": 0,
+      "cited_by_count": 18
+    },
+    {
+      "year": 2010,
+      "works_count": 3,
+      "oa_works_count": 0,
+      "cited_by_count": 70
+    },
+    {
+      "year": 2011,
+      "works_count": 3,
+      "oa_works_count": 1,
+      "cited_by_count": 6
+    },
+    {
+      "year": 2012,
+      "works_count": 3,
+      "oa_works_count": 3,
+      "cited_by_count": 116
+    },
+    {
+      "year": 2013,
+      "works_count": 1,
+      "oa_works_count": 1,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2014,
+      "works_count": 5,
+      "oa_works_count": 3,
+      "cited_by_count": 26
+    },
+    {
+      "year": 2015,
+      "works_count": 4,
+      "oa_works_count": 1,
+      "cited_by_count": 7
+    },
+    {
+      "year": 2016,
+      "works_count": 3,
+      "oa_works_count": 1,
+      "cited_by_count": 11
+    },
+    {
+      "year": 2017,
+      "works_count": 5,
+      "oa_works_count": 3,
+      "cited_by_count": 24
+    },
+    {
+      "year": 2018,
+      "works_count": 7,
+      "oa_works_count": 3,
+      "cited_by_count": 28
+    },
+    {
+      "year": 2019,
+      "works_count": 5,
+      "oa_works_count": 2,
+      "cited_by_count": 16
+    },
+    {
+      "year": 2020,
+      "works_count": 7,
+      "oa_works_count": 7,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2021,
+      "works_count": 8,
+      "oa_works_count": 5,
+      "cited_by_count": 240
+    },
+    {
+      "year": 2022,
+      "works_count": 9,
+      "oa_works_count": 8,
+      "cited_by_count": 8
+    },
+    {
+      "year": 2023,
+      "works_count": 4,
+      "oa_works_count": 4,
+      "cited_by_count": 0
+    },
+    {
+      "year": 2024,
+      "works_count": 6,
+      "oa_works_count": 5,
+      "cited_by_count": 10
+    },
+    {
+      "year": 2025,
+      "works_count": 3,
+      "oa_works_count": 0,
+      "cited_by_count": 4
+    }
+  ],
+  "works_api_url": "https://api.openalex.org/works?filter=author.id:A5003721947",
+  "updated_date": "2025-10-27T03:11:17.418693",
+  "created_date": "2016-06-24"
+}

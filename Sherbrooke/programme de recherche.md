@@ -1,0 +1,68 @@
+Programme de recherche
+Gestion, gouvernance et ingénierie des systèmes d’intelligence artificielle
+
+Depuis plus de vingt ans, je travaille à l’intersection des systèmes d’information, des données et de la gestion. Avec l’essor de l’IA, et en particulier des modèles de type LLM et des systèmes agentiques, la question centrale pour les organisations n’est plus “que peut-on faire avec l’IA ?”, mais “comment la gouverner, l’exploiter et la sécuriser de façon responsable, performante et durable ?”.
+
+Le programme de recherche que je propose à l’Université de Sherbrooke vise précisément ce point. Il se structure en trois axes complémentaires :
+
+1. Gouvernance et gestion des risques de l’IA dans les organisations
+2. Ingénierie, opérations et sécurité des systèmes d’IA (AIOps/MLOps), avec un focus sur les LLM et agents
+3. Performance, impact et durabilité de l’IA en contexte organisationnel
+
+Ces axes s’inscrivent directement dans les thématiques du poste (gouvernance et risques, AIOps/MLOps, sécurité et résilience, performance des systèmes d’IA) et dans la mission du Département des systèmes d’information et méthodes quantitatives de gestion (SIMQG), au cœur de la transformation numérique, de l’analytique et de la cybersécurité.
+
+Je m’appuie sur trois blocs d’expérience :
+– un ancrage académique en systèmes d’information et gouvernance de l’IA, avec des publications dans des revues à comité de lecture (notamment Ethics and Information Technology et Government Information Quarterly) ;
+– une pratique terrain de projets d’IA et d’analytique dans les télécommunications, l’énergie, la santé et le secteur public ;
+– un travail récent de cartographie de plus de 250 000 familles de brevets en IA/ML (2010–2025) pour identifier les domaines émergents liés à la gouvernance, la sécurité et l’ingénierie de l’IA.
+
+Axe 1 – Gouvernance et gestion des risques de l’IA
+
+Dans l’article « Artificial Intelligence Regulation: a framework for governance » (Ethics and Information Technology, 2021), coécrit avec des collègues, nous proposons un cadre intégrateur pour la régulation de l’IA à l’échelle des politiques publiques. Dans « Artificial intelligence governance: Understanding how public organizations implement it » (Government Information Quarterly, 2025), nous analysons comment 28 organisations publiques sur cinq continents traduisent (ou non) ces principes dans leurs pratiques.
+
+Le premier axe prolonge ces travaux au niveau organisationnel et des portefeuilles d’IA. Les questions centrales sont :
+
+– Comment les organisations structurent-elles la gouvernance de leurs systèmes d’IA (rôles, comités, politiques, processus de décision) ?
+– Quels modèles de gouvernance (centralisé, fédéré, par domaine d’affaires) sont les plus adaptés selon le secteur et la maturité numérique ?
+– Comment cartographier de manière exploitable les risques liés à l’IA (biais, non-conformité réglementaire, cyberrisques, dépendance à des fournisseurs, perte de contrôle sur des agents autonomes) pour aider les gestionnaires à prioriser ?
+
+Je prévois de combiner études de cas approfondies, entretiens, analyse de documents et enquêtes quantitatives. L’objectif est de produire :
+– des typologies de structures de gouvernance de l’IA ;
+– des cartes de risques et de contrôles associés ;
+– des guides pratiques et cas d’enseignement utilisables dans les programmes de l’École de gestion (dont le microprogramme de 3e cycle en gestion stratégique de l’IA et l’École d’été en gestion stratégique de l’IA).
+
+Axe 2 – Ingénierie, opérations et sécurité des systèmes d’IA (AIOps/MLOps)
+
+Le deuxième axe se concentre sur le cycle de vie des systèmes d’IA : données, modèles, déploiement, exploitation, monitoring, sécurité. C’est le cœur de l’AIOps/MLOps, là où les enjeux de gouvernance se matérialisent vraiment.
+
+Les questions de recherche incluent :
+
+– Comment concevoir des pipelines AIOps/MLOps “gouvernables”, où traçabilité, contrôles d’accès, revues de risques, audits et mécanismes d’arrêt (“kill switches”) font partie de l’architecture et des outils, plutôt que de rester dans des documents ?
+– Quels patrons d’architecture pour les systèmes basés sur des LLM (RAG, agents, chaînes d’outils) permettent de garder la main sur ce que le système peut faire, sur quelles données et avec quelles garanties ?
+– Comment intégrer la sécurité (prompt injection, hallucinations critiques, exfiltration de données, agents sur-permissionnés) dans les pratiques MLOps, au même titre que la performance et la disponibilité ?
+
+Sur ce volet, je m’appuie sur :
+– des projets industriels concrets (par exemple un système d’optimisation énergétique pour un grand opérateur télécom, un système de recommandation pour l’application Jooay, des projets de transformation numérique dans le secteur public) ;
+– un travail systématique sur les brevets en IA/ML montrant que la détection d’hallucinations, la défense contre la prompt injection, la sécurité des agents et la fédéralisation de l’entraînement des LLM sont des domaines émergents où l’activité reste faible au regard des enjeux.
+
+Je privilégierai des approches de design science et de recherche orientée artefact : conception et évaluation de prototypes de pipelines MLOps intégrant des points de contrôle de gouvernance, d’“agents firewall” encadrant ce qu’un agent LLM peut faire, et de tableaux de bord de risques et de performance opérationnelle. Ces artefacts seront développés et évalués avec des organisations partenaires (secteur public, télécom, énergie, santé), en visant à la fois des contributions scientifiques (modèles, taxonomies, cadres d’évaluation) et des livrables directement utilisables.
+
+Axe 3 – Performance, impact et durabilité de l’IA
+
+Le troisième axe répond à une question que je rencontre régulièrement : l’IA crée-t-elle réellement de la valeur, pour qui et à quel coût ? Il s’agit ici de passer des promesses et des preuves de concept à une évaluation rigoureuse de la performance, de l’impact et de la durabilité des systèmes d’IA.
+
+Les questions de recherche sont, par exemple :
+
+– Comment définir et mesurer la performance de projets d’IA au-delà des métriques techniques (précision, F1) : valeur économique, qualité de service, impact sur les processus, équité, effets sur le travail humain ?
+– Quels facteurs distinguent les projets qui passent à l’échelle de ceux qui restent au stade de pilote (alignement stratégique, maturité des données, structures de gouvernance, capacités AIOps/MLOps, acceptation des utilisateurs) ?
+– Comment intégrer la durabilité (environnementale, économique, sociale) dans la priorisation et l’évaluation des portefeuilles d’IA ?
+
+Je prévois des études de cas longitudinales (avant / après, quasi-expériences, analyses de séries temporelles) combinées à la construction de tableaux de bord de performance co-conçus avec des partenaires. Les résultats nourriront directement les formations de l’École de gestion destinées aux gestionnaires et aux professionnelles et professionnels en exercice.
+
+Approche, environnement et formation
+
+Globalement, mon programme de recherche est pluridisciplinaire et multi-méthodes : ancré en systèmes d’information et en gestion de la technologie, combinant méthodes qualitatives, quantitatives et de design, et toujours connecté à des organisations réelles.
+
+Le SIMQG, au cœur de la transformation numérique, de l’analytique et de la cybersécurité, est un environnement idéal pour développer ce programme en lien avec le Centre de recherche Createch sur les organisations intelligentes (CROI) et le Centre Laurent Beaudoin. Les projets envisagés se prêtent bien à des demandes de financement au CRSH, au FRQSC, à Mitacs et à des partenariats publics et privés.
+
+Pour les étudiantes et étudiants de maîtrise, de doctorat et des microprogrammes de 3e cycle, ce programme offre un terrain riche pour des travaux qui combinent analyse rigoureuse, développement d’outils ou de méthodes, et impact concret dans les organisations. À horizon cinq ans, l’objectif est que l’École de gestion de l’Université de Sherbrooke soit reconnue comme un pôle de référence pour la gestion stratégique, la gouvernance et l’ingénierie des systèmes d’IA, au Québec et à l’international.

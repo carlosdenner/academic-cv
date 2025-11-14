@@ -1,0 +1,46 @@
+%!TEX TS-program = xelatex
+\documentclass[11pt,a4paper,sans]{moderncv}
+
+% ModernCV themes
+\moderncvstyle{banking}  % Clean, professional style
+\moderncvcolor{blue}     % Color scheme
+
+% Character encoding
+\usepackage[utf8]{inputenc}
+
+% Page margins
+\usepackage[scale=0.85]{geometry}
+\setlength{\hintscolumnwidth}{3cm}
+
+% Personal data
+\name{Carlos Denner}{dos Santos Jr.}
+\title{Associate Professor | Data Science Consultant | AI Expert}
+\address{Montréal, QC}{Canada}{}
+\phone[mobile]{+1~438~836~4116}
+\email{carlosdenner@gmail.com}
+\homepage{datasciencetech.ca}
+\social[linkedin]{carlosdenner}
+\social[github]{carlosdenner}
+\extrainfo{ORCID: 0000-0002-1783-7896}
+
+\begin{document}
+
+\makecvtitle
+
+\section{Research Metrics}
+\cvitem{Publications}{82 total (59 journal articles, 16 conference papers, 4 book chapters, 3 technical outputs)}
+\cvitem{Impact}{637 citations $\bullet$ h-index: 10}
+\cvitem{Supervision}{9 PhD supervised $\bullet$ 6 Masters supervised}
+\cvitem{Projects}{21 research projects led}
+
+{% for pub_type, pubs in publications.items() %}
+\section{ {{pub_type}} }
+{% for pub in pubs %}
+\cventry{ {{pub.year}} }{ {{pub.title}} }{ {{pub.venue}} }{}{}{ 
+  {{pub.authors}} {% if pub.citations > 0 %}\newline\textit{Cited {{pub.citations}} times}{% endif %}{% if pub.doi %}\newline DOI: \href{ {{pub.doi}} }{ {{pub.doi}} }{% endif %}
+}
+{% endfor %}
+
+{% endfor %}
+
+\end{document}

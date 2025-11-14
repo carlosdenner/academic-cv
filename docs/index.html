@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Carlos Denner dos Santos Jr. - Academic CV</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav id="nav-bar">
+        <div class="container nav-content">
+            <div class="nav-brand">Carlos Denner dos Santos Jr.</div>
+            <div class="nav-links">
+                <a href="#about">About</a>
+                <a href="#metrics">Metrics</a>
+                <a href="#publications">Publications</a>
+                <a href="#positions">Experience</a>
+                <a href="#education">Education</a>
+                <a href="#projects">Projects</a>
+                <a href="#contact">Contact</a>
+                <button id="theme-toggle" class="theme-toggle" title="Toggle dark mode">
+                    <i class="fas fa-moon"></i>
+                </button>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <header id="hero">
+        <div class="container">
+            <h1 id="cv-name">Loading...</h1>
+            <p id="cv-title" class="hero-subtitle">Associate Professor | Data Scientist | Researcher</p>
+            <div id="hero-links" class="hero-links"></div>
+        </div>
+    </header>
+
+    <!-- About Section -->
+    <section id="about" class="section">
+        <div class="container">
+            <h2 class="section-title">About</h2>
+            <p id="about-text" class="about-text">Loading...</p>
+        </div>
+    </section>
+
+    <!-- Metrics Section -->
+    <section id="metrics" class="section metrics-section">
+        <div class="container">
+            <h2 class="section-title">Research Impact</h2>
+            <div id="metrics-grid" class="metrics-grid"></div>
+        </div>
+    </section>
+
+    <!-- Publications Section -->
+    <section id="publications" class="section">
+        <div class="container">
+            <h2 class="section-title">Publications</h2>
+            
+            <!-- Filters -->
+            <div class="pub-filters">
+                <input type="text" id="pub-search" class="search-input" placeholder="Search publications by title, author, or venue...">
+                <div class="filter-buttons">
+                    <button class="filter-btn active" data-type="all">All (<span id="count-all">0</span>)</button>
+                    <button class="filter-btn" data-type="journal_articles">Journals (<span id="count-journal">0</span>)</button>
+                    <button class="filter-btn" data-type="conference_papers">Conferences (<span id="count-conf">0</span>)</button>
+                    <button class="filter-btn" data-type="book_chapters">Books (<span id="count-book">0</span>)</button>
+                    <button class="filter-btn" data-type="technical">Technical (<span id="count-tech">0</span>)</button>
+                </div>
+                <div class="sort-options">
+                    <label>Sort by:</label>
+                    <select id="pub-sort">
+                        <option value="year-desc">Year (newest first)</option>
+                        <option value="year-asc">Year (oldest first)</option>
+                        <option value="citations-desc">Citations (high to low)</option>
+                        <option value="title-asc">Title (A-Z)</option>
+                    </select>
+                </div>
+            </div>
+
+            <!-- Publications List -->
+            <div id="publications-list" class="publications-list"></div>
+        </div>
+    </section>
+
+    <!-- Experience Section -->
+    <section id="positions" class="section">
+        <div class="container">
+            <h2 class="section-title">Professional Experience</h2>
+            <div id="positions-timeline" class="timeline"></div>
+        </div>
+    </section>
+
+    <!-- Education Section -->
+    <section id="education" class="section">
+        <div class="container">
+            <h2 class="section-title">Education</h2>
+            <div id="education-list" class="timeline"></div>
+        </div>
+    </section>
+
+    <!-- Projects Section -->
+    <section id="projects" class="section">
+        <div class="container">
+            <h2 class="section-title">Research Projects</h2>
+            <div id="projects-grid" class="projects-grid"></div>
+        </div>
+    </section>
+
+    <!-- Awards Section -->
+    <section id="awards" class="section">
+        <div class="container">
+            <h2 class="section-title">Awards & Honors</h2>
+            <div id="awards-list" class="awards-list"></div>
+        </div>
+    </section>
+
+    <!-- Supervisions Section -->
+    <section id="supervisions" class="section">
+        <div class="container">
+            <h2 class="section-title">Academic Supervision</h2>
+            <div id="supervisions-grid" class="supervisions-grid"></div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="section contact-section">
+        <div class="container">
+            <h2 class="section-title">Contact</h2>
+            <div id="contact-info" class="contact-grid"></div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <p>© 2025 Carlos Denner dos Santos Jr. | Generated from automated publication pipeline</p>
+            <p>Data sources: ORCID, OpenAlex, Crossref, Google Scholar, ResearchGate, Lattes CV</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

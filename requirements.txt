@@ -1,0 +1,10 @@
+requests
+pydantic
+python-slugify
+pybtex
+rapidfuzz
+pandas
+bibtexparser
+pyyaml
+jinja2
+lxml

@@ -1,0 +1,116 @@
+{
+  "role": "AI Expert / Consultant",
+  "institution": "Videns Analytics (now Cofomo)",
+  "type": "Consulting",
+  "start_year": "2025",
+  "start_month": "07",
+  "end_year": null,
+  "end_month": null,
+  "location": "Montreal, Canada",
+  "description": "Lead AI strategy and implementation projects for enterprise clients",
+  "projects": [
+    {
+      "name": "AI Strategy and Roadmap for LGI Healthcare Solutions",
+      "client": "LGI Healthcare Solutions (Novacap Portfolio)",
+      "period": "July-October 2025",
+      "role": "Lead AI Consultant",
+      "description": "Led AI transformation project for healthcare software provider, analyzing use cases and formulating multi-phase AI adoption roadmap",
+      "deliverables": [
+        "Identified and prioritized 50+ AI use cases across hospital management systems",
+        "Developed phased AI implementation roadmap (3 phases)",
+        "Provided technical architecture recommendations for predictive patient flow optimization",
+        "Proposed LLM integration for RPA systems to handle unstructured documents",
+        "Assessed feasibility, business value, and technical requirements for each use case"
+      ],
+      "technologies": [
+        "Predictive Analytics",
+        "NLP",
+        "LLMs",
+        "RPA",
+        "Healthcare IT"
+      ],
+      "impact": "Equipped client leadership with concrete AI strategy and implementation plan"
+    },
+    {
+      "name": "AI Upskilling and Maturity Evaluation",
+      "client": "LGI Healthcare Solutions",
+      "period": "September-October 2025",
+      "role": "AI Training Lead",
+      "description": "Designed and delivered AI training program and conducted organizational maturity assessment",
+      "deliverables": [
+        "Created bilingual (French/English) AI training modules on Generative AI fundamentals",
+        "Facilitated AI maturity assessment using Videns' Lucia platform",
+        "Delivered executive and technical training on ChatGPT use cases in healthcare",
+        "Provided maturity report identifying gaps in AI capabilities",
+        "Beta-tested Lucia platform and provided product feedback"
+      ],
+      "technologies": [
+        "ChatGPT",
+        "Lucia AI Maturity Platform",
+        "Training & Education"
+      ],
+      "impact": "Built AI awareness and readiness across client organization"
+    },
+    {
+      "name": "LLM Security Research (Prompt Injection Defense)",
+      "client": "Videns Internal R&D",
+      "period": "October-November 2025",
+      "role": "Security Researcher",
+      "description": "Led R&D initiative on Large Language Model security and prompt injection defense mechanisms",
+      "deliverables": [
+        "Created 'prompt-injection-security' GitHub repository with defense prototypes",
+        "Implemented multi-layer defense pipeline (input sanitization, intent verification, output filtering)",
+        "Developed proof-of-concept LLM Firewall using multi-agent guardrails",
+        "Established best practices for secure LLM deployment",
+        "Automated testing with CI/CD workflows"
+      ],
+      "technologies": [
+        "Python",
+        "Azure OpenAI",
+        "Security",
+        "CI/CD",
+        "GitHub Actions"
+      ],
+      "impact": "Strengthened internal AI security knowledge and client deployment guidelines"
+    },
+    {
+      "name": "AI Opportunity Discovery for Hospitality Sector",
+      "client": "Germain Hotels",
+      "period": "November 2025",
+      "role": "AI Advisor",
+      "description": "Initiated AI exploration project for hotel chain operations and guest experience",
+      "deliverables": [
+        "Conducted discovery meeting with innovation lead",
+        "Researched AI use cases in hospitality (demand forecasting, personalized marketing, chatbots)",
+        "Identified opportunities for ML-based pricing optimization and GPT-powered virtual concierge"
+      ],
+      "technologies": [
+        "Machine Learning",
+        "Predictive Analytics",
+        "Chatbots",
+        "Hospitality Analytics"
+      ],
+      "impact": "Expanded Videns' reach into hospitality sector"
+    }
+  ],
+  "technologies": [
+    "Python",
+    "ChatGPT/GPT-4",
+    "Azure OpenAI",
+    "Machine Learning",
+    "NLP",
+    "LLMs",
+    "Prompt Engineering",
+    "AI Security",
+    "Data Analytics",
+    "Business Intelligence"
+  ],
+  "achievements": [
+    "Led AI strategy consulting for major healthcare software firm (LGI)",
+    "Designed and delivered bilingual AI training programs",
+    "Prototyped LLM security solutions (prompt injection defense)",
+    "Assessed organizational AI maturity using proprietary platform (Lucia)",
+    "Extended AI consulting into hospitality sector (Germain Hotels)",
+    "Contributed to Videns' innovation portfolio in AI safety and governance"
+  ]
+}

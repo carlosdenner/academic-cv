@@ -1,0 +1,124 @@
+%!TEX TS-program = xelatex
+\documentclass[11pt,letterpaper]{article}
+
+% Packages
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage[margin=0.75in]{geometry}
+\usepackage{hyperref}
+\usepackage{xcolor}
+\usepackage{titlesec}
+\usepackage{enumitem}
+\usepackage{fontawesome5}
+
+% Colors
+\definecolor{linkcolor}{HTML}{0066CC}
+\definecolor{sectioncolor}{HTML}{2C3E50}
+\definecolor{subsectioncolor}{HTML}{34495E}
+
+% Hyperlink setup
+\hypersetup{
+    colorlinks=true,
+    linkcolor=linkcolor,
+    urlcolor=linkcolor,
+    citecolor=linkcolor
+}
+
+% Section formatting
+\titleformat{\section}
+  {\Large\bfseries\color{sectioncolor}}
+  {}
+  {0em}
+  {}
+  [\titlerule]
+
+\titleformat{\subsection}
+  {\large\bfseries\color{subsectioncolor}}
+  {}
+  {0em}
+  {}
+
+{% raw %}
+% Custom commands
+\newcommand{\cvheader}[1]{
+  \begin{center}
+    {\Huge\bfseries #1}
+  \end{center}
+}
+
+\newcommand{\cvcontact}[1]{
+  \begin{center}
+    #1
+  \end{center}
+  \vspace{0.3cm}
+}
+
+\newcommand{\cvmetric}[2]{
+  \textbf{#1:} #2
+}
+{% endraw %}
+
+% No page numbers
+\pagestyle{empty}
+
+\begin{document}
+
+% Header
+\cvheader{Carlos Denner dos Santos Jr.}
+
+% Contact Information
+\cvcontact{
+  \faIcon{map-marker-alt} Montréal, QC, Canada ~~$\bullet$~~
+  \faIcon{phone} +1 438-836-4116 ~~$\bullet$~~
+  \faIcon{envelope} \href{mailto:carlosdenner@gmail.com}{carlosdenner@gmail.com}
+  
+  \vspace{0.1cm}
+  
+  \faIcon{globe} \href{https://datasciencetech.ca}{datasciencetech.ca} ~~$\bullet$~~
+  \faIcon{linkedin} \href{https://linkedin.com/in/carlosdenner}{linkedin.com/in/carlosdenner} ~~$\bullet$~~
+  \faIcon{orcid} ORCID: 0000-0002-1783-7896
+}
+
+% Professional Title
+\begin{center}
+  \textit{Associate Professor | Data Science Consultant | AI Expert}
+\end{center}
+
+\vspace{0.3cm}
+
+% Research Metrics
+\section{Research Metrics}
+
+\cvmetric{Publications}{ {{metrics.publications}} total} ({{metrics.journal_articles}} journal articles, {{metrics.conference_papers}} conference papers, {{metrics.book_chapters}} book chapters)
+
+\cvmetric{Citations}{ {{metrics.citations}} citations (Google Scholar) $\bullet$ h-index: {{metrics.h_index}} }
+
+\cvmetric{ResearchGate}{RG Score: 26.71 $\bullet$ Reads: 16,300+ $\bullet$ Citations: 600+}
+
+\cvmetric{Supervision}{ {{metrics.supervised_postdoc}} Postdoc $\bullet$ {{metrics.supervised_phd}} PhD $\bullet$ {{metrics.supervised_masters}} Masters supervised}
+
+\cvmetric{Research Projects}{ {{metrics.projects}} projects led}
+
+\vspace{0.3cm}
+
+{% for pub_type, pubs in publications.items() %}
+\section{ {{pub_type}} }
+
+\begin{enumerate}[leftmargin=*, label={[\arabic*]}, itemsep=0.6em]
+{% for pub in pubs %}
+\item {{pub.authors}} ({{pub.year}}). {% if pub.doi %}\href{ {{pub.doi}} }{ {{pub.title}} }{% else %}{{pub.title}}{% endif %}. \textit{ {{pub.venue}} }{% if pub.volume %}, {{pub.volume}}{% if pub.issue %}({{pub.issue}}){% endif %}{% if pub.pages %}, {{pub.pages}}{% endif %}{% endif %}.{% if pub.doi %} \url{ {{pub.doi}} }{% endif %}
+
+{% endfor %}
+\end{enumerate}
+
+{% endfor %}
+
+\vspace{1cm}
+
+\begin{center}
+  \small
+  \textit{Last updated: {{generated_date}}}
+\end{center}
+
+\end{document}

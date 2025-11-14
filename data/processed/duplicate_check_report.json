@@ -1,0 +1,1172 @@
+{
+  "generated_at": 1762968651.0667078,
+  "summary": {
+    "total_to_add": 51,
+    "likely_new": 47,
+    "potential_duplicates": 1
+  },
+  "likely_duplicates": [
+    {
+      "index": 41,
+      "publication": {
+        "title": "Attractiveness of Open Source Projects: A Path to Software Quality",
+        "year": 2007,
+        "authors": "K Nelson, C Santos",
+        "source": "google_scholar"
+      },
+      "matches": [
+        {
+          "is_duplicate": true,
+          "confidence": 0.6611570247933884,
+          "indicators": {
+            "title_similarity": 0.6611570247933884,
+            "keyword_overlap": 0.625,
+            "same_year": false,
+            "year_close": false,
+            "author_match": false
+          },
+          "bib_entry": {
+            "type": "article",
+            "key": "santos2010attr",
+            "title": "Attractiveness of free and open source software projects",
+            "author": "Santos, Carlos Denner dos and Kon, F{\\'a",
+            "year": "2010",
+            "doi": "",
+            "journal": "AIS Electronic Library (AISeL) (Association for Information Systems)",
+            "booktitle": "",
+            "venue": "AIS Electronic Library (AISeL) (Association for Information Systems)"
+          }
+        },
+        {
+          "is_duplicate": false,
+          "confidence": 0.5161290322580645,
+          "indicators": {
+            "title_similarity": 0.5161290322580645,
+            "keyword_overlap": 0.09090909090909091,
+            "same_year": false,
+            "year_close": false,
+            "author_match": false
+          },
+          "bib_entry": {
+            "type": "article",
+            "key": "santos2010atra",
+            "title": "Atratividade de projetos de software livre: importância te{\\'o",
+            "author": "Santos, Carlos Denner dos",
+            "year": "2010",
+            "doi": "",
+            "journal": "Sociedad (University of Buenos Aires)",
+            "booktitle": "",
+            "venue": "Sociedad (University of Buenos Aires)"
+          }
+        },
+        {
+          "is_duplicate": false,
+          "confidence": 0.5109489051094891,
+          "indicators": {
+            "title_similarity": 0.5109489051094891,
+            "keyword_overlap": 0.4,
+            "same_year": false,
+            "year_close": false,
+            "author_match": false
+          },
+          "bib_entry": {
+            "type": "article",
+            "key": "santos2012thea",
+            "title": "The attraction of contributors in free and open source software projects",
+            "author": "Santos, Carlos Denner dos and Kuk, George and Kon, F{\\'a",
+            "year": "2012",
+            "doi": "10.1016/j.jsis.2012.07.004",
+            "journal": "The Journal of Strategic Information Systems",
+            "booktitle": "",
+            "venue": "The Journal of Strategic Information Systems"
+          }
+        }
+      ],
+      "has_likely_duplicate": true
+    }
+  ],
+  "confirmed_new": [
+    {
+      "index": 1,
+      "publication": {
+        "title": "Capítulo 2 A Gestão da Inovação na Universidade de Brasília",
+        "year": 2019,
+        "authors": "SCM Barbalho, GF Ghesti, SMS Carvalho, CD dos Santos, AR Martin, ...",
+        "source": "both_sources"
+      },
+      "matches": [],
+      "has_likely_duplicate": false
+    },
+    {
+      "index": 2,
+      "publication": {
+        "title": "Adoção de Práticas de Gestão de Segurança da Informação na Administração Pública Federal (Adoption of Information Security Management Practices in the Federal Public …",
+        "year": 3641,
+        "authors": "L Franco, C Denner",
+        "source": "both_sources"
+      },
+      "matches": [],
+      "has_likely_duplicate": false
+    },
+    {
+      "index": 3,
+      "publication": {
+        "title": "The Inextricable Role of Organizational Sponsorship for Open Source Sustainability",
+        "year": 2011,
+        "authors": "CD Santos Jr, G Kuk, F Kon, R Suguiura",
+        "source": "both_sources"
+      },
+      "matches": [
+        {
+          "is_duplicate": false,
+          "confidence": 0.5365853658536586,
+          "indicators": {
+            "title_similarity": 0.5365853658536586,
+            "keyword_overlap": 0.07692307692307693,
+            "same_year": false,
+            "year_close": false,
+            "author_match": false
+          },
+          "bib_entry": {
+            "type": "article",
+            "key": "esashika2017thei",
+            "title": "The influence of sponsors on organizational structure of free software communities",
+            "author": "Esashika, Daniel and Santos, Carlos Denner dos",
+            "year": "2017",
+            "doi": "10.1145/3167020.3167060",
+            "journal": "",
+            "booktitle": "",
+            "venue": ""
+          }
+        },
+        {
+          "is_duplicate": false,
+          "confidence": 0.5365853658536586,
+          "indicators": {
+            "title_similarity": 0.5365853658536586,
+            "keyword_overlap": 0.07692307692307693,
+            "same_year": false,
+            "year_close": false,
+            "author_match": false
+          },
+          "bib_entry": {
+            "type": "article",
+            "key": "esashika2020thei",
+            "title": "The influence of sponsors on organizational structure of free software communities",
+            "author": "Esashika, Daniel and Santos, Carlos Denner dos",
+            "year": "2020",
+            "doi": "10.48550/arxiv.2007.02426",
+            "journal": "arXiv (Cornell University)",
+            "booktitle": "",
+            "venue": "arXiv (Cornell University)"
+          }
+        }
+      ],
+      "has_likely_duplicate": false
+    },
+    {
+      "index": 4,
+      "publication": {
+        "title": "Using Free/Libre/Open Source for Software Engineering Education",
+        "year": null,
+        "authors": "C Chavez, A Terceiro, P Meirelles, C Santos Jr, F Kon",
+        "source": "both_sources"
+      },
+      "matches": [
+        {
+          "is_duplicate": false,
+          "confidence": 0.5378151260504201,
+          "indicators": {
+            "title_similarity": 0.5378151260504201,
+            "keyword_overlap": 0.4444444444444444,
+            "same_year": false,
+            "year_close": false,
+            "author_match": false
+          },
+          "bib_entry": {
+            "type": "article",
+            "key": "santos2010attr",
+            "title": "Attractiveness of free and open source software projects",
+            "author": "Santos, Carlos Denner dos and Kon, F{\\'a",
+            "year": "2010",
+            "doi": "",
+            "journal": "AIS Electronic Library (AISeL) (Association for Information Systems)",
+            "booktitle": "",
+            "venue": "AIS Electronic Library (AISeL) (Association for Information Systems)"
+          }
+        },
+        {
+          "is_duplicate": false,
+          "confidence": 0.5185185185185185,
+          "indicators": {
+            "title_similarity": 0.5185185185185185,
+            "keyword_overlap": 0.4,
+            "same_year": false,
+            "year_close": false,
+            "author_match": false
+          },
+          "bib_entry": {
+            "type": "article",
+            "key": "santos2012thea",
+            "title": "The attraction of contributors in free and open source software projects",
+            "author": "Santos, Carlos Denner dos and Kuk, George and Kon, F{\\'a",
+            "year": "2012",
+            "doi": "10.1016/j.jsis.2012.07.004",
+            "journal": "The Journal of Strategic Information Systems",
+            "booktitle": "",
+            "venue": "The Journal of Strategic Information Systems"
+          }
+        },
+        {
+          "is_duplicate": false,
+          "confidence": 0.5142857142857142,
+          "indicators": {
+            "title_similarity": 0.5142857142857142,
+            "keyword_overlap": 0.1111111111111111,
+            "same_year": false,
+            "year_close": false,
+            "author_match": false
+          },
+          "bib_entry": {
+            "type": "article",
+            "key": "santos2022crow",
+            "title": "Crowdfunding for entrepreneurial education",
+            "author": "Santos, Carlos Denner dos and Moreira, Marina and Panis, Amanda and Alves, Dyego",
+            "year": "2022",
+            "doi": "10.4018/ijicte.315762",
+            "journal": "International Journal of Information and Communication Technology Education",
+            "booktitle": "",
+            "venue": "International Journal of Information and Communication Technology Education"
+          }
+        }
+      ],
+      "has_likely_duplicate": false
+    },
+    {
+      "index": 5,
+      "publication": {
+        "title": "Open source software projects' attractiveness, activeness, and efficiency as a path to software quality: an empirical evaluation of their relationships and causes",
+        "year": 2009,
+        "authors": "C Santos Jr",
+        "source": "both_sources"
+      },
+      "matches": [],
+      "has_likely_duplicate": false
+    },
+    {
+      "index": 6,
+      "publication": {
+        "title": "Inovação no setor público: teoria, tendências e casos no Brasil",
+        "year": 2017,
+        "authors": "P Cavalcante, M Camões, B Cunha, W Severo",
+        "source": "google_scholar"
+      },
+      "matches": [],
+      "has_likely_duplicate": false
+    },
+    {
+      "index": 7,
+      "publication": {
+        "title": "Open source software projects' attractiveness, activeness, and efficiency as a path to software quality: an empirical evaluation of their relationships and causes",
+        "year": 2009,
+        "authors": "C Santos Jr",
+        "source": "google_scholar"
+      },
+      "matches": [],
+      "has_likely_duplicate": false
+    },
+    {
+      "index": 8,
+      "publication": {
+        "title": "Free/libre/open source software development in software engineering education: Opportunities and experiences",
+        "year": 2011,
+        "authors": "C Chavez, A Terceiro, P Meirelles, C Santos Jr, F Kon",
+        "source": "google_scholar"
+      },
+      "matches": [],
+      "has_likely_duplicate": false
+    },
+    {
+      "index": 9,
+      "publication": {
+        "title": "The Inextricable Role of Organizational Sponsorship for Open Source Sustainability",
+        "year": 2011,
+        "authors": "CD Santos Jr, G Kuk, F Kon, R Suguiura",
+        "source": "google_scholar"
+      },
+      "matches": [
+        {
+          "is_duplicate": false,
+          "confidence": 0.5365853658536586,
+          "indicators": {
+            "title_similarity": 0.5365853658536586,
+            "keyword_overlap": 0.07692307692307693,
+            "same_year": false,
+            "year_close": false,
+            "author_match": false
+          },
+          "bib_entry": {
+            "type": "article",
+            "key": "esashika2017thei",
+            "title": "The influence of sponsors on organizational structure of free software communities",
+            "author": "Esashika, Daniel and Santos, Carlos Denner dos",
+            "year": "2017",
+            "doi": "10.1145/3167020.3167060",
+            "journal": "",
+            "booktitle": "",
+            "venue": ""
+          }
+        },
+        {
+          "is_duplicate": false,
+          "confidence": 0.5365853658536586,
+          "indicators": {
+            "title_similarity": 0.5365853658536586,
+            "keyword_overlap": 0.07692307692307693,
+            "same_year": false,
+            "year_close": false,
+            "author_match": false
+          },
+          "bib_entry": {
+            "type": "article",
+            "key": "esashika2020thei",
+            "title": "The influence of sponsors on organizational structure of free software communities",
+            "author": "Esashika, Daniel and Santos, Carlos Denner dos",
+            "year": "2020",
+            "doi": "10.48550/arxiv.2007.02426",
+            "journal": "arXiv (Cornell University)",
+            "booktitle": "",
+            "venue": "arXiv (Cornell University)"
+          }
+        }
+      ],
+      "has_likely_duplicate": false
+    },
+    {
+      "index": 10,
+      "publication": {
+        "title": "Capítulo 2 A Gestão da Inovação na Universidade de Brasília",
+        "year": 2019,
+        "authors": "SCM Barbalho, GF Ghesti, SMS Carvalho, CD dos Santos, AR Martin, ...",
+        "source": "google_scholar"
+      },
+      "matches": [],
+      "has_likely_duplicate": false
+    },
+    {
+      "index": 11,
+      "publication": {
+        "title": "Un estudio acerca de la influencia de los mecanismos no operacionales en la efectividad de lagobernanza de tecnología de la información pública",
+        "year": 2017,
+        "authors": "L Santos, C Dos Santos",
+        "source": "google_scholar"
+      },
+      "matches": [],
+      "has_likely_duplicate": false
+    },
+    {
+      "index": 12,
+      "publication": {
+        "title": "A Relação entre o risco percebido e a confiança na marca do banco na ótica de usuários de mobile banking",
+        "year": 2015,
+        "authors": "TL Gelenske, JS Farias, CD Dos Santos Junior",
+        "source": "google_scholar"
+      },
+      "matches": [],
+      "has_likely_duplicate": false
+    },
+    {
+      "index": 13,
+      "publication": {
+        "title": "Um estudo exploratório dos fatores associados ao estímulo do aprendizado em times ágeis na indústria",
+        "year": 2010,
+        "authors": "CO Melo, CDS Jr, GRM Ferreira, F Kon",
+        "source": "google_scholar"
+      },
+      "matches": [],
+      "has_likely_duplicate": false
+    },
+    {
+      "index": 14,
+      "publication": {
+        "title": "A resource-based explanation for the Apache consistent dominance in the web-server industry",
+        "year": 2008,
+        "authors": "C Santos Jr, M Gonçalves",
+        "source": "google_scholar"
+      },
+      "matches": [
+        {
+          "is_duplicate": false,
+          "confidence": 0.5512820512820513,
+          "indicators": {
+            "title_similarity": 0.5512820512820513,
+            "keyword_overlap": 0.3,
+            "same_year": false,
+            "year_close": false,
+            "author_match": false
+          },
+          "bib_entry": {
+            "type": "incollection",
+            "key": "santos2011apac",
+            "title": "Apache sustained competitive advantage in the web server industry",
+            "author": "Santos, Carlos Denner dos and Gon{\\c c",
+            "year": "2011",
+            "doi": "10.4018/978-1-61350-519-9.ch013",
+            "journal": "",
+            "booktitle": "IGI Global eBooks",
+            "venue": "IGI Global eBooks"
+          }
+        }
+      ],
+      "has_likely_duplicate": false
+    },
+    {
+      "index": 15,
+      "publication": {
+        "title": "Avaliação de sistemas de informações",
+        "year": 2004,
+        "authors": "JA AMÂNCIO, CDD SANTOS JÚNIOR, MA GONÇALVES",
+        "source": "google_scholar"
+      },
+      "matches": [],
+      "has_likely_duplicate": false
+    },
+    {
+      "index": 16,
+      "publication": {
+        "title": "The role of firm-specific knowledge and technology on artificial intelligence breakthroughs: Oligopolistic evidence from global R&D expenditure",
+        "year": 2022,
+        "authors": "PJ de Moura Jr, CD Santos Jr, C Bellini",
+        "source": "google_scholar"
+      },
+      "matches": [
+        {
+          "is_duplicate": false,
+          "confidence": 0.5528455284552846,
+          "indicators": {
+            "title_similarity": 0.5528455284552846,
+            "keyword_overlap": 0.3125,
+            "same_year": false,
+            "year_close": false,
+            "author_match": false
+          },
+          "bib_entry": {
+            "type": "article",
+            "key": "moura2024theo",
+            "title": "The Over-Concentration of innovation and Firm-Specific knowledge in the artificial intelligence industry",
+            "author": "Moura, Pedro J{\\'a",
+            "year": "2024",
+            "doi": "10.1007/s13132-024-01974-1",
+            "journal": "Journal of the Knowledge Economy",
+            "booktitle": "",
+            "venue": "Journal of the Knowledge Economy"
+          }
+        }
+      ],
+      "has_likely_duplicate": false
+    },
+    {
+      "index": 17,
+      "publication": {
+        "title": "Organização de Projetos de Software Livre e de Código Aberto: entre a comunidade e a governança tradicional",
+        "year": 2021,
+        "authors": "IN Ferraz, CD Santos Júnior",
+        "source": "google_scholar"
+      },
+      "matches": [
+        {
+          "is_duplicate": false,
+          "confidence": 0.5454545454545454,
+          "indicators": {
+            "title_similarity": 0.5454545454545454,
+            "keyword_overlap": 0.2727272727272727,
+            "same_year": false,
+            "year_close": false,
+            "author_match": false
+          },
+          "bib_entry": {
+            "type": "article",
+            "key": "santos2010atra",
+            "title": "Atratividade de projetos de software livre: importância te{\\'o",
+            "author": "Santos, Carlos Denner dos",
+            "year": "2010",
+            "doi": "",
+            "journal": "Sociedad (University of Buenos Aires)",
+            "booktitle": "",
+            "venue": "Sociedad (University of Buenos Aires)"
+          }
+        }
+      ],
+      "has_likely_duplicate": false
+    },
+    {
+      "index": 18,
+      "publication": {
+        "title": "Semi-Automatic Evaluation of Free Software Projects: A Source Code Perspective",
+        "year": 2011,
+        "authors": "P Meirelles, F Kon, C Santos Jr",
+        "source": "google_scholar"
+      },
+      "matches": [],
+      "has_likely_duplicate": false
+    },
+    {
+      "index": 19,
+      "publication": {
+        "title": "Um estudo sobre o impacto dos mecanismos não operacionais na efetividade da governança detecnologia da informação pública",
+        "year": 2017,
+        "authors": "LC Santos, CD Santos Jr",
+        "source": "google_scholar"
+      },
+      "matches": [],
+      "has_likely_duplicate": false
+    },
+    {
+      "index": 20,
+      "publication": {
+        "title": "A influência dos patrocinadores nas estruturas organizacionais de comunidades de software livre",
+        "year": 2016,
+        "authors": "DSS Esashika",
+        "source": "google_scholar"
+      },
+      "matches": [
+        {
+          "is_duplicate": false,
+          "confidence": 0.519774011299435,
+          "indicators": {
+            "title_similarity": 0.519774011299435,
+            "keyword_overlap": 0.07692307692307693,
+            "same_year": false,
+            "year_close": true,
+            "author_match": false
+          },
+          "bib_entry": {
+            "type": "article",
+            "key": "esashika2017thei",
+            "title": "The influence of sponsors on organizational structure of free software communities",
+            "author": "Esashika, Daniel and Santos, Carlos Denner dos",
+            "year": "2017",
+            "doi": "10.1145/3167020.3167060",
+            "journal": "",
+            "booktitle": "",
+            "venue": ""
+          }
+        },
+        {
+          "is_duplicate": false,
+          "confidence": 0.519774011299435,
+          "indicators": {
+            "title_similarity": 0.519774011299435,
+            "keyword_overlap": 0.07692307692307693,
+            "same_year": false,
+            "year_close": false,
+            "author_match": false
+          },
+          "bib_entry": {
+            "type": "article",
+            "key": "esashika2020thei",
+            "title": "The influence of sponsors on organizational structure of free software communities",
+            "author": "Esashika, Daniel and Santos, Carlos Denner dos",
+            "year": "2020",
+            "doi": "10.48550/arxiv.2007.02426",
+            "journal": "arXiv (Cornell University)",
+            "booktitle": "",
+            "venue": "arXiv (Cornell University)"
+          }
+        }
+      ],
+      "has_likely_duplicate": false
+    },
+    {
+      "index": 21,
+      "publication": {
+        "title": "Efeitos dos mecanismos de governança na capacidade absortiva de projetos de colaboração internacional: um estudo de caso na organização Embrapa",
+        "year": 250,
+        "authors": "SSO Mori, CD Santos, IN Ferraz",
+        "source": "google_scholar"
+      },
+      "matches": [],
+      "has_likely_duplicate": false
+    },
+    {
+      "index": 22,
+      "publication": {
+        "title": "Effects of governance mechanisms on the absorptive capacity of international collaboration projects: a case study in the company Embrapa",
+        "year": 250,
+        "authors": "SSO Mori, CD Santos, IN Ferraz",
+        "source": "google_scholar"
+      },
+      "matches": [],
+      "has_likely_duplicate": false
+    },
+    {
+      "index": 23,
+      "publication": {
+        "title": "Transformação de projetos de desenvolvimento de software livre: Uma governança entre a catedral e o bazar",
+        "year": 2020,
+        "authors": "IN Ferraz, CD Santos",
+        "source": "google_scholar"
+      },
+      "matches": [
+        {
+          "is_duplicate": false,
+          "confidence": 0.5833333333333334,
+          "indicators": {
+            "title_similarity": 0.5833333333333334,
+            "keyword_overlap": 0.05555555555555555,
+            "same_year": false,
+            "year_close": false,
+            "author_match": false
+          },
+          "bib_entry": {
+            "type": "article",
+            "key": "ferraz2022tran",
+            "title": "Transformation OF FREE AND OPEN SOURCE SOFTWARE DEVELOPMENT PROJECTS: GOVERNANCE BETWEEN THE CATHEDRAL AND BAZAAR",
+            "author": "Ferraz, Isabela Neves and Santos, Carlos Denner dos",
+            "year": "2022",
+            "doi": "10.1590/s0034-759020220104",
+            "journal": "Revista de Administra{\\c c",
+            "booktitle": "",
+            "venue": "Revista de Administra{\\c c"
+          }
+        },
+        {
+          "is_duplicate": false,
+          "confidence": 0.5766871165644172,
+          "indicators": {
+            "title_similarity": 0.5766871165644172,
+            "keyword_overlap": 0.3,
+            "same_year": false,
+            "year_close": false,
+            "author_match": false
+          },
+          "bib_entry": {
+            "type": "article",
+            "key": "santos2010atra",
+            "title": "Atratividade de projetos de software livre: importância te{\\'o",
+            "author": "Santos, Carlos Denner dos",
+            "year": "2010",
+            "doi": "",
+            "journal": "Sociedad (University of Buenos Aires)",
+            "booktitle": "",
+            "venue": "Sociedad (University of Buenos Aires)"
+          }
+        }
+      ],
+      "has_likely_duplicate": false
+    },
+    {
+      "index": 25,
+      "publication": {
+        "title": "Governança de comunidades virtuais: entendendo a transformação da estrutura e dos processos de controle em projetos de software livre",
+        "year": 2019,
+        "authors": "IN Ferraz",
+        "source": "google_scholar"
+      },
+      "matches": [],
+      "has_likely_duplicate": false
+    },
+    {
+      "index": 26,
+      "publication": {
+        "title": "CONSECUENCIAS PREVISTAS Y NO PREVISTAS DE LA ADOPCIÓN DE INNOVACIÓN: ADOPCIÓN DE DATOS ABIERTOS POR PARTE DEL GOBIERNO DE DISTRITO FEDERAL DE BRASIL",
+        "year": 2019,
+        "authors": "LF Oliveira, CD Santos",
+        "source": "google_scholar"
+      },
+      "matches": [],
+      "has_likely_duplicate": false
+    },
+    {
+      "index": 27,
+      "publication": {
+        "title": "CONSEQUÊNCIAS PRETENDIDAS E NÃO PRETENDIDAS DA ADOÇÃO DE INOVAÇÕES: A ADOÇÃO DE DADOS ABERTOS PELO GOVERNO DO DISTRITO FEDERAL DO BRASIL",
+        "year": 2019,
+        "authors": "LF Oliveira, CD Santos",
+        "source": "google_scholar"
+      },
+      "matches": [],
+      "has_likely_duplicate": false
+    },
+    {
+      "index": 29,
+      "publication": {
+        "title": "Stakeholders of Free Software Projects: What is missing in the literature?",
+        "year": 2018,
+        "authors": "CD dos Santos",
+        "source": "google_scholar"
+      },
+      "matches": [],
+      "has_likely_duplicate": false
+    },
+    {
+      "index": 30,
+      "publication": {
+        "title": "Governance of collaborative projects organized as communities",
+        "year": 2018,
+        "authors": "I Ferraz, C Santos Jr",
+        "source": "google_scholar"
+      },
+      "matches": [
+        {
+          "is_duplicate": false,
+          "confidence": 0.5174825174825175,
+          "indicators": {
+            "title_similarity": 0.5174825174825175,
+            "keyword_overlap": 0.09090909090909091,
+            "same_year": false,
+            "year_close": true,
+            "author_match": false
+          },
+          "bib_entry": {
+            "type": "article",
+            "key": "esashika2017thei",
+            "title": "The influence of sponsors on organizational structure of free software communities",
+            "author": "Esashika, Daniel and Santos, Carlos Denner dos",
+            "year": "2017",
+            "doi": "10.1145/3167020.3167060",
+            "journal": "",
+            "booktitle": "",
+            "venue": ""
+          }
+        },
+        {
+          "is_duplicate": false,
+          "confidence": 0.5174825174825175,
+          "indicators": {
+            "title_similarity": 0.5174825174825175,
+            "keyword_overlap": 0.09090909090909091,
+            "same_year": false,
+            "year_close": false,
+            "author_match": false
+          },
+          "bib_entry": {
+            "type": "article",
+            "key": "esashika2020thei",
+            "title": "The influence of sponsors on organizational structure of free software communities",
+            "author": "Esashika, Daniel and Santos, Carlos Denner dos",
+            "year": "2020",
+            "doi": "10.48550/arxiv.2007.02426",
+            "journal": "arXiv (Cornell University)",
+            "booktitle": "",
+            "venue": "arXiv (Cornell University)"
+          }
+        }
+      ],
+      "has_likely_duplicate": false
+    },
+    {
+      "index": 31,
+      "publication": {
+        "title": "SANTOS JÚNIOR, Carlos Denner",
+        "year": 2017,
+        "authors": "LO OLIVIERA",
+        "source": "google_scholar"
+      },
+      "matches": [],
+      "has_likely_duplicate": false
+    },
+    {
+      "index": 32,
+      "publication": {
+        "title": "As consequências organizacionais das escolhas estratégicas das coalizões dominantes",
+        "year": 2017,
+        "authors": "BM Henrique, CD dos Santos Júnior",
+        "source": "google_scholar"
+      },
+      "matches": [],
+      "has_likely_duplicate": false
+    },
+    {
+      "index": 33,
+      "publication": {
+        "title": "O IMPACTO DOS MECANISMOS NÃO OPERACIONAIS NA GOVERNANÇA TECNOLÓGICA PÚBLICA",
+        "year": 2016,
+        "authors": "L Santos, C Santos",
+        "source": "google_scholar"
+      },
+      "matches": [],
+      "has_likely_duplicate": false
+    },
+    {
+      "index": 34,
+      "publication": {
+        "title": "Global entrepreneurship: case studies of entrepreneurial firms operating around the world",
+        "year": 2014,
+        "authors": "J Hayton, C Salvato, MJ Manimala",
+        "source": "google_scholar"
+      },
+      "matches": [],
+      "has_likely_duplicate": false
+    },
+    {
+      "index": 35,
+      "publication": {
+        "title": "Business Incubation and the Pipeway Business Case in Brazil",
+        "year": 2014,
+        "authors": "NMBF Santos, CE de Sousa, CD dos Santos, RF Santos",
+        "source": "google_scholar"
+      },
+      "matches": [
+        {
+          "is_duplicate": false,
+          "confidence": 0.5203252032520326,
+          "indicators": {
+            "title_similarity": 0.5203252032520326,
+            "keyword_overlap": 0.1111111111111111,
+            "same_year": false,
+            "year_close": false,
+            "author_match": false
+          },
+          "bib_entry": {
+            "type": "article",
+            "key": "alves2022thed",
+            "title": "The diffusion of innovations under normative induction in Brazil",
+            "author": "Alves, Gustavo de Freitas and Santos, Carlos Denner dos",
+            "year": "2022",
+            "doi": "10.1108/rausp-10-2020-0250",
+            "journal": "RAUSP Management Journal",
+            "booktitle": "",
+            "venue": "RAUSP Management Journal"
+          }
+        }
+      ],
+      "has_likely_duplicate": false
+    },
+    {
+      "index": 36,
+      "publication": {
+        "title": "EDITOR’s SPACE Special issue: Free Software",
+        "year": 2014,
+        "authors": "CD dos Santos Jr",
+        "source": "google_scholar"
+      },
+      "matches": [],
+      "has_likely_duplicate": false
+    },
+    {
+      "index": 37,
+      "publication": {
+        "title": "Edição temática: Software Livre/EDITOR's SPACE: Special issue: Free Software",
+        "year": 2014,
+        "authors": "CD dos Santos Jr",
+        "source": "google_scholar"
+      },
+      "matches": [
+        {
+          "is_duplicate": false,
+          "confidence": 0.5,
+          "indicators": {
+            "title_similarity": 0.5,
+            "keyword_overlap": 0.16666666666666666,
+            "same_year": false,
+            "year_close": false,
+            "author_match": false
+          },
+          "bib_entry": {
+            "type": "article",
+            "key": "santos2010atra",
+            "title": "Atratividade de projetos de software livre: importância te{\\'o",
+            "author": "Santos, Carlos Denner dos",
+            "year": "2010",
+            "doi": "",
+            "journal": "Sociedad (University of Buenos Aires)",
+            "booktitle": "",
+            "venue": "Sociedad (University of Buenos Aires)"
+          }
+        }
+      ],
+      "has_likely_duplicate": false
+    },
+    {
+      "index": 38,
+      "publication": {
+        "title": "Redes Sociais Virtuais-Uma investigação de abordagens metodológicas de pesquisa",
+        "year": 2014,
+        "authors": "IV Castro, JS Farias, C Júnior",
+        "source": "google_scholar"
+      },
+      "matches": [],
+      "has_likely_duplicate": false
+    },
+    {
+      "index": 39,
+      "publication": {
+        "title": "Governança de ti em organizações públicas: como a efetividade percebida se relaciona com três mecanismos clássicos",
+        "year": 2014,
+        "authors": "G Heindrickson, CD Santos Jr",
+        "source": "google_scholar"
+      },
+      "matches": [],
+      "has_likely_duplicate": false
+    },
+    {
+      "index": 40,
+      "publication": {
+        "title": "Adoção de Práticas de Gestão de Segurança da Informação na Administração Pública Federal (Adoption of Information Security Management Practices in the Federal Public …",
+        "year": 3641,
+        "authors": "L Franco, C Denner",
+        "source": "google_scholar"
+      },
+      "matches": [],
+      "has_likely_duplicate": false
+    },
+    {
+      "index": 42,
+      "publication": {
+        "title": "Using Free/Libre/Open Source for Software Engineering Education",
+        "year": null,
+        "authors": "C Chavez, A Terceiro, P Meirelles, C Santos Jr, F Kon",
+        "source": "google_scholar"
+      },
+      "matches": [
+        {
+          "is_duplicate": false,
+          "confidence": 0.5378151260504201,
+          "indicators": {
+            "title_similarity": 0.5378151260504201,
+            "keyword_overlap": 0.4444444444444444,
+            "same_year": false,
+            "year_close": false,
+            "author_match": false
+          },
+          "bib_entry": {
+            "type": "article",
+            "key": "santos2010attr",
+            "title": "Attractiveness of free and open source software projects",
+            "author": "Santos, Carlos Denner dos and Kon, F{\\'a",
+            "year": "2010",
+            "doi": "",
+            "journal": "AIS Electronic Library (AISeL) (Association for Information Systems)",
+            "booktitle": "",
+            "venue": "AIS Electronic Library (AISeL) (Association for Information Systems)"
+          }
+        },
+        {
+          "is_duplicate": false,
+          "confidence": 0.5185185185185185,
+          "indicators": {
+            "title_similarity": 0.5185185185185185,
+            "keyword_overlap": 0.4,
+            "same_year": false,
+            "year_close": false,
+            "author_match": false
+          },
+          "bib_entry": {
+            "type": "article",
+            "key": "santos2012thea",
+            "title": "The attraction of contributors in free and open source software projects",
+            "author": "Santos, Carlos Denner dos and Kuk, George and Kon, F{\\'a",
+            "year": "2012",
+            "doi": "10.1016/j.jsis.2012.07.004",
+            "journal": "The Journal of Strategic Information Systems",
+            "booktitle": "",
+            "venue": "The Journal of Strategic Information Systems"
+          }
+        },
+        {
+          "is_duplicate": false,
+          "confidence": 0.5142857142857142,
+          "indicators": {
+            "title_similarity": 0.5142857142857142,
+            "keyword_overlap": 0.1111111111111111,
+            "same_year": false,
+            "year_close": false,
+            "author_match": false
+          },
+          "bib_entry": {
+            "type": "article",
+            "key": "santos2022crow",
+            "title": "Crowdfunding for entrepreneurial education",
+            "author": "Santos, Carlos Denner dos and Moreira, Marina and Panis, Amanda and Alves, Dyego",
+            "year": "2022",
+            "doi": "10.4018/ijicte.315762",
+            "journal": "International Journal of Information and Communication Technology Education",
+            "booktitle": "",
+            "venue": "International Journal of Information and Communication Technology Education"
+          }
+        }
+      ],
+      "has_likely_duplicate": false
+    },
+    {
+      "index": 43,
+      "publication": {
+        "title": "Governança de projetos colaborativos organizados em comunidades",
+        "year": null,
+        "authors": "IN Ferraz-isabelanf, CD dos Santos Júnior",
+        "source": "google_scholar"
+      },
+      "matches": [],
+      "has_likely_duplicate": false
+    },
+    {
+      "index": 44,
+      "publication": {
+        "title": "Innovation & Management Review",
+        "year": null,
+        "authors": "LFS Pinto, CD dos Santos",
+        "source": "google_scholar"
+      },
+      "matches": [
+        {
+          "is_duplicate": false,
+          "confidence": 0.5,
+          "indicators": {
+            "title_similarity": 0.5,
+            "keyword_overlap": 0.16666666666666666,
+            "same_year": false,
+            "year_close": false,
+            "author_match": false
+          },
+          "bib_entry": {
+            "type": "incollection",
+            "key": "oliveira2018open",
+            "title": "Open innovation in the public sector",
+            "author": "Oliveira, Leonardo Ferreira de and Santos, Carlos Denner dos",
+            "year": "2018",
+            "doi": "10.1007/978-3-319-96661-8_47",
+            "journal": "",
+            "booktitle": "Springer proceedings in complexity",
+            "venue": "Springer proceedings in complexity"
+          }
+        }
+      ],
+      "has_likely_duplicate": false
+    },
+    {
+      "index": 46,
+      "publication": {
+        "title": "O Ambiente Organizacional e Os Fatores Inovadores: Influências na Adoção de Mídias Sociais",
+        "year": null,
+        "authors": "DD Silva, CD dos Santos Júnior, IV Castro",
+        "source": "google_scholar"
+      },
+      "matches": [],
+      "has_likely_duplicate": false
+    },
+    {
+      "index": 47,
+      "publication": {
+        "title": "231-AVALIAÇÃO DE SISTEMAS DE INFORMAÇÕES",
+        "year": null,
+        "authors": "JA AMÂNCIO, CDDOSS JÚNIOR, MA GONÇALVES",
+        "source": "google_scholar"
+      },
+      "matches": [],
+      "has_likely_duplicate": false
+    },
+    {
+      "index": 48,
+      "publication": {
+        "title": "OPEN DATA 2.0: COLLABORATION IN ONLINE DATABASE PLATFORMS",
+        "year": null,
+        "authors": "",
+        "source": "researchgate"
+      },
+      "matches": [
+        {
+          "is_duplicate": false,
+          "confidence": 0.5,
+          "indicators": {
+            "title_similarity": 0.5,
+            "keyword_overlap": 0.1111111111111111,
+            "same_year": false,
+            "year_close": false,
+            "author_match": false
+          },
+          "bib_entry": {
+            "type": "incollection",
+            "key": "oliveira2018open",
+            "title": "Open innovation in the public sector",
+            "author": "Oliveira, Leonardo Ferreira de and Santos, Carlos Denner dos",
+            "year": "2018",
+            "doi": "10.1007/978-3-319-96661-8_47",
+            "journal": "",
+            "booktitle": "Springer proceedings in complexity",
+            "venue": "Springer proceedings in complexity"
+          }
+        }
+      ],
+      "has_likely_duplicate": false
+    },
+    {
+      "index": 49,
+      "publication": {
+        "title": "Estudos de Aston e a Teoria Formal da Diferenciação Estrutural Revisitados: Os Resultados Ainda se Aplicam?",
+        "year": null,
+        "authors": "",
+        "source": "researchgate"
+      },
+      "matches": [],
+      "has_likely_duplicate": false
+    },
+    {
+      "index": 50,
+      "publication": {
+        "title": "Adoção de Práticas de Gestão de Segurança da Informação na Administração Pública Federal (Adoption of Information Security Management Practices in the Federal Public Administration)",
+        "year": null,
+        "authors": "",
+        "source": "researchgate"
+      },
+      "matches": [],
+      "has_likely_duplicate": false
+    },
+    {
+      "index": 51,
+      "publication": {
+        "title": "The Inextricable Role of Organizational Sponsorship for Open Source Sustainability",
+        "year": null,
+        "authors": "",
+        "source": "researchgate"
+      },
+      "matches": [
+        {
+          "is_duplicate": false,
+          "confidence": 0.5365853658536586,
+          "indicators": {
+            "title_similarity": 0.5365853658536586,
+            "keyword_overlap": 0.07692307692307693,
+            "same_year": false,
+            "year_close": false,
+            "author_match": false
+          },
+          "bib_entry": {
+            "type": "article",
+            "key": "esashika2017thei",
+            "title": "The influence of sponsors on organizational structure of free software communities",
+            "author": "Esashika, Daniel and Santos, Carlos Denner dos",
+            "year": "2017",
+            "doi": "10.1145/3167020.3167060",
+            "journal": "",
+            "booktitle": "",
+            "venue": ""
+          }
+        },
+        {
+          "is_duplicate": false,
+          "confidence": 0.5365853658536586,
+          "indicators": {
+            "title_similarity": 0.5365853658536586,
+            "keyword_overlap": 0.07692307692307693,
+            "same_year": false,
+            "year_close": false,
+            "author_match": false
+          },
+          "bib_entry": {
+            "type": "article",
+            "key": "esashika2020thei",
+            "title": "The influence of sponsors on organizational structure of free software communities",
+            "author": "Esashika, Daniel and Santos, Carlos Denner dos",
+            "year": "2020",
+            "doi": "10.48550/arxiv.2007.02426",
+            "journal": "arXiv (Cornell University)",
+            "booktitle": "",
+            "venue": "arXiv (Cornell University)"
+          }
+        }
+      ],
+      "has_likely_duplicate": false
+    }
+  ]
+}

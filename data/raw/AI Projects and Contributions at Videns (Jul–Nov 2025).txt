@@ -1,0 +1,306 @@
+AI Projects and Contributions at Videns (Jul–Nov 
+2025)
+AI Strategy and Use Case Roadmap for LGI Healthcare Solutions 
+(Novacap Portfolio)
+Upon joining Videns in late July 2025, I took on a lead role in an AI transformation 
+project for LGI Healthcare Solutions, a healthcare software provider recently 
+acquired by Novacap. In this engagement, I helped analyze and prioritize AI use 
+cases and formulate a multi-phase AI adoption roadmap for the client’s products 
+and internal operations. Working closely with Videns colleagues and LGI 
+stakeholders, I bridged business needs with technical possibilities to drive a 
+comprehensive AI strategy.
+*	Use Case Discovery & Feasibility: I collaborated in identifying dozens of 
+potential AI use cases across LGI’s hospital management systems (product 
+use cases) and internal processes. For each idea, I assessed its business 
+value, data requirements, and technical feasibility. We documented these in 
+Excel and presented a synthesis to the client[1]. For example, I helped 
+compile an Excel inventory of AI opportunities along with a PowerPoint 
+summary of findings for both the product and internal “streams”[2][3]. I 
+contributed my AI expertise to estimate implementation effort (“t-shirt 
+sizing”) and to score each use case’s potential impact. This allowed us to 
+prioritize high-value, moderate-effort use cases (as later confirmed by 
+client leadership’s prioritization[4]). I also outlined next steps for deeper 
+analysis, such as evaluating technical risks and ROI in follow-up 
+workshops[5].
+*	Technical Evaluation & Architecture: For top-priority use cases, I provided 
+a deeper technical assessment. In one instance, I added a new “POC 
+Architecture” column to the use case analysis to sketch how a proof-of-
+concept solution might be architected[6]. This involved describing at a high 
+level which AI components, data sources, and integrations would be needed 
+(even though specific solutions weren’t chosen yet[6]). For example, one 
+high-priority case was optimizing patient flow in hospitals. I identified 
+opportunities to apply real-time data orchestration and predictive analytics: 
+automating alerts/notifications, adding a predictive “overlay” layer to 
+coordinate bed management and patient transfers, and AI-driven decision 
+support for inter-hospital transfers[7]. Another use case focused on 
+enhancing LGI’s RPA (Robotic Process Automation) system with AI. I 
+proposed integrating NLP and Large Language Models (LLMs) to enable the 
+RPA to read and understand unstructured documents (PDFs, faxes, forms) 
+and even generate summaries or text as needed[8]. These technical insights 
+– e.g. suggesting predictive orchestration for patient logistics and using LLMs 
+to boost automation – were directly incorporated into the client discussions 
+and planning. I also helped formulate critical questions about system 
+integration, data governance, and security (for instance, how to handle 
+sensitive data and two-factor authentication in AI-driven workflows) to guide 
+the client’s requirements[9].
+*	Roadmap & Phased Implementation: Leveraging the above analysis, I co-
+developed a phased AI roadmap for LGI. The roadmap was structured into 
+multiple “volets” (phases) aligning with the client’s strategic priorities. 
+Volet 1 centered on quick wins and foundational steps, Volet 2 on deeper 
+solution development, and Volet 3 on scaling and long-term capabilities. 
+Notably, we defined an initial feasibility phase (Volet 1) to validate use 
+cases and build stakeholder buy-in, followed by a strategy/architecture 
+phase (Volet 2) to incorporate client’s strategic documents and refine the 
+implementation plan[10][11]. The final phase was envisioned to include 
+prototyping select use cases and establishing AI governance. This roadmap 
+approach ensured the client had a clear timeline and path to gradually 
+integrate AI into their products and operations.
+Throughout this project, I acted as a technical subject-matter expert, working in 
+tandem with a data strategy specialist and a BI specialist. I interfaced regularly with 
+the client’s team (product owners, IT managers, and Novacap representatives) to 
+validate assumptions and refine requirements. By early October, our deliverables – 
+including the prioritized use case lists, effort/value analysis, and a phased 
+implementation plan – had equipped LGI’s leadership with a concrete strategy to 
+begin their AI journey.
+AI Upskilling and Maturity Evaluation for Client Teams
+As part of the AI roadmap for LGI, I also spearheaded education and maturity 
+assessment initiatives to ensure the client’s teams were prepared for the 
+upcoming AI-driven changes. This included designing a custom AI training program 
+and utilizing Videns’ proprietary AI maturity platform, Lucia, to benchmark progress.
+*	AI Training Program (Generative AI & Fundamentals): I co-developed and 
+delivered a “Formation Générale” (general AI training) module as Volet 1 
+of the roadmap[12]. This training was targeted at a broad audience – from 
+executives to operational staff – to build a solid understanding of AI concepts 
+and use cases. I worked with colleagues to create a slide deck covering AI 
+basics, machine learning concepts, and specific focus on generative AI (e.g. 
+ChatGPT use cases) in the client’s context. We included practical examples 
+(like how AI could optimize hospital workflows or automate document 
+processing) and interactive elements. I also prepared a concise cheat-sheet 
+reference for participants to reinforce key concepts and safe AI practices. 
+The first iteration of the French presentation was sent to the client in mid-
+October[12], and I incorporated client feedback (via comments on slides) to 
+ensure the content addressed their questions. Once the French version was 
+validated, I coordinated the creation of an English version[13], 
+demonstrating flexibility in bilingual delivery. This upskilling initiative 
+equipped client decision-makers and technical teams with the knowledge to 
+engage in AI projects meaningfully. It also included training on applied 
+generative AI, where I demonstrated how tools like ChatGPT could be used 
+responsibly for tasks such as summarizing reports or analyzing free-text 
+data, tailored to the client’s use cases.
+*	AI Maturity Assessment (Lucia Platform): To baseline the client’s AI 
+readiness, I facilitated an AI maturity assessment using Videns’ Lucia 
+platform. Lucia is an online tool (developed by Videns, now Cofomo) that 
+evaluates an organization’s adoption level of AI across dimensions like 
+strategy, data, skills, and governance. I obtained access to Lucia in 
+September[14] and participated in the beta-testing program for the platform 
+to familiarize myself with its features. I guided LGI’s key stakeholders 
+through the Lucia assessment questionnaire, helping interpret questions 
+where needed. After the assessment, I analyzed the generated maturity 
+report to identify gaps and strengths in LGI’s AI capabilities. The results 
+provided a quantitative measure of their AI maturity and were used to tailor 
+our recommendations. For instance, if the assessment showed low maturity 
+in data governance, we emphasized that in the roadmap’s later phases. The 
+Lucia platform, “powered by Videns”, was an invaluable tool – it lent 
+structure to our evaluation and added credibility to our findings[14]. I also 
+provided feedback to the Videns product team as a beta user, suggesting 
+improvements in the assessment questions relevance to real client 
+scenarios. This dual role – assessing the client and enhancing an internal AI 
+product – expanded my expertise in AI governance and measurement 
+frameworks.
+By combining hands-on training with a formal maturity audit, I ensured that our 
+client not only received a strategic plan on paper, but also developed the internal 
+awareness and readiness to execute it. These efforts were key in building trust with 
+the client’s team and empowering them to take ownership of their AI initiatives 
+moving forward.
+Generative AI Security Research (Prompt Injection Defense)
+In parallel with client-facing projects, I devoted time to an internal R&D initiative at 
+Videns: LLM security and prompt injection defense. Generative AI was a 
+component of our solutions, so ensuring its safe and ethical use was paramount. I 
+took the initiative to research and prototype a “prompt injection firewall” – a 
+system to protect Large Language Models from malicious or unintended 
+instructions.
+*	Problem Identification: Prompt injection is a known vulnerability where an 
+external input can manipulate an AI model’s behavior. I recognized that as 
+we integrate GPT-4 and similar LLMs into enterprise workflows (e.g. for 
+document understanding or chatbots), we needed safeguards against such 
+attacks. I started by reviewing state-of-the-art research on multi-layer 
+defenses for LLMs, including academic papers and security blogs.
+*	Prototype Development: I created a dedicated GitHub repository named 
+“prompt-injection-security” under the Videns organization to develop and 
+test mitigation strategies[15]. Working primarily in Python, I built a pipeline 
+that experimented with multiple defense techniques – for example, input 
+sanitization, intent verification using secondary AI models, and rule-based 
+filtering of model outputs. I implemented automated tests and CI workflows 
+to validate the approach. (The CI logs show my active development – e.g., a 
+GitHub Actions workflow running tests in early November[16].) One concept 
+I prototyped was a multi-agent guardrail: using a secondary AI agent to 
+scrutinize or rephrase user prompts before they reach the main LLM, thereby 
+neutralizing malicious patterns. I also tested output filtering, where the 
+LLM’s response is analyzed for any policy violations before release. This 
+work was done using open-source libraries and our internal Azure OpenAI 
+sandbox for safe testing.
+*	Results and Impact: By the end of this period, I had a working proof-of-
+concept “LLM Firewall” that demonstrated a multi-phase defense against 
+prompt injection. For example, my prototype could intercept a prompt 
+attempting to prompt the model to reveal confidential data and either block 
+it or reframe it safely. I documented the findings and best practices and 
+shared them with Videns’ innovation group. This R&D project strengthened 
+our internal knowledge of AI security. It directly informed guidelines for 
+deploying ChatGPT-like solutions for clients – my work ensured we advise on 
+proper guardrails and increase client confidence in using generative AI. In 
+short, I not only contributed to client deliverables but also to Videns’ 
+innovation portfolio by addressing cutting-edge AI safety challenges.
+Exploratory AI Initiatives in Other Sectors
+Beyond the major healthcare project, I have begun extending my AI expertise to new 
+domains and clients for Videns. Notably, in early November I started engaging with 
+a client in the hospitality sector – Germain Hotels – to explore AI opportunities. I 
+participated in an introductory meeting with Germain’s innovation lead to discuss 
+how AI could improve their operations and guest experience[17]. In preparation, I 
+researched common AI use cases in hospitality (such as demand forecasting, 
+personalized marketing, and chatbots for guest services) so I could bring informed 
+ideas to the table. During our kickoff call, I helped identify areas where AI might 
+add value – for example, using machine learning to optimize pricing and 
+occupancy, or implementing a GPT-powered virtual concierge for guests. While this 
+project is still in the discovery phase, I am slated to provide AI advisory and 
+potentially pilot solutions for them, broadening Videns’ reach into hospitality 
+analytics.
+Internally, I also contributed to cross-team knowledge sharing. I regularly 
+attended and sometimes led our Scrum meetings and Confluence documentation 
+sessions for ongoing projects. For instance, I collaborated with colleagues like 
+Sonia Montserrat on maintaining project pages (e.g. the Novacap P123 Confluence 
+space) and ensured our plans were transparently documented[18]. I’ve been an 
+early adopter of new collaboration tools as Videns integrates with Cofomo – 
+whether it’s migrating our email to the Cofomo domain[19] or leveraging the 
+corporate ChatGPT Team license (which I proactively requested on my first 
+week[20]). By working agilely and collaboratively, I helped the team deliver quality 
+results under tight timelines.
+Tools, Technologies, and Skills Utilized
+Over these first months, I have leveraged a broad set of tools and skills to deliver 
+value:
+*	Programming & Data Science: Primarily Python for prototyping AI solutions; 
+experience with data analysis and machine learning libraries. Set up GitHub 
+projects with CI/CD for R&D (as with the prompt injection security repo)[16]. 
+Familiar with cloud AI services (Azure OpenAI) and integration via APIs.
+*	AI Platforms: Extensive use of ChatGPT (GPT-4) as a productivity tool – from 
+brainstorming solution approaches to drafting code snippets. I utilized the 
+ChatGPT corporate workspace for safe handling of proprietary info. Also 
+used Lucia (Videns’ AI maturity platform) both as a user and tester[14], 
+gaining insight into AI governance metrics.
+*	Business Intelligence & Analytics: Comfortable analyzing business 
+processes and identifying where AI fits. Worked alongside BI specialists to 
+interpret data and quantify benefits (e.g. calculating potential time savings in 
+hospital bed management). This cross-functional skillset helped translate 
+technical solutions into business outcomes (reduced waiting times, 
+automated workflows, etc.).
+*	Domains & Industry Knowledge: Developed domain expertise in 
+healthcare IT (hospital workflows, electronic health record systems, RPA in 
+healthcare) through the LGI project. Additionally gained exposure to 
+hospitality domain needs via initial research for Germain Hotels. I also 
+stayed updated on AI trends in other industries (finance, retail) via self-study, 
+to be ready for future Videns mandates.
+*	Communication & Training: Created clear technical documentation and 
+executive-friendly presentations. Delivered training sessions explaining 
+complex AI concepts in layman’s terms. Bilingual communication 
+(French/English) was essential in client interactions and deliverables[13]. I 
+regularly wrote emails and reports summarizing analyses for diverse 
+audiences – from hands-on client teams to Novacap executives – honing my 
+ability to articulate AI value propositions.
+*	Collaboration & Project Management: Used Atlassian Confluence and 
+Jira/Teams for agile project coordination. Participated in daily scrums, 
+sprint plannings, and stakeholder workshops. Coordinated feedback loops 
+with clients (for example, collecting client input on training slides[21] or 
+clarifying requirements via email[22]). This ensured solutions were built 
+iteratively and met real needs. I also navigated the integration of Videns into 
+Cofomo’s organization, adapting to new IT environments (e.g. migrating 
+email accounts[19]) while maintaining productivity.
+Conclusion and Ongoing Development
+In summary, my first 3–4 months as an Expert in AI at Videns have been rich and 
+impactful. I have led AI strategy consulting for a major healthcare software firm, 
+delivering tangible roadmaps and use case analyses that set the foundation for AI 
+implementation[2][3]. I have designed and facilitated AI training programs to 
+elevate client capabilities[12], and employed Videns’ own tools like Lucia to ground 
+our strategies in data[14]. On the technical front, I have driven innovative R&D on 
+LLM safety, prototyped solutions to emerging AI security threats[16], and shared 
+these learnings internally.
+Equipped with a diverse toolkit of technical skills, industry domain knowledge, and 
+a strong consulting acumen, I have been able to deliver value across multiple fronts 
+– from detailed technical architecture to high-level strategic planning. I speak the 
+language of data scientists and software developers, but also that of business 
+executives and end-users, enabling me to act as an effective translator between 
+technology and business.
+Moving forward, I will continue to build on these successes. In the immediate term, 
+I will be expanding our AI consulting into the hospitality sector and further refining 
+the solutions identified for LGI as they move into implementation phases. I remain 
+committed to continuous learning (e.g. exploring advanced NLP techniques and 
+domain-specific AI applications) and to mentoring colleagues in AI best practices. 
+Overall, these initial months have not only showcased my expertise in AI – 
+spanning machine learning, generative AI, and data strategy – but also reinforced 
+my passion for applying cutting-edge technology to solve real-world problems, in 
+alignment with Videns’ mission of leveraging AI for impactful business 
+transformation.
+Sources: The information above is substantiated by project communications and 
+deliverables, including internal emails and meeting notes from July–November 
+2025. Key examples include the delivery of AI use case Excel/PPT analyses[2][3], 
+training material drafts[12], usage of the Lucia AI maturity platform[14], and records 
+of the prompt injection security prototype on GitHub[16], among others. These 
+sources illustrate the scope and technical depth of my contributions during this 
+period.
+ 
+[1] [2] [4] [5] Re: Analyse des cas d'usage Produits
+https://outlook.office365.com/owa/?ItemID=AAMkADQ1MThlZTA5LWFjMDItNDQw
+ZC04YzZhLWJjZmMyMDhiNDc3YwBGAAAAAACz576FV4MDQ4%2Bx7Me9nhf5BwCr
+2Wo19Z4hTKkD2m8Szj%2BQAAAAAAEMAACr2Wo19Z4hTKkD2m8Szj%2BQAAAAQ
+pRnAAA%3D&exvsurl=1&viewmodel=ReadMessageItem
+[3] [6] Re: Analyse des cas d'usage internes
+https://outlook.office365.com/owa/?ItemID=AAMkADQ1MThlZTA5LWFjMDItNDQw
+ZC04YzZhLWJjZmMyMDhiNDc3YwBGAAAAAACz576FV4MDQ4%2Bx7Me9nhf5BwCr
+2Wo19Z4hTKkD2m8Szj%2BQAAAAAAEMAACr2Wo19Z4hTKkD2m8Szj%2BQAAAAQ
+pRHAAA%3D&exvsurl=1&viewmodel=ReadMessageItem
+[7] [8] [9] [22] Re: [Videns & LGI] Approfondissement du besoin - Synchronisation et 
+planification des soins & RPA
+https://outlook.office365.com/owa/?ItemID=AAMkADQ1MThlZTA5LWFjMDItNDQw
+ZC04YzZhLWJjZmMyMDhiNDc3YwBGAAAAAACz576FV4MDQ4%2Bx7Me9nhf5BwCr
+2Wo19Z4hTKkD2m8Szj%2BQAAAAAAEMAACr2Wo19Z4hTKkD2m8Szj%2BQAAAAQ
+pOtAAA%3D&exvsurl=1&viewmodel=ReadMessageItem
+[10] [11] Projet AI - Volet 2 - feuille de route
+https://outlook.office365.com/owa/?ItemID=AAMkADQ1MThlZTA5LWFjMDItNDQw
+ZC04YzZhLWJjZmMyMDhiNDc3YwBGAAAAAACz576FV4MDQ4%2Bx7Me9nhf5BwCr
+2Wo19Z4hTKkD2m8Szj%2BQAAAAAAEMAACr2Wo19Z4hTKkD2m8Szj%2BQAAAAQ
+pNWAAA%3D&exvsurl=1&viewmodel=ReadMessageItem
+[12] [13] [21] Formations Volet 1
+https://outlook.office365.com/owa/?ItemID=AAMkADQ1MThlZTA5LWFjMDItNDQw
+ZC04YzZhLWJjZmMyMDhiNDc3YwBGAAAAAACz576FV4MDQ4%2Bx7Me9nhf5BwCr
+2Wo19Z4hTKkD2m8Szj%2BQAAAAAAEMAACr2Wo19Z4hTKkD2m8Szj%2BQAAAAQ
+pSRAAA%3D&exvsurl=1&viewmodel=ReadMessageItem
+[14] Votre lien d'authentification
+https://outlook.office365.com/owa/?ItemID=AAMkADQ1MThlZTA5LWFjMDItNDQw
+ZC04YzZhLWJjZmMyMDhiNDc3YwBGAAAAAACz576FV4MDQ4%2Bx7Me9nhf5BwCr
+2Wo19Z4hTKkD2m8Szj%2BQAAAAAAEMAACr2Wo19Z4hTKkD2m8Szj%2BQAAAAQ
+pPIAAA%3D&exvsurl=1&viewmodel=ReadMessageItem
+[15] [16] [carlosdenner-videns/prompt-injection-security] Run failed: Verify Setup - 
+master (0363334)
+https://outlook.office365.com/owa/?ItemID=AAMkADQ1MThlZTA5LWFjMDItNDQw
+ZC04YzZhLWJjZmMyMDhiNDc3YwBGAAAAAACz576FV4MDQ4%2Bx7Me9nhf5BwCr
+2Wo19Z4hTKkD2m8Szj%2BQAAAAAAEMAACr2Wo19Z4hTKkD2m8Szj%2BQAAAAQ
+pQkAAA%3D&exvsurl=1&viewmodel=ReadMessageItem
+[17] Carlos (Videns) & Alexandre (Hotels Germain) - rencontre d'introduction
+https://outlook.office365.com/owa/?ItemID=AAMkADQ1MThlZTA5LWFjMDItNDQw
+ZC04YzZhLWJjZmMyMDhiNDc3YwBGAAAAAACz576FV4MDQ4%2Bx7Me9nhf5BwCr
+2Wo19Z4hTKkD2m8Szj%2BQAAAAAAEMAACr2Wo19Z4hTKkD2m8Szj%2BQAAAAQ
+pO4AAA%3D&exvsurl=1&viewmodel=ReadMessageItem
+[18] Carlos Denner, voici Fiche de lancement de projet - Novacap Volet 3 et d'autres 
+pages sur lesquelles votre équipe travaille
+https://outlook.office365.com/owa/?ItemID=AAMkADQ1MThlZTA5LWFjMDItNDQw
+ZC04YzZhLWJjZmMyMDhiNDc3YwBGAAAAAACz576FV4MDQ4%2Bx7Me9nhf5BwCr
+2Wo19Z4hTKkD2m8Szj%2BQAAAAAAEMAACr2Wo19Z4hTKkD2m8Szj%2BQAAAC7
+LW7AAA%3D&exvsurl=1&viewmodel=ReadMessageItem
+[19] Migration des courriels Outlook Videns vers Outlook Cofomo
+https://outlook.office365.com/owa/?ItemID=AAMkADQ1MThlZTA5LWFjMDItNDQw
+ZC04YzZhLWJjZmMyMDhiNDc3YwBGAAAAAACz576FV4MDQ4%2Bx7Me9nhf5BwCr
+2Wo19Z4hTKkD2m8Szj%2BQAAAAAAEMAACr2Wo19Z4hTKkD2m8Szj%2BQAAAAQ
+pPfAAA%3D&exvsurl=1&viewmodel=ReadMessageItem
+[20]  Demande d’accès à la licence corporative ChatGPT
+https://outlook.office365.com/owa/?ItemID=AAMkADQ1MThlZTA5LWFjMDItNDQw
+ZC04YzZhLWJjZmMyMDhiNDc3YwBGAAAAAACz576FV4MDQ4%2Bx7Me9nhf5BwCr
+2Wo19Z4hTKkD2m8Szj%2BQAAAAAAEJAACr2Wo19Z4hTKkD2m8Szj%2BQAAAARA
+P5AAA%3D&exvsurl=1&viewmodel=ReadMessageItem

@@ -1,0 +1,53 @@
+{
+  "timestamp": "2025-11-12T09:53:01.418162",
+  "orcid": "0000-0002-4481-0115",
+  "author_name": "Carlos Denner dos Santos",
+  "total_publications": 82,
+  "by_type": {
+    "article": 59,
+    "review": 2,
+    "preprint": 11,
+    "book-chapter": 4,
+    "dataset": 3,
+    "editorial": 2,
+    "peer-review": 1
+  },
+  "by_year": {
+    "2005": 1,
+    "2006": 1,
+    "2007": 1,
+    "2008": 1,
+    "2010": 4,
+    "2011": 3,
+    "2012": 2,
+    "2013": 1,
+    "2014": 5,
+    "2015": 4,
+    "2016": 3,
+    "2017": 5,
+    "2018": 7,
+    "2019": 5,
+    "2020": 7,
+    "2021": 8,
+    "2022": 9,
+    "2023": 4,
+    "2024": 6,
+    "2025": 5
+  },
+  "citations": {
+    "total_cited_by_count": 637,
+    "max_citations": 245,
+    "highly_cited": 9
+  },
+  "data_completeness": {
+    "with_doi": 63,
+    "with_abstract": 0,
+    "with_open_access": 51,
+    "with_keywords": 80,
+    "with_url": 82
+  },
+  "venues": {
+    "Unknown": 82
+  },
+  "types": {}
+}

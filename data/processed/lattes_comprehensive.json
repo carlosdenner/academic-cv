@@ -1,0 +1,1101 @@
+{
+  "personal_info": {
+    "name": "Carlos Denner dos Santos Júnior",
+    "citation_names": [
+      "SANTOS Jr., Carlos Denner dos",
+      "Santos Jr., Carlos",
+      "Santos Jr, Carlos Denner",
+      "Santos Jr, Carlos Denner dos",
+      "Santos, Carlos",
+      "SANTOS JÚNIOR, CARLOS DENNER DOS",
+      "Santos, Carlos Denner dos",
+      "Dos Santos, Carlos Denner",
+      "JÚNIOR, CARLOS DENNER DOS SANTOS",
+      "Dos Santos Junior, Carlos Denner",
+      "DOS SANTOS JÚNIOR, CARLOS DENNER",
+      "DENNER DOS SANTOS J'NIOR, CARLOS",
+      "Denner dos Santos, Carlos"
+    ],
+    "orcid": "",
+    "nationality": "B",
+    "cpf": "01251013686",
+    "passport": "",
+    "researcher_id": "",
+    "summary": "",
+    "summary_en": ""
+  },
+  "education": [
+    {
+      "level": "Bachelor",
+      "institution": "Universidade Estadual de Montes Claros",
+      "course": "Administração",
+      "status": "CONCLUIDO",
+      "start_year": "1999",
+      "end_year": "2002",
+      "thesis": "Concepção do projeto de administração de sistemas de informação da Unimed Montes Claros",
+      "advisor": "Rogério Martins Furtado de Souza"
+    },
+    {
+      "level": "Masters",
+      "institution": "Universidade Federal de Minas Gerais",
+      "course": "Administração",
+      "status": "CONCLUIDO",
+      "start_year": "2003",
+      "end_year": "2005",
+      "thesis": "ANÁLISE DA SUBSTITUIÇÃO DE UM SOFTWARE PROPRIETÁRIO POR UM SOFTWARE LIVRE SOB A ÓTICA DO TCO (CUSTO TOTAL DE PROPRIEDADE):ESTUDO DE CASO DO SETOR DE PEÇAS AUTOMOBILÍSTICAS",
+      "advisor": "",
+      "scholarship": true,
+      "funding_agency": "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
+    },
+    {
+      "level": "PhD",
+      "institution": "Southern Illinois University Carbondale",
+      "course": "Management Information Systems",
+      "status": "CONCLUIDO",
+      "start_year": "2005",
+      "end_year": "2009",
+      "thesis": "Open Source Software Projects? Attractiveness, Activeness, and Efficiency as a Path to Software Quality: An Empirical Evaluation of their Relationships and Causes",
+      "advisor": "",
+      "scholarship": true,
+      "funding_agency": "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior"
+    },
+    {
+      "level": "Post-doc",
+      "institution": "Université du Quebec à Montréal",
+      "status": "CONCLUIDO",
+      "start_year": "2019",
+      "end_year": "2020",
+      "scholarship": true,
+      "funding_agency": "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior"
+    },
+    {
+      "level": "Post-doc",
+      "institution": "Universidade Federal de Pernambuco",
+      "status": "CONCLUIDO",
+      "start_year": "2019",
+      "end_year": "2019",
+      "scholarship": false,
+      "funding_agency": ""
+    },
+    {
+      "level": "Post-doc",
+      "institution": "Universidade de São Paulo",
+      "status": "CONCLUIDO",
+      "start_year": "2009",
+      "end_year": "2011",
+      "scholarship": true,
+      "funding_agency": "Fundação de Amparo à Pesquisa do Estado de São Paulo"
+    },
+    {
+      "level": "Post-doc",
+      "institution": "University of Nottingham",
+      "status": "CONCLUIDO",
+      "start_year": "2011",
+      "end_year": "2011",
+      "scholarship": false,
+      "funding_agency": ""
+    }
+  ],
+  "positions": [
+    {
+      "institution": "Unimed Montes Claros Coop de Trabalho Médico",
+      "position": "Administrador de Redes / Programador de Comp.",
+      "type": "CELETISTA",
+      "start_month": "3",
+      "start_year": "1999",
+      "end_month": "1",
+      "end_year": "2003",
+      "hours_per_week": "30",
+      "exclusive_dedication": false
+    },
+    {
+      "institution": "Fundação Educacional Montes Claros",
+      "position": "Professor",
+      "type": "CELETISTA",
+      "start_month": "8",
+      "start_year": "2001",
+      "end_month": "2",
+      "end_year": "2003",
+      "hours_per_week": "12",
+      "exclusive_dedication": false
+    },
+    {
+      "institution": "Universidade Estadual de Montes Claros",
+      "position": "Programador de Computador",
+      "type": "SERVIDOR_PUBLICO",
+      "start_month": "8",
+      "start_year": "2002",
+      "end_month": "02",
+      "end_year": "2003",
+      "hours_per_week": "30",
+      "exclusive_dedication": false
+    },
+    {
+      "institution": "Universidade Federal de Minas Gerais",
+      "position": "Professor Substituto",
+      "type": "CELETISTA",
+      "start_month": "3",
+      "start_year": "2004",
+      "end_month": "8",
+      "end_year": "2005",
+      "hours_per_week": "20",
+      "exclusive_dedication": false
+    },
+    {
+      "institution": "Bioquímica e Química do Brasil Ltda",
+      "position": "Consultoria (Contrato)",
+      "type": "LIVRE",
+      "start_month": "5",
+      "start_year": "2004",
+      "end_month": "12",
+      "end_year": "2004",
+      "hours_per_week": "10",
+      "exclusive_dedication": false
+    },
+    {
+      "institution": "Universidade FUMEC",
+      "position": "Professor horista",
+      "type": "CELETISTA",
+      "start_month": "08",
+      "start_year": "2004",
+      "end_month": "7",
+      "end_year": "2005",
+      "hours_per_week": "10",
+      "exclusive_dedication": false
+    },
+    {
+      "institution": "Fundação de Amparo à Pesquisa do Estado de Minas Gerais",
+      "position": "Instrutor",
+      "type": "COLABORADOR",
+      "start_month": "6",
+      "start_year": "2005",
+      "end_month": "6",
+      "end_year": "2005",
+      "hours_per_week": "0",
+      "exclusive_dedication": false
+    },
+    {
+      "institution": "Southern Illinois University Carbondale",
+      "position": "Professor",
+      "type": "LIVRE",
+      "start_month": "01",
+      "start_year": "2008",
+      "end_month": "05",
+      "end_year": "2008",
+      "hours_per_week": "3",
+      "exclusive_dedication": false
+    },
+    {
+      "institution": "Universidade de São Paulo",
+      "position": "Pesquisador Associado",
+      "type": "COLABORADOR",
+      "start_month": "08",
+      "start_year": "2009",
+      "end_month": "08",
+      "end_year": "2011",
+      "hours_per_week": "40",
+      "exclusive_dedication": true
+    },
+    {
+      "institution": "Universidade de São Paulo",
+      "position": "Professor Colaborador",
+      "type": "COLABORADOR",
+      "start_month": "08",
+      "start_year": "2010",
+      "end_month": "01",
+      "end_year": "2011",
+      "hours_per_week": "4",
+      "exclusive_dedication": false
+    },
+    {
+      "institution": "IEEE Transactions on Professional Communication",
+      "position": "",
+      "type": "LIVRE",
+      "start_month": "02",
+      "start_year": "2007",
+      "end_month": "03",
+      "end_year": "2007",
+      "hours_per_week": "",
+      "exclusive_dedication": false
+    },
+    {
+      "institution": "Revista de Gestão da Tecnologia e Sistemas de Informação (Online)",
+      "position": "",
+      "type": "LIVRE",
+      "start_month": "10",
+      "start_year": "2009",
+      "end_month": "11",
+      "end_year": "2009",
+      "hours_per_week": "",
+      "exclusive_dedication": false
+    },
+    {
+      "institution": "Fulbright Comissão para o Intercâmbio entre os Estados Unidos e o Brasil",
+      "position": "Membro do Conselho Diretor (Tesoureiro)",
+      "type": "COLABORADOR",
+      "start_month": "03",
+      "start_year": "2010",
+      "end_month": "03",
+      "end_year": "2015",
+      "hours_per_week": "",
+      "exclusive_dedication": false
+    },
+    {
+      "institution": "Centro de Tecnologia da Informação Renato Archer",
+      "position": "Conselheiro do Projeto Softwarepublico.gov.br",
+      "type": "COLABORADOR",
+      "start_month": "07",
+      "start_year": "2009",
+      "end_month": "12",
+      "end_year": "2010",
+      "hours_per_week": "",
+      "exclusive_dedication": false
+    },
+    {
+      "institution": "Behaviour & Information Technology (Print)",
+      "position": "",
+      "type": "LIVRE",
+      "start_month": "9",
+      "start_year": "2011",
+      "end_month": "",
+      "end_year": "",
+      "hours_per_week": "",
+      "exclusive_dedication": false
+    },
+    {
+      "institution": "International Journal of Open Source Software and Processes (IJOSSP)",
+      "position": "",
+      "type": "LIVRE",
+      "start_month": "9",
+      "start_year": "2011",
+      "end_month": "9",
+      "end_year": "2011",
+      "hours_per_week": "",
+      "exclusive_dedication": false
+    },
+    {
+      "institution": "Universidade de Brasília",
+      "position": "Professor Adjunto",
+      "type": "LIVRE",
+      "start_month": "12",
+      "start_year": "2011",
+      "end_month": "",
+      "end_year": "",
+      "hours_per_week": "8",
+      "exclusive_dedication": true
+    },
+    {
+      "institution": "Universidade de Brasília",
+      "position": "Professor do PPGA",
+      "type": "LIVRE",
+      "start_month": "08",
+      "start_year": "2012",
+      "end_month": "",
+      "end_year": "",
+      "hours_per_week": "8",
+      "exclusive_dedication": true
+    },
+    {
+      "institution": "Universidade de Brasília",
+      "position": "Coordenador Adjunto",
+      "type": "SERVIDOR_PUBLICO",
+      "start_month": "2",
+      "start_year": "2017",
+      "end_month": "",
+      "end_year": "",
+      "hours_per_week": "4",
+      "exclusive_dedication": false
+    },
+    {
+      "institution": "RAM. Revista de Administração Mackenzie (Impresso)",
+      "position": "",
+      "type": "LIVRE",
+      "start_month": "03",
+      "start_year": "2012",
+      "end_month": "",
+      "end_year": "",
+      "hours_per_week": "",
+      "exclusive_dedication": false
+    },
+    {
+      "institution": "RAC. Revista de Administração Contemporânea (Impresso)",
+      "position": "",
+      "type": "LIVRE",
+      "start_month": "08",
+      "start_year": "2013",
+      "end_month": "",
+      "end_year": "",
+      "hours_per_week": "",
+      "exclusive_dedication": false
+    },
+    {
+      "institution": "Journal of Global Information Technology Management",
+      "position": "",
+      "type": "LIVRE",
+      "start_month": "04",
+      "start_year": "2014",
+      "end_month": "",
+      "end_year": "",
+      "hours_per_week": "",
+      "exclusive_dedication": false
+    },
+    {
+      "institution": "Universitat Jaume I",
+      "position": "Pesquisador",
+      "type": "PROFESSOR_VISITANTE",
+      "start_month": "1",
+      "start_year": "2014",
+      "end_month": "2",
+      "end_year": "2014",
+      "hours_per_week": "",
+      "exclusive_dedication": false
+    },
+    {
+      "institution": "BAR. Brazilian Administration Review",
+      "position": "",
+      "type": "LIVRE",
+      "start_month": "9",
+      "start_year": "2014",
+      "end_month": "",
+      "end_year": "",
+      "hours_per_week": "",
+      "exclusive_dedication": false
+    },
+    {
+      "institution": "Journal of Global Information Technology Management",
+      "position": "",
+      "type": "LIVRE",
+      "start_month": "05",
+      "start_year": "2015",
+      "end_month": "",
+      "end_year": "",
+      "hours_per_week": "",
+      "exclusive_dedication": false
+    },
+    {
+      "institution": "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior",
+      "position": "",
+      "type": "LIVRE",
+      "start_month": "05",
+      "start_year": "2015",
+      "end_month": "",
+      "end_year": "",
+      "hours_per_week": "",
+      "exclusive_dedication": false
+    },
+    {
+      "institution": "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior",
+      "position": "",
+      "type": "LIVRE",
+      "start_month": "05",
+      "start_year": "2015",
+      "end_month": "06",
+      "end_year": "2015",
+      "hours_per_week": "",
+      "exclusive_dedication": false
+    },
+    {
+      "institution": "Fundação de Apoio à Pesquisa do Distrito Federal",
+      "position": "",
+      "type": "LIVRE",
+      "start_month": "4",
+      "start_year": "2015",
+      "end_month": "",
+      "end_year": "",
+      "hours_per_week": "",
+      "exclusive_dedication": false
+    },
+    {
+      "institution": "Centro de Desenvolvimento Tecnológico",
+      "position": "Coordenador da Escola de Empreendedorismo",
+      "type": "LIVRE",
+      "start_month": "07",
+      "start_year": "2016",
+      "end_month": "12",
+      "end_year": "2017",
+      "hours_per_week": "20",
+      "exclusive_dedication": false
+    },
+    {
+      "institution": "Centro de Desenvolvimento Tecnológico",
+      "position": "Coordenador do Programa Pró Jr (Empresas Jrs)",
+      "type": "LIVRE",
+      "start_month": "07",
+      "start_year": "2016",
+      "end_month": "09",
+      "end_year": "2018",
+      "hours_per_week": "5",
+      "exclusive_dedication": false
+    },
+    {
+      "institution": "Programa de Pós-graduação em Administração (PPGA/UnB)",
+      "position": "Coordenador Adjunto",
+      "type": "LIVRE",
+      "start_month": "10",
+      "start_year": "2016",
+      "end_month": "10",
+      "end_year": "2018",
+      "hours_per_week": "8",
+      "exclusive_dedication": false
+    },
+    {
+      "institution": "Programa de Pós-graduação em Administração (PPGA/UnB)",
+      "position": "Coordenador do DINTER",
+      "type": "LIVRE",
+      "start_month": "08",
+      "start_year": "2016",
+      "end_month": "",
+      "end_year": "",
+      "hours_per_week": "8",
+      "exclusive_dedication": false
+    },
+    {
+      "institution": "RAE-Revista de Administracao de Empresas",
+      "position": "",
+      "type": "LIVRE",
+      "start_month": "04",
+      "start_year": "2017",
+      "end_month": "05",
+      "end_year": "2017",
+      "hours_per_week": "",
+      "exclusive_dedication": false
+    },
+    {
+      "institution": "JOURNAL OF INTERNET SERVICES AND APPLICATIONS",
+      "position": "",
+      "type": "LIVRE",
+      "start_month": "06",
+      "start_year": "2016",
+      "end_month": "",
+      "end_year": "",
+      "hours_per_week": "",
+      "exclusive_dedication": false
+    },
+    {
+      "institution": "INFORMATION SYSTEMS JOURNAL",
+      "position": "",
+      "type": "LIVRE",
+      "start_month": "12",
+      "start_year": "2017",
+      "end_month": "12",
+      "end_year": "2017",
+      "hours_per_week": "",
+      "exclusive_dedication": false
+    },
+    {
+      "institution": "Fundação de Empreendimentos Científicos e Tecnológicos",
+      "position": "Colaborador",
+      "type": "LIVRE",
+      "start_month": "08",
+      "start_year": "2017",
+      "end_month": "",
+      "end_year": "",
+      "hours_per_week": "",
+      "exclusive_dedication": false
+    },
+    {
+      "institution": "Universidade Federal de Pernambuco",
+      "position": "Pesquisador associado",
+      "type": "PROFESSOR_VISITANTE",
+      "start_month": "02",
+      "start_year": "2019",
+      "end_month": "",
+      "end_year": "",
+      "hours_per_week": "",
+      "exclusive_dedication": false
+    }
+  ],
+  "research_areas": [
+    {
+      "major_area": "CIENCIAS_SOCIAIS_APLICADAS",
+      "area": "Administração",
+      "subarea": "Administração de Empresas",
+      "specialty": "Administração de Sistemas de Informação"
+    },
+    {
+      "major_area": "CIENCIAS_SOCIAIS_APLICADAS",
+      "area": "Administração",
+      "subarea": "Administração de Setores Específicos",
+      "specialty": "Tecnologia de Informação"
+    },
+    {
+      "major_area": "CIENCIAS_SOCIAIS_APLICADAS",
+      "area": "Administração",
+      "subarea": "Propriedade Intelectual",
+      "specialty": ""
+    },
+    {
+      "major_area": "CIENCIAS_EXATAS_E_DA_TERRA",
+      "area": "Ciência da Computação",
+      "subarea": "Licença de Software",
+      "specialty": ""
+    },
+    {
+      "major_area": "CIENCIAS_SOCIAIS_APLICADAS",
+      "area": "Administração",
+      "subarea": "Administração de Setores Específicos",
+      "specialty": "Mercado de Software"
+    },
+    {
+      "major_area": "CIENCIAS_SOCIAIS_APLICADAS",
+      "area": "Administração",
+      "subarea": "Administração de Setores Específicos",
+      "specialty": "Empresas Em Geral"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Inglês",
+      "code": "EN",
+      "reading": "BEM",
+      "speaking": "BEM",
+      "writing": "BEM",
+      "comprehension": "BEM"
+    },
+    {
+      "language": "Espanhol",
+      "code": "ES",
+      "reading": "BEM",
+      "speaking": "POUCO",
+      "writing": "POUCO",
+      "comprehension": "BEM"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Administração de Redes Linux - Certificado",
+      "institution": "CONECTIVA LINUX DO BRASIL S.A.",
+      "year": "2001"
+    },
+    {
+      "title": "Professor Homenageado (Turma de Processamento de Dados)",
+      "institution": "Fundação Educacional Montes Claros",
+      "year": "2002"
+    },
+    {
+      "title": "Bolsa de Estudos de Mestrado (24 meses)",
+      "institution": "CNPq",
+      "year": "2003"
+    },
+    {
+      "title": "Bolsa de Estudos de Doutorado",
+      "institution": "CAPES / Fulbright",
+      "year": "2005"
+    },
+    {
+      "title": "Bolsa de Estudos para Projeto de Pesquisa (3 meses)",
+      "institution": "Pontikes Research Center (Southern Illinois University)",
+      "year": "2008"
+    },
+    {
+      "title": "Bolsa de Estudo para Projeto de Pesquisa (3 meses)",
+      "institution": "Pontikes Reserarch Center for Information Systems",
+      "year": "2009"
+    },
+    {
+      "title": "Bolsa FAPESP para realização de Pós-doutorado (24 meses)",
+      "institution": "FAPESP-USP",
+      "year": "2009"
+    },
+    {
+      "title": "John M. Fohr Memorial Scholarship for Management",
+      "institution": "Southern Illinois University Foundation",
+      "year": "2007"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Implantação de Rede Estadual de Inteligação de Dados e Voz",
+      "start_year": "2002",
+      "end_year": "2002",
+      "status": "CONCLUIDO",
+      "nature": "DESENVOLVIMENTO",
+      "description": "Definição de tecnologia e parceiros para a implantação de uma rede estadual de comunicação de dados e voz buscando a velocidade do atendimento ao cliente e a redução de custos.",
+      "funding_agencies": []
+    },
+    {
+      "title": "Adequação dos Curriculos voltados para o Desenvolvimento de Competências",
+      "start_year": "2002",
+      "end_year": "2002",
+      "status": "CONCLUIDO",
+      "nature": "EXTENSAO",
+      "description": "Reestruturação dos curriculos das disciplinas da Fundação para desenvolver os alunos nas competências que o curso se prontificava (exigência do MEC).",
+      "funding_agencies": []
+    },
+    {
+      "title": "Análise de projetos para a Rede interna da FEMC",
+      "start_year": "2002",
+      "end_year": "2002",
+      "status": "CONCLUIDO",
+      "nature": "OUTRA",
+      "description": "Análise financeira das propostas para implantação da rede interna da Fundação para disponibilizar o acesso à internet aos alunos.",
+      "funding_agencies": []
+    },
+    {
+      "title": "Comparação do Custo Total de Propriedade de Plataformas Proprietárias e Livres",
+      "start_year": "2003",
+      "end_year": "2005",
+      "status": "CONCLUIDO",
+      "nature": "PESQUISA",
+      "description": "",
+      "funding_agencies": [
+        {
+          "name": "Conselho Nacional de Desenvolvimento Científico e Tecnológico",
+          "type": "BOLSA"
+        }
+      ]
+    },
+    {
+      "title": "What do Corporations (can expect to) take out of their partnerships with the Open Source Community?",
+      "start_year": "2008",
+      "end_year": "2009",
+      "status": "CONCLUIDO",
+      "nature": "PESQUISA",
+      "description": "Projeto de curta-duração financiado pelo Pontikes Research Center na Southern Illinois University",
+      "funding_agencies": [
+        {
+          "name": "",
+          "type": "NAO_INFORMADO"
+        }
+      ]
+    },
+    {
+      "title": "Attractiveness of Open Source Software Projects: Causes, Consequences and Indicators",
+      "start_year": "2005",
+      "end_year": "2009",
+      "status": "CONCLUIDO",
+      "nature": "PESQUISA",
+      "description": "Ph.D. studies",
+      "funding_agencies": [
+        {
+          "name": "Fulbright Comissão para o Intercâmbio entre os Estados Unidos e o Brasil",
+          "type": "BOLSA"
+        },
+        {
+          "name": "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior",
+          "type": "BOLSA"
+        }
+      ]
+    },
+    {
+      "title": "Qualipso - Quality Platform for Open Source Software",
+      "start_year": "2009",
+      "end_year": "2011",
+      "status": "CONCLUIDO",
+      "nature": "PESQUISA",
+      "description": "Desenvolvimento de um modelo estatístico para o entendimento da qualidade do código-fonte de projetos de software livre.",
+      "funding_agencies": []
+    },
+    {
+      "title": "Atratividade de Projetos de Software Livre ao Longo do Ciclo-de-vida",
+      "start_year": "2009",
+      "end_year": "2011",
+      "status": "CONCLUIDO",
+      "nature": "PESQUISA",
+      "description": "Aplicação de modelos estatísticos longitudinais para estudar projetos de software livre.",
+      "funding_agencies": [
+        {
+          "name": "Fundação de Amparo à Pesquisa do Estado de São Paulo",
+          "type": "BOLSA"
+        }
+      ]
+    },
+    {
+      "title": "Predição de Crimes Utilizando Redes Sociais",
+      "start_year": "2010",
+      "end_year": "2012",
+      "status": "CONCLUIDO",
+      "nature": "PESQUISA",
+      "description": "Estudantes se comunicam através do Twitter para dizer em quais bares estão e porque gostariam de sair dali (percepcão do ambiente), deixando rastros que podem ser utilizados para ações preventivas de comportamento anti-social.",
+      "funding_agencies": []
+    },
+    {
+      "title": "Hipercompetitividade no Mercado de Navegadores da Internet",
+      "start_year": "2011",
+      "end_year": "2013",
+      "status": "CONCLUIDO",
+      "nature": "PESQUISA",
+      "description": "Erosão e Manutenção de Vantagem Competitiva",
+      "funding_agencies": []
+    },
+    {
+      "title": "Inovação como Mecanismo de Criação de Incerteza",
+      "start_year": "2011",
+      "end_year": "2014",
+      "status": "CONCLUIDO",
+      "nature": "PESQUISA",
+      "description": "Revisão das teorias administrativas que assumem o gerente como redutor de incerteza ambiental.",
+      "funding_agencies": []
+    },
+    {
+      "title": "Ecossistema de Empresas em Projetos de Software Livre",
+      "start_year": "2012",
+      "end_year": "2015",
+      "status": "CONCLUIDO",
+      "nature": "PESQUISA",
+      "description": "Para descobrir as redes de colaboração e competição entre organizações do setor de TI, esse projeto de pesquisa pretende coletar e analisar as contribuições de código-fonte feitas por empresas em projetos de software livre, explorando a estrutura competitiva da indústria e o posicionamento do próprio projeto de software livre no mercado. Os dados serão minerados dos repositórios de código-fonte dos softwares e analisados utilizando a técnica de análise de redes sociais (SNA). De&#10;uma forma mais ampla, essa linha busca entender a configuração&#10;mercadológica que influencia a participação de empresas orientadas ao&#10;lucro no desenvolvimento de software livre, levando-as a colaborar com&#10;competidores em alianças tácitas que modelam o futuro da indústria.",
+      "funding_agencies": [
+        {
+          "name": "Universidade de Brasília",
+          "type": "BOLSA"
+        }
+      ]
+    },
+    {
+      "title": "Força de Trabalho de TI do Ministério do Planejamento",
+      "start_year": "2013",
+      "end_year": "2014",
+      "status": "CONCLUIDO",
+      "nature": "DESENVOLVIMENTO",
+      "description": "O projeto visa estabelecer uma cooperação entre o Ministério do Planejamento, Orçamento e Gestão (MP) e o CDT/FUB, utilizando resultados de pesquisa aplicada e transferência de conhecimento e tecnologia para descrever e analisar o perfil e as necessidades de capacitação dos servidores que atuam nas atividades de Tecnologia da Informação (TI). A descrição e análise tratarão do cenário atual do ministério e daquele identificado como ideal pelo público-alvo da pesquisa, contrastando-os com as recomendações da literatura científica e as instruções normativas dos órgãos de controle federais.",
+      "funding_agencies": []
+    },
+    {
+      "title": "Inovações em Tecnologia da Informação: Causas de Difusão, Ecossistemas de Desenvolvimento e Efeitos Colaterais",
+      "start_year": "2013",
+      "end_year": "2016",
+      "status": "CONCLUIDO",
+      "nature": "PESQUISA",
+      "description": "Este projeto visa estudar um tipo específico de inovação em tecnologia da informação, aquelas que estão disponíveis publicamente e gratuitamente para uso, adaptação e aprimoramento: software livre e dados abertos. A importância das tecnologias abertas e das inovações baseadas nelas tem sido enfatizada recorrentemente há alguns anos, com a expressividade de projetos como o Linux e o Android, através da preferência normativa à adoção de software livre e a lei de acesso à informação, por meio do desenvolvimento e disponibilização de repositórios onde aplicativos e bases de dados possam se hospedar (e.g., softwarepublico.gov.br e dados.gov.br), e a crescente pressão social por transparência na administração pública. Pretendemos estudar as tecnologias abertas sob três perspectivas complementares e interdependentes. Cada uma dessas perspectivas será operacionalizada através de um estudo, contendo objetivos, justificativa, referencial teórico e método de coleta e análise de dados independentes. O primeiro estudo trabalha com os fatores que influenciam na adoção e difusão de software livre, especialmente os efeitos da escolha/troca da licença na atratividade do projeto. No primeiro estudo, coletaremos dados longitudinais do principal repositório de software livre, sourceforge.net, e analisaremos eles através de Modelos Mistos Lineares Generalizados Multi-Resposta. O segundo estudo objetiva entender como se dá o desenvolvimento de projetos em termos de contribuição de código-fonte por organizações de grande porte. A ideia é coletar dados sobre quem contribui e/ou revisa código para que ele seja incluído em aplicativos importantes mercadologicamente, como o Android. A cooperação de empresas concorrentes que ocorre nesses projetos é de nosso interesse especial (e.g., Sony e Samsung no Android). Para conhecer e analisar as estruturas de relacionamento entre empresas encontradas em projetos de software livre, utilizaremos análise de redes sociais (grafos). Finalmente, o terceiro estudo propõe o acompanhamento e análise das mudanças e tensões organizacionais advindas das demandas legislativas e sociais pela abertura de dados internos aos órgãos do governo, especialmente no Superior Tribunal de Justiça e outros do sistema de justiça brasileiro. Pouca pesquisa foi feita visando entender os efeitos adversos da difusão das tecnologias. Esse terceiro estudo utilizará técnicas qualitativas de coleta e análise de dados, isto é, entrevistas e análise de conteúdo. Como um todo, este projeto de pesquisa cobrirá o estudo de inovações tecnológicas no antes, o que leva à adoção, no durante, como se dá o desenvolvimento e entre quem, e no depois, com a exploração dos efeitos pretendidos e colaterais da difusão das tecnologias abertas nas organizações e sociedade.",
+      "funding_agencies": [
+        {
+          "name": "Conselho Nacional de Desenvolvimento Científico e Tecnológico",
+          "type": "AUXILIO_FINANCEIRO"
+        }
+      ]
+    },
+    {
+      "title": "Escola de Empreendedorismo do CDT/UnB",
+      "start_year": "2016",
+      "end_year": "2017",
+      "status": "CONCLUIDO",
+      "nature": "EXTENSAO",
+      "description": "O Programa Escola de Empreendedores ? EMPREEND foi criado com objetivo de apoiar e difundir o empreendedorismo e a inovação na formação de alunos e profissionais. O trabalho é realizado através da oferta de disciplinas de graduação e pós-graduação, da promoção de eventos de extensão, investigação por meio de um grupo de pesquisa e do estímulo e apoio a jovens empresários e estudantes universitários, como os empresários juniores da Universidade, que sonham com crescimento profissional e empresarial.",
+      "funding_agencies": []
+    },
+    {
+      "title": "Pro Junior - Empresas Juniores da UnB",
+      "start_year": "2016",
+      "end_year": "",
+      "status": "EM_ANDAMENTO",
+      "nature": "EXTENSAO",
+      "description": "Programa de Extensão contendo aproximadamente 30 projetos relativos às Empresas Juniores da Universidade de Brasilia",
+      "funding_agencies": []
+    },
+    {
+      "title": "Software Público Brasileiro (SPB.GOV.BR): aprimoramento técnico e governança",
+      "start_year": "2014",
+      "end_year": "2016",
+      "status": "CONCLUIDO",
+      "nature": "DESENVOLVIMENTO",
+      "description": "Trata-se do desenvolvimento da segunda geração do portal do Software Público Brasileiro, o que inclui atualização de todo o software e infraestrutura envolvida, além das regras e normas relacionadas à governança do SPB e sua comunidade.&#10;&#10;Um dos principais resultados deste projeto de cooperação foi a PORTARIA Nº 46, DE 28 DE SETEMBRO DE 2016, da SECRETARIA DE TECNOLOGIA DA INFORMAÇÃO do MP, que &quot;Dispõe sobre a disponibilização de Software Público Brasileiro e dá outras providências.&quot;",
+      "funding_agencies": []
+    },
+    {
+      "title": "AVALIAÇÃO DO MODELO DE GESTÃO DE RISCOS ADOTADO PELOS ÓRGÃOS INTEGRANTES AO SISTEMA DE ADMINISTRAÇÃO DOS RECURSOS DE TECNOLOGIA DA INFORMAÇÃO ? SISP",
+      "start_year": "2017",
+      "end_year": "2021",
+      "status": "CONCLUIDO",
+      "nature": "PESQUISA",
+      "description": "O alinhamento da TI com o negócio permite que a organização execute ações estratégicas para alcançar os objetivos desejados. Para isso, o planejamento destas ações é primordial e as decisões para a definição, acompanhamento e execução destas mudanças podem ser apoiadas pela gestão de riscos permitindo que as incertezas no alcance dos objetivos sejam tratadas e reduzidas. Esta área possui diversas dimensões e subdivisões, que podem ser apoiadas por modelos, frameworks, metodologias, ferramentas e técnicas para a condução de uma gestão sistêmica. A Administração Pública Federal ? APF têm como documento de planejamento um guia desenvolvido pelo Ministério do Planejamento, e neste guia uma das etapas obrigatórias é a gestão de riscos. Contudo, não foram encontradas evidências de métodos ou práticas de gestão de riscos em alguns documentos de planejamento. Por meio dos objetivos propostos nesta pesquisa deseja-se aprimorar a gestão de riscos nas ações estratégicas dos diferentes órgãos da APF para que os projetos, processos e decisões sejam mais assertivas e eficazes, melhorando o serviço de TI no negócio destes órgãos para que possam cumprir suas funções finalísticas de forma otimizada e para que estes avanços tragam um retorno positivo à sociedade.",
+      "funding_agencies": [
+        {
+          "name": "Fundação de Apoio à Pesquisa do Distrito Federal",
+          "type": "AUXILIO_FINANCEIRO"
+        }
+      ]
+    },
+    {
+      "title": "Empreendedorismo e Inovação: teoria e pedagogia",
+      "start_year": "2016",
+      "end_year": "",
+      "status": "EM_ANDAMENTO",
+      "nature": "PESQUISA",
+      "description": "Visa desenvolver conhecimento sobre o empreendedorismo e aplicar as técnicas e tecnologias mais modernas de seu ensino, em todos os níveis de formação dos brasileiros",
+      "funding_agencies": [
+        {
+          "name": "Centro de Apoio ao Desenvolvimento Tecnológico",
+          "type": "COOPERACAO"
+        }
+      ]
+    },
+    {
+      "title": "Ciência Colaborativa em Tempos de Pandemia: Governança de Projetos de Dados Abertos no Contexto do COVID-19",
+      "start_year": "2020",
+      "end_year": "",
+      "status": "EM_ANDAMENTO",
+      "nature": "PESQUISA",
+      "description": "Trata-se de entender os aspectos de governança envolvidos na coordenação e mercadologia de projetos científicos direcionados a bases de dados abertas na internet.",
+      "funding_agencies": [
+        {
+          "name": "Universidade de Brasília",
+          "type": "AUXILIO_FINANCEIRO"
+        }
+      ]
+    },
+    {
+      "title": "Pesquisa e Desenvolvimento Cientifico-Tecnologico em Grande Grupos de Colaboracao Internacional",
+      "start_year": "2019",
+      "end_year": "",
+      "status": "EM_ANDAMENTO",
+      "nature": "PESQUISA",
+      "description": "",
+      "funding_agencies": []
+    }
+  ],
+  "supervisions": [
+    {
+      "level": "Post-doc",
+      "status": "Completed",
+      "student": "Fabio Buiati",
+      "title": "",
+      "year": "2017",
+      "institution": "Universidade de Brasília",
+      "course": ""
+    },
+    {
+      "level": "Post-doc",
+      "status": "Completed",
+      "student": "Almir Oliveira Junior",
+      "title": "",
+      "year": "2018",
+      "institution": "Programa de Pós-graduação em Administração (PPGA/UnB)",
+      "course": ""
+    },
+    {
+      "level": "Post-doc",
+      "status": "Completed",
+      "student": "Pedro Jacome de Moura Junior",
+      "title": "",
+      "year": "2023",
+      "institution": "Universidade de Brasília",
+      "course": ""
+    },
+    {
+      "level": "PhD",
+      "status": "Completed",
+      "student": "Paulo Meirelles",
+      "title": "Monitoramento de métricas de código-fonte em projetos de software livre",
+      "year": "2013",
+      "institution": "Universidade de São Paulo",
+      "course": ""
+    },
+    {
+      "level": "PhD",
+      "status": "Completed",
+      "student": "Silvia Satiko Onoyama",
+      "title": "Mecanismo de governança para potencializar projetos de cooperação científica internacionais",
+      "year": "2018",
+      "institution": "Universidade de Brasília",
+      "course": ""
+    },
+    {
+      "level": "PhD",
+      "status": "Completed",
+      "student": "Gustavo Alves",
+      "title": "Governança de TI na Administração Pública",
+      "year": "2020",
+      "institution": "Universidade de Brasília",
+      "course": ""
+    },
+    {
+      "level": "PhD",
+      "status": "Completed",
+      "student": "Isabela Ferraz",
+      "title": "GOVERNANÇA DE COMUNIDADES VIRTUAIS: ENTENDENDO A TRANSFORMAÇÃO DA ESTRUTURA ORGANIZACIONAL E DO CONTROLE EM PROJETOS DE SOFTWARE LIVRE",
+      "year": "2019",
+      "institution": "Universidade de Brasília",
+      "course": ""
+    },
+    {
+      "level": "PhD",
+      "status": "Completed",
+      "student": "Anderson Jorge Lopes Brandão",
+      "title": "Governança de TI",
+      "year": "2023",
+      "institution": "Universidade de Brasília",
+      "course": ""
+    },
+    {
+      "level": "PhD",
+      "status": "Completed",
+      "student": "Anna Carolina Ribeiro",
+      "title": "Gestão de Riscos na Administração Pública",
+      "year": "2022",
+      "institution": "Universidade de Brasília",
+      "course": ""
+    },
+    {
+      "level": "PhD",
+      "status": "Completed",
+      "student": "Patrícia Almeida",
+      "title": "Dados abertos, participação social, parlamento, governo digital, inovação",
+      "year": "2023",
+      "institution": "Universidade de Brasília",
+      "course": ""
+    },
+    {
+      "level": "PhD",
+      "status": "Completed",
+      "student": "Claudia Tolentino Santos",
+      "title": "A INFLUÊNCIA DA GOVERNANÇA PREVIDENCIÁRIA NO DESEMPENHO FINANCEIRO E ATUARIAL DOS REGIMES PRÓPRIOS DE PREVIDÊNCIA SOCIAL: UMA ANÁLISE EMPÍRICA COM USO DE REGRESSÃO MÚLTIPLA",
+      "year": "2021",
+      "institution": "Universidade de Brasília",
+      "course": ""
+    },
+    {
+      "level": "PhD",
+      "status": "Completed",
+      "student": "Pablo Péron",
+      "title": "VULNERABILIDADE INICIAL E CONFIGURAÇÃO EMPRESARIAL PÓS-INCUBAÇÃO: uma explicação fuzzy e empírica da sobrevivência organizacional com inteligência artificial",
+      "year": "2021",
+      "institution": "Universidade de Brasília",
+      "course": ""
+    },
+    {
+      "level": "Masters",
+      "status": "Completed",
+      "student": "Isadora Vergara",
+      "title": "Como o gerenciamento adaptativo pode superar os efeitos do determinismo ambiental em blogs",
+      "year": "2015",
+      "institution": "Universidade de Brasília",
+      "course": ""
+    },
+    {
+      "level": "Masters",
+      "status": "Completed",
+      "student": "Leonardo Oliveira",
+      "title": "CONSEQUÊNCIAS DA ADOÇÃO DE INOVAÇÕES: um modelo de análise além do viés pró-inovação",
+      "year": "2015",
+      "institution": "Universidade de Brasília",
+      "course": ""
+    },
+    {
+      "level": "Masters",
+      "status": "Completed",
+      "student": "Juliana Miranda",
+      "title": "A INFLUÊNCIA DAS VARIÁVEIS AMBIENTAIS E ORGANIZACIONAIS NO DESEMPENHO DE STARTUPS",
+      "year": "2015",
+      "institution": "Universidade de Brasília",
+      "course": ""
+    },
+    {
+      "level": "Masters",
+      "status": "Completed",
+      "student": "Leonel Cerqueira Santos",
+      "title": "MUITO ALÉM DA TECNOLOGIA: O IMPACTO DOS MECANISMOS NÃO OPERACIONAIS NA EFETIVIDADE DA GOVERNANÇA DE TI NA ADMINISTRAÇÃO PÚBLICA",
+      "year": "2016",
+      "institution": "Universidade de Brasília",
+      "course": ""
+    },
+    {
+      "level": "Masters",
+      "status": "Completed",
+      "student": "Daniel Shim de Sousa Esashika",
+      "title": "A influência dos patrocinadores nas estruturas organizacionais de comunidades de software livre",
+      "year": "2016",
+      "institution": "Universidade de Brasília",
+      "course": ""
+    },
+    {
+      "level": "Masters",
+      "status": "Completed",
+      "student": "LUIZ FERNANDO SILVA PINTO",
+      "title": "FATORES INDIVIDUAIS INFLUENCIADORES DO ESFORÇO E DAS CONTRIBUIÇÕES NA WIKIPÉDIA",
+      "year": "2015",
+      "institution": "Universidade de Brasília",
+      "course": ""
+    }
+  ],
+  "committee_participation": [],
+  "event_organization": [],
+  "editorial_activities": [],
+  "teaching": [
+    {
+      "type": "ENSINO-MEDIO",
+      "start_month": "8",
+      "start_year": "2001",
+      "end_month": "2",
+      "end_year": "2003",
+      "course": "",
+      "disciplines": [
+        "Técnicas de Programação",
+        "Sistemas Operacionais - Linux",
+        "Automação de Escritório",
+        "Introdução à Ciência da Computação"
+      ]
+    },
+    {
+      "type": "GRADUACAO",
+      "start_month": "3",
+      "start_year": "2004",
+      "end_month": "8",
+      "end_year": "2005",
+      "course": "Administração",
+      "disciplines": [
+        "Administração e Instrumentos Gerenciais",
+        "Sistemas de Informação Gerencial",
+        "Teoria Geral da Administração"
+      ]
+    },
+    {
+      "type": "GRADUACAO",
+      "start_month": "08",
+      "start_year": "2004",
+      "end_month": "12",
+      "end_year": "2004",
+      "course": "Gestão de Software Livre",
+      "disciplines": [
+        "Sistemas Operacionais II"
+      ]
+    },
+    {
+      "type": "GRADUACAO",
+      "start_month": "09",
+      "start_year": "2004",
+      "end_month": "12",
+      "end_year": "2004",
+      "course": "Turismo",
+      "disciplines": [
+        "Teoria Geral da Administração"
+      ]
+    },
+    {
+      "type": "GRADUACAO",
+      "start_month": "08",
+      "start_year": "2004",
+      "end_month": "7",
+      "end_year": "2005",
+      "course": "Gestão de Negócios em Telecomunicação",
+      "disciplines": [
+        "Administração de Sistemas de Segurança",
+        "Redes de Computadores"
+      ]
+    },
+    {
+      "type": "GRADUACAO",
+      "start_month": "1",
+      "start_year": "2012",
+      "end_month": "",
+      "end_year": "",
+      "course": "Administração",
+      "disciplines": [
+        "Estratégia Empresarial",
+        "Projeto de Pesquisa em Administração",
+        "Organizações, Sistemas e Métodos"
+      ]
+    },
+    {
+      "type": "POS-GRADUACAO",
+      "start_month": "8",
+      "start_year": "2012",
+      "end_month": "",
+      "end_year": "",
+      "course": "Programa de Pós-graduação em Administração (PPGA)",
+      "disciplines": [
+        "Análise Estatística Multivariada",
+        "Teorias Organizacionais"
+      ]
+    }
+  ]
+}

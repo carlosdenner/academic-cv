@@ -1,0 +1,3384 @@
+{
+  "generated_at": "2025-11-12T12:30:51.061302",
+  "total_reviewed": 126,
+  "to_add": 51,
+  "skipped": 75,
+  "deferred": 0,
+  "decisions": [
+    {
+      "category": "both_sources",
+      "publication": {
+        "researchgate": {
+          "title": "A gestão da inovação na Universidade de Brasília",
+          "url": "https://www.researchgate.net/publication/336603016_A_gestao_da_inovacao_na_Universidade_de_Brasilia",
+          "year": null,
+          "source": "researchgate_html",
+          "closest_in_bib": "Tecnologias e dados abertos para inova\\c c\\~ao em governo",
+          "match_score": 0.471
+        },
+        "google_scholar": {
+          "title": "Capítulo 2 A Gestão da Inovação na Universidade de Brasília",
+          "authors": "SCM Barbalho, GF Ghesti, SMS Carvalho, CD dos Santos, AR Martin, ...",
+          "venue": "BOAS PRÁTICAS DE GESTÃO EM NÚCLEOS DE INOVAÇÃO TECNOLÓGICA: Experiências …",
+          "year": 2019,
+          "citations": 3,
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=20&pagesize=80&citation_for_view=AoKJ_g4AAAAJ:dshw04ExmUIC",
+          "source": "google_scholar_html",
+          "closest_in_bib": "Tecnologias e dados abertos para inova\\c c\\~ao em governo",
+          "match_score": 0.442
+        }
+      },
+      "analysis": {
+        "source": "both_sources",
+        "title": "Capítulo 2 A Gestão da Inovação na Universidade de Brasília",
+        "year": 2019,
+        "red_flags": [],
+        "green_flags": [
+          "Present on BOTH ResearchGate and Google Scholar",
+          "Very different from existing publications (likely new work)"
+        ],
+        "similarity_score": 0.442,
+        "citations": 3
+      },
+      "decision": "A",
+      "timestamp": "2025-11-12T12:18:05.111517"
+    },
+    {
+      "category": "both_sources",
+      "publication": {
+        "researchgate": {
+          "title": "Adoção de Práticas de Gestão de Segurança da Informação na Administração Pública Federal (Adoption of Information Security Management Practices in the Federal Public Administration)",
+          "url": "https://www.researchgate.net/publication/344792802_Adocao_de_Praticas_de_Gestao_de_Seguranca_da_Informacao_na_Administracao_Publica_Federal_Adoption_of_Information_Security_Management_Practices_in_the_Federal_Public_Administration",
+          "year": null,
+          "source": "researchgate_html",
+          "closest_in_bib": "Open innovation in the public sector",
+          "match_score": 0.5
+        },
+        "google_scholar": {
+          "title": "Adoção de Práticas de Gestão de Segurança da Informação na Administração Pública Federal (Adoption of Information Security Management Practices in the Federal Public …",
+          "authors": "L Franco, C Denner",
+          "venue": "Available at SSRN",
+          "year": 3641,
+          "citations": 0,
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=100&pagesize=100&citation_for_view=AoKJ_g4AAAAJ:geHnlv5EZngC",
+          "source": "google_scholar_html",
+          "closest_in_bib": "Open innovation in the public sector",
+          "match_score": 0.5
+        }
+      },
+      "analysis": {
+        "source": "both_sources",
+        "title": "Adoção de Práticas de Gestão de Segurança da Informação na Administração Pública Federal (Adoption of Information Security Management Practices in the Federal Public …",
+        "year": 3641,
+        "red_flags": [
+          "Suspicious year: 3641"
+        ],
+        "green_flags": [
+          "Present on BOTH ResearchGate and Google Scholar"
+        ],
+        "similarity_score": 0.5,
+        "citations": 0
+      },
+      "decision": "A",
+      "timestamp": "2025-11-12T12:18:32.718308"
+    },
+    {
+      "category": "both_sources",
+      "publication": {
+        "researchgate": {
+          "title": "The Inextricable Role of Organizational Sponsorship for Open Source Sustainability",
+          "url": "https://www.researchgate.net/publication/266603174_The_Inextricable_Role_of_Organizational_Sponsorship_for_Open_Source_Sustainability",
+          "year": null,
+          "source": "researchgate_html",
+          "closest_in_bib": "The influence of sponsors on organizational structure of free software communities",
+          "match_score": 0.634
+        },
+        "google_scholar": {
+          "title": "The Inextricable Role of Organizational Sponsorship for Open Source Sustainability",
+          "authors": "CD Santos Jr, G Kuk, F Kon, R Suguiura",
+          "venue": "Proceedings of SOS",
+          "year": 2011,
+          "citations": 4,
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=20&pagesize=80&citation_for_view=AoKJ_g4AAAAJ:ufrVoPGSRksC",
+          "source": "google_scholar_html",
+          "closest_in_bib": "The influence of sponsors on organizational structure of free software communities",
+          "match_score": 0.634
+        }
+      },
+      "analysis": {
+        "source": "both_sources",
+        "title": "The Inextricable Role of Organizational Sponsorship for Open Source Sustainability",
+        "year": 2011,
+        "red_flags": [],
+        "green_flags": [
+          "Present on BOTH ResearchGate and Google Scholar"
+        ],
+        "similarity_score": 0.634,
+        "citations": 4
+      },
+      "decision": "A",
+      "timestamp": "2025-11-12T12:18:39.292853"
+    },
+    {
+      "category": "both_sources",
+      "publication": {
+        "researchgate": {
+          "title": "Using Free/Libre/Open Source for Software Engineering Education",
+          "url": "https://www.researchgate.net/publication/238347208_Using_FreeLibreOpen_Source_for_Software_Engineering_Education",
+          "year": null,
+          "source": "researchgate_html",
+          "closest_in_bib": "The attraction of contributors in free and open source software projects",
+          "match_score": 0.607
+        },
+        "google_scholar": {
+          "title": "Using Free/Libre/Open Source for Software Engineering Education",
+          "authors": "C Chavez, A Terceiro, P Meirelles, C Santos Jr, F Kon",
+          "venue": null,
+          "year": null,
+          "citations": 0,
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=100&pagesize=100&citation_for_view=AoKJ_g4AAAAJ:zLWjf1WUPmwC",
+          "source": "google_scholar_html",
+          "closest_in_bib": "The attraction of contributors in free and open source software projects",
+          "match_score": 0.607
+        }
+      },
+      "analysis": {
+        "source": "both_sources",
+        "title": "Using Free/Libre/Open Source for Software Engineering Education",
+        "year": null,
+        "red_flags": [],
+        "green_flags": [
+          "Present on BOTH ResearchGate and Google Scholar"
+        ],
+        "similarity_score": 0.607,
+        "citations": 0
+      },
+      "decision": "A",
+      "timestamp": "2025-11-12T12:18:42.648753"
+    },
+    {
+      "category": "both_sources",
+      "publication": {
+        "researchgate": {
+          "title": "Open Source Software Projects' Attractiveness, Activeness, And Efficiency As A Path To Software Quality: An Empirical Evaluation Of Their Relationships And Causes",
+          "url": "https://www.researchgate.net/publication/38285101_Open_Source_Software_Projects'_Attractiveness_Activeness_And_Efficiency_As_A_Path_To_Software_Quality_An_Empirical_Evaluation_Of_Their_Relationships_And_Causes",
+          "year": null,
+          "source": "researchgate_html",
+          "closest_in_bib": "Attractiveness of free and open source software projects",
+          "match_score": 0.875
+        },
+        "google_scholar": {
+          "title": "Open source software projects' attractiveness, activeness, and efficiency as a path to software quality: an empirical evaluation of their relationships and causes",
+          "authors": "C Santos Jr",
+          "venue": "Southern Illinois University at Carbondale",
+          "year": 2009,
+          "citations": 15,
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&citation_for_view=AoKJ_g4AAAAJ:d1gkVwhDpl0C",
+          "source": "google_scholar_html",
+          "closest_in_bib": "Attractiveness of free and open source software projects",
+          "match_score": 0.875
+        }
+      },
+      "analysis": {
+        "source": "both_sources",
+        "title": "Open source software projects' attractiveness, activeness, and efficiency as a path to software quality: an empirical evaluation of their relationships and causes",
+        "year": 2009,
+        "red_flags": [],
+        "green_flags": [
+          "Present on BOTH ResearchGate and Google Scholar"
+        ],
+        "similarity_score": 0.875,
+        "citations": 15
+      },
+      "decision": "A",
+      "timestamp": "2025-11-12T12:18:47.172701"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Inovação no setor público: teoria, tendências e casos no Brasil",
+        "authors": "P Cavalcante, M Camões, B Cunha, W Severo",
+        "venue": "Instituto de Pesquisa Econômica Aplicada (Ipea)",
+        "year": 2017,
+        "citations": 151,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&citation_for_view=AoKJ_g4AAAAJ:a0OBvERweLwC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "Open innovation in the public sector",
+        "match_score": 0.553
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Inovação no setor público: teoria, tendências e casos no Brasil",
+        "year": 2017,
+        "red_flags": [],
+        "green_flags": [
+          "Well-cited (151 citations)"
+        ],
+        "similarity_score": 0.553,
+        "citations": 151
+      },
+      "decision": "A",
+      "timestamp": "2025-11-12T12:19:08.310578"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "An analysis of data relating to pig carcass quality and indices of stress collected in the European Union",
+        "authors": "PD Warriss, SN Brown, PB Gade, C Santos, LN Costa, E Lambooij, ...",
+        "venue": "Meat Science 49 (2), 137-144",
+        "year": 1998,
+        "citations": 110,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&citation_for_view=AoKJ_g4AAAAJ:tYavs44e6CUC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "Intended AND UNINTENDED CONSEQUENCES OF INNOVATION ADOPTION: OPEN GOVERNMENT DATA ADOPTION BY THE FEDERAL DISTRICT OF BRAZIL",
+        "match_score": 0.451
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "An analysis of data relating to pig carcass quality and indices of stress collected in the European Union",
+        "year": 1998,
+        "red_flags": [
+          "Suspicious keyword: 'pig carcass' (likely different author)"
+        ],
+        "green_flags": [
+          "Well-cited (110 citations)",
+          "Very different from existing publications (likely new work)"
+        ],
+        "similarity_score": 0.451,
+        "citations": 110
+      },
+      "decision": "S",
+      "timestamp": "2025-11-12T12:19:28.181623"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Algunas consideraciones sobre la rabia humana transmitida por murciélago",
+        "authors": "MC Schneider, C Santos",
+        "venue": "Salud Pública de México 37 (4), 354-362",
+        "year": 1995,
+        "citations": 67,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&citation_for_view=AoKJ_g4AAAAJ:EkHepimYqZsC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "Uma AN\\'ALISE SOBRE STARTUPS DE BASE TECNOL\\'OGICA a PARTIR DA LITERATURA DO PER\\'IODO 2008-2017",
+        "match_score": 0.388
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Algunas consideraciones sobre la rabia humana transmitida por murciélago",
+        "year": 1995,
+        "red_flags": [
+          "Suspicious keyword: 'murciélago' (likely different author)"
+        ],
+        "green_flags": [
+          "Well-cited (67 citations)",
+          "Very different from existing publications (likely new work)"
+        ],
+        "similarity_score": 0.388,
+        "citations": 67
+      },
+      "decision": "S",
+      "timestamp": "2025-11-12T12:19:32.340862"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "La diabetes mellitus y la transición de la atención a la salud",
+        "authors": "J Escobedo, C Santos",
+        "venue": "Salud pública de México 37 (1), 37-46",
+        "year": 1995,
+        "citations": 38,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&citation_for_view=AoKJ_g4AAAAJ:t7zJ5fGR-2UC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "Review of: \"Artificial intelligence and organizational change\"",
+        "match_score": 0.446
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "La diabetes mellitus y la transición de la atención a la salud",
+        "year": 1995,
+        "red_flags": [
+          "Suspicious keyword: 'diabetes mellitus' (likely different author)"
+        ],
+        "green_flags": [
+          "Well-cited (38 citations)",
+          "Very different from existing publications (likely new work)"
+        ],
+        "similarity_score": 0.446,
+        "citations": 38
+      },
+      "decision": "S",
+      "timestamp": "2025-11-12T12:19:34.502264"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Free and open source software development: the end of the teenage years",
+        "authors": "I Steinmacher, G Robles, B Fitzgerald, A Wasserman",
+        "venue": "Journal of Internet Services and Applications 8 (1), 17",
+        "year": 2017,
+        "citations": 17,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&citation_for_view=AoKJ_g4AAAAJ:vRqMK49ujn8C",
+        "source": "google_scholar_html",
+        "closest_in_bib": "Attractiveness of free and open source software projects",
+        "match_score": 0.75
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Free and open source software development: the end of the teenage years",
+        "year": 2017,
+        "red_flags": [],
+        "green_flags": [
+          "Well-cited (17 citations)"
+        ],
+        "similarity_score": 0.75,
+        "citations": 17
+      },
+      "decision": "S",
+      "timestamp": "2025-11-12T12:19:55.511272"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Open source software projects' attractiveness, activeness, and efficiency as a path to software quality: an empirical evaluation of their relationships and causes",
+        "authors": "C Santos Jr",
+        "venue": "Southern Illinois University at Carbondale",
+        "year": 2009,
+        "citations": 15,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&citation_for_view=AoKJ_g4AAAAJ:d1gkVwhDpl0C",
+        "source": "google_scholar_html",
+        "closest_in_bib": "Attractiveness of free and open source software projects",
+        "match_score": 0.875
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Open source software projects' attractiveness, activeness, and efficiency as a path to software quality: an empirical evaluation of their relationships and causes",
+        "year": 2009,
+        "red_flags": [],
+        "green_flags": [
+          "Well-cited (15 citations)"
+        ],
+        "similarity_score": 0.875,
+        "citations": 15
+      },
+      "decision": "A",
+      "timestamp": "2025-11-12T12:20:00.262686"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Free/libre/open source software development in software engineering education: Opportunities and experiences",
+        "authors": "C Chavez, A Terceiro, P Meirelles, C Santos Jr, F Kon",
+        "venue": "Fórum de Educaçao em Engenharia de Software (CBSoft’11-SBES-FEES)",
+        "year": 2011,
+        "citations": 13,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=20&pagesize=80&citation_for_view=AoKJ_g4AAAAJ:9yKSN-GCB0IC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "Attractiveness of free and open source software projects",
+        "match_score": 0.625
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Free/libre/open source software development in software engineering education: Opportunities and experiences",
+        "year": 2011,
+        "red_flags": [],
+        "green_flags": [
+          "Well-cited (13 citations)"
+        ],
+        "similarity_score": 0.625,
+        "citations": 13
+      },
+      "decision": "A",
+      "timestamp": "2025-11-12T12:20:03.415027"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Association between IL28B gene polymorphisms and sustained virological response in patients coinfected with HCV and HIV in Brazil",
+        "authors": "PRA Ferreira, C Santos, R Côrtes, A Reis, SB Tenore, MH Silva, ...",
+        "venue": "Journal of antimicrobial chemotherapy 67 (2), 509-510",
+        "year": 2012,
+        "citations": 11,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=20&pagesize=80&citation_for_view=AoKJ_g4AAAAJ:ML0RJ9NH7IQC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "A study of the relationships between source code metrics and attractiveness in free software projects",
+        "match_score": 0.43
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Association between IL28B gene polymorphisms and sustained virological response in patients coinfected with HCV and HIV in Brazil",
+        "year": 2012,
+        "red_flags": [],
+        "green_flags": [
+          "Well-cited (11 citations)",
+          "Very different from existing publications (likely new work)"
+        ],
+        "similarity_score": 0.43,
+        "citations": 11
+      },
+      "decision": "S",
+      "timestamp": "2025-11-12T12:20:07.790157"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Group-based discretionary access control in health related repositories",
+        "authors": "J Zamite, D Domingos, MJ Silva, C Santos",
+        "venue": "Journal of Information Technology Research (JITR) 7 (1), 78-94",
+        "year": 2014,
+        "citations": 10,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=20&pagesize=80&citation_for_view=AoKJ_g4AAAAJ:W5xh706n7nkC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "The attraction of contributors in free and open source software projects",
+        "match_score": 0.406
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Group-based discretionary access control in health related repositories",
+        "year": 2014,
+        "red_flags": [
+          "Suspicious keyword: 'health' (likely different author)"
+        ],
+        "green_flags": [
+          "Well-cited (10 citations)",
+          "Very different from existing publications (likely new work)"
+        ],
+        "similarity_score": 0.406,
+        "citations": 10
+      },
+      "decision": "S",
+      "timestamp": "2025-11-12T12:20:14.473567"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Gestão da Inovação na Administração Pública Federal: reflexões sobre os caminhos, as barreiras e as perspectivas",
+        "authors": "BN Marques, ÂMF LIMA, ALR SOUZA, MLV Araújo",
+        "venue": "Cadernos de Prospecção 13 (4)",
+        "year": 1060,
+        "citations": 9,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=20&pagesize=80&citation_for_view=AoKJ_g4AAAAJ:5awf1xo2G04C",
+        "source": "google_scholar_html",
+        "closest_in_bib": "Atratividade de projetos de software livre: importância te\\'orica e estrat\\'egias para administra\\c c\\~ao",
+        "match_score": 0.453
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Gestão da Inovação na Administração Pública Federal: reflexões sobre os caminhos, as barreiras e as perspectivas",
+        "year": 1060,
+        "red_flags": [
+          "Suspicious year: 1060"
+        ],
+        "green_flags": [
+          "Some citations (9)",
+          "Very different from existing publications (likely new work)"
+        ],
+        "similarity_score": 0.453,
+        "citations": 9
+      },
+      "decision": "S",
+      "timestamp": "2025-11-12T12:20:21.066047"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Organización de los servicios sociales municipales en las comunidades autónomas: cinco estudios de caso",
+        "authors": "L Martínez Virto, MÁ Manzano, C Santos, C de la Sierra, A Hernández, ...",
+        "venue": "Zerbitzuan 63, 5-47",
+        "year": 2017,
+        "citations": 9,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=20&pagesize=80&citation_for_view=AoKJ_g4AAAAJ:yB1At4FlUx8C",
+        "source": "google_scholar_html",
+        "closest_in_bib": "A INFLU\\^ENCIA DAS VARI\\'AVEIS AMBIENTAIS e ORGANIZACIONAIS NO DESEMPENHO DE STARTUPS",
+        "match_score": 0.473
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Organización de los servicios sociales municipales en las comunidades autónomas: cinco estudios de caso",
+        "year": 2017,
+        "red_flags": [],
+        "green_flags": [
+          "Some citations (9)",
+          "Very different from existing publications (likely new work)"
+        ],
+        "similarity_score": 0.473,
+        "citations": 9
+      },
+      "decision": "S",
+      "timestamp": "2025-11-12T12:20:28.315813"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Técnicas de Aprendizado de Máquina no Processo de Categorização de Textos",
+        "authors": "C Santos, F Osorio",
+        "venue": "Internal Research Report",
+        "year": 2003,
+        "citations": 9,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=20&pagesize=80&citation_for_view=AoKJ_g4AAAAJ:p__nRnzSRKYC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "\"o que gerencio e de quem dependo?\": determinantes da a\\c c\\~ao de blogueiros",
+        "match_score": 0.497
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Técnicas de Aprendizado de Máquina no Processo de Categorização de Textos",
+        "year": 2003,
+        "red_flags": [],
+        "green_flags": [
+          "Some citations (9)",
+          "Very different from existing publications (likely new work)"
+        ],
+        "similarity_score": 0.497,
+        "citations": 9
+      },
+      "decision": "S",
+      "timestamp": "2025-11-12T12:20:48.104673"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Sebastiani R. Acompanhamento psicológico à pessoa portadora de doença crônica",
+        "authors": "C Santos",
+        "venue": "Angerami VA, organizador. E a psicologia entrou no hospital. São Paulo …",
+        "year": 1996,
+        "citations": 8,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=20&pagesize=80&citation_for_view=AoKJ_g4AAAAJ:L7CI7m0gUJcC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "Tecnologias e dados abertos para inova\\c c\\~ao em governo",
+        "match_score": 0.431
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Sebastiani R. Acompanhamento psicológico à pessoa portadora de doença crônica",
+        "year": 1996,
+        "red_flags": [],
+        "green_flags": [
+          "Some citations (8)",
+          "Very different from existing publications (likely new work)"
+        ],
+        "similarity_score": 0.431,
+        "citations": 8
+      },
+      "decision": "S",
+      "timestamp": "2025-11-12T12:20:51.130538"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Open Source Systems: Grounding Research: 7th IFIP 2.13 International Conference, OSS 2011, Salvador, Brazil, October 6-7, 2011, Proceedings",
+        "authors": "S Hissam, B Russo, MG de Mendonça Neto, F Kon",
+        "venue": "Springer Science & Business Media",
+        "year": 2011,
+        "citations": 7,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=20&pagesize=80&citation_for_view=AoKJ_g4AAAAJ:blknAaTinKkC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "Changes in free and open source software licenses: managerial interventions and variations on project attractiveness",
+        "match_score": 0.439
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Open Source Systems: Grounding Research: 7th IFIP 2.13 International Conference, OSS 2011, Salvador, Brazil, October 6-7, 2011, Proceedings",
+        "year": 2011,
+        "red_flags": [],
+        "green_flags": [
+          "Some citations (7)",
+          "Very different from existing publications (likely new work)"
+        ],
+        "similarity_score": 0.439,
+        "citations": 7
+      },
+      "decision": "S",
+      "timestamp": "2025-11-12T12:21:04.383731"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Proposta de ferramenta de avaliação qualitativa de ementas destinadas a idosos",
+        "authors": "A Ferreira, M Gregório, C Santos, P Graça",
+        "venue": "Lisboa: Programa Nacional para a Promoção da Alimentação Saudável, Direção …",
+        "year": 2017,
+        "citations": 6,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=20&pagesize=80&citation_for_view=AoKJ_g4AAAAJ:hMsQuOkrut0C",
+        "source": "google_scholar_html",
+        "closest_in_bib": "Automa\\c c\\~ao e mercado de trabalho: an\\'alise da literatura e evid\\^encias emp\\'iricas",
+        "match_score": 0.435
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Proposta de ferramenta de avaliação qualitativa de ementas destinadas a idosos",
+        "year": 2017,
+        "red_flags": [],
+        "green_flags": [
+          "Some citations (6)",
+          "Very different from existing publications (likely new work)"
+        ],
+        "similarity_score": 0.435,
+        "citations": 6
+      },
+      "decision": "S",
+      "timestamp": "2025-11-12T12:21:09.087215"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Group-based discretionary access control for epidemiological resources",
+        "authors": "J Zamite, D Domingos, MJ Silva, C Santos",
+        "venue": "Procedia Technology 9",
+        "year": 1149,
+        "citations": 6,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=20&pagesize=80&citation_for_view=AoKJ_g4AAAAJ:NJ774b8OgUMC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "Changes in free and open source software licenses: managerial interventions and variations on project attractiveness",
+        "match_score": 0.431
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Group-based discretionary access control for epidemiological resources",
+        "year": 1149,
+        "red_flags": [
+          "Suspicious year: 1149"
+        ],
+        "green_flags": [
+          "Some citations (6)",
+          "Very different from existing publications (likely new work)"
+        ],
+        "similarity_score": 0.431,
+        "citations": 6
+      },
+      "decision": "S",
+      "timestamp": "2025-11-12T12:21:12.188004"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Aplicações e tendências do uso de tecnologias de informação e comunicação na educação superior presencial no Brasil",
+        "authors": "S Alfinito, T Paschoal, A Maduro-Abreu, CBR Cantal",
+        "venue": "Universidade de Brasília, Departamento de Administração da Faculdade de …",
+        "year": 2012,
+        "citations": 5,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=20&pagesize=80&citation_for_view=AoKJ_g4AAAAJ:OU6Ihb5iCvQC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "Aceita\\c c\\~ao de tecnologia em terminais de autosservi\\c co aeroportu\\'arios: explorando os efeitos dos moderadores idade, experi\\^encia e g\\^enero",
+        "match_score": 0.441
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Aplicações e tendências do uso de tecnologias de informação e comunicação na educação superior presencial no Brasil",
+        "year": 2012,
+        "red_flags": [],
+        "green_flags": [
+          "Some citations (5)",
+          "Very different from existing publications (likely new work)"
+        ],
+        "similarity_score": 0.441,
+        "citations": 5
+      },
+      "decision": "S",
+      "timestamp": "2025-11-12T12:21:20.186932"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Incorporation of optimized primers into the Trofile assay substantially improves determination of viral tropism in genetically diverse HIV subtypes",
+        "authors": "L Napolitano, T Tressler, E Coakley, C Santos, J Heera, J Whitcomb",
+        "venue": "49 th Interscience Conference on Antimicrobial Agents and Chemotherapy, San …",
+        "year": 2009,
+        "citations": 5,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=20&pagesize=80&citation_for_view=AoKJ_g4AAAAJ:AvfA0Oy_GE0C",
+        "source": "google_scholar_html",
+        "closest_in_bib": "Gamification strategies that promote leisure participation in children and youth with disabilities",
+        "match_score": 0.421
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Incorporation of optimized primers into the Trofile assay substantially improves determination of viral tropism in genetically diverse HIV subtypes",
+        "year": 2009,
+        "red_flags": [],
+        "green_flags": [
+          "Some citations (5)",
+          "Very different from existing publications (likely new work)"
+        ],
+        "similarity_score": 0.421,
+        "citations": 5
+      },
+      "decision": "S",
+      "timestamp": "2025-11-12T12:21:22.646083"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Gestión Administrativa de una empresa",
+        "authors": "JG Ramirez, C Santos, PC Paredesoronado, A Correa",
+        "venue": "Guayaquil: Grupo Compás",
+        "year": 2020,
+        "citations": 4,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=20&pagesize=80&citation_for_view=AoKJ_g4AAAAJ:g3aElNc5_aQC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "Grupo FOCAL: APLICA\\c C\\~OES NA PESQUISA NACIONAL EM ADMINISTRA\\c C\\~AO",
+        "match_score": 0.505
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Gestión Administrativa de una empresa",
+        "year": 2020,
+        "red_flags": [],
+        "green_flags": [],
+        "similarity_score": 0.505,
+        "citations": 4
+      },
+      "decision": "S",
+      "timestamp": "2025-11-12T12:21:28.278732"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "HIV type 1 tropism determination in a novel dried blood spot membrane and the use of a mixture of outer nested polymerase chain reaction primers",
+        "authors": "S Lavigne, C Santos, MS Arif, A Reis, S Samer, CV Dos Santos, RS Diaz",
+        "venue": "AIDS Research and Human Retroviruses 30 (2), 147-150",
+        "year": 2014,
+        "citations": 4,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=20&pagesize=80&citation_for_view=AoKJ_g4AAAAJ:Z5m8FVwuT1cC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "This is not a pyramid: revising the data, information, knowledge and wisdom classical model",
+        "match_score": 0.441
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "HIV type 1 tropism determination in a novel dried blood spot membrane and the use of a mixture of outer nested polymerase chain reaction primers",
+        "year": 2014,
+        "red_flags": [],
+        "green_flags": [
+          "Very different from existing publications (likely new work)"
+        ],
+        "similarity_score": 0.441,
+        "citations": 4
+      },
+      "decision": "S",
+      "timestamp": "2025-11-12T12:21:30.712803"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "The paradoxal link between food insecurity and obesity in Portuguese adults",
+        "authors": "M Gregório, P Graça, C Santos, S Gomes, P Nogueira",
+        "venue": null,
+        "year": 2013,
+        "citations": 4,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=20&pagesize=80&citation_for_view=AoKJ_g4AAAAJ:ILKRHgRFtOwC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "Understanding partnerships between corporations and the open source community: a research gap",
+        "match_score": 0.455
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "The paradoxal link between food insecurity and obesity in Portuguese adults",
+        "year": 2013,
+        "red_flags": [],
+        "green_flags": [
+          "Very different from existing publications (likely new work)"
+        ],
+        "similarity_score": 0.455,
+        "citations": 4
+      },
+      "decision": "S",
+      "timestamp": "2025-11-12T12:21:37.507668"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "The Inextricable Role of Organizational Sponsorship for Open Source Sustainability",
+        "authors": "CD Santos Jr, G Kuk, F Kon, R Suguiura",
+        "venue": "Proceedings of SOS",
+        "year": 2011,
+        "citations": 4,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=20&pagesize=80&citation_for_view=AoKJ_g4AAAAJ:ufrVoPGSRksC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "The influence of sponsors on organizational structure of free software communities",
+        "match_score": 0.634
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "The Inextricable Role of Organizational Sponsorship for Open Source Sustainability",
+        "year": 2011,
+        "red_flags": [],
+        "green_flags": [],
+        "similarity_score": 0.634,
+        "citations": 4
+      },
+      "decision": "A",
+      "timestamp": "2025-11-12T12:21:41.621522"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Avaliação das condições de ensino: uma simulação no curso de Ciência Contábeis da Universidade Federal de Santa Catarina em 2004/2",
+        "authors": "SR Ensslin, DCC Igarashi, F Maçaneiro",
+        "venue": "Revista Contemporânea de Contabilidade 1 (2), 11-40",
+        "year": 2004,
+        "citations": 4,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=20&pagesize=80&citation_for_view=AoKJ_g4AAAAJ:yD5IFk8b50cC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "Isso n\\~ao \\'e uma pirâmide: revisando o modelo cl\\'assico de dado, informa\\c c\\~ao, conhecimento e sabedoria",
+        "match_score": 0.415
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Avaliação das condições de ensino: uma simulação no curso de Ciência Contábeis da Universidade Federal de Santa Catarina em 2004/2",
+        "year": 2004,
+        "red_flags": [],
+        "green_flags": [
+          "Very different from existing publications (likely new work)"
+        ],
+        "similarity_score": 0.415,
+        "citations": 4
+      },
+      "decision": "S",
+      "timestamp": "2025-11-12T12:21:47.596232"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Organización del trabajo familiar y fecundidad en el México rural",
+        "authors": "ME Zúñiga, C Santos, C Menkes, D Hernández",
+        "venue": "Estudios Demográficos y Urbanos, 205-225",
+        "year": 1986,
+        "citations": 4,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=20&pagesize=80&citation_for_view=AoKJ_g4AAAAJ:1yQoGdGgb4wC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "Organization of free and open source software projects: in-between the community and traditional governance",
+        "match_score": 0.431
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Organización del trabajo familiar y fecundidad en el México rural",
+        "year": 1986,
+        "red_flags": [
+          "Suspicious year: 1986"
+        ],
+        "green_flags": [
+          "Very different from existing publications (likely new work)"
+        ],
+        "similarity_score": 0.431,
+        "citations": 4
+      },
+      "decision": "S",
+      "timestamp": "2025-11-12T12:21:50.345931"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Creative Complex Systems",
+        "authors": "K Nishimura, M Murase, K Yoshimura",
+        "venue": "Springer",
+        "year": 2021,
+        "citations": 3,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=20&pagesize=80&citation_for_view=AoKJ_g4AAAAJ:4fKUyHm3Qg0C",
+        "source": "google_scholar_html",
+        "closest_in_bib": "Attractiveness of free and open source software projects",
+        "match_score": 0.375
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Creative Complex Systems",
+        "year": 2021,
+        "red_flags": [],
+        "green_flags": [
+          "Very different from existing publications (likely new work)"
+        ],
+        "similarity_score": 0.375,
+        "citations": 3
+      },
+      "decision": "S",
+      "timestamp": "2025-11-12T12:21:58.091362"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Capítulo 2 A Gestão da Inovação na Universidade de Brasília",
+        "authors": "SCM Barbalho, GF Ghesti, SMS Carvalho, CD dos Santos, AR Martin, ...",
+        "venue": "BOAS PRÁTICAS DE GESTÃO EM NÚCLEOS DE INOVAÇÃO TECNOLÓGICA: Experiências …",
+        "year": 2019,
+        "citations": 3,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=20&pagesize=80&citation_for_view=AoKJ_g4AAAAJ:dshw04ExmUIC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "Tecnologias e dados abertos para inova\\c c\\~ao em governo",
+        "match_score": 0.442
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Capítulo 2 A Gestão da Inovação na Universidade de Brasília",
+        "year": 2019,
+        "red_flags": [],
+        "green_flags": [
+          "Very different from existing publications (likely new work)"
+        ],
+        "similarity_score": 0.442,
+        "citations": 3
+      },
+      "decision": "A",
+      "timestamp": "2025-11-12T12:22:02.101363"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Un estudio acerca de la influencia de los mecanismos no operacionales en la efectividad de lagobernanza de tecnología de la información pública",
+        "authors": "L Santos, C Dos Santos",
+        "venue": "Sao Paulo: Scielo. Obtenido de http://www. scielo. br/scielo. php",
+        "year": 2017,
+        "citations": 3,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=20&pagesize=80&citation_for_view=AoKJ_g4AAAAJ:WqliGbK-hY8C",
+        "source": "google_scholar_html",
+        "closest_in_bib": "A study on the impact of non-operational mechanisms on the effectiveness of public information technology governance",
+        "match_score": 0.597
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Un estudio acerca de la influencia de los mecanismos no operacionales en la efectividad de lagobernanza de tecnología de la información pública",
+        "year": 2017,
+        "red_flags": [],
+        "green_flags": [],
+        "similarity_score": 0.597,
+        "citations": 3
+      },
+      "decision": "A",
+      "timestamp": "2025-11-12T12:22:22.516154"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "A Relação entre o risco percebido e a confiança na marca do banco na ótica de usuários de mobile banking",
+        "authors": "TL Gelenske, JS Farias, CD Dos Santos Junior",
+        "venue": "Seminários de Administração 27, 1-17",
+        "year": 2015,
+        "citations": 3,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=20&pagesize=80&citation_for_view=AoKJ_g4AAAAJ:ULOm3_A8WrAC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "The PERCEIVED RISK AND TRUST IN THE BANK'S BRAND ON THE MOBILE BANKING USER VISION",
+        "match_score": 0.529
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "A Relação entre o risco percebido e a confiança na marca do banco na ótica de usuários de mobile banking",
+        "year": 2015,
+        "red_flags": [],
+        "green_flags": [],
+        "similarity_score": 0.529,
+        "citations": 3
+      },
+      "decision": "A",
+      "timestamp": "2025-11-12T12:22:27.081750"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Global Entrepreneurship",
+        "authors": "J Hayton, C Salvato, MJ Manimala",
+        "venue": "Taylor & Francis",
+        "year": 2014,
+        "citations": 3,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=20&pagesize=80&citation_for_view=AoKJ_g4AAAAJ:08ZZubdj9fEC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "Crowdfunding for entrepreneurial education",
+        "match_score": 0.492
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Global Entrepreneurship",
+        "year": 2014,
+        "red_flags": [],
+        "green_flags": [
+          "Very different from existing publications (likely new work)"
+        ],
+        "similarity_score": 0.492,
+        "citations": 3
+      },
+      "decision": "S",
+      "timestamp": "2025-11-12T12:22:32.925960"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "The Epidemic Marketplace Platform: towards semantic characterization of epidemiological resources using biomedical ontologies.",
+        "authors": "FM Couto, JD Ferreira, J Zamite, C Santos, T Posse, PMLA Graça, ...",
+        "venue": "ICBO",
+        "year": 2012,
+        "citations": 3,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=20&pagesize=80&citation_for_view=AoKJ_g4AAAAJ:kzcrU_BdoSEC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "Ict governance performance implications in higher education: a systematic review of the literature",
+        "match_score": 0.443
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "The Epidemic Marketplace Platform: towards semantic characterization of epidemiological resources using biomedical ontologies.",
+        "year": 2012,
+        "red_flags": [],
+        "green_flags": [
+          "Very different from existing publications (likely new work)"
+        ],
+        "similarity_score": 0.443,
+        "citations": 3
+      },
+      "decision": "S",
+      "timestamp": "2025-11-12T12:22:36.223617"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Open Source Systems: Long-Term Sustainability",
+        "authors": "I Hammouda, B Lundell, T Mikkonen, W Scacchi",
+        "venue": "Springer",
+        "year": 2012,
+        "citations": 3,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=20&pagesize=80&citation_for_view=AoKJ_g4AAAAJ:pqnbT2bcN3wC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "Open innovation in the public sector",
+        "match_score": 0.4
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Open Source Systems: Long-Term Sustainability",
+        "year": 2012,
+        "red_flags": [],
+        "green_flags": [
+          "Very different from existing publications (likely new work)"
+        ],
+        "similarity_score": 0.4,
+        "citations": 3
+      },
+      "decision": "S",
+      "timestamp": "2025-11-12T12:22:44.457447"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Um estudo exploratório dos fatores associados ao estímulo do aprendizado em times ágeis na indústria",
+        "authors": "CO Melo, CDS Jr, GRM Ferreira, F Kon",
+        "venue": "Experimental Software Engineering Latin American Workshop 7, 80-98",
+        "year": 2010,
+        "citations": 3,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=20&pagesize=80&citation_for_view=AoKJ_g4AAAAJ:HoB7MX3m0LUC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "Aceita\\c c\\~ao de tecnologia em terminais de autosservi\\c co aeroportu\\'arios: explorando os efeitos dos moderadores idade, experi\\^encia e g\\^enero",
+        "match_score": 0.451
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Um estudo exploratório dos fatores associados ao estímulo do aprendizado em times ágeis na indústria",
+        "year": 2010,
+        "red_flags": [],
+        "green_flags": [
+          "Very different from existing publications (likely new work)"
+        ],
+        "similarity_score": 0.451,
+        "citations": 3
+      },
+      "decision": "A",
+      "timestamp": "2025-11-12T12:22:50.010623"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "A resource-based explanation for the Apache consistent dominance in the web-server industry",
+        "authors": "C Santos Jr, M Gonçalves",
+        "venue": "Associação Nacional dos Programas de Pós-Graduação em Administração (ANPAD)",
+        "year": 2008,
+        "citations": 3,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=20&pagesize=80&citation_for_view=AoKJ_g4AAAAJ:Tyk-4Ss8FVUC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "Apache sustained competitive advantage in the web server industry",
+        "match_score": 0.667
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "A resource-based explanation for the Apache consistent dominance in the web-server industry",
+        "year": 2008,
+        "red_flags": [],
+        "green_flags": [],
+        "similarity_score": 0.667,
+        "citations": 3
+      },
+      "decision": "A",
+      "timestamp": "2025-11-12T12:22:55.968228"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Avaliação de sistemas de informações",
+        "authors": "JA AMÂNCIO, CDD SANTOS JÚNIOR, MA GONÇALVES",
+        "venue": "CONGRESSO ANUAL DE TECNOLOGIA DA INFORMAÇÃO. Anais CATI, 1-14",
+        "year": 2004,
+        "citations": 3,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=20&pagesize=80&citation_for_view=AoKJ_g4AAAAJ:5nxA0vEk-isC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "Como promover a colabora\\c c\\~ao em plataformas de dados abertos?",
+        "match_score": 0.424
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Avaliação de sistemas de informações",
+        "year": 2004,
+        "red_flags": [],
+        "green_flags": [
+          "Very different from existing publications (likely new work)"
+        ],
+        "similarity_score": 0.424,
+        "citations": 3
+      },
+      "decision": "A",
+      "timestamp": "2025-11-12T12:22:57.918805"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "The role of firm-specific knowledge and technology on artificial intelligence breakthroughs: Oligopolistic evidence from global R&D expenditure",
+        "authors": "PJ de Moura Jr, CD Santos Jr, C Bellini",
+        "venue": null,
+        "year": 2022,
+        "citations": 2,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=20&pagesize=80&citation_for_view=AoKJ_g4AAAAJ:JQOojiI6XY0C",
+        "source": "google_scholar_html",
+        "closest_in_bib": "The Over-Concentration of innovation and Firm-Specific knowledge in the artificial intelligence industry",
+        "match_score": 0.615
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "The role of firm-specific knowledge and technology on artificial intelligence breakthroughs: Oligopolistic evidence from global R&D expenditure",
+        "year": 2022,
+        "red_flags": [],
+        "green_flags": [],
+        "similarity_score": 0.615,
+        "citations": 2
+      },
+      "decision": "A",
+      "timestamp": "2025-11-12T12:23:01.898777"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Organização de Projetos de Software Livre e de Código Aberto: entre a comunidade e a governança tradicional",
+        "authors": "IN Ferraz, CD Santos Júnior",
+        "venue": "BBR. Brazilian Business Review 18, 334-352",
+        "year": 2021,
+        "citations": 2,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=20&pagesize=80&citation_for_view=AoKJ_g4AAAAJ:eq2jaN3J8jMC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "Organization of free and open source software projects: in-between the community and traditional governance",
+        "match_score": 0.657
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Organização de Projetos de Software Livre e de Código Aberto: entre a comunidade e a governança tradicional",
+        "year": 2021,
+        "red_flags": [],
+        "green_flags": [],
+        "similarity_score": 0.657,
+        "citations": 2
+      },
+      "decision": "A",
+      "timestamp": "2025-11-12T12:23:05.288525"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Consequências da adoção de inovações: um modelo de análise além do viés pró-inovação",
+        "authors": "LF Oliveira",
+        "venue": null,
+        "year": 2015,
+        "citations": 2,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=20&pagesize=80&citation_for_view=AoKJ_g4AAAAJ:HDshCWvjkbEC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "Intended AND UNINTENDED CONSEQUENCES OF INNOVATION ADOPTION: OPEN GOVERNMENT DATA ADOPTION BY THE FEDERAL DISTRICT OF BRAZIL",
+        "match_score": 0.513
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Consequências da adoção de inovações: um modelo de análise além do viés pró-inovação",
+        "year": 2015,
+        "red_flags": [],
+        "green_flags": [],
+        "similarity_score": 0.513,
+        "citations": 2
+      },
+      "decision": "S",
+      "timestamp": "2025-11-12T12:23:16.817633"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Semi-Automatic Evaluation of Free Software Projects: A Source Code Perspective",
+        "authors": "P Meirelles, F Kon, C Santos Jr",
+        "venue": "Salvador, Brazil, 42",
+        "year": 2011,
+        "citations": 2,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=20&pagesize=80&citation_for_view=AoKJ_g4AAAAJ:_FxGoFyzp5QC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "Attractiveness of free and open source software projects",
+        "match_score": 0.677
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Semi-Automatic Evaluation of Free Software Projects: A Source Code Perspective",
+        "year": 2011,
+        "red_flags": [],
+        "green_flags": [],
+        "similarity_score": 0.677,
+        "citations": 2
+      },
+      "decision": "A",
+      "timestamp": "2025-11-12T12:23:21.894158"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Reseña de\" La salud de la población. Hacia una nueva Salud Pública\" de J. Frenk",
+        "authors": "C Santos",
+        "venue": "Salud Pública de México 37 (1), 88-90",
+        "year": 1995,
+        "citations": 2,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=20&pagesize=80&citation_for_view=AoKJ_g4AAAAJ:9Nmd_mFXekcC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "Public value innovation",
+        "match_score": 0.434
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Reseña de\" La salud de la población. Hacia una nueva Salud Pública\" de J. Frenk",
+        "year": 1995,
+        "red_flags": [
+          "Suspicious keyword: 'salud pública' (likely different author)"
+        ],
+        "green_flags": [
+          "Very different from existing publications (likely new work)"
+        ],
+        "similarity_score": 0.434,
+        "citations": 2
+      },
+      "decision": "S",
+      "timestamp": "2025-11-12T12:23:27.446030"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "A Web Platform Based on a Multi-Tenant SaaS Architecture to Promote the Accountability of the Social Economy Sector",
+        "authors": "RP Marques, C Santos, R Duarte",
+        "venue": null,
+        "year": 2019,
+        "citations": 1,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=20&pagesize=80&citation_for_view=AoKJ_g4AAAAJ:eflP2zaiRacC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "Organization of free and open source software projects: in-between the community and traditional governance",
+        "match_score": 0.425
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "A Web Platform Based on a Multi-Tenant SaaS Architecture to Promote the Accountability of the Social Economy Sector",
+        "year": 2019,
+        "red_flags": [],
+        "green_flags": [
+          "Very different from existing publications (likely new work)"
+        ],
+        "similarity_score": 0.425,
+        "citations": 1
+      },
+      "decision": "S",
+      "timestamp": "2025-11-12T12:23:32.119333"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Um estudo sobre o impacto dos mecanismos não operacionais na efetividade da governança detecnologia da informação pública",
+        "authors": "LC Santos, CD Santos Jr",
+        "venue": "Revista de Administração (São Paulo) 52 (3), 256-267",
+        "year": 2017,
+        "citations": 1,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=20&pagesize=80&citation_for_view=AoKJ_g4AAAAJ:pyW8ca7W8N0C",
+        "source": "google_scholar_html",
+        "closest_in_bib": "A study on the impact of non-operational mechanisms on the effectiveness of public information technology governance",
+        "match_score": 0.652
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Um estudo sobre o impacto dos mecanismos não operacionais na efetividade da governança detecnologia da informação pública",
+        "year": 2017,
+        "red_flags": [],
+        "green_flags": [],
+        "similarity_score": 0.652,
+        "citations": 1
+      },
+      "decision": "A",
+      "timestamp": "2025-11-12T12:23:35.359136"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "A influência dos patrocinadores nas estruturas organizacionais de comunidades de software livre",
+        "authors": "DSS Esashika",
+        "venue": null,
+        "year": 2016,
+        "citations": 1,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=20&pagesize=80&citation_for_view=AoKJ_g4AAAAJ:4JMBOYKVnBMC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "A INFLU\\^ENCIA DAS VARI\\'AVEIS AMBIENTAIS e ORGANIZACIONAIS NO DESEMPENHO DE STARTUPS",
+        "match_score": 0.573
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "A influência dos patrocinadores nas estruturas organizacionais de comunidades de software livre",
+        "year": 2016,
+        "red_flags": [],
+        "green_flags": [],
+        "similarity_score": 0.573,
+        "citations": 1
+      },
+      "decision": "A",
+      "timestamp": "2025-11-12T12:23:40.017362"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Open Source Software: Mobile Open Source Technologies",
+        "authors": "L Corral, A Sillitti, G Succi, J Vlasenko, AI Wasserman",
+        "venue": "Springer",
+        "year": 2014,
+        "citations": 1,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=20&pagesize=80&citation_for_view=AoKJ_g4AAAAJ:cFHS6HbyZ2cC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "The attraction of contributors in free and open source software projects",
+        "match_score": 0.6
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Open Source Software: Mobile Open Source Technologies",
+        "year": 2014,
+        "red_flags": [],
+        "green_flags": [],
+        "similarity_score": 0.6,
+        "citations": 1
+      },
+      "decision": "S",
+      "timestamp": "2025-11-12T12:23:49.265168"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "In memoriam. María Guadalupe Frausto Pérez (1922-1991)",
+        "authors": "C Santos",
+        "venue": "Salud Pública de México 33 (5), 551-552",
+        "year": 1991,
+        "citations": 1,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=20&pagesize=80&citation_for_view=AoKJ_g4AAAAJ:VLnqNzywnoUC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "Uma AN\\'ALISE SOBRE STARTUPS DE BASE TECNOL\\'OGICA a PARTIR DA LITERATURA DO PER\\'IODO 2008-2017",
+        "match_score": 0.361
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "In memoriam. María Guadalupe Frausto Pérez (1922-1991)",
+        "year": 1991,
+        "red_flags": [],
+        "green_flags": [
+          "Very different from existing publications (likely new work)"
+        ],
+        "similarity_score": 0.361,
+        "citations": 1
+      },
+      "decision": "S",
+      "timestamp": "2025-11-12T12:23:51.450765"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Governança de TI em Instituições Públicas Federais: efetividade percebida e suas relações com três mecanismos clássicos",
+        "authors": "G Heindrickson",
+        "venue": null,
+        "year": null,
+        "citations": 1,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=20&pagesize=80&citation_for_view=AoKJ_g4AAAAJ:_xSYboBqXhAC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "Information technology governance in public organizations: how perceived effectiveness relates to three classical mechanisms",
+        "match_score": 0.589
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Governança de TI em Instituições Públicas Federais: efetividade percebida e suas relações com três mecanismos clássicos",
+        "year": null,
+        "red_flags": [],
+        "green_flags": [],
+        "similarity_score": 0.589,
+        "citations": 1
+      },
+      "decision": "S",
+      "timestamp": "2025-11-12T12:24:06.758757"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Efeitos dos mecanismos de governança na capacidade absortiva de projetos de colaboração internacional: um estudo de caso na organização Embrapa",
+        "authors": "SSO Mori, CD Santos, IN Ferraz",
+        "venue": "Revista Brasileira de Inovação 24, e",
+        "year": 250,
+        "citations": 0,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=20&pagesize=80&citation_for_view=AoKJ_g4AAAAJ:b1wdh0AR-JQC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "Atratividade de projetos de software livre: importância te\\'orica e estrat\\'egias para administra\\c c\\~ao",
+        "match_score": 0.451
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Efeitos dos mecanismos de governança na capacidade absortiva de projetos de colaboração internacional: um estudo de caso na organização Embrapa",
+        "year": 250,
+        "red_flags": [
+          "Suspicious year: 250"
+        ],
+        "green_flags": [
+          "Very different from existing publications (likely new work)"
+        ],
+        "similarity_score": 0.451,
+        "citations": 0
+      },
+      "decision": "A",
+      "timestamp": "2025-11-12T12:24:15.870228"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "A CONSTRUÇÃO DE UMA IDENTIDADE TERRENA: UM EXAME COM BASE NOS ENSINAMENTOS DE EDGAR MORIN (1998)",
+        "authors": "CD SANTOS, JE TORQUATO, NJ FARIAS, S SILVA, V SANTOS",
+        "venue": "CONTRIBUCIONES A LAS CIENCIAS SOCIALES 18 (1), e",
+        "year": 1493,
+        "citations": 0,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=20&pagesize=80&citation_for_view=AoKJ_g4AAAAJ:kuK5TVdYjLIC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "Isso n\\~ao \\'e uma pirâmide: revisando o modelo cl\\'assico de dado, informa\\c c\\~ao, conhecimento e sabedoria",
+        "match_score": 0.443
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "A CONSTRUÇÃO DE UMA IDENTIDADE TERRENA: UM EXAME COM BASE NOS ENSINAMENTOS DE EDGAR MORIN (1998)",
+        "year": 1493,
+        "red_flags": [
+          "Suspicious year: 1493"
+        ],
+        "green_flags": [
+          "Very different from existing publications (likely new work)"
+        ],
+        "similarity_score": 0.443,
+        "citations": 0
+      },
+      "decision": "S",
+      "timestamp": "2025-11-12T12:24:37.619877"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Effects of governance mechanisms on the absorptive capacity of international collaboration projects: a case study in the company Embrapa",
+        "authors": "SSO Mori, CD Santos, IN Ferraz",
+        "venue": "Revista Brasileira de Inovação 24, e",
+        "year": 250,
+        "citations": 0,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=20&pagesize=80&citation_for_view=AoKJ_g4AAAAJ:TIZ-Mc8IlK0C",
+        "source": "google_scholar_html",
+        "closest_in_bib": "A study on the impact of non-operational mechanisms on the effectiveness of public information technology governance",
+        "match_score": 0.538
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Effects of governance mechanisms on the absorptive capacity of international collaboration projects: a case study in the company Embrapa",
+        "year": 250,
+        "red_flags": [
+          "Suspicious year: 250"
+        ],
+        "green_flags": [],
+        "similarity_score": 0.538,
+        "citations": 0
+      },
+      "decision": "A",
+      "timestamp": "2025-11-12T12:24:42.908428"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Socioeconomic Dynamics in Post-Pandemic Brazil: An Interdisciplinary Approach",
+        "authors": "M Silva, C Santos",
+        "venue": "International Journal of Sociopolitical Studies 9 (1)",
+        "year": 2023,
+        "citations": 0,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=20&pagesize=80&citation_for_view=AoKJ_g4AAAAJ:tKAzc9rXhukC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "Changes in free and open source software licenses: managerial interventions and variations on project attractiveness",
+        "match_score": 0.406
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Socioeconomic Dynamics in Post-Pandemic Brazil: An Interdisciplinary Approach",
+        "year": 2023,
+        "red_flags": [],
+        "green_flags": [
+          "Very different from existing publications (likely new work)"
+        ],
+        "similarity_score": 0.406,
+        "citations": 0
+      },
+      "decision": "S",
+      "timestamp": "2025-11-12T12:24:46.075525"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Transformação de projetos de desenvolvimento de software livre: Uma governança entre a catedral e o bazar",
+        "authors": "IN Ferraz, CD Santos",
+        "venue": "Revista de Administração de Empresas 62, e",
+        "year": 2020,
+        "citations": 0,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=20&pagesize=80&citation_for_view=AoKJ_g4AAAAJ:AXPGKjj_ei8C",
+        "source": "google_scholar_html",
+        "closest_in_bib": "Transformation OF FREE AND OPEN SOURCE SOFTWARE DEVELOPMENT PROJECTS: GOVERNANCE BETWEEN THE CATHEDRAL AND BAZAAR",
+        "match_score": 0.68
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Transformação de projetos de desenvolvimento de software livre: Uma governança entre a catedral e o bazar",
+        "year": 2020,
+        "red_flags": [],
+        "green_flags": [],
+        "similarity_score": 0.68,
+        "citations": 0
+      },
+      "decision": "A",
+      "timestamp": "2025-11-12T12:24:50.024262"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "TRANSFORMAÇÃO DE PROJETOS DE DESENVOLVIMENTO DE SOFTWARE LIVRE: UMA GOVERNANÇA ENTRE A",
+        "authors": "CEO BAZAR",
+        "venue": "Revista de Administração de Empresas 62 (1), e",
+        "year": 2020,
+        "citations": 0,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=20&pagesize=80&citation_for_view=AoKJ_g4AAAAJ:UHK10RUVsp4C",
+        "source": "google_scholar_html",
+        "closest_in_bib": "Transformation OF FREE AND OPEN SOURCE SOFTWARE DEVELOPMENT PROJECTS: GOVERNANCE BETWEEN THE CATHEDRAL AND BAZAAR",
+        "match_score": 0.578
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "TRANSFORMAÇÃO DE PROJETOS DE DESENVOLVIMENTO DE SOFTWARE LIVRE: UMA GOVERNANÇA ENTRE A",
+        "year": 2020,
+        "red_flags": [],
+        "green_flags": [],
+        "similarity_score": 0.578,
+        "citations": 0
+      },
+      "decision": "A",
+      "timestamp": "2025-11-12T12:24:52.218215"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Governança de comunidades virtuais: entendendo a transformação da estrutura e dos processos de controle em projetos de software livre",
+        "authors": "IN Ferraz",
+        "venue": null,
+        "year": 2019,
+        "citations": 0,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=100&pagesize=100&citation_for_view=AoKJ_g4AAAAJ:WbkHhVStYXYC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "Atratividade de projetos de software livre: importância te\\'orica e estrat\\'egias para administra\\c c\\~ao",
+        "match_score": 0.514
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Governança de comunidades virtuais: entendendo a transformação da estrutura e dos processos de controle em projetos de software livre",
+        "year": 2019,
+        "red_flags": [],
+        "green_flags": [],
+        "similarity_score": 0.514,
+        "citations": 0
+      },
+      "decision": "A",
+      "timestamp": "2025-11-12T12:25:02.490481"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "CONSECUENCIAS PREVISTAS Y NO PREVISTAS DE LA ADOPCIÓN DE INNOVACIÓN: ADOPCIÓN DE DATOS ABIERTOS POR PARTE DEL GOBIERNO DE DISTRITO FEDERAL DE BRASIL",
+        "authors": "LF Oliveira, CD Santos",
+        "venue": "REAd. Revista Eletrônica de Administração (Porto Alegre) 25, 1-25",
+        "year": 2019,
+        "citations": 0,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=100&pagesize=100&citation_for_view=AoKJ_g4AAAAJ:HE397vMXCloC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "Intended AND UNINTENDED CONSEQUENCES OF INNOVATION ADOPTION: OPEN GOVERNMENT DATA ADOPTION BY THE FEDERAL DISTRICT OF BRAZIL",
+        "match_score": 0.617
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "CONSECUENCIAS PREVISTAS Y NO PREVISTAS DE LA ADOPCIÓN DE INNOVACIÓN: ADOPCIÓN DE DATOS ABIERTOS POR PARTE DEL GOBIERNO DE DISTRITO FEDERAL DE BRASIL",
+        "year": 2019,
+        "red_flags": [],
+        "green_flags": [],
+        "similarity_score": 0.617,
+        "citations": 0
+      },
+      "decision": "A",
+      "timestamp": "2025-11-12T12:25:11.130515"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "CONSEQUÊNCIAS PRETENDIDAS E NÃO PRETENDIDAS DA ADOÇÃO DE INOVAÇÕES: A ADOÇÃO DE DADOS ABERTOS PELO GOVERNO DO DISTRITO FEDERAL DO BRASIL",
+        "authors": "LF Oliveira, CD Santos",
+        "venue": "REAd. Revista Eletrônica de Administração (Porto Alegre) 25, 1-25",
+        "year": 2019,
+        "citations": 0,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=100&pagesize=100&citation_for_view=AoKJ_g4AAAAJ:XiVPGOgt02cC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "Intended AND UNINTENDED CONSEQUENCES OF INNOVATION ADOPTION: OPEN GOVERNMENT DATA ADOPTION BY THE FEDERAL DISTRICT OF BRAZIL",
+        "match_score": 0.579
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "CONSEQUÊNCIAS PRETENDIDAS E NÃO PRETENDIDAS DA ADOÇÃO DE INOVAÇÕES: A ADOÇÃO DE DADOS ABERTOS PELO GOVERNO DO DISTRITO FEDERAL DO BRASIL",
+        "year": 2019,
+        "red_flags": [],
+        "green_flags": [],
+        "similarity_score": 0.579,
+        "citations": 0
+      },
+      "decision": "A",
+      "timestamp": "2025-11-12T12:25:13.731473"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Whose Stake in Open Source Software Projects.",
+        "authors": "CD dos Santos",
+        "venue": "AMCIS",
+        "year": 2018,
+        "citations": 0,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=100&pagesize=100&citation_for_view=AoKJ_g4AAAAJ:2P1L_qKh6hAC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "The attraction of contributors in free and open source software projects",
+        "match_score": 0.714
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Whose Stake in Open Source Software Projects.",
+        "year": 2018,
+        "red_flags": [],
+        "green_flags": [],
+        "similarity_score": 0.714,
+        "citations": 0
+      },
+      "decision": "A",
+      "timestamp": "2025-11-12T12:25:17.413937"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Stakeholders of Free Software Projects: What is missing in the literature?",
+        "authors": "CD dos Santos",
+        "venue": null,
+        "year": 2018,
+        "citations": 0,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=100&pagesize=100&citation_for_view=AoKJ_g4AAAAJ:vV6vV6tmYwMC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "The attraction of contributors in free and open source software projects",
+        "match_score": 0.545
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Stakeholders of Free Software Projects: What is missing in the literature?",
+        "year": 2018,
+        "red_flags": [],
+        "green_flags": [],
+        "similarity_score": 0.545,
+        "citations": 0
+      },
+      "decision": "A",
+      "timestamp": "2025-11-12T12:25:23.301128"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Governance of collaborative projects organized as communities",
+        "authors": "I Ferraz, C Santos Jr",
+        "venue": null,
+        "year": 2018,
+        "citations": 0,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=100&pagesize=100&citation_for_view=AoKJ_g4AAAAJ:BqipwSGYUEgC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "Organization of free and open source software projects: in-between the community and traditional governance",
+        "match_score": 0.564
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Governance of collaborative projects organized as communities",
+        "year": 2018,
+        "red_flags": [],
+        "green_flags": [],
+        "similarity_score": 0.564,
+        "citations": 0
+      },
+      "decision": "A",
+      "timestamp": "2025-11-12T12:25:26.040268"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "SANTOS JÚNIOR, Carlos Denner",
+        "authors": "LO OLIVIERA",
+        "venue": "Inovações no setor público: uma abordagem teórica sobre os impactos de sua …",
+        "year": 2017,
+        "citations": 0,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=100&pagesize=100&citation_for_view=AoKJ_g4AAAAJ:XiSMed-E-HIC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "Tecnologias e dados abertos para inova\\c c\\~ao em governo",
+        "match_score": 0.386
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "SANTOS JÚNIOR, Carlos Denner",
+        "year": 2017,
+        "red_flags": [],
+        "green_flags": [
+          "Very different from existing publications (likely new work)"
+        ],
+        "similarity_score": 0.386,
+        "citations": 0
+      },
+      "decision": "A",
+      "timestamp": "2025-11-12T12:25:33.386809"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "As consequências organizacionais das escolhas estratégicas das coalizões dominantes",
+        "authors": "BM Henrique, CD dos Santos Júnior",
+        "venue": "Diálogos Interdisciplinares 6 (1), 86-101",
+        "year": 2017,
+        "citations": 0,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=100&pagesize=100&citation_for_view=AoKJ_g4AAAAJ:L8Ckcad2t8MC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "A INFLU\\^ENCIA DAS VARI\\'AVEIS AMBIENTAIS e ORGANIZACIONAIS NO DESEMPENHO DE STARTUPS",
+        "match_score": 0.458
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "As consequências organizacionais das escolhas estratégicas das coalizões dominantes",
+        "year": 2017,
+        "red_flags": [],
+        "green_flags": [
+          "Very different from existing publications (likely new work)"
+        ],
+        "similarity_score": 0.458,
+        "citations": 0
+      },
+      "decision": "A",
+      "timestamp": "2025-11-12T12:25:37.985738"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Desempenho de equipes de futebol: uma análise da vantagem de jogar em casa",
+        "authors": "JAS Batista",
+        "venue": null,
+        "year": 2016,
+        "citations": 0,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=100&pagesize=100&citation_for_view=AoKJ_g4AAAAJ:uWQEDVKXjbEC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "A INFLU\\^ENCIA DAS VARI\\'AVEIS AMBIENTAIS e ORGANIZACIONAIS NO DESEMPENHO DE STARTUPS",
+        "match_score": 0.52
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Desempenho de equipes de futebol: uma análise da vantagem de jogar em casa",
+        "year": 2016,
+        "red_flags": [],
+        "green_flags": [],
+        "similarity_score": 0.52,
+        "citations": 0
+      },
+      "decision": "S",
+      "timestamp": "2025-11-12T12:25:44.158503"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Muito além da tecnologia: o impacto dos mecanismos não operacionais na efetividade da governança de TI na administração pública",
+        "authors": "LC Santos",
+        "venue": null,
+        "year": 2016,
+        "citations": 0,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=100&pagesize=100&citation_for_view=AoKJ_g4AAAAJ:IWHjjKOFINEC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "A study on the impact of non-operational mechanisms on the effectiveness of public information technology governance",
+        "match_score": 0.619
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Muito além da tecnologia: o impacto dos mecanismos não operacionais na efetividade da governança de TI na administração pública",
+        "year": 2016,
+        "red_flags": [],
+        "green_flags": [],
+        "similarity_score": 0.619,
+        "citations": 0
+      },
+      "decision": "S",
+      "timestamp": "2025-11-12T12:25:47.761787"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "O IMPACTO DOS MECANISMOS NÃO OPERACIONAIS NA GOVERNANÇA TECNOLÓGICA PÚBLICA",
+        "authors": "L Santos, C Santos",
+        "venue": null,
+        "year": 2016,
+        "citations": 0,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=100&pagesize=100&citation_for_view=AoKJ_g4AAAAJ:M3ejUd6NZC8C",
+        "source": "google_scholar_html",
+        "closest_in_bib": "A study on the impact of non-operational mechanisms on the effectiveness of public information technology governance",
+        "match_score": 0.663
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "O IMPACTO DOS MECANISMOS NÃO OPERACIONAIS NA GOVERNANÇA TECNOLÓGICA PÚBLICA",
+        "year": 2016,
+        "red_flags": [],
+        "green_flags": [],
+        "similarity_score": 0.663,
+        "citations": 0
+      },
+      "decision": "A",
+      "timestamp": "2025-11-12T12:25:50.832729"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Uso de marcadores fenotípicos e bioquímicos para caracterização de isolados de Aspergillus seção Flavi",
+        "authors": "FA Couto, C Santos, ES Dias, N Lima, LR Batista",
+        "venue": "Editora INPA",
+        "year": 2015,
+        "citations": 0,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=100&pagesize=100&citation_for_view=AoKJ_g4AAAAJ:nrtMV_XWKgEC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "Automa\\c c\\~ao e mercado de trabalho: an\\'alise da literatura e evid\\^encias emp\\'iricas",
+        "match_score": 0.423
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Uso de marcadores fenotípicos e bioquímicos para caracterização de isolados de Aspergillus seção Flavi",
+        "year": 2015,
+        "red_flags": [
+          "Suspicious keyword: 'aspergillus' (likely different author)"
+        ],
+        "green_flags": [
+          "Very different from existing publications (likely new work)"
+        ],
+        "similarity_score": 0.423,
+        "citations": 0
+      },
+      "decision": "S",
+      "timestamp": "2025-11-12T12:25:54.834568"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Motivações dos contribuidores em plataformas de crowdsourcing",
+        "authors": "LFS Pinto",
+        "venue": null,
+        "year": 2014,
+        "citations": 0,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=100&pagesize=100&citation_for_view=AoKJ_g4AAAAJ:e5wmG9Sq2KIC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "Motiva\\c c\\~oes dos contribuidores de crowdsourcing full paper",
+        "match_score": 0.833
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Motivações dos contribuidores em plataformas de crowdsourcing",
+        "year": 2014,
+        "red_flags": [],
+        "green_flags": [],
+        "similarity_score": 0.833,
+        "citations": 0
+      },
+      "decision": "S",
+      "timestamp": "2025-11-12T12:25:58.933127"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Global entrepreneurship: case studies of entrepreneurial firms operating around the world",
+        "authors": "J Hayton, C Salvato, MJ Manimala",
+        "venue": "Routledge",
+        "year": 2014,
+        "citations": 0,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=100&pagesize=100&citation_for_view=AoKJ_g4AAAAJ:JV2RwH3_ST0C",
+        "source": "google_scholar_html",
+        "closest_in_bib": "Crowdfunding for entrepreneurial education",
+        "match_score": 0.431
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Global entrepreneurship: case studies of entrepreneurial firms operating around the world",
+        "year": 2014,
+        "red_flags": [],
+        "green_flags": [
+          "Very different from existing publications (likely new work)"
+        ],
+        "similarity_score": 0.431,
+        "citations": 0
+      },
+      "decision": "A",
+      "timestamp": "2025-11-12T12:26:11.267077"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Business Incubation and the Pipeway Business Case in Brazil",
+        "authors": "NMBF Santos, CE de Sousa, CD dos Santos, RF Santos",
+        "venue": "Global Entrepreneurship, 1-10",
+        "year": 2014,
+        "citations": 0,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=100&pagesize=100&citation_for_view=AoKJ_g4AAAAJ:aqlVkmm33-oC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "The diffusion of innovations under normative induction in Brazil",
+        "match_score": 0.526
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Business Incubation and the Pipeway Business Case in Brazil",
+        "year": 2014,
+        "red_flags": [],
+        "green_flags": [],
+        "similarity_score": 0.526,
+        "citations": 0
+      },
+      "decision": "A",
+      "timestamp": "2025-11-12T12:26:15.094485"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "EDITOR’s SPACE Special issue: Free Software",
+        "authors": "CD dos Santos Jr",
+        "venue": "Revista Eletrônica de Sistemas de Informação 13 (2)",
+        "year": 2014,
+        "citations": 0,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=100&pagesize=100&citation_for_view=AoKJ_g4AAAAJ:uJ-U7cs_P_0C",
+        "source": "google_scholar_html",
+        "closest_in_bib": "The attraction of contributors in free and open source software projects",
+        "match_score": 0.513
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "EDITOR’s SPACE Special issue: Free Software",
+        "year": 2014,
+        "red_flags": [],
+        "green_flags": [],
+        "similarity_score": 0.513,
+        "citations": 0
+      },
+      "decision": "A",
+      "timestamp": "2025-11-12T12:26:19.320975"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Edição temática: Software Livre/EDITOR's SPACE: Special issue: Free Software",
+        "authors": "CD dos Santos Jr",
+        "venue": "Revista Electronica de Sistemas de Informaçao 13 (2), 1",
+        "year": 2014,
+        "citations": 0,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=100&pagesize=100&citation_for_view=AoKJ_g4AAAAJ:iH-uZ7U-co4C",
+        "source": "google_scholar_html",
+        "closest_in_bib": "The attraction of contributors in free and open source software projects",
+        "match_score": 0.515
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Edição temática: Software Livre/EDITOR's SPACE: Special issue: Free Software",
+        "year": 2014,
+        "red_flags": [],
+        "green_flags": [],
+        "similarity_score": 0.515,
+        "citations": 0
+      },
+      "decision": "A",
+      "timestamp": "2025-11-12T12:26:21.326344"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Redes Sociais Virtuais-Uma investigação de abordagens metodológicas de pesquisa",
+        "authors": "IV Castro, JS Farias, C Júnior",
+        "venue": "CIAIQ",
+        "year": 2014,
+        "citations": 0,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=100&pagesize=100&citation_for_view=AoKJ_g4AAAAJ:738O_yMBCRsC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "Inova\\c c\\~oes no setor p\\'ublico : uma abordagem te\\'orica sobre os impactos de sua ado\\c c\\~ao",
+        "match_score": 0.425
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Redes Sociais Virtuais-Uma investigação de abordagens metodológicas de pesquisa",
+        "year": 2014,
+        "red_flags": [],
+        "green_flags": [
+          "Very different from existing publications (likely new work)"
+        ],
+        "similarity_score": 0.425,
+        "citations": 0
+      },
+      "decision": "A",
+      "timestamp": "2025-11-12T12:26:24.839629"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Governança de ti em organizações públicas: como a efetividade percebida se relaciona com três mecanismos clássicos",
+        "authors": "G Heindrickson, CD Santos Jr",
+        "venue": "JISTEM-Journal of Information Systems and Technology Management 11 (2), 297-326",
+        "year": 2014,
+        "citations": 0,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=100&pagesize=100&citation_for_view=AoKJ_g4AAAAJ:xtRiw3GOFMkC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "Information technology governance in public organizations: how perceived effectiveness relates to three classical mechanisms",
+        "match_score": 0.627
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Governança de ti em organizações públicas: como a efetividade percebida se relaciona com três mecanismos clássicos",
+        "year": 2014,
+        "red_flags": [],
+        "green_flags": [],
+        "similarity_score": 0.627,
+        "citations": 0
+      },
+      "decision": "A",
+      "timestamp": "2025-11-12T12:26:28.163221"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "EDITORIAL/EDITOR's SPACE",
+        "authors": "AR Graeml",
+        "venue": "Revista Electronica de Sistemas de Informaçao 13 (1), 1",
+        "year": 2014,
+        "citations": 0,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=100&pagesize=100&citation_for_view=AoKJ_g4AAAAJ:g5m5HwL7SMYC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "Editorial",
+        "match_score": 1.0
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "EDITORIAL/EDITOR's SPACE",
+        "year": 2014,
+        "red_flags": [],
+        "green_flags": [],
+        "similarity_score": 1.0,
+        "citations": 0
+      },
+      "decision": "S",
+      "timestamp": "2025-11-12T12:26:37.691661"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Open Source Software: Quality Verification",
+        "authors": "E Petrinja, G Succi, N El Ioini, A Sillitti",
+        "venue": "Springer",
+        "year": 2013,
+        "citations": 0,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=100&pagesize=100&citation_for_view=AoKJ_g4AAAAJ:b0M2c_1WBrUC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "The attraction of contributors in free and open source software projects",
+        "match_score": 0.6
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Open Source Software: Quality Verification",
+        "year": 2013,
+        "red_flags": [],
+        "green_flags": [],
+        "similarity_score": 0.6,
+        "citations": 0
+      },
+      "decision": "S",
+      "timestamp": "2025-11-12T12:26:44.792296"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Adoção de Práticas de Gestão de Segurança da Informação na Administração Pública Federal (Adoption of Information Security Management Practices in the Federal Public …",
+        "authors": "L Franco, C Denner",
+        "venue": "Available at SSRN",
+        "year": 3641,
+        "citations": 0,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=100&pagesize=100&citation_for_view=AoKJ_g4AAAAJ:geHnlv5EZngC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "Open innovation in the public sector",
+        "match_score": 0.5
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Adoção de Práticas de Gestão de Segurança da Informação na Administração Pública Federal (Adoption of Information Security Management Practices in the Federal Public …",
+        "year": 3641,
+        "red_flags": [
+          "Suspicious year: 3641"
+        ],
+        "green_flags": [],
+        "similarity_score": 0.5,
+        "citations": 0
+      },
+      "decision": "A",
+      "timestamp": "2025-11-12T12:26:49.624748"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Planejando a mudança: estudo de caso num banco de montadora de automóveis",
+        "authors": "CES Ferreira",
+        "venue": null,
+        "year": 2013,
+        "citations": 0,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=100&pagesize=100&citation_for_view=AoKJ_g4AAAAJ:M3NEmzRMIkIC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "Motiva\\c c\\~oes dos contribuidores de crowdsourcing full paper",
+        "match_score": 0.416
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Planejando a mudança: estudo de caso num banco de montadora de automóveis",
+        "year": 2013,
+        "red_flags": [],
+        "green_flags": [
+          "Very different from existing publications (likely new work)"
+        ],
+        "similarity_score": 0.416,
+        "citations": 0
+      },
+      "decision": "S",
+      "timestamp": "2025-11-12T12:27:04.165722"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Impacto dos perfis tecnológicos na escolha e no comportamento de uso de navegadores de internet",
+        "authors": "MLC Coelho",
+        "venue": null,
+        "year": 2013,
+        "citations": 0,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=100&pagesize=100&citation_for_view=AoKJ_g4AAAAJ:maZDTaKrznsC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "Aceita\\c c\\~ao de tecnologia em terminais de autosservi\\c co aeroportu\\'arios: explorando os efeitos dos moderadores idade, experi\\^encia e g\\^enero",
+        "match_score": 0.481
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Impacto dos perfis tecnológicos na escolha e no comportamento de uso de navegadores de internet",
+        "year": 2013,
+        "red_flags": [],
+        "green_flags": [
+          "Very different from existing publications (likely new work)"
+        ],
+        "similarity_score": 0.481,
+        "citations": 0
+      },
+      "decision": "S",
+      "timestamp": "2025-11-12T12:27:11.268918"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Requalifying a brazilian culture collection of Aspergillus section Flavi",
+        "authors": "FA Couto, C Santos, N Lima, LR Batista",
+        "venue": null,
+        "year": 2013,
+        "citations": 0,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=100&pagesize=100&citation_for_view=AoKJ_g4AAAAJ:ipzZ9siozwsC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "Bucking the trend: an agentive perspective of managerial influence on Blog’S attractiveness",
+        "match_score": 0.422
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Requalifying a brazilian culture collection of Aspergillus section Flavi",
+        "year": 2013,
+        "red_flags": [
+          "Suspicious keyword: 'aspergillus' (likely different author)"
+        ],
+        "green_flags": [
+          "Very different from existing publications (likely new work)"
+        ],
+        "similarity_score": 0.422,
+        "citations": 0
+      },
+      "decision": "S",
+      "timestamp": "2025-11-12T12:27:17.298366"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Expediente RAHIS 8",
+        "authors": "MA Gonçalves, LM dos Santos",
+        "venue": "RAHIS-Revista de Administração Hospitalar e Inovação em Saúde 8 (8), 8-8",
+        "year": 2012,
+        "citations": 0,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=100&pagesize=100&citation_for_view=AoKJ_g4AAAAJ:_B80troHkn4C",
+        "source": "google_scholar_html",
+        "closest_in_bib": "Editorial",
+        "match_score": 0.444
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Expediente RAHIS 8",
+        "year": 2012,
+        "red_flags": [],
+        "green_flags": [
+          "Very different from existing publications (likely new work)"
+        ],
+        "similarity_score": 0.444,
+        "citations": 0
+      },
+      "decision": "S",
+      "timestamp": "2025-11-12T12:27:25.115696"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "The filamentous fungi culture collection of the Department of Food Science (CCDCA), Federal University of Lavras, Brazil",
+        "authors": "FRF Passamani, MF Terra, FA Couto, SC Bastos, DR Dias, C Santos, ...",
+        "venue": "Universidade do Minho. Micoteca",
+        "year": 2012,
+        "citations": 0,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=100&pagesize=100&citation_for_view=AoKJ_g4AAAAJ:XD-gHx7UXLsC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "Intended AND UNINTENDED CONSEQUENCES OF INNOVATION ADOPTION: OPEN GOVERNMENT DATA ADOPTION BY THE FEDERAL DISTRICT OF BRAZIL",
+        "match_score": 0.46
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "The filamentous fungi culture collection of the Department of Food Science (CCDCA), Federal University of Lavras, Brazil",
+        "year": 2012,
+        "red_flags": [],
+        "green_flags": [
+          "Very different from existing publications (likely new work)"
+        ],
+        "similarity_score": 0.46,
+        "citations": 0
+      },
+      "decision": "S",
+      "timestamp": "2025-11-12T12:27:27.935188"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "IODINE: CHARACTERISTICS, SOURCES AND HEALTH IMPLICATIONS",
+        "authors": "I Velasco, L Zarza, M del Carmen, F Soriguer, C Santos, XH Liu, EKW Ng, ...",
+        "venue": "Thyroid 53, 72",
+        "year": 2012,
+        "citations": 0,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=100&pagesize=100&citation_for_view=AoKJ_g4AAAAJ:gsN89kCJA0AC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "Motivation TO CREATE FREE AND OPEN SOURCE PROJECTS AND HOW DECISIONS IMPACT SUCCESS",
+        "match_score": 0.496
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "IODINE: CHARACTERISTICS, SOURCES AND HEALTH IMPLICATIONS",
+        "year": 2012,
+        "red_flags": [
+          "Suspicious keyword: 'health' (likely different author)"
+        ],
+        "green_flags": [
+          "Very different from existing publications (likely new work)"
+        ],
+        "similarity_score": 0.496,
+        "citations": 0
+      },
+      "decision": "S",
+      "timestamp": "2025-11-12T12:27:30.619598"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Expediente 6",
+        "authors": "MA Gonçalves, LM dos Santos",
+        "venue": "RAHIS-Revista de Administração Hospitalar e Inovação em Saúde",
+        "year": 2011,
+        "citations": 0,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=100&pagesize=100&citation_for_view=AoKJ_g4AAAAJ:Y5dfb0dijaUC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "Editorial",
+        "match_score": 0.381
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Expediente 6",
+        "year": 2011,
+        "red_flags": [],
+        "green_flags": [
+          "Very different from existing publications (likely new work)"
+        ],
+        "similarity_score": 0.381,
+        "citations": 0
+      },
+      "decision": "S",
+      "timestamp": "2025-11-12T12:27:34.853445"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Revista Eletrônica de Sistemas de Informação ISSN 1677-3071 doi: 10.5329/RESI",
+        "authors": "RNO QUALIS, SDEIG PELA, E DECORRÊNCIAS, ...",
+        "venue": null,
+        "year": 2010,
+        "citations": 0,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=100&pagesize=100&citation_for_view=AoKJ_g4AAAAJ:tOudhMTPpwUC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "Impactos da escolha da licen\\c ca na dinâmica de desenvolvimento de software livre",
+        "match_score": 0.43
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Revista Eletrônica de Sistemas de Informação ISSN 1677-3071 doi: 10.5329/RESI",
+        "year": 2010,
+        "red_flags": [],
+        "green_flags": [
+          "Very different from existing publications (likely new work)"
+        ],
+        "similarity_score": 0.43,
+        "citations": 0
+      },
+      "decision": "S",
+      "timestamp": "2025-11-12T12:27:40.783323"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Attractiveness of Open Source Projects: A Path to Software Quality",
+        "authors": "K Nelson, C Santos",
+        "venue": "AMCIS",
+        "year": 2007,
+        "citations": 0,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=100&pagesize=100&citation_for_view=AoKJ_g4AAAAJ:SeFeTyx0c_EC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "Attractiveness of free and open source software projects",
+        "match_score": 0.81
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Attractiveness of Open Source Projects: A Path to Software Quality",
+        "year": 2007,
+        "red_flags": [],
+        "green_flags": [],
+        "similarity_score": 0.81,
+        "citations": 0
+      },
+      "decision": "A",
+      "timestamp": "2025-11-12T12:27:43.526743"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Sumário. V. 3, n. 5, 2006",
+        "authors": "SR Ensslin",
+        "venue": "Revista Contemporânea de Contabilidade 3 (5), 5-5",
+        "year": 2006,
+        "citations": 0,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=100&pagesize=100&citation_for_view=AoKJ_g4AAAAJ:9vf0nzSNQJEC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "Public value innovation",
+        "match_score": 0.279
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Sumário. V. 3, n. 5, 2006",
+        "year": 2006,
+        "red_flags": [],
+        "green_flags": [
+          "Very different from existing publications (likely new work)"
+        ],
+        "similarity_score": 0.279,
+        "citations": 0
+      },
+      "decision": "S",
+      "timestamp": "2025-11-12T12:27:49.642323"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Notas Bibliográficas. V. 3, n. 5, 2006",
+        "authors": "SR Ensslin",
+        "venue": "Revista Contemporânea de Contabilidade 3 (5), 173-174",
+        "year": 2006,
+        "citations": 0,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=100&pagesize=100&citation_for_view=AoKJ_g4AAAAJ:CHSYGLWDkRkC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "Motiva\\c c\\~oes dos contribuidores de crowdsourcing",
+        "match_score": 0.346
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Notas Bibliográficas. V. 3, n. 5, 2006",
+        "year": 2006,
+        "red_flags": [],
+        "green_flags": [
+          "Very different from existing publications (likely new work)"
+        ],
+        "similarity_score": 0.346,
+        "citations": 0
+      },
+      "decision": "S",
+      "timestamp": "2025-11-12T12:27:52.755925"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Proposta de uma nova metodologia para avaliação da radiopacidade de cimentos endodônticos",
+        "authors": "L Togni, C Santos, G Ingrassia, EPM Oliveira, VRC Fontanella",
+        "venue": "Revista da Faculdade de Odontologia de Porto Alegre. Porto Alegre",
+        "year": 2005,
+        "citations": 0,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=100&pagesize=100&citation_for_view=AoKJ_g4AAAAJ:epqYDVWIO7EC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "Gest\\~ao de riscos no setor p\\'ublico: revis\\~ao bibliom\\'etrica e proposta de agenda de pesquisa",
+        "match_score": 0.462
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Proposta de uma nova metodologia para avaliação da radiopacidade de cimentos endodônticos",
+        "year": 2005,
+        "red_flags": [],
+        "green_flags": [
+          "Very different from existing publications (likely new work)"
+        ],
+        "similarity_score": 0.462,
+        "citations": 0
+      },
+      "decision": "S",
+      "timestamp": "2025-11-12T12:27:56.513411"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Resistance to oxidation of white wines: Relationship between potentiometric measurements, sensorial analysis and some substances responsible for aroma degradation of white wines",
+        "authors": "AC Ferreira, N Maximin, C Santos, V Mota, P Pinho, T Hogg",
+        "venue": "Editions Tec&Doc",
+        "year": 2003,
+        "citations": 0,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=100&pagesize=100&citation_for_view=AoKJ_g4AAAAJ:KUbvn5osdkgC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "A study of the relationships between source code metrics and attractiveness in free software projects",
+        "match_score": 0.435
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Resistance to oxidation of white wines: Relationship between potentiometric measurements, sensorial analysis and some substances responsible for aroma degradation of white wines",
+        "year": 2003,
+        "red_flags": [
+          "Suspicious keyword: 'wine' (likely different author)"
+        ],
+        "green_flags": [
+          "Very different from existing publications (likely new work)"
+        ],
+        "similarity_score": 0.435,
+        "citations": 0
+      },
+      "decision": "S",
+      "timestamp": "2025-11-12T12:27:59.795736"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Distance from the bifurcation of the middle cerebral artery to the surface of the Sylvian fissure and its relationship with the length of the M1 segment: an anatomical study",
+        "authors": "JP Farias, C Santos, M Santos",
+        "venue": "EUROPEAN JOURNAL OF ANATOMY 6, P38-P38",
+        "year": 2002,
+        "citations": 0,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=100&pagesize=100&citation_for_view=AoKJ_g4AAAAJ:1sJd4Hv_s6UC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "A study of the relationships between source code metrics and attractiveness in free software projects",
+        "match_score": 0.462
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Distance from the bifurcation of the middle cerebral artery to the surface of the Sylvian fissure and its relationship with the length of the M1 segment: an anatomical study",
+        "year": 2002,
+        "red_flags": [],
+        "green_flags": [
+          "Very different from existing publications (likely new work)"
+        ],
+        "similarity_score": 0.462,
+        "citations": 0
+      },
+      "decision": "S",
+      "timestamp": "2025-11-12T12:28:02.289897"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Survival of Hanseniaspora guilliermondii at high concentrations of ethanol",
+        "authors": "C Pina, N Moreira, F Mendes, C Santos, JA Couto, TA Hogg",
+        "venue": null,
+        "year": 2001,
+        "citations": 0,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=100&pagesize=100&citation_for_view=AoKJ_g4AAAAJ:EYYDruWGBe4C",
+        "source": "google_scholar_html",
+        "closest_in_bib": "Review of: \"Artificial intelligence and organizational change\"",
+        "match_score": 0.451
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Survival of Hanseniaspora guilliermondii at high concentrations of ethanol",
+        "year": 2001,
+        "red_flags": [],
+        "green_flags": [
+          "Very different from existing publications (likely new work)"
+        ],
+        "similarity_score": 0.451,
+        "citations": 0
+      },
+      "decision": "S",
+      "timestamp": "2025-11-12T12:28:04.237988"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Fatal acute myocardial infarction and air pollutants: A case crossover study",
+        "authors": "JA Escamilla, A Correa, JP Villa, H Riojas, C Santos",
+        "venue": "EPIDEMIOLOGY 10 (4), S177-S177",
+        "year": 1999,
+        "citations": 0,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=100&pagesize=100&citation_for_view=AoKJ_g4AAAAJ:-_dYPAW6P2MC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "A study on the impact of non-operational mechanisms on the effectiveness of public information technology governance",
+        "match_score": 0.453
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Fatal acute myocardial infarction and air pollutants: A case crossover study",
+        "year": 1999,
+        "red_flags": [],
+        "green_flags": [
+          "Very different from existing publications (likely new work)"
+        ],
+        "similarity_score": 0.453,
+        "citations": 0
+      },
+      "decision": "S",
+      "timestamp": "2025-11-12T12:28:05.902215"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "INDUSTRY/UNIVERSITY COLLABORATION IN PRODUCT FOCUSSED tENOLOGICAL RESEARCH IN PORTUGAL-THE SOGRAPE/UCP ESB PARTNERSHIP 1995-1998.",
+        "authors": "P Guedes, C Pina, MC Silva, JA Couto, T Hogg, L Cabral, M Vieira, ...",
+        "venue": "Organização Internacional da Vinha e do Vinho",
+        "year": 1998,
+        "citations": 0,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=100&pagesize=100&citation_for_view=AoKJ_g4AAAAJ:URolC5Kub84C",
+        "source": "google_scholar_html",
+        "closest_in_bib": "Understanding partnerships between corporations and the open source community: a research gap",
+        "match_score": 0.47
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "INDUSTRY/UNIVERSITY COLLABORATION IN PRODUCT FOCUSSED tENOLOGICAL RESEARCH IN PORTUGAL-THE SOGRAPE/UCP ESB PARTNERSHIP 1995-1998.",
+        "year": 1998,
+        "red_flags": [],
+        "green_flags": [
+          "Very different from existing publications (likely new work)"
+        ],
+        "similarity_score": 0.47,
+        "citations": 0
+      },
+      "decision": "S",
+      "timestamp": "2025-11-12T12:28:09.480609"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Defining the uniqueness of monovarietal wines from native portuguese varieties of Vitis vinifera",
+        "authors": "C Pina, MCM Silva, C Santos, T Hogg, I Vasconcelos, P de Pino Guedes, ...",
+        "venue": "La vitiviniculture mondiale de l'avenir.",
+        "year": 1998,
+        "citations": 0,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=100&pagesize=100&citation_for_view=AoKJ_g4AAAAJ:0KyAp5RtaNEC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "The diffusion of innovations under normative induction in Brazil",
+        "match_score": 0.438
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Defining the uniqueness of monovarietal wines from native portuguese varieties of Vitis vinifera",
+        "year": 1998,
+        "red_flags": [
+          "Suspicious keyword: 'wine' (likely different author)"
+        ],
+        "green_flags": [
+          "Very different from existing publications (likely new work)"
+        ],
+        "similarity_score": 0.438,
+        "citations": 0
+      },
+      "decision": "S",
+      "timestamp": "2025-11-12T12:28:12.812764"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Industry-University collaboration in product focussed oenological research in Portugal-The Sogrape-UCP Esb Partnership 1995-1998",
+        "authors": "JAC Teixeira, C Pina, C Santos, T Hogg, I Vasconcelos, ...",
+        "venue": "La vitiviniculture mondiale de l'avenir.",
+        "year": 1998,
+        "citations": 0,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=100&pagesize=100&citation_for_view=AoKJ_g4AAAAJ:2KloaMYe4IUC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "Understanding partnerships between corporations and the open source community: a research gap",
+        "match_score": 0.488
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Industry-University collaboration in product focussed oenological research in Portugal-The Sogrape-UCP Esb Partnership 1995-1998",
+        "year": 1998,
+        "red_flags": [
+          "Suspicious keyword: 'oenological' (likely different author)"
+        ],
+        "green_flags": [
+          "Very different from existing publications (likely new work)"
+        ],
+        "similarity_score": 0.488,
+        "citations": 0
+      },
+      "decision": "S",
+      "timestamp": "2025-11-12T12:28:16.273262"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Influência das características aromáticas da casta e do seu estado de maturação nas propriedades dos vinhos da região do Dão",
+        "authors": "S Santos, P Guedes, CMG Pina, C Santos, T Hogg, I Vasconcelos",
+        "venue": "Sociedade Portuguesa de Química/Escola Superior Tecnologia Universidade Algarve",
+        "year": 1997,
+        "citations": 0,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=100&pagesize=100&citation_for_view=AoKJ_g4AAAAJ:vbGhcppDl1QC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "A INFLU\\^ENCIA DAS VARI\\'AVEIS AMBIENTAIS e ORGANIZACIONAIS NO DESEMPENHO DE STARTUPS",
+        "match_score": 0.428
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Influência das características aromáticas da casta e do seu estado de maturação nas propriedades dos vinhos da região do Dão",
+        "year": 1997,
+        "red_flags": [
+          "Suspicious keyword: 'vinho' (likely different author)"
+        ],
+        "green_flags": [
+          "Very different from existing publications (likely new work)"
+        ],
+        "similarity_score": 0.428,
+        "citations": 0
+      },
+      "decision": "S",
+      "timestamp": "2025-11-12T12:28:19.192247"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Cultivars of vitis vinifera used for white wine production: initial characterisation of selected portuguese varieties",
+        "authors": "P Guedes, CMG Pina, C Santos, I Vasconcelos, C Hogg, JA Couto, ...",
+        "venue": "Institute of Food Technologists",
+        "year": 1997,
+        "citations": 0,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=100&pagesize=100&citation_for_view=AoKJ_g4AAAAJ:uWiczbcajpAC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "The attraction of contributors in free and open source software projects",
+        "match_score": 0.432
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Cultivars of vitis vinifera used for white wine production: initial characterisation of selected portuguese varieties",
+        "year": 1997,
+        "red_flags": [
+          "Suspicious keyword: 'wine' (likely different author)"
+        ],
+        "green_flags": [
+          "Very different from existing publications (likely new work)"
+        ],
+        "similarity_score": 0.432,
+        "citations": 0
+      },
+      "decision": "S",
+      "timestamp": "2025-11-12T12:28:21.290370"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "A nova centrifugadora portuguesa",
+        "authors": "JC Portugal, LA Madeira, M Silva, C Santos, E Maranha das Neves, ...",
+        "venue": "Sociedade Portuguesa de Geotecnia",
+        "year": 1997,
+        "citations": 0,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=100&pagesize=100&citation_for_view=AoKJ_g4AAAAJ:7T2F9Uy0os0C",
+        "source": "google_scholar_html",
+        "closest_in_bib": "Motiva\\c c\\~oes dos contribuidores de crowdsourcing",
+        "match_score": 0.475
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "A nova centrifugadora portuguesa",
+        "year": 1997,
+        "red_flags": [],
+        "green_flags": [
+          "Very different from existing publications (likely new work)"
+        ],
+        "similarity_score": 0.475,
+        "citations": 0
+      },
+      "decision": "S",
+      "timestamp": "2025-11-12T12:28:23.510558"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Organization of family labor and fertility in rural Mexico",
+        "authors": "ME Zuniga, C Santos, C Menkes, D Hernandez",
+        "venue": "Estudios demograficos y urbanos 1 (2), 205-326",
+        "year": 1986,
+        "citations": 0,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=100&pagesize=100&citation_for_view=AoKJ_g4AAAAJ:PR6Y55bgFSsC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "Review of: \"Artificial intelligence and organizational change\"",
+        "match_score": 0.564
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Organization of family labor and fertility in rural Mexico",
+        "year": 1986,
+        "red_flags": [
+          "Suspicious year: 1986"
+        ],
+        "green_flags": [],
+        "similarity_score": 0.564,
+        "citations": 0
+      },
+      "decision": "S",
+      "timestamp": "2025-11-12T12:28:25.628330"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Actas de las VI Jornadas ScienCity 2023. Fomento de la Cultura Científica, Tecnológica y de Innovación en Ciudades Inteligentes",
+        "authors": "JV Berná Martínez, M Mora Ruiz, L Andrades Caldito, AI Cislowska, ...",
+        "venue": "Universidad de Huelva, 0",
+        "year": null,
+        "citations": 0,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=100&pagesize=100&citation_for_view=AoKJ_g4AAAAJ:vDijr-p_gm4C",
+        "source": "google_scholar_html",
+        "closest_in_bib": "The Over-Concentration of innovation and Firm-Specific knowledge in the artificial intelligence industry",
+        "match_score": 0.475
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Actas de las VI Jornadas ScienCity 2023. Fomento de la Cultura Científica, Tecnológica y de Innovación en Ciudades Inteligentes",
+        "year": null,
+        "red_flags": [],
+        "green_flags": [
+          "Very different from existing publications (likely new work)"
+        ],
+        "similarity_score": 0.475,
+        "citations": 0
+      },
+      "decision": "S",
+      "timestamp": "2025-11-12T12:28:29.257575"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Using Free/Libre/Open Source for Software Engineering Education",
+        "authors": "C Chavez, A Terceiro, P Meirelles, C Santos Jr, F Kon",
+        "venue": null,
+        "year": null,
+        "citations": 0,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=100&pagesize=100&citation_for_view=AoKJ_g4AAAAJ:zLWjf1WUPmwC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "The attraction of contributors in free and open source software projects",
+        "match_score": 0.607
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Using Free/Libre/Open Source for Software Engineering Education",
+        "year": null,
+        "red_flags": [],
+        "green_flags": [],
+        "similarity_score": 0.607,
+        "citations": 0
+      },
+      "decision": "A",
+      "timestamp": "2025-11-12T12:28:37.446719"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Carlos Denner-carlosdenner@ gmail. com",
+        "authors": "IN Ferraz-isabelanf",
+        "venue": null,
+        "year": null,
+        "citations": 0,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=100&pagesize=100&citation_for_view=AoKJ_g4AAAAJ:dTyEYWd-f8wC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "Inova\\c c\\~ao na contram\\~ao: uma bibliometria dos artigos relativos aos usu\\'arios que inventam",
+        "match_score": 0.39
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Carlos Denner-carlosdenner@ gmail. com",
+        "year": null,
+        "red_flags": [],
+        "green_flags": [
+          "Very different from existing publications (likely new work)"
+        ],
+        "similarity_score": 0.39,
+        "citations": 0
+      },
+      "decision": "S",
+      "timestamp": "2025-11-12T12:28:48.518154"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Governança de projetos colaborativos organizados em comunidades",
+        "authors": "IN Ferraz-isabelanf, CD dos Santos Júnior",
+        "venue": null,
+        "year": null,
+        "citations": 0,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=100&pagesize=100&citation_for_view=AoKJ_g4AAAAJ:JoZmwDi-zQgC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "Como promover a colabora\\c c\\~ao em plataformas de dados abertos?",
+        "match_score": 0.548
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Governança de projetos colaborativos organizados em comunidades",
+        "year": null,
+        "red_flags": [],
+        "green_flags": [],
+        "similarity_score": 0.548,
+        "citations": 0
+      },
+      "decision": "A",
+      "timestamp": "2025-11-12T12:28:54.190204"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Publication period",
+        "authors": "TL Gelenske, JS Farias, CD Santos Jr",
+        "venue": null,
+        "year": null,
+        "citations": 0,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=100&pagesize=100&citation_for_view=AoKJ_g4AAAAJ:t6usbXjVLHcC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "Public value innovation",
+        "match_score": 0.537
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Publication period",
+        "year": null,
+        "red_flags": [],
+        "green_flags": [],
+        "similarity_score": 0.537,
+        "citations": 0
+      },
+      "decision": "S",
+      "timestamp": "2025-11-12T12:29:01.837850"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Geographic Diversity of the Scientific Editorial Board and Reviewers",
+        "authors": "RTQ CEFET-MG, SP INSPER, ALM Fucape, FFCP UFJF, ...",
+        "venue": null,
+        "year": null,
+        "citations": 0,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=100&pagesize=100&citation_for_view=AoKJ_g4AAAAJ:8AbLer7MMksC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "Editorial",
+        "match_score": 1.0
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Geographic Diversity of the Scientific Editorial Board and Reviewers",
+        "year": null,
+        "red_flags": [],
+        "green_flags": [],
+        "similarity_score": 1.0,
+        "citations": 0
+      },
+      "decision": "S",
+      "timestamp": "2025-11-12T12:29:04.657140"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "MÍDIAS SOCIAIS COMO FERRAMENTA DE APOIO AO GERENCIAMENTO DA REPUTAÇÃO DE RESTAURANTES",
+        "authors": "DG DE BRUM",
+        "venue": null,
+        "year": null,
+        "citations": 0,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=100&pagesize=100&citation_for_view=AoKJ_g4AAAAJ:Tiz5es2fbqcC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "\"o que gerencio e de quem dependo?\": determinantes da a\\c c\\~ao de blogueiros",
+        "match_score": 0.47
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "MÍDIAS SOCIAIS COMO FERRAMENTA DE APOIO AO GERENCIAMENTO DA REPUTAÇÃO DE RESTAURANTES",
+        "year": null,
+        "red_flags": [],
+        "green_flags": [
+          "Very different from existing publications (likely new work)"
+        ],
+        "similarity_score": 0.47,
+        "citations": 0
+      },
+      "decision": "S",
+      "timestamp": "2025-11-12T12:29:10.091559"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Aspectos biológicos de populações de Spodoptera frugiperda em milho Bt e arroz.",
+        "authors": "OG ARAUJO, SM MENDES, RC MARUCCI, CD dos SANTOS, ...",
+        "venue": null,
+        "year": null,
+        "citations": 0,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=100&pagesize=100&citation_for_view=AoKJ_g4AAAAJ:SP6oXDckpogC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "Popularidade em blogs: composi\\c c\\~ao, causas e consequ\\^encias",
+        "match_score": 0.421
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Aspectos biológicos de populações de Spodoptera frugiperda em milho Bt e arroz.",
+        "year": null,
+        "red_flags": [],
+        "green_flags": [
+          "Very different from existing publications (likely new work)"
+        ],
+        "similarity_score": 0.421,
+        "citations": 0
+      },
+      "decision": "S",
+      "timestamp": "2025-11-12T12:29:12.919621"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Bioecologia e injúrias de Spodoptera frugiperda (Smith, 1797)(Lepidoptera: Noctuidae) em milheto.",
+        "authors": "SM MENDES, JAS RODRIGUES, CD dos SANTOS, GT RODRIGUES, ...",
+        "venue": null,
+        "year": null,
+        "citations": 0,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=100&pagesize=100&citation_for_view=AoKJ_g4AAAAJ:UxriW0iASnsC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "Tecnologias e dados abertos para inova\\c c\\~ao em governo",
+        "match_score": 0.435
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Bioecologia e injúrias de Spodoptera frugiperda (Smith, 1797)(Lepidoptera: Noctuidae) em milheto.",
+        "year": null,
+        "red_flags": [],
+        "green_flags": [
+          "Very different from existing publications (likely new work)"
+        ],
+        "similarity_score": 0.435,
+        "citations": 0
+      },
+      "decision": "S",
+      "timestamp": "2025-11-12T12:29:14.621521"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Research in Globalization",
+        "authors": "C Kohler, CD dos Santos, M Bursztyn",
+        "venue": null,
+        "year": null,
+        "citations": 0,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=100&pagesize=100&citation_for_view=AoKJ_g4AAAAJ:bFI3QPDXJZMC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "Review of: \"Artificial intelligence and organizational change\"",
+        "match_score": 0.452
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Research in Globalization",
+        "year": null,
+        "red_flags": [],
+        "green_flags": [
+          "Very different from existing publications (likely new work)"
+        ],
+        "similarity_score": 0.452,
+        "citations": 0
+      },
+      "decision": "S",
+      "timestamp": "2025-11-12T12:29:23.246286"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "2007 Annual Index IEEE Software, Vol. 24",
+        "authors": "M Aberdour, P Adamczyk, A Akins, R Alarcón, I Alexander, V Almering, ...",
+        "venue": null,
+        "year": null,
+        "citations": 0,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=100&pagesize=100&citation_for_view=AoKJ_g4AAAAJ:M05iB0D1s5AC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "Attractiveness of free and open source software projects",
+        "match_score": 0.426
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "2007 Annual Index IEEE Software, Vol. 24",
+        "year": null,
+        "red_flags": [],
+        "green_flags": [
+          "Very different from existing publications (likely new work)"
+        ],
+        "similarity_score": 0.426,
+        "citations": 0
+      },
+      "decision": "S",
+      "timestamp": "2025-11-12T12:29:26.201060"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Innovation & Management Review",
+        "authors": "LFS Pinto, CD dos Santos",
+        "venue": null,
+        "year": null,
+        "citations": 0,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=100&pagesize=100&citation_for_view=AoKJ_g4AAAAJ:k_IJM867U9cC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "Public value innovation",
+        "match_score": 0.51
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Innovation & Management Review",
+        "year": null,
+        "red_flags": [],
+        "green_flags": [],
+        "similarity_score": 0.51,
+        "citations": 0
+      },
+      "decision": "A",
+      "timestamp": "2025-11-12T12:29:28.902300"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "Fatores Individuais Influenciadores do Esforço e das Contribuiçoes na Wikipédia",
+        "authors": "LFS Pinto, CD dos Santos Júnior, SSO Mori",
+        "venue": null,
+        "year": null,
+        "citations": 0,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=100&pagesize=100&citation_for_view=AoKJ_g4AAAAJ:RHpTSmoSYBkC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "Individual factors that influence effort and contributions on Wikipedia",
+        "match_score": 0.707
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "Fatores Individuais Influenciadores do Esforço e das Contribuiçoes na Wikipédia",
+        "year": null,
+        "red_flags": [],
+        "green_flags": [],
+        "similarity_score": 0.707,
+        "citations": 0
+      },
+      "decision": "A",
+      "timestamp": "2025-11-12T12:29:32.544481"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "O Ambiente Organizacional e Os Fatores Inovadores: Influências na Adoção de Mídias Sociais",
+        "authors": "DD Silva, CD dos Santos Júnior, IV Castro",
+        "venue": null,
+        "year": null,
+        "citations": 0,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=100&pagesize=100&citation_for_view=AoKJ_g4AAAAJ:MXK_kJrjxJIC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "A INFLU\\^ENCIA DAS VARI\\'AVEIS AMBIENTAIS e ORGANIZACIONAIS NO DESEMPENHO DE STARTUPS",
+        "match_score": 0.512
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "O Ambiente Organizacional e Os Fatores Inovadores: Influências na Adoção de Mídias Sociais",
+        "year": null,
+        "red_flags": [],
+        "green_flags": [],
+        "similarity_score": 0.512,
+        "citations": 0
+      },
+      "decision": "A",
+      "timestamp": "2025-11-12T12:29:36.307493"
+    },
+    {
+      "category": "google_scholar",
+      "publication": {
+        "title": "231-AVALIAÇÃO DE SISTEMAS DE INFORMAÇÕES",
+        "authors": "JA AMÂNCIO, CDDOSS JÚNIOR, MA GONÇALVES",
+        "venue": null,
+        "year": null,
+        "citations": 0,
+        "url": "https://scholar.google.com/citations?view_op=view_citation&hl=pt-PT&user=AoKJ_g4AAAAJ&cstart=100&pagesize=100&citation_for_view=AoKJ_g4AAAAJ:W7OEmFMy1HYC",
+        "source": "google_scholar_html",
+        "closest_in_bib": "Como promover a colabora\\c c\\~ao em plataformas de dados abertos?",
+        "match_score": 0.427
+      },
+      "analysis": {
+        "source": "google_scholar",
+        "title": "231-AVALIAÇÃO DE SISTEMAS DE INFORMAÇÕES",
+        "year": null,
+        "red_flags": [],
+        "green_flags": [
+          "Very different from existing publications (likely new work)"
+        ],
+        "similarity_score": 0.427,
+        "citations": 0
+      },
+      "decision": "A",
+      "timestamp": "2025-11-12T12:29:40.775786"
+    },
+    {
+      "category": "researchgate",
+      "publication": {
+        "title": "Trajectories and Challenges for Data Governance Implementation in the Public Sector: A systematic review Autoria PATRICIA GOMES RÊGO DE ALMEIDA -patricia.almeida68@yahoo.com LOYANE MOTA FERNANDES -MOTALOYANE@GMAIL.COM Programa de Especialização em Orçamento e políticas públicas / UnB -Universidade de Brasília Trajectories and Challenges for Data Governance Implementation in the Public Sector: A systematic review",
+        "url": "https://www.researchgate.net/publication/388399749_Trajectories_and_Challenges_for_Data_Governance_Implementation_in_the_Public_Sector_A_systematic_review_Autoria_PATRICIA_GOMES_REGO_DE_ALMEIDA_-patriciaalmeida68yahoocom_LOYANE_MOTA_FERNANDES_-MOTALOY",
+        "year": null,
+        "source": "researchgate_html",
+        "closest_in_bib": "Open innovation in the public sector",
+        "match_score": 0.667
+      },
+      "analysis": {
+        "source": "researchgate",
+        "title": "Trajectories and Challenges for Data Governance Implementation in the Public Sector: A systematic review Autoria PATRICIA GOMES RÊGO DE ALMEIDA -patricia.almeida68@yahoo.com LOYANE MOTA FERNANDES -MOTALOYANE@GMAIL.COM Programa de Especialização em Orçamento e políticas públicas / UnB -Universidade de Brasília Trajectories and Challenges for Data Governance Implementation in the Public Sector: A systematic review",
+        "year": null,
+        "red_flags": [
+          "Unusually long title (might be metadata error)"
+        ],
+        "green_flags": [],
+        "similarity_score": 0.667
+      },
+      "decision": "S",
+      "timestamp": "2025-11-12T12:29:59.182740"
+    },
+    {
+      "category": "researchgate",
+      "publication": {
+        "title": "OPEN DATA 2.0: COLLABORATION IN ONLINE DATABASE PLATFORMS",
+        "url": "https://www.researchgate.net/publication/342702577_OPEN_DATA_20_COLLABORATION_IN_ONLINE_DATABASE_PLATFORMS",
+        "year": null,
+        "source": "researchgate_html",
+        "closest_in_bib": "Open innovation in the public sector",
+        "match_score": 0.5
+      },
+      "analysis": {
+        "source": "researchgate",
+        "title": "OPEN DATA 2.0: COLLABORATION IN ONLINE DATABASE PLATFORMS",
+        "year": null,
+        "red_flags": [],
+        "green_flags": [],
+        "similarity_score": 0.5
+      },
+      "decision": "A",
+      "timestamp": "2025-11-12T12:30:06.223808"
+    },
+    {
+      "category": "researchgate",
+      "publication": {
+        "title": "A gestão da inovação na Universidade de Brasília",
+        "url": "https://www.researchgate.net/publication/336603016_A_gestao_da_inovacao_na_Universidade_de_Brasilia",
+        "year": null,
+        "source": "researchgate_html",
+        "closest_in_bib": "Tecnologias e dados abertos para inova\\c c\\~ao em governo",
+        "match_score": 0.471
+      },
+      "analysis": {
+        "source": "researchgate",
+        "title": "A gestão da inovação na Universidade de Brasília",
+        "year": null,
+        "red_flags": [],
+        "green_flags": [
+          "Very different from existing publications (likely new work)"
+        ],
+        "similarity_score": 0.471
+      },
+      "decision": "S",
+      "timestamp": "2025-11-12T12:30:11.589721"
+    },
+    {
+      "category": "researchgate",
+      "publication": {
+        "title": "Home advantage in Brazilian soccer elite division: A new model to explain team performance",
+        "url": "https://www.researchgate.net/publication/334233423_Home_advantage_in_Brazilian_soccer_elite_division_A_new_model_to_explain_team_performance",
+        "year": null,
+        "source": "researchgate_html",
+        "closest_in_bib": "Home advantage in the Brazilian elite football: verifying managers' capacity to outperform their disadvantage",
+        "match_score": 0.582
+      },
+      "analysis": {
+        "source": "researchgate",
+        "title": "Home advantage in Brazilian soccer elite division: A new model to explain team performance",
+        "year": null,
+        "red_flags": [],
+        "green_flags": [],
+        "similarity_score": 0.582
+      },
+      "decision": "S",
+      "timestamp": "2025-11-12T12:30:16.631127"
+    },
+    {
+      "category": "researchgate",
+      "publication": {
+        "title": "Estudos de Aston e a Teoria Formal da Diferenciação Estrutural Revisitados: Os Resultados Ainda se Aplicam?",
+        "url": "https://www.researchgate.net/publication/328560247_Estudos_de_Aston_e_a_Teoria_Formal_da_Diferenciacao_Estrutural_Revisitados_Os_Resultados_Ainda_se_Aplicam",
+        "year": null,
+        "source": "researchgate_html",
+        "closest_in_bib": "Gest\\~ao de riscos no setor p\\'ublico: revis\\~ao bibliom\\'etrica e proposta de agenda de pesquisa",
+        "match_score": 0.468
+      },
+      "analysis": {
+        "source": "researchgate",
+        "title": "Estudos de Aston e a Teoria Formal da Diferenciação Estrutural Revisitados: Os Resultados Ainda se Aplicam?",
+        "year": null,
+        "red_flags": [],
+        "green_flags": [
+          "Very different from existing publications (likely new work)"
+        ],
+        "similarity_score": 0.468
+      },
+      "decision": "A",
+      "timestamp": "2025-11-12T12:30:20.551821"
+    },
+    {
+      "category": "researchgate",
+      "publication": {
+        "title": "Adoção de Práticas de Gestão de Segurança da Informação na Administração Pública Federal (Adoption of Information Security Management Practices in the Federal Public Administration)",
+        "url": "https://www.researchgate.net/publication/344792802_Adocao_de_Praticas_de_Gestao_de_Seguranca_da_Informacao_na_Administracao_Publica_Federal_Adoption_of_Information_Security_Management_Practices_in_the_Federal_Public_Administration",
+        "year": null,
+        "source": "researchgate_html",
+        "closest_in_bib": "Open innovation in the public sector",
+        "match_score": 0.5
+      },
+      "analysis": {
+        "source": "researchgate",
+        "title": "Adoção de Práticas de Gestão de Segurança da Informação na Administração Pública Federal (Adoption of Information Security Management Practices in the Federal Public Administration)",
+        "year": null,
+        "red_flags": [],
+        "green_flags": [],
+        "similarity_score": 0.5
+      },
+      "decision": "A",
+      "timestamp": "2025-11-12T12:30:25.726176"
+    },
+    {
+      "category": "researchgate",
+      "publication": {
+        "title": "The Inextricable Role of Organizational Sponsorship for Open Source Sustainability",
+        "url": "https://www.researchgate.net/publication/266603174_The_Inextricable_Role_of_Organizational_Sponsorship_for_Open_Source_Sustainability",
+        "year": null,
+        "source": "researchgate_html",
+        "closest_in_bib": "The influence of sponsors on organizational structure of free software communities",
+        "match_score": 0.634
+      },
+      "analysis": {
+        "source": "researchgate",
+        "title": "The Inextricable Role of Organizational Sponsorship for Open Source Sustainability",
+        "year": null,
+        "red_flags": [],
+        "green_flags": [],
+        "similarity_score": 0.634
+      },
+      "decision": "A",
+      "timestamp": "2025-11-12T12:30:29.975265"
+    },
+    {
+      "category": "researchgate",
+      "publication": {
+        "title": "Análise da Substituição de um Software Proprietário por um Software Livre sob a ótica do Custo Total de Propriedade: Estudo de Caso do Setor de Peças Automobilísticas Analysis of the Replacement of a Proprietor Software by a Free Software from the Perspective of Total Cost Ownership: A case study of the Automotive Parts Sector",
+        "url": "https://www.researchgate.net/publication/242256977_Analise_da_Substituicao_de_um_Software_Proprietario_por_um_Software_Livre_sob_a_otica_do_Custo_Total_de_Propriedade_Estudo_de_Caso_do_Setor_de_Pecas_Automobilisticas_Analysis_of_the_Replacement_of_a_P",
+        "year": null,
+        "source": "researchgate_html",
+        "closest_in_bib": "An\\'alise da substitui\\c c\\~ao de um software propriet\\'ario por um software livre sob a \\'otica do TCO (Custo total de Propriedade):Estudo de caso do setor de pe\\c cas automobil\\'isticas",
+        "match_score": 0.665
+      },
+      "analysis": {
+        "source": "researchgate",
+        "title": "Análise da Substituição de um Software Proprietário por um Software Livre sob a ótica do Custo Total de Propriedade: Estudo de Caso do Setor de Peças Automobilísticas Analysis of the Replacement of a Proprietor Software by a Free Software from the Perspective of Total Cost Ownership: A case study of the Automotive Parts Sector",
+        "year": null,
+        "red_flags": [
+          "Unusually long title (might be metadata error)"
+        ],
+        "green_flags": [],
+        "similarity_score": 0.665
+      },
+      "decision": "S",
+      "timestamp": "2025-11-12T12:30:38.977102"
+    },
+    {
+      "category": "researchgate",
+      "publication": {
+        "title": "Using Free/Libre/Open Source for Software Engineering Education",
+        "url": "https://www.researchgate.net/publication/238347208_Using_FreeLibreOpen_Source_for_Software_Engineering_Education",
+        "year": null,
+        "source": "researchgate_html",
+        "closest_in_bib": "The attraction of contributors in free and open source software projects",
+        "match_score": 0.607
+      },
+      "analysis": {
+        "source": "researchgate",
+        "title": "Using Free/Libre/Open Source for Software Engineering Education",
+        "year": null,
+        "red_flags": [],
+        "green_flags": [],
+        "similarity_score": 0.607
+      },
+      "decision": "S",
+      "timestamp": "2025-11-12T12:30:42.898029"
+    },
+    {
+      "category": "researchgate",
+      "publication": {
+        "title": "Open Source Software Projects' Attractiveness, Activeness, And Efficiency As A Path To Software Quality: An Empirical Evaluation Of Their Relationships And Causes",
+        "url": "https://www.researchgate.net/publication/38285101_Open_Source_Software_Projects'_Attractiveness_Activeness_And_Efficiency_As_A_Path_To_Software_Quality_An_Empirical_Evaluation_Of_Their_Relationships_And_Causes",
+        "year": null,
+        "source": "researchgate_html",
+        "closest_in_bib": "Attractiveness of free and open source software projects",
+        "match_score": 0.875
+      },
+      "analysis": {
+        "source": "researchgate",
+        "title": "Open Source Software Projects' Attractiveness, Activeness, And Efficiency As A Path To Software Quality: An Empirical Evaluation Of Their Relationships And Causes",
+        "year": null,
+        "red_flags": [],
+        "green_flags": [],
+        "similarity_score": 0.875
+      },
+      "decision": "S",
+      "timestamp": "2025-11-12T12:30:51.060806"
+    }
+  ]
+}

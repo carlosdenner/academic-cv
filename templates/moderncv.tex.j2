@@ -1,0 +1,25 @@
+\
+\documentclass[11pt,a4paper,sans]{moderncv}
+\moderncvstyle{classic}
+\moderncvcolor{blue}
+
+\name{Carlos Denner}{dos Santos}
+\address{Montréal, QC, Canada}{}
+\phone[mobile]{+1~438~836~4116}
+\email{carlosdenner@gmail.com}
+\homepage{datasciencetech.ca}
+
+\begin{document}
+\makecvtitle
+
+\section{Publications}
+{% for name,works in sections.items() if works -%}
+\subsection{ {{ name }} }
+\begin{itemize}
+{% for w in works -%}
+  \item {{ w.title|replace('&','\\&') }}{% if w.venue %}. \emph{ {{ w.venue|replace('&','\\&') }} }{% endif %}{% if w.year %} ({{ w.year }}){% endif %}{% if w.doi %}. DOI: {{ w.doi }}{% endif %}{% if w.url %} \textbar\ \href{ {{ w.url }} }{link}{% endif %}
+{% endfor -%}
+\end{itemize}
+{% endfor -%}
+
+\end{document}

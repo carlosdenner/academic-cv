@@ -1,0 +1,199 @@
+%!TEX TS-program = xelatex
+\documentclass[11pt, a4paper]{awesome-cv}
+
+% Configure page
+\geometry{left=1.4cm, top=.8cm, right=1.4cm, bottom=1.8cm, footskip=.5cm}
+
+% Color for highlights
+\colorlet{awesome}{awesome-red}
+
+% Personal Information
+\name{ {{contact.name_first}} }{ {{contact.name_last}} }
+\address{ {{contact.location}} }
+\mobile{ {{contact.phone}} }
+\email{ {{contact.email}} }
+\homepage{ {{contact.website}} }
+{% if contact.linkedin -%}
+\linkedin{ {{contact.linkedin}} }
+{% endif -%}
+{% if contact.orcid -%}
+\extrainfo{ORCID: {{contact.orcid}} }
+{% endif -%}
+
+\begin{document}
+
+\makecvheader[C]
+
+% Research Metrics Summary
+\cvsection{Research Metrics}
+\begin{cvparagraph}
+\textbf{ {{metrics.publications}} } publications 
+\ \textbar\ \textbf{ {{metrics.citations}} } citations 
+\ \textbar\ \textbf{h-index: {{metrics.h_index}} } 
+\ \textbar\ \textbf{ {{metrics.supervised_phd}} } PhD supervised 
+\ \textbar\ \textbf{ {{metrics.supervised_masters}} } Masters supervised
+\ \textbar\ \textbf{ {{metrics.projects}} } research projects
+\ \textbar\ \textbf{ {{metrics.awards}} } awards
+\end{cvparagraph}
+
+% Education
+\cvsection{Education}
+\begin{cventries}
+{% for edu in education -%}
+  \cventry
+    { {{edu.degree}} {% if edu.field %}in {{edu.field}} {% endif %} }
+    { {{edu.institution}} }
+    { {{edu.location}} }
+    { {{edu.date}} }
+    {% if edu.thesis -%}
+    {
+      \begin{cvitems}
+        \item{Thesis: {{edu.thesis}} }
+      \end{cvitems}
+    }
+    {% else -%}
+    {}
+    {% endif -%}
+{% endfor -%}
+\end{cventries}
+
+% Professional Experience
+\cvsection{Professional Experience}
+\begin{cventries}
+{% for pos in positions -%}
+  \cventry
+    { {{pos.role}} }
+    { {{pos.institution}} }
+    { {{pos.location}} }
+    { {{pos.date}} }
+    {
+      {% if pos.description -%}
+      \begin{cvitems}
+        \item{ {{pos.description}} }
+      {% endif -%}
+      {% if pos.projects -%}
+        {% for proj in pos.projects -%}
+        \item{\textbf{Project:} {{proj.name}} {% if proj.client %}({{proj.client}}){% endif %}}
+          {% if proj.deliverables -%}
+          \begin{itemize}
+            {% for deliv in proj.deliverables -%}
+            \item{ {{deliv}} }
+            {% endfor -%}
+          \end{itemize}
+          {% endif -%}
+        {% endfor -%}
+      {% endif -%}
+      {% if pos.description or pos.projects -%}
+      \end{cvitems}
+      {% endif -%}
+    }
+{% endfor -%}
+\end{cventries}
+
+% Selected Publications
+\cvsection{Selected Publications}
+{% for pub_type, pubs in publications.items() -%}
+\cvsubsection{ {{pub_type}} }
+\begin{cventries}
+{% for pub in pubs -%}
+  \cventry
+    { {{pub.venue}} }
+    { {{pub.title}} }
+    { {{pub.year}} }
+    {% if pub.citations > 0 -%}
+    {Cited {{pub.citations}} times}
+    {% else -%}
+    {}
+    {% endif -%}
+    {
+      \begin{cvitems}
+        \item{Authors: {{pub.authors}} }
+        {% if pub.doi -%}
+        \item{DOI: {{pub.doi}} }
+        {% endif -%}
+      \end{cvitems}
+    }
+{% endfor -%}
+\end{cventries}
+
+{% endfor -%}
+
+% Research Projects
+{% if projects -%}
+\cvsection{Research Projects}
+\begin{cventries}
+{% for proj in projects -%}
+  \cventry
+    { {{proj.role}} }
+    { {{proj.title}} }
+    { {{proj.funder}} }
+    { {{proj.date}} }
+    {% if proj.description -%}
+    {
+      \begin{cvitems}
+        \item{ {{proj.description}} }
+      \end{cvitems}
+    }
+    {% else -%}
+    {}
+    {% endif -%}
+{% endfor -%}
+\end{cventries}
+{% endif -%}
+
+% PhD Supervisions
+{% if supervisions.PhD -%}
+\cvsection{PhD Supervisions}
+\begin{cvhonors}
+{% for sup in supervisions.PhD -%}
+  \cvhonor
+    { {{sup.student}} }
+    { {{sup.thesis}} }
+    {}
+    {% if sup.year -%}
+    { {{sup.year}} }
+    {% else -%}
+    {In Progress}
+    {% endif -%}
+{% endfor -%}
+\end{cvhonors}
+{% endif -%}
+
+% Masters Supervisions
+{% if supervisions.Masters -%}
+\cvsection{Masters Supervisions}
+\begin{cvhonors}
+{% for sup in supervisions.Masters -%}
+  \cvhonor
+    { {{sup.student}} }
+    { {{sup.thesis}} }
+    {}
+    {% if sup.year -%}
+    { {{sup.year}} }
+    {% else -%}
+    {In Progress}
+    {% endif -%}
+{% endfor -%}
+\end{cvhonors}
+{% endif -%}
+
+% Awards and Honors
+{% if awards -%}
+\cvsection{Awards \& Honors}
+\begin{cvhonors}
+{% for award in awards -%}
+  \cvhonor
+    { {{award.title}} }
+    { {{award.organization}} }
+    {}
+    { {{award.year}} }
+{% endfor -%}
+\end{cvhonors}
+{% endif -%}
+
+\vfill
+\begin{center}
+\textit{\small Generated on {{generated_date}} }
+\end{center}
+
+\end{document}
