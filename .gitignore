@@ -35,3 +35,9 @@ temp_*.txt
 .vscode/
 .idea/
 *.code-workspace
+
+# Scraped files with potential secrets
+data/raw/scholar_profile.html
+ResearchGate_files/
+_Carlos Denner dos Santos_ - _Google Académico__files/
+*.téléchargement
