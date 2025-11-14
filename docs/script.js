@@ -288,8 +288,8 @@ function createPublicationsChart() {
                     borderWidth: 3,
                 },
                 {
-                    label: 'Citations (×50)',
-                    data: [8, 15, 25, 38, 52, 68, 82, 100],
+                    label: 'Publications',
+                    data: [5, 8, 12, 15, 18, 22, 25, 28],
                     borderColor: colors.success,
                     backgroundColor: colors.success + '20',
                     tension: 0.4,
@@ -297,7 +297,6 @@ function createPublicationsChart() {
                     pointRadius: 5,
                     pointHoverRadius: 7,
                     borderWidth: 2,
-                    yAxisID: 'y1',
                 }
             ]
         },
@@ -330,29 +329,12 @@ function createPublicationsChart() {
                     borderWidth: 1,
                     padding: 12,
                     displayColors: true,
-                    callbacks: {
-                        label: function(context) {
-                            let label = context.dataset.label || '';
-                            if (label) {
-                                label += ': ';
-                            }
-                            if (context.parsed.y !== null) {
-                                if (label.includes('Citations')) {
-                                    label += (context.parsed.y * 50).toLocaleString();
-                                } else {
-                                    label += context.parsed.y;
-                                }
-                            }
-                            return label;
-                        }
-                    }
                 }
             },
             scales: {
                 y: {
                     type: 'linear',
                     display: true,
-                    position: 'left',
                     beginAtZero: true,
                     grid: {
                         color: colors.grid,
@@ -360,31 +342,6 @@ function createPublicationsChart() {
                     ticks: {
                         color: colors.textSecondary,
                     },
-                    title: {
-                        display: true,
-                        text: 'h-index / i10-index',
-                        color: colors.textSecondary,
-                    }
-                },
-                y1: {
-                    type: 'linear',
-                    display: true,
-                    position: 'right',
-                    beginAtZero: true,
-                    grid: {
-                        drawOnChartArea: false,
-                    },
-                    ticks: {
-                        color: colors.textSecondary,
-                        callback: function(value) {
-                            return (value * 50).toLocaleString();
-                        }
-                    },
-                    title: {
-                        display: true,
-                        text: 'Total Citations',
-                        color: colors.textSecondary,
-                    }
                 },
                 x: {
                     grid: {
