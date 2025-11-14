@@ -264,26 +264,63 @@ function createPublicationsChart() {
         type: 'line',
         data: {
             labels: ['2010', '2012', '2014', '2016', '2018', '2020', '2022', '2024'],
-            datasets: [{
-                label: 'Publications per Year',
-                data: [5, 8, 12, 15, 18, 22, 25, 28],
-                borderColor: colors.primary,
-                backgroundColor: colors.primary + '20',
-                tension: 0.4,
-                fill: true,
-                pointRadius: 6,
-                pointHoverRadius: 8,
-                pointBackgroundColor: colors.primary,
-                pointBorderColor: '#fff',
-                pointBorderWidth: 2,
-            }]
+            datasets: [
+                {
+                    label: 'h-index',
+                    data: [3, 5, 8, 11, 14, 16, 17, 18],
+                    borderColor: colors.primary,
+                    backgroundColor: colors.primary + '20',
+                    tension: 0.4,
+                    fill: false,
+                    pointRadius: 5,
+                    pointHoverRadius: 7,
+                    borderWidth: 3,
+                },
+                {
+                    label: 'i10-index',
+                    data: [2, 6, 11, 16, 20, 24, 26, 28],
+                    borderColor: colors.accent,
+                    backgroundColor: colors.accent + '20',
+                    tension: 0.4,
+                    fill: false,
+                    pointRadius: 5,
+                    pointHoverRadius: 7,
+                    borderWidth: 3,
+                },
+                {
+                    label: 'Citations (×50)',
+                    data: [8, 15, 25, 38, 52, 68, 82, 100],
+                    borderColor: colors.success,
+                    backgroundColor: colors.success + '20',
+                    tension: 0.4,
+                    fill: true,
+                    pointRadius: 5,
+                    pointHoverRadius: 7,
+                    borderWidth: 2,
+                    yAxisID: 'y1',
+                }
+            ]
         },
         options: {
             responsive: true,
             maintainAspectRatio: false,
+            interaction: {
+                mode: 'index',
+                intersect: false,
+            },
             plugins: {
                 legend: {
-                    display: false
+                    display: true,
+                    position: 'top',
+                    labels: {
+                        color: colors.text,
+                        usePointStyle: true,
+                        padding: 15,
+                        font: {
+                            size: 12,
+                            weight: '500'
+                        }
+                    }
                 },
                 tooltip: {
                     backgroundColor: colors.text,
@@ -292,16 +329,60 @@ function createPublicationsChart() {
                     borderColor: colors.primary,
                     borderWidth: 1,
                     padding: 12,
-                    displayColors: false,
+                    displayColors: true,
+                    callbacks: {
+                        label: function(context) {
+                            let label = context.dataset.label || '';
+                            if (label) {
+                                label += ': ';
+                            }
+                            if (context.parsed.y !== null) {
+                                if (label.includes('Citations')) {
+                                    label += (context.parsed.y * 50).toLocaleString();
+                                } else {
+                                    label += context.parsed.y;
+                                }
+                            }
+                            return label;
+                        }
+                    }
                 }
             },
             scales: {
                 y: {
+                    type: 'linear',
+                    display: true,
+                    position: 'left',
                     beginAtZero: true,
                     grid: {
                         color: colors.grid,
                     },
                     ticks: {
+                        color: colors.textSecondary,
+                    },
+                    title: {
+                        display: true,
+                        text: 'h-index / i10-index',
+                        color: colors.textSecondary,
+                    }
+                },
+                y1: {
+                    type: 'linear',
+                    display: true,
+                    position: 'right',
+                    beginAtZero: true,
+                    grid: {
+                        drawOnChartArea: false,
+                    },
+                    ticks: {
+                        color: colors.textSecondary,
+                        callback: function(value) {
+                            return (value * 50).toLocaleString();
+                        }
+                    },
+                    title: {
+                        display: true,
+                        text: 'Total Citations',
                         color: colors.textSecondary,
                     }
                 },
