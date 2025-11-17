@@ -23,11 +23,11 @@ Je cherche à créer un environnement où les étudiantes et étudiants se sente
 
 Au fil de ma carrière, j’ai enseigné à tous les cycles dans des programmes de gestion, de systèmes d’information, de data science et d’informatique appliquée. Les cours que j’ai le plus souvent donnés ou co-conçus se situent dans les domaines suivants :
 
-– Systèmes d’information de gestion et transformation numérique  
-– Gouvernance des TI et de l’IA, gestion des risques technologiques, cybersécurité organisationnelle  
-– Analytique d’affaires et science des données pour gestionnaires  
-– Programmation (Python) et bases de données pour la gestion  
-– Entrepreneuriat, innovation et écosystèmes numériques
+– Systèmes d'information de gestion et transformation numérique  
+– Gouvernance des TI et de l'IA, gestion des risques technologiques, cybersécurité organisationnelle et sécurité des systèmes LLM  
+– Analytique d'affaires, science des données et intelligence artificielle affective pour gestionnaires  
+– Programmation (Python), bases de données et systèmes RAG pour la gestion  
+– Entrepreneuriat, innovation numérique et théories de l'innovation (contrôle réversible, capacités de déploiement des connaissances)
 
 Cette expérience se complète par des contributions à des ouvrages de cas et à des publications orientées pédagogie (exercices en classe, amélioration continue de cours, recours à des projets réels pour développer des compétences en entrepreneuriat et en génie logiciel), ce qui a renforcé ma conviction que l’enseignement peut et doit être un objet de recherche et d’expérimentation systématique.
 
@@ -41,8 +41,8 @@ Je fais un usage intensif de cas – parfois tirés de la littérature, parfois 
 b) Laboratoires et “studios” de données et d’IA  
 Pour les cours impliquant la programmation, l’analytique ou l’IA, je privilégie des séances de laboratoire où les étudiantes et étudiants manipulent eux-mêmes les données, les modèles et les outils (notebooks, plateformes analytiques, environnements de type MLOps/LLMOps simplifiés). L’idée est de passer rapidement du “voir faire” au “faire soi-même”, en alternant mini-exposés, démonstrations et travail en autonomie guidée.
 
-c) Intégration explicite des enjeux de gouvernance et d’éthique  
-Dans les cours sur l’IA, les systèmes d’information et l’analytique, j’intègre de manière systématique les questions de gouvernance, d’éthique, de biais, de transparence et de responsabilité. Concrètement, cela passe par des segments d’analyse de politiques (réglementations, lignes directrices), des discussions structurées sur des incidents réels, et des exercices où les étudiantes et étudiants doivent proposer des mécanismes de contrôle, des indicateurs ou des structures de gouvernance adaptés.
+c) Intégration explicite des enjeux de gouvernance, d'éthique et de sécurité  
+Dans les cours sur l'IA, les systèmes d'information et l'analytique, j'intègre de manière systématique les questions de gouvernance, d'éthique, de biais, de transparence, de responsabilité et de sécurité des LLM. Concrètement, cela passe par des segments d'analyse de politiques (réglementations, lignes directrices), des discussions structurées sur des incidents réels (attaques par prompt injection, hallucinations critiques, boucles affectives problématiques), et des exercices où les étudiantes et étudiants doivent proposer des mécanismes de contrôle, des indicateurs, des défenses contre les vulnérabilités des LLM ou des structures de gouvernance adaptés.
 
 d) Usage réfléchi des outils numériques et des LLM  
 Je considère les LLM et outils d’IA générative comme des objets à la fois d’étude et de pratique. Je les utilise comme “co-pilotes” dans certaines activités (par exemple pour générer des idées, explorer des options de modélisation, comparer des approches), tout en expliquant clairement leurs limites (hallucinations, biais, dépendance au contexte, risques de sécurité). Cela permet de développer chez les étudiantes et étudiants une posture de maîtrise critique vis-à-vis de ces outils, plutôt qu’une adoption naïve ou un rejet de principe.

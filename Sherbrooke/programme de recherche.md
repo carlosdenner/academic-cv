@@ -20,11 +20,12 @@ Axe 1 – Gouvernance et gestion des risques de l’IA
 
 Dans l’article « Artificial Intelligence Regulation: a framework for governance » (Ethics and Information Technology, 2021), coécrit avec des collègues, nous proposons un cadre intégrateur pour la régulation de l’IA à l’échelle des politiques publiques. Dans « Artificial intelligence governance: Understanding how public organizations implement it » (Government Information Quarterly, 2025), nous analysons comment 28 organisations publiques sur cinq continents traduisent (ou non) ces principes dans leurs pratiques.
 
-Le premier axe prolonge ces travaux au niveau organisationnel et des portefeuilles d’IA. Les questions centrales sont :
+Le premier axe prolonge ces travaux au niveau organisationnel et des portefeuilles d'IA, avec un accent particulier sur les risques émergents liés aux LLM et aux systèmes agentiques. Les questions centrales sont :
 
-– Comment les organisations structurent-elles la gouvernance de leurs systèmes d’IA (rôles, comités, politiques, processus de décision) ?
-– Quels modèles de gouvernance (centralisé, fédéré, par domaine d’affaires) sont les plus adaptés selon le secteur et la maturité numérique ?
-– Comment cartographier de manière exploitable les risques liés à l’IA (biais, non-conformité réglementaire, cyberrisques, dépendance à des fournisseurs, perte de contrôle sur des agents autonomes) pour aider les gestionnaires à prioriser ?
+– Comment les organisations structurent-elles la gouvernance de leurs systèmes d'IA (rôles, comités, politiques, processus de décision) ?
+– Quels modèles de gouvernance (centralisé, fédéré, par domaine d'affaires) sont les plus adaptés selon le secteur et la maturité numérique ?
+– Comment cartographier de manière exploitable les risques liés à l'IA (biais, non-conformité réglementaire, cyberrisques spécifiques aux LLM comme la prompt injection et les hallucinations, dépendance à des fournisseurs, perte de contrôle sur des agents autonomes, boucles affectives incontrôlées dans les systèmes d'IA conversationnelle) pour aider les gestionnaires à prioriser ?
+– Comment les organisations peuvent-elles implémenter un « contrôle réversible » permettant d'ajuster dynamiquement leurs systèmes d'IA tout en maintenant des capacités d'apprentissage organisationnel ?
 
 Je prévois de combiner études de cas approfondies, entretiens, analyse de documents et enquêtes quantitatives. L’objectif est de produire :
 – des typologies de structures de gouvernance de l’IA ;
@@ -33,19 +34,23 @@ Je prévois de combiner études de cas approfondies, entretiens, analyse de docu
 
 Axe 2 – Ingénierie, opérations et sécurité des systèmes d’IA (AIOps/MLOps)
 
-Le deuxième axe se concentre sur le cycle de vie des systèmes d’IA : données, modèles, déploiement, exploitation, monitoring, sécurité. C’est le cœur de l’AIOps/MLOps, là où les enjeux de gouvernance se matérialisent vraiment.
+Le deuxième axe se concentre sur le cycle de vie des systèmes d'IA : données, modèles, déploiement, exploitation, monitoring, sécurité. C'est le cœur de l'AIOps/MLOps, là où les enjeux de gouvernance se matérialisent vraiment. Mes travaux récents portent spécifiquement sur la sécurité des LLM et les dimensions affectives de l'interaction humain-IA.
 
 Les questions de recherche incluent :
 
-– Comment concevoir des pipelines AIOps/MLOps “gouvernables”, où traçabilité, contrôles d’accès, revues de risques, audits et mécanismes d’arrêt (“kill switches”) font partie de l’architecture et des outils, plutôt que de rester dans des documents ?
-– Quels patrons d’architecture pour les systèmes basés sur des LLM (RAG, agents, chaînes d’outils) permettent de garder la main sur ce que le système peut faire, sur quelles données et avec quelles garanties ?
+– Comment concevoir des pipelines AIOps/MLOps "gouvernables", où traçabilité, contrôles d'accès, revues de risques, audits et mécanismes d'arrêt ("kill switches") font partie de l'architecture et des outils, plutôt que de rester dans des documents ?
+– Quels patrons d'architecture pour les systèmes basés sur des LLM (RAG, agents, chaînes d'outils) permettent de garder la main sur ce que le système peut faire, sur quelles données et avec quelles garanties ?
 – Comment intégrer la sécurité (prompt injection, hallucinations critiques, exfiltration de données, agents sur-permissionnés) dans les pratiques MLOps, au même titre que la performance et la disponibilité ?
+– Comment construire un "pare-feu LLM" (LLM Firewall) avec des défenses multi-phases contre la prompt injection, depuis l'analyse de brevets jusqu'aux garde-fous déployables côté entrée ?
+– Comment évaluer et atténuer les hallucinations dans les systèmes de génération augmentée par récupération (RAG) ?
+– Comment les boucles affectives émergent-elles dans l'interaction humain-LLM, et quelles implications ont-elles pour la conception des systèmes d'IA conversationnelle et l'analyse de sentiment ?
 
 Sur ce volet, je m’appuie sur :
-– des projets industriels concrets (par exemple un système d’optimisation énergétique pour un grand opérateur télécom, un système de recommandation pour l’application Jooay, des projets de transformation numérique dans le secteur public) ;
-– un travail systématique sur les brevets en IA/ML montrant que la détection d’hallucinations, la défense contre la prompt injection, la sécurité des agents et la fédéralisation de l’entraînement des LLM sont des domaines émergents où l’activité reste faible au regard des enjeux.
+– des projets industriels concrets (par exemple un système d'optimisation énergétique pour un grand opérateur télécom, un système de recommandation IA pour l'application Jooay favorisant l'inclusion numérique des enfants et jeunes en situation de handicap, des projets de transformation numérique dans le secteur public) ;
+– un travail systématique sur les brevets en IA/ML montrant que la détection d'hallucinations, la défense contre la prompt injection, la sécurité des agents et la fédéralisation de l'entraînement des LLM sont des domaines émergents où l'activité reste faible au regard des enjeux ;
+– des manuscrits en préparation pour des revues de premier plan : « Building an LLM Firewall » (Communications of the ACM), « Evaluating and Mitigating Hallucinations in RAG » (cadre expérimental), « LLMs, Sentiment Analysis, and Algorithmic Feelings » (Academy of Management Review), et « Reversible Control as a Digital Innovation Theory » (MISQ Theory & Review).
 
-Je privilégierai des approches de design science et de recherche orientée artefact : conception et évaluation de prototypes de pipelines MLOps intégrant des points de contrôle de gouvernance, d’“agents firewall” encadrant ce qu’un agent LLM peut faire, et de tableaux de bord de risques et de performance opérationnelle. Ces artefacts seront développés et évalués avec des organisations partenaires (secteur public, télécom, énergie, santé), en visant à la fois des contributions scientifiques (modèles, taxonomies, cadres d’évaluation) et des livrables directement utilisables.
+Je privilégierai des approches de design science et de recherche orientée artefact : conception et évaluation de prototypes de pipelines MLOps intégrant des points de contrôle de gouvernance, d'"agents firewall" encadrant ce qu'un agent LLM peut faire, de systèmes RAG avec atténuation des hallucinations, et de tableaux de bord de risques et de performance opérationnelle. Ces artefacts seront développés et évalués avec des organisations partenaires (secteur public, télécom, énergie, santé), en visant à la fois des contributions scientifiques (théories, modèles, taxonomies, cadres d'évaluation) et des livrables directement utilisables.
 
 Axe 3 – Performance, impact et durabilité de l’IA
 
