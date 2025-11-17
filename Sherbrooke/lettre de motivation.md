@@ -1,4 +1,4 @@
-Sherbrooke, le [date]
+Sherbrooke, le 17 novembre 2025
 
 Objet : Candidature au poste de professeure ou professeur en gestion de l’intelligence artificielle (offre 07823)
 
@@ -20,10 +20,8 @@ Enfin, je suis particulièrement attiré par la culture de collaboration interdi
 
 Je vous remercie de l’attention portée à ma candidature et me tiens à votre disposition pour toute information complémentaire.
 
-Veuillez agréer, Madame, Monsieur, l’expression de mes salutations distinguées.
-
-[Signature]
+Veuillez agréer, Madame, Monsieur, l'expression de mes salutations distinguées.
 
 Carlos Denner dos Santos
-[Courriel]
-[Téléphone]
+carlosdenner@gmail.com
++1 (438) 836-4116
