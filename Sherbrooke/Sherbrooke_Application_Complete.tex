@@ -1,0 +1,118 @@
+\documentclass[11pt,letterpaper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[margin=1in]{geometry}
+\usepackage{hyperref}
+\usepackage{pdfpages}
+\usepackage{fancyhdr}
+\usepackage{graphicx}
+\usepackage[french]{babel}
+
+% Set up headers
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{Carlos Denner dos Santos}
+\fancyhead[R]{Application - Université de Sherbrooke}
+\fancyfoot[C]{\thepage}
+
+\hypersetup{
+    colorlinks=true,
+    linkcolor=black,
+    urlcolor=blue,
+    citecolor=black
+}
+
+% Fix for pandoc tightlist
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+\begin{document}
+
+% Title page
+\begin{titlepage}
+    \centering
+    \vspace*{2cm}
+    
+    {\Huge\bfseries Application Package\par}
+    \vspace{1cm}
+    {\Large Poste de professeure ou professeur en gestion de l'intelligence artificielle\par}
+    \vspace{0.5cm}
+    {\large Offre 07823\par}
+    \vspace{2cm}
+    
+    {\LARGE\bfseries Carlos Denner dos Santos\par}
+    \vspace{1cm}
+    
+    {\large AI Scientist\par}
+    {\large Montreal, QC, Canada\par}
+    \vspace{0.5cm}
+    {\large \href{mailto:carlosdenner@gmail.com}{carlosdenner@gmail.com}\par}
+    {\large +1 (438) 836-4116\par}
+    \vspace{2cm}
+    
+    {\large Département des systèmes d'information et méthodes quantitatives de gestion (SIMQG)\par}
+    {\large École de gestion\par}
+    {\large Université de Sherbrooke\par}
+    \vspace{2cm}
+    
+    {\large\today\par}
+\end{titlepage}
+
+\clearpage
+
+% Table of contents
+\tableofcontents
+\clearpage
+
+% Include CV PDF (no section header, just the PDF itself)
+\addcontentsline{toc}{section}{Curriculum Vitae}
+\pagestyle{empty}
+\includepdf[pages=-]{../data/latex/CarlosDenner_CV_resume.pdf}
+\pagestyle{fancy}
+
+\clearpage
+
+% Letter of motivation
+\section*{Lettre de motivation}
+\addcontentsline{toc}{section}{Lettre de motivation}
+\input{lettre_de_motivation_content.tex}
+
+\clearpage
+
+% Research program
+\section*{Programme de recherche}
+\addcontentsline{toc}{section}{Programme de recherche}
+\input{programme_de_recherche_content.tex}
+
+\clearpage
+
+% Teaching statement
+\section*{Énoncé d'enseignement}
+\addcontentsline{toc}{section}{Énoncé d'enseignement}
+\input{enonce_enseignement_content.tex}
+
+\clearpage
+
+% Key publications
+\section*{Three Key Publications}
+\addcontentsline{toc}{section}{Three Key Publications}
+
+\subsection*{Publication 1: Artificial intelligence governance}
+\addcontentsline{toc}{subsection}{AI Governance (Government Information Quarterly)}
+\pagestyle{empty}
+\includepdf[pages=-]{Publications/1-s2.0-S0740624X24000959-main.pdf}
+\pagestyle{fancy}
+
+\subsection*{Publication 2: Artificial Intelligence Regulation}
+\addcontentsline{toc}{subsection}{AI Regulation Framework (Ethics and Information Technology)}
+\pagestyle{empty}
+\includepdf[pages=-]{Publications/Almeida2021_Article_ArtificialIntelligenceRegulati.pdf}
+\pagestyle{fancy}
+
+\subsection*{Publication 3: The Attraction of Contributors in FOSP}
+\addcontentsline{toc}{subsection}{Open-Source Contributors (MIS Quarterly)}
+\pagestyle{empty}
+\includepdf[pages=-]{Publications/TheAttractionofContributorsinFOSP.pdf}
+\pagestyle{fancy}
+
+\end{document}
