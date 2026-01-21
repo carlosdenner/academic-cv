@@ -1,0 +1,116 @@
+% beamer_usherbrooke.sty
+% Style personnalisé pour les présentations Université de Sherbrooke
+% Couleurs officielles: Vert #00a54f, Or #ffcc00
+
+\ProvidesPackage{beamer_usherbrooke}
+
+% === COULEURS UdeS ===
+\definecolor{ushervert}{HTML}{00a54f}
+\definecolor{usheror}{HTML}{ffcc00}
+\definecolor{ushergris}{HTML}{4a4a4a}
+\definecolor{usherbleu}{HTML}{003366}
+\definecolor{usherblanc}{HTML}{ffffff}
+\definecolor{ushervertclair}{HTML}{e6f5ed}
+
+% === THÈME DE BASE ===
+\usetheme{Madrid}
+\usecolortheme{default}
+
+% === PERSONNALISATION DES COULEURS ===
+\setbeamercolor{palette primary}{bg=ushervert,fg=white}
+\setbeamercolor{palette secondary}{bg=ushervert!80,fg=white}
+\setbeamercolor{palette tertiary}{bg=ushervert!60,fg=white}
+\setbeamercolor{palette quaternary}{bg=ushervert,fg=white}
+
+\setbeamercolor{structure}{fg=ushervert}
+\setbeamercolor{section in toc}{fg=ushervert}
+\setbeamercolor{subsection in toc}{fg=ushergris}
+
+\setbeamercolor{title}{fg=ushervert}
+\setbeamercolor{frametitle}{fg=white,bg=ushervert}
+\setbeamercolor{framesubtitle}{fg=usheror}
+
+\setbeamercolor{block title}{bg=ushervert,fg=white}
+\setbeamercolor{block body}{bg=ushervertclair,fg=ushergris}
+
+\setbeamercolor{block title alerted}{bg=usheror,fg=ushergris}
+\setbeamercolor{block body alerted}{bg=usheror!20,fg=ushergris}
+
+\setbeamercolor{block title example}{bg=ushervert!70,fg=white}
+\setbeamercolor{block body example}{bg=ushervertclair,fg=ushergris}
+
+\setbeamercolor{item}{fg=ushervert}
+\setbeamercolor{itemize item}{fg=ushervert}
+\setbeamercolor{itemize subitem}{fg=usheror}
+\setbeamercolor{enumerate item}{fg=ushervert}
+
+\setbeamercolor{footline}{fg=ushergris,bg=ushervertclair}
+\setbeamercolor{headline}{fg=white,bg=ushervert}
+
+\setbeamercolor{navigation symbols}{fg=ushervert}
+
+% === PERSONNALISATION DES POLICES ===
+\setbeamerfont{title}{size=\Large,series=\bfseries}
+\setbeamerfont{frametitle}{size=\large,series=\bfseries}
+\setbeamerfont{framesubtitle}{size=\normalsize,series=\normalfont}
+\setbeamerfont{author}{size=\normalsize}
+\setbeamerfont{institute}{size=\small}
+\setbeamerfont{date}{size=\small}
+
+% === TEMPLATES ===
+\setbeamertemplate{navigation symbols}{}
+\setbeamertemplate{footline}{
+  \leavevmode%
+  \hbox{%
+    \begin{beamercolorbox}[wd=.333333\paperwidth,ht=2.25ex,dp=1ex,center]{footline}%
+      \usebeamerfont{author in head/foot}\insertshortauthor
+    \end{beamercolorbox}%
+    \begin{beamercolorbox}[wd=.333333\paperwidth,ht=2.25ex,dp=1ex,center]{footline}%
+      \usebeamerfont{title in head/foot}\insertshorttitle
+    \end{beamercolorbox}%
+    \begin{beamercolorbox}[wd=.333333\paperwidth,ht=2.25ex,dp=1ex,right]{footline}%
+      \usebeamerfont{date in head/foot}\insertshortdate{}\hspace*{2em}
+      \insertframenumber{} / \inserttotalframenumber\hspace*{2ex}
+    \end{beamercolorbox}}%
+  \vskip0pt%
+}
+
+% === PUCES PERSONNALISÉES ===
+\setbeamertemplate{itemize item}{\color{ushervert}\textbullet}
+\setbeamertemplate{itemize subitem}{\color{usheror}\textendash}
+\setbeamertemplate{itemize subsubitem}{\color{ushergris}\textasteriskcentered}
+
+% === TABLEAUX ===
+\newcommand{\tableheadercolor}{\rowcolor{ushervert}}
+\newcommand{\tablerowalternate}{\rowcolor{ushervertclair}}
+
+% === BOÎTES PERSONNALISÉES ===
+\newenvironment{highlightbox}{%
+  \begin{beamercolorbox}[rounded=true,shadow=true,sep=0.5em]{block title}
+}{%
+  \end{beamercolorbox}
+}
+
+\newenvironment{accentbox}{%
+  \begin{beamercolorbox}[rounded=true,shadow=true,sep=0.5em]{block title alerted}
+}{%
+  \end{beamercolorbox}
+}
+
+% === COMMANDES UTILES ===
+\newcommand{\emphvert}[1]{\textcolor{ushervert}{\textbf{#1}}}
+\newcommand{\emphor}[1]{\textcolor{usheror}{\textbf{#1}}}
+\newcommand{\citationbox}[1]{\begin{quote}\textit{``#1''}\end{quote}}
+
+% === TITRE DE SECTION ===
+% Désactivé - les slides de transition sont créées manuellement dans la présentation
+% \AtBeginSection[]{
+%   \begin{frame}
+%     \vfill
+%     \centering
+%     \begin{beamercolorbox}[sep=8pt,center,shadow=true,rounded=true]{title}
+%       \usebeamerfont{title}\insertsectionhead\par%
+%     \end{beamercolorbox}
+%     \vfill
+%   \end{frame}
+% }

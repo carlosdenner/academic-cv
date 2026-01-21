@@ -1,0 +1,890 @@
+% Présentation 2 : Programme de recherche
+% Carlos Denner dos Santos
+% Journée d'évaluation - 23 janvier 2026
+% Poste de professeur en gestion de l'intelligence artificielle
+% Département SIMQG, École de gestion, Université de Sherbrooke
+
+% === PDF SETTINGS (full font embedding) ===
+\pdfminorversion=7
+\pdfobjcompresslevel=0
+
+\documentclass[aspectratio=169,11pt]{beamer}
+
+% === ENCODAGE ET LANGUE ===
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[french]{babel}
+\usepackage{csquotes}
+\usepackage{lmodern}  % Latin Modern fonts (fully embeddable)
+
+% === STYLE UdeS ===
+\usepackage{beamer_usherbrooke}
+
+% === PACKAGES ADDITIONNELS ===
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{colortbl}
+\usepackage{tikz}
+\usetikzlibrary{shapes,arrows,positioning,calc}
+\usepackage{hyperref}
+
+% === COULEURS PAR AXE ===
+\definecolor{axe1color}{RGB}{0,100,180}    % Bleu - Gouvernance
+\definecolor{axe2color}{RGB}{180,60,60}    % Rouge - Sécurité/MLOps
+\definecolor{axe3color}{RGB}{60,140,60}    % Vert - Performance
+\definecolor{usherbgreen}{HTML}{00a54f}    % Alias pour ushervert
+% \emphvert est déjà défini dans beamer_usherbrooke.sty
+
+% === MÉTADONNÉES ===
+\title[Programme de recherche]{Programme de recherche}
+\subtitle{Gestion, gouvernance et ingénierie des systèmes d'IA}
+\author[C. D. dos Santos]{Carlos Denner dos Santos Jr.}
+\institute[UdeS - SIMQG]{
+  Département des systèmes d'information\\
+  et méthodes quantitatives de gestion (SIMQG)\\
+  École de gestion, Université de Sherbrooke
+}
+\date{23 janvier 2026}
+
+\begin{document}
+
+% ============================================
+% SLIDE TITRE
+% ============================================
+\begin{frame}
+  % Bannière verte avec titre de la présentation
+  \begin{beamercolorbox}[wd=\paperwidth,ht=2.5cm,dp=0.5cm,center]{palette primary}
+    {\Large\bfseries Présentation 2 : Programme de recherche}
+  \end{beamercolorbox}
+  
+  \vspace{0.6cm}
+  
+  \begin{center}
+    {\large\textbf{Gestion, gouvernance et ingénierie\\des systèmes d'intelligence artificielle}}
+    
+    \vspace{1em}
+    
+    {\Large Carlos Denner dos Santos Jr.}
+    
+    \vspace{0.8em}
+    
+    {\normalsize Département des systèmes d'information\\
+    et méthodes quantitatives de gestion (SIMQG)\\
+    École de gestion, Université de Sherbrooke}
+    
+    \vspace{0.8em}
+    
+    {\normalsize 23 janvier 2026}
+    
+    \vspace{0.8em}
+    
+    {\large\textcolor{ushervert}{\textbf{\guillemotleft~Je rends l'IA gouvernable, sécurisable, mesurable.~\guillemotright}}}
+  \end{center}
+\end{frame}
+
+% ============================================
+% PLAN DE LA PRÉSENTATION
+% ============================================
+\begin{frame}{Plan de la présentation}
+  \tableofcontents
+\end{frame}
+
+% ============================================
+% SECTION 1 : INTRODUCTION ET CONTEXTE (~4 min)
+% ============================================
+\section{Contexte et vision}
+
+% --- SLIDE 1.1 : Qu'est-ce que la gestion de l'IA? ---
+\begin{frame}{Qu'est-ce que la gestion de l'IA?}
+  \begin{columns}[T]
+    \begin{column}{0.55\textwidth}
+      \begin{alertblock}{La question a changé}
+        \centering
+        \textit{``Que peut-on faire avec l'IA?''} \\
+        $\downarrow$ \\
+        \textit{``Comment la \textbf{gouverner}, l'\textbf{exploiter} et la \textbf{sécuriser} de façon responsable?''}
+      \end{alertblock}
+      
+      \vspace{0.5em}
+      
+      \begin{block}{Les défis organisationnels}
+        \begin{itemize}
+          \item \textbf{Gouvernance} -- Qui décide quoi?
+          \item \textbf{Risques} -- Biais, conformité, sécurité
+          \item \textbf{Opérations} -- Du prototype à la production
+          \item \textbf{Valeur} -- ROI réel vs promesses
+        \end{itemize}
+      \end{block}
+    \end{column}
+    \begin{column}{0.42\textwidth}
+      \centering
+      \begin{tikzpicture}[scale=0.8]
+        % Triangle des enjeux
+        \node[draw, fill=axe1color!20, minimum width=3cm, minimum height=1cm, rounded corners] (gouv) at (0,3) {\small Gouvernance};
+        \node[draw, fill=axe2color!20, minimum width=3cm, minimum height=1cm, rounded corners] (ops) at (-1.5,0.5) {\small Opérations};
+        \node[draw, fill=axe3color!20, minimum width=3cm, minimum height=1cm, rounded corners] (perf) at (1.5,0.5) {\small Performance};
+        \node[draw, fill=usherbgreen!30, circle, minimum size=1.5cm] (ia) at (0,1.5) {\footnotesize\textbf{IA}};
+        \draw[->, thick] (gouv) -- (ia);
+        \draw[->, thick] (ops) -- (ia);
+        \draw[->, thick] (perf) -- (ia);
+      \end{tikzpicture}
+      
+      \vspace{0.5em}
+      
+      {\small\textit{L'IA en contexte organisationnel nécessite une approche de gestion intégrée}}
+    \end{column}
+  \end{columns}
+\end{frame}
+
+% --- SLIDE 1.2 : Mon positionnement ---
+\begin{frame}{Mon positionnement}
+  \begin{columns}[T]
+    \begin{column}{0.48\textwidth}
+      \begin{block}{Ancrage académique}
+        \begin{itemize}\small
+          \item Publications en gouvernance de l'IA
+          \item \textit{Ethics and Information Technology}
+          \item \textit{Government Information Quarterly}
+          \item 20+ ans en systèmes d'information
+        \end{itemize}
+      \end{block}
+      
+      \begin{block}{Pratique terrain}
+        \begin{itemize}\small
+          \item Projets IA en télécom, consulting, secteur public
+          \item AIOps/MLOps à grande échelle
+          \item Du concept à la production
+        \end{itemize}
+      \end{block}
+    \end{column}
+    \begin{column}{0.48\textwidth}
+      \begin{block}{Recherche émergente}
+        \begin{itemize}\small
+          \item Cartographie de \textbf{250\,000 brevets IA/ML}
+          \item Identification des domaines émergents :
+          \begin{itemize}\footnotesize
+            \item Sécurité des LLM
+            \item Détection d'hallucinations
+            \item Défense prompt injection
+          \end{itemize}
+        \end{itemize}
+      \end{block}
+      
+      \vspace{0.3em}
+      
+      \begin{exampleblock}{Mes travaux}
+        \small\textit{``s'inscrivent directement dans les thématiques du poste : gouvernance, risques, sécurité et performance des systèmes d'IA''}
+      \end{exampleblock}
+    \end{column}
+  \end{columns}
+\end{frame}
+
+% --- SLIDE 1.3 : Vue d'ensemble du programme ---
+\begin{frame}{Programme de recherche : Vue d'ensemble}
+  \begin{center}
+    \begin{tikzpicture}[scale=0.9]
+      % Titre central
+      \node[draw, fill=usherbgreen!40, rounded corners, minimum width=5cm, minimum height=1.2cm] (centre) at (0,0) {\textbf{Gestion de l'IA}};
+      
+      % Axe 1 - Gouvernance (gauche)
+      \node[draw, fill=axe1color!25, rounded corners, minimum width=4.5cm, minimum height=2.5cm, align=center] (axe1) at (-5.5,0) {
+        \textbf{\textcolor{axe1color}{Axe 1}}\\[0.3em]
+        Gouvernance\\
+        \& Risques
+      };
+      
+      % Axe 2 - Opérations (haut droite)
+      \node[draw, fill=axe2color!25, rounded corners, minimum width=4.5cm, minimum height=2.5cm, align=center] (axe2) at (5.5,1.5) {
+        \textbf{\textcolor{axe2color}{Axe 2}}\\[0.3em]
+        Ingénierie,\\
+        Sécurité \& MLOps
+      };
+      
+      % Axe 3 - Performance (bas droite)
+      \node[draw, fill=axe3color!25, rounded corners, minimum width=4.5cm, minimum height=2.5cm, align=center] (axe3) at (5.5,-1.5) {
+        \textbf{\textcolor{axe3color}{Axe 3}}\\[0.3em]
+        Performance,\\
+        Impact \& Durabilité
+      };
+      
+      % Flèches
+      \draw[->, thick, axe1color] (centre) -- (axe1);
+      \draw[->, thick, axe2color] (centre) -- (axe2);
+      \draw[->, thick, axe3color] (centre) -- (axe3);
+      
+      % Mots-clés sous chaque axe
+      \node[below=0.1cm of axe1, font=\tiny, text width=4cm, align=center] {Politiques, cadres, AI Act (UE)};
+      \node[below=0.1cm of axe2, font=\tiny, text width=4cm, align=center] {LLM Firewall, RAG, agents, pipelines};
+      \node[below=0.1cm of axe3, font=\tiny, text width=4cm, align=center] {Valeur, stratégie, éthique, durabilité};
+    \end{tikzpicture}
+  \end{center}
+\end{frame}
+
+% ============================================
+% TRANSITION SECTION 2
+% ============================================
+\begin{frame}{}
+  \begin{beamercolorbox}[wd=\paperwidth,ht=2.5cm,dp=0.5cm,center]{palette primary}
+    {\Large\bfseries Section 2 : Axe 1 -- Gouvernance et risques}
+  \end{beamercolorbox}
+  \vspace{2cm}
+  \begin{center}
+    {\large\textit{Comment les organisations peuvent-elles encadrer et contrôler l'IA de manière responsable?}}
+  \end{center}
+\end{frame}
+
+% ============================================
+% SECTION 2 : AXE 1 - GOUVERNANCE (~4 min)
+% ============================================
+\section{Axe 1 : Gouvernance et gestion des risques}
+
+% --- SLIDE 2.1 : Questions de recherche Axe 1 ---
+\begin{frame}{Axe 1 : Questions de recherche}
+  \begin{columns}[T]
+    \begin{column}{0.55\textwidth}
+      \begin{block}{Questions centrales}
+        \begin{enumerate}\small
+          \item Comment les organisations \textbf{structurent-elles} la gouvernance de leurs systèmes d'IA?
+          \item Quels \textbf{modèles} (centralisé, fédéré, par domaine) sont adaptés selon le secteur?
+          \item Comment \textbf{cartographier} les risques IA pour aider les gestionnaires à prioriser?
+          \item Comment implémenter un \textbf{contrôle réversible} pour ajuster dynamiquement les systèmes?
+        \end{enumerate}
+        
+        \vspace{0.2em}
+        {\scriptsize\textcolor{gray}{Ex. contrôle réversible : pipeline ML avec ``kill switch'' (30 sec) -- \textit{qui décide? quelles métriques? quelle traçabilité?}}}
+      \end{block}
+    \end{column}
+    \begin{column}{0.42\textwidth}
+      \begin{alertblock}{Risques émergents}
+        \begin{itemize}\small
+          \item Biais algorithmiques
+          \item Non-conformité réglementaire
+          \item \textbf{Prompt injection}
+          \item \textbf{Hallucinations LLM}
+          \item Agents autonomes incontrôlés
+          \item Boucles affectives {\scriptsize\textcolor{gray}{(ex: chatbot qui amplifie l'anxiété)}}
+        \end{itemize}
+      \end{alertblock}
+      
+      \vspace{0.2em}
+      
+      {\scriptsize\textcolor{axe1color}{\textbf{Mon angle} : transformer ces risques techniques en mécanismes de gouvernance opérationnels (rôles, contrôles, métriques)}}
+    \end{column}
+  \end{columns}
+\end{frame}
+
+% --- SLIDE 2.2 : Travaux fondateurs Axe 1 ---
+\begin{frame}{Axe 1 : Travaux fondateurs}
+  \begin{columns}[T]
+    \begin{column}{0.48\textwidth}
+      \begin{block}{Publication 1 (2021)}
+        \textbf{``AI Regulation: A Framework for Governance''}\\
+        \textit{Ethics and Information Technology}
+        \begin{itemize}\small
+          \item Cadre intégrateur pour la régulation
+          \item Politiques publiques IA
+          \item \textbf{541 citations} (Google Scholar)
+        \end{itemize}
+      \end{block}
+    \end{column}
+    \begin{column}{0.48\textwidth}
+      \begin{block}{Publication 2 (2025)}
+        \textbf{``AI Governance: How Public Orgs Implement It''}\\
+        \textit{Government Information Quarterly}
+        \begin{itemize}\small
+          \item Étude empirique
+          \item \textbf{28 organisations publiques}
+          \item 5 continents
+          \item Écart principes vs pratiques
+        \end{itemize}
+      \end{block}
+    \end{column}
+  \end{columns}
+  
+  \vspace{0.5em}
+  
+  \begin{exampleblock}{Extension prévue}
+    \small
+    \begin{itemize}
+      \item Comparer secteurs public/privé
+      \item Évaluer l'efficacité des mécanismes de gouvernance
+      \item Développer des \textbf{typologies} et \textbf{guides pratiques}
+    \end{itemize}
+  \end{exampleblock}
+\end{frame}
+
+% --- SLIDE 2.3 : Livrables Axe 1 ---
+\begin{frame}{Axe 1 : Livrables attendus}
+  \begin{columns}[T]
+    \begin{column}{0.48\textwidth}
+      \begin{block}{Contributions théoriques}
+        \begin{itemize}\small
+          \item \textbf{Typologies} de structures de gouvernance IA
+          \item \textbf{Cartes de risques} et contrôles associés
+          \item Modèles de \textbf{contrôle réversible}
+          \item Théorie des boucles affectives
+        \end{itemize}
+      \end{block}
+    \end{column}
+    \begin{column}{0.48\textwidth}
+      \begin{block}{Contributions pratiques}
+        \begin{itemize}\small
+          \item \textbf{Guides pratiques} pour gestionnaires
+          \item \textbf{Cas d'enseignement} (École de gestion)
+          \item Outils d'auto-évaluation
+          \item Intégration au \textbf{microprogramme IA}
+        \end{itemize}
+      \end{block}
+    \end{column}
+  \end{columns}
+  
+  \vspace{0.5em}
+  
+  \begin{center}
+    \begin{tikzpicture}
+      \node[draw, fill=axe1color!15, rounded corners, minimum width=12cm, minimum height=1cm] {
+        \textbf{Méthodes} : Études de cas, entretiens, enquêtes quantitatives, analyse documentaire
+      };
+    \end{tikzpicture}
+  \end{center}
+\end{frame}
+
+% ============================================
+% TRANSITION SECTION 3
+% ============================================
+\begin{frame}{}
+  \begin{beamercolorbox}[wd=\paperwidth,ht=2.5cm,dp=0.5cm,center]{palette primary}
+    {\Large\bfseries Section 3 : Axe 2 -- Ingénierie et sécurité}
+  \end{beamercolorbox}
+  \vspace{2cm}
+  \begin{center}
+    {\large\textit{Comment passer du prototype à un déploiement robuste et sécurisé?}}
+  \end{center}
+\end{frame}
+
+% ============================================
+% SECTION 3 : AXE 2 - INGÉNIERIE/SÉCURITÉ (~5 min)
+% ============================================
+\section{Axe 2 : Ingénierie, opérations et sécurité}
+
+% --- SLIDE 3.1 : Questions de recherche Axe 2 ---
+\begin{frame}{Axe 2 : Questions de recherche}
+  \begin{columns}[T]
+    \begin{column}{0.55\textwidth}
+      \begin{block}{Questions centrales}
+        \begin{enumerate}\small
+          \item Comment concevoir des pipelines MLOps \textbf{``gouvernables''}?
+          \item Quels \textbf{patrons d'architecture} pour systèmes LLM (RAG, agents)?
+          \item Comment intégrer la \textbf{sécurité} dans les pratiques MLOps?
+          \item Comment construire un \textbf{``pare-feu LLM''}?
+          \item Comment \textbf{évaluer et atténuer} les hallucinations?
+        \end{enumerate}
+      \end{block}
+    \end{column}
+    \begin{column}{0.42\textwidth}
+      \begin{alertblock}{Focus sécurité LLM}
+        \begin{itemize}\small
+          \item \textbf{Prompt injection}
+          \item Hallucinations critiques
+          \item Exfiltration de données
+          \item Agents sur-permissionnés
+        \end{itemize}
+      \end{alertblock}
+      
+      \vspace{0.3em}
+      
+      {\small\textcolor{axe2color}{C'est le cœur de l'\textbf{AIOps/MLOps}}}
+    \end{column}
+  \end{columns}
+\end{frame}
+
+% --- SLIDE 3.2 : Analyse de brevets ---
+\begin{frame}{Axe 2 : Cartographie des brevets IA/ML}
+  \begin{columns}[T]
+    \begin{column}{0.55\textwidth}
+      \begin{block}{Projet de veille stratégique}
+        \begin{itemize}\small
+          \item \textbf{250\,000 familles dédupliquées} analysées
+          \item Période : 2010--2025
+          \item Objectif : identifier les \textbf{domaines émergents}
+        \end{itemize}
+      \end{block}
+      
+      \vspace{0.3em}
+      
+      \begin{exampleblock}{Constat clé}
+        \small
+        \textbf{La sécurité LLM est sous-brevetée versus le risque}\\[0.3em]
+        {\footnotesize Détection hallucinations, défense prompt injection, sécurité agents, entraînement fédéré}\\
+        \vspace{0.3em}
+        $\Rightarrow$ \textbf{White space scientifique et industriel majeur}
+      \end{exampleblock}
+    \end{column}
+    \begin{column}{0.42\textwidth}
+      \centering
+      \begin{tikzpicture}[scale=0.7]
+        % Graphique simplifié tendances
+        \draw[->] (0,0) -- (5,0) node[right] {\tiny Temps};
+        \draw[->] (0,0) -- (0,4) node[above] {\tiny Brevets};
+        \draw[thick, blue] (0.5,0.5) -- (1.5,0.8) -- (2.5,1.2) -- (3.5,2) -- (4.5,3.5);
+        \node[below, font=\tiny] at (0.5,0) {2010};
+        \node[below, font=\tiny] at (4.5,0) {2025};
+        \node[font=\tiny, text width=2.5cm, align=center] at (2.5,-0.8) {Croissance des brevets IA/ML};
+        
+        % Zones émergentes
+        \draw[dashed, red, thick] (3,0.5) rectangle (4.8,1.5);
+        \node[font=\tiny, red, text width=2cm, align=center] at (3.9,0.2) {Sécurité LLM : zone sous-explorée};
+      \end{tikzpicture}
+      
+      \vspace{0.5em}
+      
+      {\footnotesize\textit{Capacité démontrée à traiter des données massives et extraire des tendances stratégiques}}
+      
+      \vspace{0.3em}
+      
+      {\scriptsize Source: USPTO PatentsView, familles DOCDB, IPC/CPC + embeddings}
+    \end{column}
+  \end{columns}
+\end{frame}
+
+% --- SLIDE 3.3 : LLM Firewall ---
+\begin{frame}{Axe 2 : LLM Firewall -- Pièce maîtresse}
+  \begin{columns}[T]
+    \begin{column}{0.55\textwidth}
+      \begin{block}{Design Science Research}
+        \textbf{Contribution} : Artefact + théorie de la défense LLM
+        
+        \vspace{0.3em}
+        
+        \begin{itemize}\small
+          \item \emphvert{Build} : Pare-feu multi-phases
+          \item \emphvert{Evaluate} : Benchmark adversarial
+          \item \emphvert{Theorize} : Taxonomie des attaques
+        \end{itemize}
+      \end{block}
+      
+      \begin{exampleblock}{Protocole : 3 hypothèses de design}
+        \begin{enumerate}\scriptsize
+          \item \textbf{Taux détection} : injections bloquées (hyp. $>$95\%)
+          \item \textbf{Faux positifs} : légitimes bloqués (hyp. $<$2\%)
+          \item \textbf{Impact qualité} : dégradation réponse (hyp. $<$5\%)
+        \end{enumerate}
+        {\tiny Intérêt : identifier compromis et conditions de validité}
+      \end{exampleblock}
+    \end{column}
+    \begin{column}{0.42\textwidth}
+      \centering
+      \begin{tikzpicture}[scale=0.75]
+        % Schéma pare-feu
+        \node[draw, fill=red!20, rounded corners, minimum width=2cm] (attaque) at (0,3) {\footnotesize Requête};
+        \node[draw, fill=orange!30, rounded corners, minimum width=2.5cm, minimum height=1.5cm] (firewall) at (0,1.5) {\footnotesize\textbf{Firewall}};
+        \node[draw, fill=green!20, rounded corners, minimum width=2cm] (llm) at (0,0) {\footnotesize LLM};
+        
+        \draw[->, thick] (attaque) -- (firewall);
+        \draw[->, thick, green!60!black] (firewall) -- (llm) node[midway, right, font=\tiny] {OK};
+        \draw[->, thick, red, dashed] (firewall.east) -- ++(1,0) node[right, font=\tiny] {Bloqué};
+      \end{tikzpicture}
+      
+      \vspace{0.5em}
+      
+      {\footnotesize\textit{De l'analyse de brevets aux garde-fous déployables}}
+    \end{column}
+  \end{columns}
+\end{frame}
+
+% --- SLIDE 3.4 : Livrables Axe 2 ---
+\begin{frame}{Axe 2 : Livrables attendus}
+  \begin{columns}[T]
+    \begin{column}{0.48\textwidth}
+      \begin{block}{Publications visées}
+        \begin{itemize}\small
+          \item \textbf{``Building an LLM Firewall''}\\
+          {\footnotesize\textit{Communications of the ACM}}
+          \item \textbf{``Hallucinations in RAG''}\\
+          {\footnotesize\textit{Cadre expérimental}}
+          \item \textbf{``Algorithmic Feelings''}\\
+          {\footnotesize\textit{AIS THCI}}
+        \end{itemize}
+      \end{block}
+    \end{column}
+    \begin{column}{0.48\textwidth}
+      \begin{block}{Artefacts pratiques}
+        \begin{itemize}\small
+          \item \textbf{Référentiels} de défense prompt injection
+          \item \textbf{Patrons d'architecture} RAG sécurisés
+          \item \textbf{Tableaux de bord} risques/performance
+          \item Prototypes open-source
+        \end{itemize}
+      \end{block}
+    \end{column}
+  \end{columns}
+  
+  \vspace{0.5em}
+  
+  \begin{center}
+    \begin{tikzpicture}
+      \node[draw, fill=axe2color!15, rounded corners, minimum width=12cm, minimum height=1.2cm, align=center] {
+        \textbf{Approche} : Design science, recherche orientée artefact, partenariats industriels\\
+        {\footnotesize Évaluation : bench red-team, taux de détection, faux positifs, impact sur qualité/réponse}
+      };
+    \end{tikzpicture}
+  \end{center}
+\end{frame}
+
+% ============================================
+% TRANSITION SECTION 4
+% ============================================
+\begin{frame}{}
+  \begin{beamercolorbox}[wd=\paperwidth,ht=2.5cm,dp=0.5cm,center]{palette primary}
+    {\Large\bfseries Section 4 : Axe 3 -- Performance et impact}
+  \end{beamercolorbox}
+  \vspace{2cm}
+  \begin{center}
+    {\large\textit{L'IA crée-t-elle réellement de la valeur, pour qui et à quel coût?}}
+  \end{center}
+\end{frame}
+
+% ============================================
+% SECTION 4 : AXE 3 - PERFORMANCE (~4 min)
+% ============================================
+\section{Axe 3 : Performance, impact et durabilité}
+
+% --- SLIDE 4.1 : Questions de recherche Axe 3 ---
+\begin{frame}{Axe 3 : Questions de recherche}
+  \begin{columns}[T]
+    \begin{column}{0.55\textwidth}
+      \begin{block}{Questions centrales}
+        \begin{enumerate}\small
+          \item Comment \textbf{définir et mesurer} la performance IA au-delà des métriques techniques?
+          \item Quels facteurs distinguent les projets qui \textbf{passent à l'échelle} vs restent en pilote?
+          \item Comment intégrer la \textbf{durabilité} (environnementale, économique, sociale)?
+          \item Comment l'IA affecte-t-elle la \textbf{stratégie} et l'\textbf{innovation}?
+        \end{enumerate}
+      \end{block}
+    \end{column}
+    \begin{column}{0.42\textwidth}
+      \begin{exampleblock}{Au-delà de la précision}
+        \small Mesurer la performance IA :
+        \begin{itemize}\small
+          \item Valeur économique
+          \item Qualité de service
+          \item Impact sur les processus
+          \item \textbf{Équité}
+          \item Effets sur le travail humain
+        \end{itemize}
+      \end{exampleblock}
+    \end{column}
+  \end{columns}
+  
+  \vspace{0.3em}
+  
+  \begin{center}
+    {\small\textcolor{axe3color}{Passer des \textbf{promesses} et \textbf{preuves de concept} à une évaluation rigoureuse}}
+  \end{center}
+\end{frame}
+
+% --- SLIDE 4.2 : Cadre d'évaluation ---
+\begin{frame}{Axe 3 : Cadre d'évaluation de la valeur IA}
+  \begin{center}
+    \begin{tikzpicture}[scale=0.85]
+      % Tableau cadre d'évaluation
+      \node[draw, fill=axe3color!20, minimum width=4cm, minimum height=0.8cm] at (0,3) {\textbf{Dimension financière}};
+      \node[draw, fill=axe3color!15, minimum width=4cm, minimum height=0.8cm, font=\small] at (0,2.2) {ROI, coûts, productivité};
+      
+      \node[draw, fill=axe3color!20, minimum width=4cm, minimum height=0.8cm] at (5,3) {\textbf{Dimension organisationnelle}};
+      \node[draw, fill=axe3color!15, minimum width=4cm, minimum height=0.8cm, font=\small] at (5,2.2) {Processus, adoption, compétences};
+      
+      \node[draw, fill=axe3color!20, minimum width=4cm, minimum height=0.8cm] at (0,0.8) {\textbf{Dimension sociétale}};
+      \node[draw, fill=axe3color!15, minimum width=4cm, minimum height=0.8cm, font=\small] at (0,0) {Équité, éthique, emploi};
+      
+      \node[draw, fill=axe3color!20, minimum width=4cm, minimum height=0.8cm] at (5,0.8) {\textbf{Dimension environnementale}};
+      \node[draw, fill=axe3color!15, minimum width=4cm, minimum height=0.8cm, font=\small] at (5,0) {Empreinte carbone, ressources};
+      
+      % Flèche centrale
+      \node[draw, fill=white, circle, minimum size=1.5cm] at (2.5,1.5) {\footnotesize\textbf{Valeur IA}};
+    \end{tikzpicture}
+  \end{center}
+  
+  \vspace{0.3em}
+  
+  \begin{columns}[T]
+    \begin{column}{0.48\textwidth}
+      \begin{block}{Plan de validation}
+        \begin{itemize}\scriptsize
+          \item \textbf{2 terrains} : 1 organisation privée + 1 publique
+          \item \textbf{Méthode} : étude de cas longitudinale (18 mois)
+          \item \textbf{Dataset} : logs projets IA + entretiens décideurs
+          \item \textbf{Méthodo SI} : unité = projet; VD = valeur/pérennité;\\mécanismes = gouvernance, alignement, capacité absorption
+        \end{itemize}
+      \end{block}
+    \end{column}
+    \begin{column}{0.48\textwidth}
+      \begin{block}{Lien enseignement}
+        \small Former des gestionnaires à ``porter un regard critique sur l'IA''
+      \end{block}
+    \end{column}
+  \end{columns}
+\end{frame}
+
+% --- SLIDE 4.3 : Livrables Axe 3 ---
+\begin{frame}{Axe 3 : Livrables attendus}
+  \begin{columns}[T]
+    \begin{column}{0.48\textwidth}
+      \begin{block}{Contributions théoriques}
+        \begin{itemize}\small
+          \item \textbf{``Reversible Control''}\\
+          {\footnotesize\textit{Information Systems Journal}}
+          \item Cadres d'évaluation multi-dimensionnels
+          \item Théories de l'innovation numérique
+          \item Facteurs de succès du passage à l'échelle
+        \end{itemize}
+      \end{block}
+    \end{column}
+    \begin{column}{0.48\textwidth}
+      \begin{block}{Contributions pratiques}
+        \begin{itemize}\small
+          \item \textbf{Tableaux de bord} de performance
+          \item \textbf{Études de cas longitudinales}
+          \item Outils de priorisation de portefeuilles IA
+          \item Intégration au \textbf{microprogramme IA} et \textbf{École d'été}
+        \end{itemize}
+      \end{block}
+    \end{column}
+  \end{columns}
+  
+  \vspace{0.5em}
+  
+  \begin{center}
+    \begin{tikzpicture}
+      \node[draw, fill=axe3color!15, rounded corners, minimum width=12cm, minimum height=1cm] {
+        \textbf{Méthodes} : Études de cas longitudinales, quasi-expériences, co-conception avec partenaires
+      };
+    \end{tikzpicture}
+  \end{center}
+\end{frame}
+
+% ============================================
+% TRANSITION SECTION 5
+% ============================================
+\begin{frame}{}
+  \begin{beamercolorbox}[wd=\paperwidth,ht=2.5cm,dp=0.5cm,center]{palette primary}
+    {\Large\bfseries Section 5 : Synthèse et perspectives}
+  \end{beamercolorbox}
+  \vspace{2cm}
+  \begin{center}
+    {\large\textit{Un programme cohérent au service du SIMQG et de l'UdeS}}
+  \end{center}
+\end{frame}
+
+% ============================================
+% SECTION 5 : SYNTHÈSE (~3 min)
+% ============================================
+\section{Synthèse et perspectives}
+
+% --- SLIDE 5.1 : Programme cohérent ---
+\begin{frame}{Un programme cohérent}
+  \begin{center}
+    \begin{tikzpicture}[scale=0.8]
+      % Trois axes interconnectés
+      \node[draw, fill=axe1color!25, rounded corners, minimum width=3.5cm, minimum height=1.5cm, align=center] (a1) at (-4,0) {\textbf{Axe 1}\\Gouvernance};
+      \node[draw, fill=axe2color!25, rounded corners, minimum width=3.5cm, minimum height=1.5cm, align=center] (a2) at (0,2.5) {\textbf{Axe 2}\\Ingénierie/Sécurité};
+      \node[draw, fill=axe3color!25, rounded corners, minimum width=3.5cm, minimum height=1.5cm, align=center] (a3) at (4,0) {\textbf{Axe 3}\\Performance};
+      
+      % Interconnexions
+      \draw[<->, thick, gray] (a1) -- (a2);
+      \draw[<->, thick, gray] (a2) -- (a3);
+      \draw[<->, thick, gray] (a1) -- (a3);
+      
+      % Centre
+      \node[draw, fill=usherbgreen!30, circle, minimum size=2cm, align=center] at (0,0.5) {\footnotesize\textbf{Gestion}\\[-0.2em]\footnotesize\textbf{de l'IA}};
+    \end{tikzpicture}
+  \end{center}
+  
+  \vspace{0.3em}
+  
+  \begin{columns}[T]
+    \begin{column}{0.48\textwidth}
+      \begin{block}{Double contribution}
+        \begin{itemize}\small
+          \item \textbf{Théorique} : avancée des connaissances en SI/gestion
+          \item \textbf{Pratique} : outils, méthodes, cas d'entreprise
+        \end{itemize}
+      \end{block}
+    \end{column}
+    \begin{column}{0.48\textwidth}
+      \begin{block}{Publications visées}
+        \begin{itemize}\small
+          \item Information Systems Journal
+          \item AIS THCI
+          \item Communications of the ACM
+        \end{itemize}
+      \end{block}
+    \end{column}
+  \end{columns}
+\end{frame}
+
+% --- SLIDE 5.2 : Synergies institutionnelles ---
+\begin{frame}{Synergies institutionnelles}
+  \begin{columns}[T]
+    \begin{column}{0.55\textwidth}
+      \begin{block}{Intégration UdeS}
+        \begin{itemize}\small
+          \item \textbf{SIMQG} : Recherche et enseignement en gestion de l'IA
+          \item \textbf{CROI} : Organisations intelligentes
+          \item \textbf{Centre Laurent Beaudoin} : Partenariats industriels
+          \item \textbf{Pôle cybersécurité} : Sécurité des LLM\\{\scriptsize (ex: co-encadrement doctoral, projet interfacultaire)}
+        \end{itemize}
+      \end{block}
+      
+      \begin{block}{Formation}
+        \begin{itemize}\small
+          \item Microprogramme de 3\textsuperscript{e} cycle en IA stratégique
+          \item École d'été en gestion stratégique de l'IA
+          \item Encadrement MSc, PhD, postdoc
+        \end{itemize}
+      \end{block}
+    \end{column}
+    \begin{column}{0.42\textwidth}
+      \begin{exampleblock}{Sources de financement}
+        \begin{itemize}\small
+          \item \textbf{CRSH} -- Gouvernance et gestion
+          \item \textbf{FRQSC} -- Projets d'équipe
+          \item \textbf{Mitacs} -- Partenariats industriels
+          \item \textbf{CRSNG} -- Aspects techniques
+          \item \textbf{Contrats} -- Public et privé
+        \end{itemize}
+      \end{exampleblock}
+      
+      \vspace{0.3em}
+      
+      \begin{block}{Ancrage 12 premiers mois}
+        \footnotesize\textbf{Microprogramme IA} + cas d'enseignement gouvernance
+      \end{block}
+    \end{column}
+  \end{columns}
+\end{frame}
+
+% --- SLIDE 5.3 : Calendrier 5 ans ---
+\begin{frame}{Calendrier des livrables (5 ans)}
+  \scriptsize
+  \begin{center}
+    \renewcommand{\arraystretch}{1.2}
+    \begin{tabular}{|c|l|l|l|}
+      \hline
+      \rowcolor{usherbgreen!20}
+      \textbf{Année} & \textbf{Axe 1 -- Gouvernance} & \textbf{Axe 2 -- Sécurité} & \textbf{Axe 3 -- Performance} \\
+      \hline
+      \textbf{2026} & Cas d'enseignement gouv. IA & Prototype LLM Firewall & Cadre d'évaluation v1 \\
+      \hline
+      \textbf{2027} & Étude comparative pub/privé & Outil détection hallucin. (OSS) & Études de cas longit. \\
+      \hline
+      \textbf{2028} & Guide pratique gouvernance & Publication CACM & Publication ISJ \\
+      \hline
+      \textbf{2029} & Typologies validées & Patrons RAG sécurisés & Tableau de bord partenaires \\
+      \hline
+      \textbf{2030} & Synthèse (monographie) & Bilan 5 ans -- renouvellement & Intégration formation \\
+      \hline
+    \end{tabular}
+  \end{center}
+  
+  \vspace{0.3em}
+  
+  \begin{columns}[T]
+    \begin{column}{0.48\textwidth}
+      \begin{block}{Années 1--2 : Fondations}\scriptsize
+        Accès terrains, collecte données, 1--2 papiers soumis
+      \end{block}
+    \end{column}
+    \begin{column}{0.48\textwidth}
+      \begin{block}{Années 3--5 : Consolidation}\scriptsize
+        Subventions majeures (CRSH/FRQSC), intégration programmes
+      \end{block}
+    \end{column}
+  \end{columns}
+  
+  \vspace{0.2em}
+  
+  \begin{center}
+    \emphvert{Objectif à 5 ans} : L'École de gestion reconnue comme \textbf{pôle de référence} pour la gestion stratégique, la gouvernance et l'ingénierie des systèmes d'IA
+  \end{center}
+\end{frame}
+
+% ============================================
+% CONCLUSION
+% ============================================
+\begin{frame}{}
+  \begin{beamercolorbox}[wd=\paperwidth,ht=2.5cm,dp=0.5cm,center]{palette primary}
+    {\Large\bfseries Conclusion}
+  \end{beamercolorbox}
+  \vspace{2cm}
+  \begin{center}
+    {\large\textit{Façonner l'avenir du numérique et de la gestion}}
+  \end{center}
+\end{frame}
+
+% --- SLIDE CONCLUSION ---
+\begin{frame}{En résumé}
+  \begin{columns}[T]
+    \begin{column}{0.55\textwidth}
+      \begin{block}{Programme de recherche}
+        \begin{enumerate}\small
+          \item \textcolor{axe1color}{\textbf{Gouvernance \& Risques}} -- Encadrer l'IA de façon responsable
+          \item \textcolor{axe2color}{\textbf{Ingénierie \& Sécurité}} -- Du prototype à la production sécurisée
+          \item \textcolor{axe3color}{\textbf{Performance \& Impact}} -- Mesurer la valeur réelle
+        \end{enumerate}
+      \end{block}
+      
+      \begin{alertblock}{Alignement parfait}
+        \small Programme directement aligné avec :
+        \begin{itemize}\small
+          \item Les thématiques du poste
+          \item La mission du SIMQG
+          \item Les besoins des organisations
+        \end{itemize}
+      \end{alertblock}
+    \end{column}
+    \begin{column}{0.42\textwidth}
+      \begin{exampleblock}{Prêt à contribuer}
+        \begin{itemize}\small
+          \item Publications de premier plan
+          \item Artefacts utilisables
+          \item Encadrement d'étudiants
+          \item Partenariats industriels
+          \item Intégration aux programmes
+        \end{itemize}
+      \end{exampleblock}
+      
+      \vspace{0.5em}
+      
+      \begin{center}
+        \emphvert{\textbf{Mon programme transforme l'IA}}\\
+        \emphvert{\textbf{en systèmes gouvernables et utiles.}}
+      \end{center}
+    \end{column}
+  \end{columns}
+\end{frame}
+
+% --- SLIDE MERCI ---
+\begin{frame}{}
+  \begin{beamercolorbox}[wd=\paperwidth,ht=2.5cm,dp=0.5cm,center]{palette primary}
+    {\Large\bfseries Merci!}
+  \end{beamercolorbox}
+  
+  \vspace{1.5cm}
+  
+  \begin{center}
+    {\Large Questions?}
+  \end{center}
+  
+  \vspace{1em}
+  
+  \begin{tabular}{cl}
+    & carlosdenner@gmail.com \\
+    & +1 (438) 836-4116 \\
+    & linkedin.com/in/carlosdenner \\
+    & github.com/carlosdenner \\
+  \end{tabular}
+\end{frame}
+
+\end{document}

@@ -1,0 +1,764 @@
+% Présentation 3 : Philosophie d'enseignement et offre de cours
+% Carlos Denner dos Santos
+% Journée d'évaluation - 23 janvier 2026
+% Poste de professeur en gestion de l'intelligence artificielle
+% Département SIMQG, École de gestion, Université de Sherbrooke
+
+% === PDF SETTINGS (full font embedding) ===
+\pdfminorversion=7
+\pdfobjcompresslevel=0
+
+\documentclass[aspectratio=169,11pt]{beamer}
+
+% === ENCODAGE ET LANGUE ===
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[french]{babel}
+\usepackage{csquotes}
+\usepackage{lmodern}  % Latin Modern fonts (fully embeddable)
+
+% === STYLE UdeS ===
+\usepackage{beamer_usherbrooke}
+
+% === PACKAGES ADDITIONNELS ===
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{colortbl}
+\usepackage{tikz}
+\usetikzlibrary{shapes,arrows,positioning,calc}
+\usepackage{hyperref}
+
+% === COULEURS PERSONNALISÉES ===
+\definecolor{immediatgreen}{RGB}{34,139,34}   % Vert pour (I)
+\definecolor{prepareorange}{RGB}{255,140,0}   % Orange pour (P)
+
+% === MÉTADONNÉES ===
+\title[Philosophie d'enseignement]{Philosophie d'enseignement et offre de cours}
+\subtitle{Poste de professeur en gestion de l'intelligence artificielle}
+\author[C. D. dos Santos]{Carlos Denner dos Santos Jr.}
+\institute[UdeS - SIMQG]{
+  Département des systèmes d'information\\
+  et méthodes quantitatives de gestion (SIMQG)\\
+  École de gestion, Université de Sherbrooke
+}
+\date{23 janvier 2026}
+
+\begin{document}
+
+% ============================================
+% SLIDE TITRE
+% ============================================
+\begin{frame}
+  \begin{beamercolorbox}[wd=\paperwidth,ht=2.5cm,dp=0.5cm,center]{palette primary}
+    {\Large\bfseries Présentation 3 : Philosophie d'enseignement}
+  \end{beamercolorbox}
+  
+  \vspace{0.8cm}
+  
+  \begin{center}
+    {\Large Carlos Denner dos Santos Jr.}
+    
+    \vspace{0.8em}
+    
+    {\normalsize Département des systèmes d'information\\
+    et méthodes quantitatives de gestion (SIMQG)\\
+    École de gestion, Université de Sherbrooke}
+    
+    \vspace{0.8em}
+    
+    {\normalsize 23 janvier 2026}
+    
+    \vspace{1em}
+    
+    {\large\textcolor{ushervert}{\textbf{\guillemotleft~Je forme des gestionnaires qui savent décider avec l'IA.~\guillemotright}}}
+  \end{center}
+\end{frame}
+
+% ============================================
+% PLAN DE LA PRÉSENTATION
+% ============================================
+\begin{frame}{Plan de la présentation}
+  \begin{columns}[T]
+    \begin{column}{0.48\textwidth}
+      \begin{block}{A. Philosophie pédagogique}
+        \begin{itemize}
+          \item Une anecdote formatrice
+          \item Quatre principes directeurs
+          \item Alignement avec l'UdeS
+          \item Approche d'évaluation
+        \end{itemize}
+      \end{block}
+    \end{column}
+    \begin{column}{0.48\textwidth}
+      \begin{block}{B. Offre de cours}
+        \begin{itemize}
+          \item B.A.A. -- Cheminement GTA
+          \item M. Sc. -- Commerce électronique
+          \item M. Sc. -- Stratégie IA (SIA)
+          \item Microprogramme 3\textsuperscript{e} cycle IA
+        \end{itemize}
+      \end{block}
+    \end{column}
+  \end{columns}
+  
+  \vspace{1em}
+  \begin{center}
+    \small\textcolor{immediatgreen}{(I) Immédiat} \hspace{2em} \textcolor{prepareorange}{(P) Avec préparation}
+  \end{center}
+\end{frame}
+
+% ============================================
+% PARTIE A : PHILOSOPHIE PÉDAGOGIQUE
+% ============================================
+\begin{frame}{}
+  \begin{beamercolorbox}[wd=\paperwidth,ht=2.5cm,dp=0.5cm,center]{palette primary}
+    {\Large\bfseries Partie A : Philosophie pédagogique}
+  \end{beamercolorbox}
+  \vspace{2cm}
+  \begin{center}
+    {\large\textit{Former des gestionnaires capables de penser,\\d'agir et d'innover avec l'IA}}
+  \end{center}
+\end{frame}
+
+% --- SLIDE : Anecdote formatrice ---
+\begin{frame}{Une anecdote formatrice}
+  \begin{columns}[T]
+    \begin{column}{0.55\textwidth}
+      \begin{block}{Le projet qui a tout changé}
+        \textbf{Brasilia, 2018} -- Cours de BI avancée
+        
+        \vspace{0.5em}
+        Un groupe d'étudiants décroche un partenariat avec une \emphvert{clinique médicale} pour analyser ses données patients.
+        
+        \vspace{0.5em}
+        Problème : les données sont \emphor{incomplètes, biaisées}, et les résultats de leur modèle posent des \emphor{questions éthiques}.
+      \end{block}
+    \end{column}
+    \begin{column}{0.42\textwidth}
+      \begin{alertblock}{La leçon}
+        Ce projet m'a convaincu que :
+        \begin{itemize}
+          \item Les \emphvert{cas réels} sont irremplaçables
+          \item La \emphvert{technique seule} ne suffit pas
+          \item L'\emphvert{éthique} doit être intégrée dès le départ
+        \end{itemize}
+      \end{alertblock}
+    \end{column}
+  \end{columns}
+  
+  \vspace{0.5em}
+  \begin{center}
+    \textit{``Depuis, chaque cours commence par une situation authentique.''}
+  \end{center}
+\end{frame}
+
+% --- SLIDE : 4 Principes pédagogiques (Vue d'ensemble) ---
+\begin{frame}{Quatre principes directeurs}
+  \begin{center}
+    \begin{tikzpicture}[scale=0.9]
+      % Principe 1 - Situations authentiques
+      \node[draw, fill=ushervert!20, rounded corners, minimum width=5cm, minimum height=1.2cm, align=center] (p1) at (-4,2) {\textbf{1. Situations authentiques}\\{\small Partir de problèmes réels}};
+      
+      % Principe 2 - Learning by doing
+      \node[draw, fill=ushervert!20, rounded corners, minimum width=5cm, minimum height=1.2cm, align=center] (p2) at (4,2) {\textbf{2. Learning by doing}\\{\small Équilibre théorie-pratique}};
+      
+      % Principe 3 - Autonomie réflexive
+      \node[draw, fill=ushervert!20, rounded corners, minimum width=5cm, minimum height=1.2cm, align=center] (p3) at (-4,-1) {\textbf{3. Autonomie réflexive}\\{\small Penser par soi-même}};
+      
+      % Principe 4 - Climat inclusif
+      \node[draw, fill=ushervert!20, rounded corners, minimum width=5cm, minimum height=1.2cm, align=center] (p4) at (4,-1) {\textbf{4. Climat inclusif}\\{\small Bienveillant mais rigoureux}};
+      
+      % Centre
+      \node[draw, fill=usheror!30, circle, minimum size=2.5cm, align=center, font=\small] (centre) at (0,0.5) {\textbf{Étudiant}\\\textbf{autonome}};
+      
+      % Flèches
+      \draw[->, thick, ushervert] (p1) -- (centre);
+      \draw[->, thick, ushervert] (p2) -- (centre);
+      \draw[->, thick, ushervert] (p3) -- (centre);
+      \draw[->, thick, ushervert] (p4) -- (centre);
+    \end{tikzpicture}
+  \end{center}
+\end{frame}
+
+% --- SLIDE : Principe 1 - Situations authentiques ---
+\begin{frame}{Principe 1 : Ancrer l'apprentissage dans le réel}
+  \begin{columns}[T]
+    \begin{column}{0.55\textwidth}
+      \begin{block}{Approche}
+        \begin{itemize}
+          \item Commencer par un \emphvert{problème concret}
+          \item Exemple : un projet IA mal cadré, une startup qui échoue, un biais algorithmique
+          \item Les concepts viennent \textbf{après} -- pour résoudre le problème
+        \end{itemize}
+      \end{block}
+      
+      \vspace{0.3em}
+      
+      \begin{exampleblock}{En pratique}
+        \small
+        \textit{``Voici les données d'une entreprise qui a investi 2M\$ en IA sans retour. Que s'est-il passé?''}
+      \end{exampleblock}
+    \end{column}
+    \begin{column}{0.42\textwidth}
+      \begin{alertblock}{Pourquoi ça fonctionne}
+        \begin{itemize}
+          \item \emphvert{Motivation} intrinsèque
+          \item Ancrage mémoriel fort
+          \item Transfert facilité vers le milieu professionnel
+        \end{itemize}
+      \end{alertblock}
+      
+      \vspace{0.3em}
+      
+      {\small Aligné avec la \emphvert{pédagogie active} de l'École de gestion}
+    \end{column}
+  \end{columns}
+\end{frame}
+
+% --- SLIDE : Principe 2 - Learning by doing ---
+\begin{frame}{Principe 2 : Combiner rigueur conceptuelle et pratique}
+  \begin{columns}[T]
+    \begin{column}{0.48\textwidth}
+      \begin{block}{L'équilibre théorie-pratique}
+        \begin{itemize}
+          \item Chaque concept $\rightarrow$ exercice concret
+          \item Études de cas, mini-projets, prototypage
+          \item Itérations : faire, échouer, apprendre
+        \end{itemize}
+      \end{block}
+      
+      \vspace{0.3em}
+      
+      \begin{exampleblock}{Exemples d'activités}
+        \small
+        \begin{itemize}
+          \item Notebook Python en labo
+          \item Audit d'un système IA existant
+          \item Pitch d'un projet IA (5 min)
+        \end{itemize}
+      \end{exampleblock}
+    \end{column}
+    \begin{column}{0.48\textwidth}
+      \begin{alertblock}{Innovation pédagogique}
+        J'ai publié sur l'innovation pédagogique :
+        \begin{itemize}
+          \item Exercices en classe interactifs
+          \item Projets itératifs avec feedback
+          \item Usage réfléchi des LLM comme co-pilotes
+        \end{itemize}
+        
+        \vspace{0.2em}
+        
+        {\scriptsize \textit{Encadré : citation des prompts, journal de travail}}
+      \end{alertblock}
+      
+      \vspace{0.3em}
+      
+      {\small Les étudiants apprennent les \emphvert{limites} des outils en les utilisant}
+    \end{column}
+  \end{columns}
+\end{frame}
+
+% --- SLIDE : Principe 3 - Autonomie réflexive ---
+\begin{frame}{Principe 3 : Cultiver l'autonomie réflexive}
+  \begin{columns}[T]
+    \begin{column}{0.55\textwidth}
+      \begin{block}{Former des penseurs critiques}
+        \begin{itemize}
+          \item Poser des \emphvert{questions ouvertes}
+          \item Pourquoi ce modèle? Quels biais? Quelles implications éthiques?
+          \item Développer le jugement, pas seulement la technique
+        \end{itemize}
+      \end{block}
+      
+      \vspace{0.3em}
+      
+      \begin{exampleblock}{Question type en classe}
+        \small
+        \textit{``Votre modèle prédit un risque de défaut de 78\%. Feriez-vous confiance à cette prédiction si le client était votre mère?''}
+      \end{exampleblock}
+    \end{column}
+    \begin{column}{0.42\textwidth}
+      \begin{alertblock}{Éthique intégrée}
+        J'intègre \textbf{systématiquement} :
+        \begin{itemize}
+          \item Questions de \emphvert{biais}
+          \item Enjeux de \emphvert{transparence}
+          \item Risques de \emphvert{sécurité}
+          \item Implications \emphvert{sociétales}
+        \end{itemize}
+      \end{alertblock}
+      
+      \vspace{0.3em}
+      
+      {\small Former des \emphvert{gestionnaires responsables}}
+    \end{column}
+  \end{columns}
+\end{frame}
+
+% --- SLIDE : Principe 4 - Climat inclusif ---
+\begin{frame}{Principe 4 : Construire un climat inclusif et exigeant}
+  \begin{columns}[T]
+    \begin{column}{0.48\textwidth}
+      \begin{block}{Bienveillant mais rigoureux}
+        \begin{itemize}
+          \item Attentes \emphvert{claires} dès le départ
+          \item Feedback \emphvert{régulier} et constructif
+          \item Droit à l'erreur (c'est ainsi qu'on apprend)
+        \end{itemize}
+      \end{block}
+      
+      \vspace{0.3em}
+      
+      \begin{exampleblock}{Adaptation aux publics}
+        \small
+        \begin{itemize}
+          \item Étudiants en emploi
+          \item Étudiants internationaux
+          \item Parcours atypiques
+        \end{itemize}
+      \end{exampleblock}
+    \end{column}
+    \begin{column}{0.48\textwidth}
+      \begin{alertblock}{Mon expérience}
+        \begin{itemize}
+          \item \textbf{15+ ans} d'enseignement
+          \item Brésil et Canada
+          \item Présentiel et en ligne
+          \item Tous les cycles (bacc. à doctorat)
+        \end{itemize}
+      \end{alertblock}
+      
+      \vspace{0.3em}
+      
+      {\small Cette diversité m'a rendu \emphvert{sensible} à l'adaptation pédagogique}
+    \end{column}
+  \end{columns}
+\end{frame}
+
+% --- SLIDE : Alignement UdeS ---
+\begin{frame}{Alignement avec les valeurs de l'UdeS}
+  \begin{center}
+    \renewcommand{\arraystretch}{1.4}
+    \begin{tabular}{>{\raggedright}p{4.5cm}|>{\raggedright\arraybackslash}p{7cm}}
+      \rowcolor{ushervert}
+      \textcolor{white}{\textbf{Valeur UdeS}} & \textcolor{white}{\textbf{Ma pratique}} \\
+      \hline
+      \rowcolor{ushervertclair}
+      \textbf{Pédagogie active} & Cas réels, projets, prototypage \\
+      \hline
+      \textbf{Engagement étudiant} & Questions ouvertes, participation active \\
+      \hline
+      \rowcolor{ushervertclair}
+      \textbf{Interdisciplinarité} & Gestion + Informatique + Statistique + Éthique \\
+      \hline
+      \textbf{Innovation} & LLM en classe, ludification, simulations \\
+      \hline
+      \rowcolor{ushervertclair}
+      \textbf{Responsabilité} & Éthique et gouvernance intégrées \\
+    \end{tabular}
+  \end{center}
+  
+  \vspace{0.5em}
+  
+  \begin{center}
+    \emphvert{Ma philosophie est naturellement alignée avec la mission de l'École de gestion}
+  \end{center}
+\end{frame}
+
+% --- SLIDE : Approche d'évaluation ---
+\begin{frame}{Approche d'évaluation centrée sur l'apprentissage}
+  \begin{columns}[T]
+    \begin{column}{0.48\textwidth}
+      \begin{block}{Diversité des évaluations}
+        \begin{itemize}
+          \item Travaux d'\emphvert{équipe} (collaboration)
+          \item Travaux \emphvert{individuels} (autonomie)
+          \item \emphvert{Coévaluation} par les pairs
+          \item Présentations orales
+        \end{itemize}
+      \end{block}
+      
+      \vspace{0.3em}
+      
+      \begin{exampleblock}{Feedback constructif}
+        \small
+        \begin{itemize}
+          \item Commentaires détaillés
+          \item Points forts et axes d'amélioration
+          \item Opportunités de révision
+        \end{itemize}
+      \end{exampleblock}
+    \end{column}
+    \begin{column}{0.48\textwidth}
+      \begin{alertblock}{Objectif}
+        \textbf{L'évaluation au service de l'apprentissage}
+        
+        \vspace{0.3em}
+        
+        \begin{itemize}
+          \item Mesurer les \emphvert{compétences} (pas seulement la mémorisation)
+          \item Préparer au \emphvert{monde professionnel}
+          \item Favoriser la \emphvert{réussite étudiante}
+        \end{itemize}
+      \end{alertblock}
+      
+      \vspace{0.2em}
+      
+      \begin{block}{Équité et intégrité}
+        \scriptsize
+        \begin{itemize}
+          \item Grilles + rubriques + calibration
+          \item IA générative : règles + traçabilité\\{\tiny (je note la démarche, pas le texte final)}
+        \end{itemize}
+      \end{block}
+    \end{column}
+  \end{columns}
+\end{frame}
+
+% ============================================
+% PARTIE B : OFFRE DE COURS
+% ============================================
+\begin{frame}{}
+  \begin{beamercolorbox}[wd=\paperwidth,ht=2.5cm,dp=0.5cm,center]{palette primary}
+    {\Large\bfseries Partie B : Offre de cours}
+  \end{beamercolorbox}
+  \vspace{1.5cm}
+  \begin{center}
+    {\large\textit{Une contribution immédiate aux programmes de l'École}}
+    
+    \vspace{1em}
+    
+    \begin{tabular}{cl}
+      \textcolor{immediatgreen}{\textbf{(I)}} & Immédiat -- prêt à enseigner \\
+      \textcolor{prepareorange}{\textbf{(P)}} & Avec préparation -- mise à jour ciblée \\
+    \end{tabular}
+  \end{center}
+\end{frame}
+
+% --- SLIDE : B.A.A. GTA ---
+\begin{frame}{B.A.A. -- Cheminement Gestion des technologies d'affaires}
+  \small
+  \begin{columns}[T]
+    \begin{column}{0.48\textwidth}
+      \begin{block}{Cours en (I) Immédiat}
+        \begin{itemize}
+          \item[\textcolor{immediatgreen}{I}] \textbf{GTA211} Technologies d'affaires
+          \item[\textcolor{immediatgreen}{I}] \textbf{GTA311} Valorisation des données
+          \item[\textcolor{immediatgreen}{I}] \textbf{GTA411} Gestion de projets techno.
+          \item[\textcolor{immediatgreen}{I}] \textbf{GTA431} Manipulation des données
+          \item[\textcolor{immediatgreen}{I}] \textbf{GTA531} Transformation numérique
+          \item[\textcolor{immediatgreen}{I}] \textbf{GTA631} Sécurité de l'information
+          \item[\textcolor{immediatgreen}{I}] \textbf{GTA651} \emphvert{IA appliquée}
+        \end{itemize}
+      \end{block}
+    \end{column}
+    \begin{column}{0.48\textwidth}
+      \begin{block}{Cours en (P) Préparation}
+        \begin{itemize}
+          \item[\textcolor{prepareorange}{P}] \textbf{GTA421} Progiciels intégrés (ERP)
+          \item[\textcolor{prepareorange}{P}] \textbf{GTA511} Intelligence géospatiale
+          \item[\textcolor{prepareorange}{P}] \textbf{GTA621} Expérience utilisateur
+        \end{itemize}
+      \end{block}
+      
+      \vspace{0.5em}
+      
+      \begin{alertblock}{Bilan GTA}
+        \centering
+        \textbf{7 cours (I)} sur 10 cours clés
+        
+        \vspace{0.3em}
+        
+        {\small Versatilité pour couvrir la majorité du cheminement}
+      \end{alertblock}
+    \end{column}
+  \end{columns}
+\end{frame}
+
+% --- SLIDE : M. Sc. Commerce électronique ---
+\begin{frame}{M. Sc. -- Gestion du commerce électronique}
+  \small
+  \begin{columns}[T]
+    \begin{column}{0.48\textwidth}
+      \begin{block}{Cours en (I) Immédiat}
+        \begin{itemize}
+          \item[\textcolor{immediatgreen}{I}] \textbf{GCE802} Fondements e-commerce
+          \item[\textcolor{immediatgreen}{I}] \textbf{GCE806} Stratégie numérique
+          \item[\textcolor{immediatgreen}{I}] \textbf{GCE821} Planif. projets numériques
+          \item[\textcolor{immediatgreen}{I}] \textbf{GCE846} Web analytique
+          \item[\textcolor{immediatgreen}{I}] \textbf{GTA821} Technologies entreprise num.
+        \end{itemize}
+      \end{block}
+    \end{column}
+    \begin{column}{0.48\textwidth}
+      \begin{block}{Cours en (P) Préparation}
+        \begin{itemize}
+          \item[\textcolor{prepareorange}{P}] \textbf{GCE811} Enjeux légaux du numérique
+          \item[\textcolor{prepareorange}{P}] \textbf{GCE826} Création sites Web
+          \item[\textcolor{prepareorange}{P}] \textbf{GCE831} Projet sites Web
+          \item[\textcolor{prepareorange}{P}] \textbf{GCE842} Optimisation UX
+          \item[\textcolor{prepareorange}{P}] \textbf{MAR839} Marketing numérique
+        \end{itemize}
+      \end{block}
+      
+      \vspace{0.3em}
+      
+      {\small \textit{Volets marketing/UX : co-enseignement en complémentarité}}
+    \end{column}
+  \end{columns}
+  
+  \vspace{0.3em}
+  
+  \begin{center}
+    \emphvert{Couverture complète des volets technologiques et analytiques}
+  \end{center}
+\end{frame}
+
+% --- SLIDE : M. Sc. SIA ---
+\begin{frame}{M. Sc. -- Stratégie de l'intelligence d'affaires (SIA)}
+  \scriptsize
+  \begin{columns}[T]
+    \begin{column}{0.48\textwidth}
+      \begin{block}{Cours en (I) Immédiat -- 9 cours}
+        \begin{itemize}
+          \item[\textcolor{immediatgreen}{I}] \textbf{GIS800} Fondements de l'IA
+          \item[\textcolor{immediatgreen}{I}] \textbf{GIS801} IA stratégique
+          \item[\textcolor{immediatgreen}{I}] \textbf{GIS807} Tableaux de bord et BI
+          \item[\textcolor{immediatgreen}{I}] \textbf{GIS811} Architectures données IA
+          \item[\textcolor{immediatgreen}{I}] \textbf{GIS812} Analytique et science données
+          \item[\textcolor{immediatgreen}{I}] \textbf{GIS861} Méthodes de recherche IA
+          \item[\textcolor{immediatgreen}{I}] \textbf{MQG811} Analyse statistique
+          \item[\textcolor{immediatgreen}{I}] \textbf{MQG812} Forage de données
+          \item[\textcolor{immediatgreen}{I}] \textbf{MQG813} Stats décisionnelles avancées
+        \end{itemize}
+      \end{block}
+    \end{column}
+    \begin{column}{0.48\textwidth}
+      \begin{block}{Cours en (P) Préparation -- 3 cours}
+        \begin{itemize}
+          \item[\textcolor{prepareorange}{P}] \textbf{GIS805} Analyse OLAP/cubes
+          \item[\textcolor{prepareorange}{P}] \textbf{GIS806} Entrepôts de données
+          \item[\textcolor{prepareorange}{P}] \textbf{GIS808} Intelligence géospatiale
+        \end{itemize}
+      \end{block}
+      
+      \vspace{0.5em}
+      
+      \begin{alertblock}{Bilan SIA}
+        \centering
+        \textbf{9 cours (I)} sur 12 cours
+        
+        \vspace{0.3em}
+        
+        {\small Programme de \emphvert{prédilection}\\(analytique + IA + gestion)}
+      \end{alertblock}
+    \end{column}
+  \end{columns}
+  
+  \vspace{0.3em}
+  
+  \begin{center}
+    {\small Mon postdoc en \emphvert{statistique} + expérience en \emphvert{data science} = couverture quasi-complète}
+  \end{center}
+\end{frame}
+
+% --- SLIDE : Microprogramme 3e cycle IA ---
+\begin{frame}{Microprogramme de 3\textsuperscript{e} cycle -- Gestion stratégique de l'IA}
+  \begin{columns}[T]
+    \begin{column}{0.55\textwidth}
+      \begin{block}{5 cours obligatoires -- Tous en (I)}
+        \begin{itemize}
+          \item[\textcolor{immediatgreen}{I}] \textbf{GTA901} Preuve de concept en IA
+          \item[\textcolor{immediatgreen}{I}] \textbf{GTA902} Valeur d'affaires de l'IA
+          \item[\textcolor{immediatgreen}{I}] \textbf{GTA903} Faisabilité de l'IA
+          \item[\textcolor{immediatgreen}{I}] \textbf{GTA904} Planification implantation IA
+          \item[\textcolor{immediatgreen}{I}] \textbf{GTA905} \emphvert{Gouvernance de l'IA}
+        \end{itemize}
+      \end{block}
+      
+      \vspace{0.3em}
+      
+      {\small Ce programme est \emphvert{directement aligné} avec mon expertise et mes recherches}
+    \end{column}
+    \begin{column}{0.42\textwidth}
+      \begin{alertblock}{Valeur ajoutée}
+        \begin{itemize}
+          \item Cas récents (sécurité LLM, Firewall)
+          \item Frameworks de gouvernance publiés
+          \item Expérience terrain (Bell, Novacap)
+        \end{itemize}
+      \end{alertblock}
+      
+      \vspace{0.5em}
+      
+      \begin{exampleblock}{Bilan}
+        \centering
+        \textbf{5/5 cours en (I)}
+        
+        \vspace{0.3em}
+        
+        {\small Pleinement autonome}
+      \end{exampleblock}
+    \end{column}
+  \end{columns}
+\end{frame}
+
+% --- SLIDE : Synthèse des cours ---
+\begin{frame}{Synthèse : Capacité d'enseignement}
+  \begin{center}
+    \renewcommand{\arraystretch}{1.3}
+    \begin{tabular}{l|c|c|c}
+      \rowcolor{ushervert}
+      \textcolor{white}{\textbf{Programme}} & \textcolor{white}{\textbf{(I) Immédiat}} & \textcolor{white}{\textbf{(P) Prép.}} & \textcolor{white}{\textbf{Total}} \\
+      \hline
+      \rowcolor{ushervertclair}
+      B.A.A. -- GTA & \textcolor{immediatgreen}{\textbf{7}} & \textcolor{prepareorange}{3} & 10 \\
+      \hline
+      M. Sc. -- Commerce élec. & \textcolor{immediatgreen}{\textbf{5}} & \textcolor{prepareorange}{5} & 10 \\
+      \hline
+      \rowcolor{ushervertclair}
+      M. Sc. -- SIA & \textcolor{immediatgreen}{\textbf{9}} & \textcolor{prepareorange}{3} & 12 \\
+      \hline
+      Microprog. 3\textsuperscript{e} cycle IA & \textcolor{immediatgreen}{\textbf{5}} & \textcolor{prepareorange}{0} & 5 \\
+      \hline
+      \rowcolor{usheror!20}
+      \textbf{TOTAL} & \textcolor{immediatgreen}{\textbf{26}} & \textcolor{prepareorange}{11} & \textbf{37} \\
+    \end{tabular}
+  \end{center}
+  
+  \vspace{0.3em}
+  
+  \begin{center}
+    \emphvert{26 cours prêts immédiatement} -- mais mon objectif : \textbf{2--3 cours signature}\\[0.3em]
+    {\small Gouvernance opérationnelle de l'IA $\cdot$ Sécurité LLM $\cdot$ Éthique appliquée}
+  \end{center}
+\end{frame}
+
+% --- SLIDE : Au-delà des cours existants ---
+\begin{frame}{Au-delà des cours existants}
+  \begin{columns}[T]
+    \begin{column}{0.48\textwidth}
+      \begin{block}{Créer et innover}
+        \begin{itemize}
+          \item Co-développer de \emphvert{nouveaux cours}
+          \item Actualiser les cours existants avec mes \emphvert{études de cas}
+          \item Intégrer les \emphvert{dernières recherches} (LLM, gouvernance)
+        \end{itemize}
+      \end{block}
+      
+      \vspace{0.3em}
+      
+      \begin{exampleblock}{Idées de nouveaux cours}
+        \small
+        \begin{itemize}
+          \item \textbf{Gouvernance opérationnelle de l'IA}\\
+                {\scriptsize (cadres + contrôles + cas réels)}
+          \item Sécurité des systèmes LLM
+          \item Éthique appliquée de l'IA
+        \end{itemize}
+      \end{exampleblock}
+    \end{column}
+    \begin{column}{0.48\textwidth}
+      \begin{alertblock}{Encadrement}
+        \begin{itemize}
+          \item Travaux dirigés
+          \item Mémoires et thèses
+          \item Projets d'intégration
+        \end{itemize}
+        
+        \vspace{0.3em}
+        
+        {\small Déjà $\sim$\textbf{9 doctorats} et $\sim$\textbf{6 maîtrises} dirigés}
+      \end{alertblock}
+      
+      \vspace{0.3em}
+      
+      \begin{block}{Contribuer à}
+        \small
+        \begin{itemize}
+          \item Firme-école
+          \item Compétitions étudiantes
+          \item École d'été en IA stratégique
+        \end{itemize}
+      \end{block}
+    \end{column}
+  \end{columns}
+\end{frame}
+
+% ============================================
+% CONCLUSION
+% ============================================
+\begin{frame}{}
+  \begin{beamercolorbox}[wd=\paperwidth,ht=2.5cm,dp=0.5cm,center]{palette primary}
+    {\Large\bfseries Conclusion}
+  \end{beamercolorbox}
+  \vspace{2cm}
+  \begin{center}
+    {\large\textit{Former des leaders du numérique\\alliant technique, stratégie et éthique}}
+  \end{center}
+\end{frame}
+
+% --- SLIDE : En résumé ---
+\begin{frame}{En résumé : Pourquoi moi pour l'enseignement?}
+  \begin{columns}[T]
+    \begin{column}{0.55\textwidth}
+      \begin{enumerate}
+        \item[1.] \emphvert{Philosophie alignée UdeS}\\
+        {\small Pédagogie active, cas réels, éthique intégrée}
+        \vspace{0.25em}
+        \item[2.] \emphvert{Expérience démontrée}\\
+        {\small 15+ ans, tous cycles, 2 pays, présentiel/ligne}
+        \vspace{0.25em}
+        \item[3.] \emphvert{Couverture large}\\
+        {\small 26 cours (I), 4 programmes, $\sim$15 étudiants gradués}
+        \vspace{0.25em}
+        \item[4.] \emphvert{Innovation pédagogique}\\
+        {\small LLM en classe, projets itératifs, coévaluation}
+        \vspace{0.25em}
+        \item[5.] \emphvert{Engagement total}\\
+        {\small Encadrement, firme-école, École d'été IA}
+      \end{enumerate}
+    \end{column}
+    \begin{column}{0.4\textwidth}
+      \centering
+      \colorbox{ushervert}{\parbox{3.8cm}{\centering\textcolor{white}{\large\bfseries Prêt à contribuer\\dès le jour 1}}}
+      
+      \vspace{0.5em}
+      
+      {\scriptsize\textit{12 premiers mois : plusieurs cours + un cas d'enseignement issu de mes terrains}}
+      
+      \vspace{0.5em}
+      
+      {\small\textbf{Je forme des diplômés capables de décider, pas juste d'utiliser des outils.}}
+    \end{column}
+  \end{columns}
+\end{frame}
+
+% --- SLIDE FINAL ---
+\begin{frame}{}
+  \begin{beamercolorbox}[wd=\paperwidth,ht=1.8cm,dp=0.3cm,center]{palette primary}
+    {\large\bfseries Merci de votre attention}
+  \end{beamercolorbox}
+  
+  \vspace{1cm}
+  
+  \centering
+  {\Huge\emphvert{Merci!}}
+  
+  \vspace{0.8em}
+  
+  {\Large Questions?}
+  
+  \vspace{1em}
+  
+  \begin{tabular}{cl}
+    Courriel : & carlosdenner@gmail.com \\
+    Téléphone : & +1 (438) 836-4116 \\
+    LinkedIn : & linkedin.com/in/carlosdenner \\
+    GitHub : & github.com/carlosdenner \\
+  \end{tabular}
+\end{frame}
+
+\end{document}

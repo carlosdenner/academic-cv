@@ -1,0 +1,344 @@
+SCRIPT TTS-READY — PRÉSENTATION 1 (PROFIL DU CANDIDAT)
+SLIDE 1 — TITRE
+
+Bonjour à toutes et à tous.
+Je m’appelle Carlos Denner dos Santos.
+Merci de me recevoir aujourd’hui.
+Je suis honoré de pouvoir vous présenter mon profil, en lien direct avec le poste de professeur en gestion de l’intelligence artificielle au SIMQG.
+Si je devais résumer ma contribution en une phrase, ce serait celle-ci : je transforme l'IA en capacité de gestion. [Pause.]
+Mon objectif, dans les vingt prochaines minutes, est simple.
+Je veux vous montrer trois choses.
+Un, la cohérence de mon parcours.
+Deux, l’alignement précis de mes expertises avec le poste.
+Trois, la façon dont je peux contribuer, concrètement, à l’écosystème du SIMQG et de l’Université de Sherbrooke.
+
+[Pause.]
+
+SLIDE 2 — PLAN
+
+Ma présentation est structurée en trois parties.
+Première partie : mon parcours académique et professionnel.
+Deuxième partie : mes expertises et mes contributions scientifiques, en lien direct avec les exigences du poste.
+Troisième partie : mes contributions et mes synergies institutionnelles, et comment je me projette au SIMQG et à l’UdeS.
+
+[Pause.]
+
+SECTION 1 — PARCOURS
+SLIDE 3 — PROFIL EN BREF
+
+En quelques mots, qui suis-je ?
+Je suis chercheur en systèmes d’information, professeur universitaire depuis plus de quinze ans, et praticien en science des données et en intelligence artificielle.
+
+Mon fil conducteur, depuis vingt ans, c’est l’intersection entre trois dimensions.
+Les données et l’analytique.
+Les systèmes d’information.
+Et la stratégie organisationnelle.
+
+Ce positionnement est, à mon avis, particulièrement pertinent aujourd’hui.
+Parce que l’IA n’est pas seulement une question d’algorithmes.
+C’est une question de gestion, de gouvernance, de performance, de risques, et de transformation.
+
+[Pause.]
+
+SLIDE 4 — PARCOURS ACADÉMIQUE
+
+Mon parcours académique est volontairement multidisciplinaire.
+J’ai commencé par un baccalauréat en administration au Brésil.
+Puis une maîtrise en administration à l’Université fédérale de Minas Gerais.
+
+J’ai ensuite complété un doctorat en systèmes d’information aux États-Unis.
+Ce doctorat m’a donné une formation rigoureuse en recherche, en sciences de gestion, et en théorie des systèmes d’information.
+
+Après le doctorat, j’ai poursuivi avec des postdoctorats, afin d’approfondir deux compétences complémentaires.
+D’un côté, l’informatique et les systèmes.
+De l’autre, la statistique et la modélisation.
+
+Le résultat, c’est une combinaison rare.
+Une base solide en gestion et en systèmes d’information.
+Et une capacité technique réelle pour comprendre, concevoir et évaluer des systèmes d’IA en contexte organisationnel.
+
+[Pause.]
+
+SLIDE 5 — EXPÉRIENCE PROFESSIONNELLE
+
+Côté académique, je suis professeur associé à l’Université de Brasilia depuis 2012.
+J’y enseigne et j’y mène des activités de recherche dans des thématiques liées aux systèmes d’information, à l’analytique, et à la transformation numérique.
+
+Côté recherche appliquée et partenariats, je suis impliqué dans des collaborations qui relient directement la recherche à des besoins réels.
+Par exemple, via le projet Jooay, en collaboration avec McGill, une application qui utilise l’IA pour soutenir l’inclusion numérique.
+
+
+Côté industrie, j’ai une expérience très concrète, à grande échelle, dans plusieurs secteurs.
+Télécom.
+Consulting.
+Et secteur public.
+
+J'ai travaillé trois ans chez Bell Canada, en science des données, sur des problématiques de big data, de tableaux de bord BI, et d'optimisation en contexte opérationnel.
+Et j'ai mené des projets en consulting, notamment chez Cofomo et Videns AI, autour de la stratégie IA, l'identification de cas d'usage, et la formation.
+
+Cette double identité, académique et terrain, est centrale dans mon profil.
+Parce qu’en IA, aujourd’hui, la valeur se joue dans le passage du concept à la production.
+Et c’est exactement là que je suis à l’aise.
+
+[Pause.]
+
+SLIDE 6 — TRANSITION VERS SECTION 2
+
+Ce parcours multidisciplinaire m’a préparé, très directement, pour le poste.
+Je vous propose maintenant de passer au cœur de la question.
+En quoi mes expertises et ma production scientifique répondent-elles précisément aux exigences du poste ?
+
+[Pause.]
+
+SECTION 2 — EXPERTISES ALIGNÉES AU POSTE
+SLIDE 7 — EXPERTISES CLÉS
+
+Mes expertises s’organisent autour de trois blocs.
+Premier bloc : la gouvernance de l’IA.
+Deuxième bloc : l’opérationnalisation de l’IA, donc AIOps et MLOps, autrement dit la mise en production, la fiabilité, et la performance.
+Troisième bloc : la sécurité et la résilience des systèmes d’IA, notamment dans le contexte des modèles de langage, les LLM.
+
+Je précise rapidement les termes.
+AIOps et MLOps, c’est l’ensemble des pratiques et mécanismes qui rendent l’IA exploitable en production.
+Avec des contraintes de qualité, de risques, de performance, et de supervision.
+Et les LLM, ce sont les grands modèles de langage, qui posent aujourd’hui des défis spécifiques de sécurité, de fiabilité et de gouvernance.
+
+[Pause.]
+
+SLIDE 8 — ALIGNEMENT AVEC LES EXIGENCES DU POSTE
+
+Sur cette diapositive, je résume l’alignement.
+Forte adéquation avec les exigences clés — et je peux illustrer chaque point par une preuve.
+
+Pour la gouvernance et la gestion des risques de l’IA, j’ai une production scientifique forte, avec des articles qui ont un impact mesurable, et des travaux empiriques récents.
+
+Pour l’impact stratégique de l’IA, j’ai une expérience terrain dans plusieurs secteurs, en transformation numérique, en déploiement, et en prise de décision.
+
+Pour la performance, je travaille sur la mesure et le pilotage en contexte réel, avec des tableaux de bord, des indicateurs, et des mécanismes de suivi opérationnel.
+
+Pour la sécurité et la résilience des systèmes IA, je développe une ligne de recherche et de conception autour des risques spécifiques aux LLM et aux systèmes agentiques.
+
+Et enfin, côté enseignement, j’ai enseigné pendant plus de quinze ans, à différents niveaux, et je m’appuie systématiquement sur des cas réels pour former des étudiants capables d’agir dans les organisations.
+
+[Pause.]
+
+SLIDE 9 — PUBLICATIONS PHARES EN GOUVERNANCE DE L’IA
+
+Je mets ici en avant deux contributions phares.
+
+Première contribution : un cadre intégrateur sur la régulation de l’IA, qui a été largement cité.
+L’idée principale est de fournir un outil de décision et de structuration, utile autant pour les chercheurs que pour les décideurs.
+
+Deuxième contribution : une étude empirique plus récente, fondée sur l’observation et l’analyse de la gouvernance de l’IA dans un ensemble d’organisations.
+Ce type d’étude est important, parce qu’il révèle l’écart entre les principes affichés et les pratiques réelles.
+
+Et au-delà de ces deux publications, je maintiens un pipeline actif de manuscrits et de projets, avec une orientation claire : gouvernance, performance, risques, et sécurité des systèmes d’IA en contexte organisationnel.
+
+[Pause.]
+
+SLIDE 10 — RISQUES LLM
+
+J’aimerais maintenant insister sur un point très actuel.
+Les modèles de langage ouvrent des possibilités énormes, mais ils introduisent aussi des risques nouveaux.
+
+Je résume ces risques avec une grille simple, en quatre catégories.
+
+Première catégorie : les attaques.
+Par exemple, la “prompt injection”, qui consiste à manipuler le comportement du modèle via des instructions malveillantes.
+
+
+Deuxième catégorie : la fiabilité.
+Par exemple, les hallucinations, où le système produit une information fausse, tout en ayant l’apparence de la certitude.
+
+
+Troisième catégorie : l’autonomie.
+C’est la question des systèmes agentiques, c’est-à-dire des IA qui ne se contentent pas de répondre, mais qui peuvent agir, déclencher des actions, enchaîner des décisions.
+
+Quatrième catégorie : l’humain.
+Parce que ces systèmes créent des boucles d’interaction, parfois affectives, où l’utilisateur adapte son comportement, et le système adapte sa réponse.
+
+Pour moi, c’est un terrain majeur de recherche et d’enseignement.
+Parce que les organisations vont adopter ces systèmes.
+Et elles devront les gouverner, les sécuriser, et les rendre fiables.
+Et justement, cette recherche a donné naissance à un projet concret : le LLM Firewall.
+C'est un pare-feu pour modèles de langage, issu directement de mes travaux.
+Pour moi, c'est une preuve que je sais transférer la recherche vers l'application.
+Je développerai ce projet en détail dans ma présentation recherche.
+[Pause.]
+
+SLIDE 11 — EXEMPLES MARQUANTS DE PROJETS IA MENÉS
+
+Je vous donne maintenant quelques exemples concrets, qui illustrent la continuité entre recherche et pratique.
+
+En consulting, j'ai contribué à une stratégie IA complète.
+Avec plus de cinquante cas d’usage identifiés.
+Et un programme de formation pour rendre l’organisation capable d’absorber et déployer l’IA. 
+
+
+Sur Jooay, en collaboration avec McGill University, l'objectif est l'inclusion numérique.
+C'est une application mobile qui aide les familles d'enfants en situation de handicap à trouver des activités de loisir adaptées.
+Mon rôle, c'est la partie analytique et les mécanismes de recommandation IA.
+L'application est déjà déployée, utilisée par des milliers de familles.
+Et nous continuons à l'améliorer avec des données réelles.
+
+
+En télécom, chez Bell Canada, j'ai travaillé pendant trois ans en science des données.
+C'était un environnement très exigeant, avec des volumes massifs de données.
+J'ai conçu des tableaux de bord BI pour le pilotage opérationnel.
+J'ai travaillé sur des modèles prédictifs pour la gestion de réseau.
+Et j'ai appris à livrer des solutions qui fonctionnent en production, pas seulement en prototype.
+
+
+Et dans le secteur public, au Brésil et au Canada, j’ai travaillé sur des sujets de transformation numérique, de gouvernance des TI, de données ouvertes et de transparence. 
+
+
+Le point commun, c’est la maîtrise complète du cycle, du concept à la production.
+Et c’est exactement ce que recouvrent AIOps et MLOps. 
+
+
+[Pause.]
+
+SECTION 3 — CONTRIBUTIONS ET SYNERGIES
+SLIDE 12 — TRANSITION VERS SECTION 3
+
+Au-delà de l’adéquation de mon profil aux exigences…
+Comment est-ce que je peux contribuer activement au SIMQG et à l’Université de Sherbrooke ?
+
+[Pause.]
+
+SLIDE 13 — INDICATEURS DE RECHERCHE
+
+Je vous donne quelques chiffres, non pas pour faire un inventaire, mais pour montrer une capacité démontrée à produire et à encadrer.
+
+J'ai cinquante-neuf articles de revue publiés.
+Avec mille sept cent soixante-seize citations selon Google Scholar.
+Et un indice h de dix-sept.
+
+
+Mais au-delà des chiffres, ce qui compte pour ce poste, c’est la capacité à former la relève.
+J’ai dirigé environ neuf doctorats.
+Environ six maîtrises.
+Et supervisé trois postdoctorats.
+J’ai aussi participé à vingt-et-un projets de recherche. 
+
+
+Donc, très concrètement, je sais encadrer.
+Je sais structurer des projets.
+Et je sais mener des trajectoires jusqu’à des résultats.
+
+[Pause.]
+
+SLIDE 14 — INTÉGRATION AU SIMQG ET SYNERGIES
+
+Je me projette dans l’écosystème de Sherbrooke de façon très concrète.
+
+Au SIMQG, je contribuerai directement en recherche et en enseignement sur la gouvernance de l’IA, l’analytique, et la transformation numérique. 
+
+
+Au Centre Laurent Beaudoin, je peux mobiliser mes contacts et partenariats industriels.
+Notamment des réseaux en télécom, en consulting, et en intelligence artificielle. 
+
+
+Au CROI, le Centre de recherche sur les organisations intelligentes, mes travaux sur la gouvernance et la performance des systèmes d’IA s’inscrivent parfaitement. 
+
+
+Et plus largement, à l’École de gestion, je souhaite contribuer aux microprogrammes en IA, et à l’École d’été en IA. 
+
+
+Et je veux le dire clairement.
+Je m’investirai pleinement en recherche, en enseignement, en encadrement, et en service à la collectivité. 
+
+
+[Pause.]
+
+SLIDE 15 — VISION ET MISSION DU SIMQG
+
+La mission du SIMQG — développer des connaissances en management de l'information et de l'intelligence — correspond exactement à ce que je fais depuis vingt ans.
+Transformer la complexité en opportunité, c'est ma lecture de cette mission.
+
+
+
+[Pause.]
+
+Et je vous partage, en une phrase, mon “Pourquoi Sherbrooke”.
+Ce qui m’attire au SIMQG, c’est l’endroit exact où se rencontrent gouvernance de l’IA, analytique, et transformation numérique.
+Et c’est précisément là que mon programme de recherche, et mon expérience terrain, créent le plus de valeur. 
+
+
+Ma contribution se résume en deux points.
+Premièrement, une recherche appliquée en gouvernance de l’IA, utile aux organisations qui doivent naviguer la complexité.
+Deuxièmement, un pont crédible entre théorie et pratique, parce que je travaille sur les deux fronts. 
+
+
+
+[Pause.]
+
+SLIDE 16 — FINANCEMENT ET COLLABORATIONS
+
+Pour mener ce programme, je ciblerai plusieurs sources de financement.
+Le CRSH, pour les aspects gouvernance et gestion de l’IA.
+Le FRQSC, pour des projets d’équipe.
+Mitacs, pour des partenariats industriels.
+Le CRSNG, pour les aspects plus techniques quand ils s’y prêtent.
+Et des contrats de recherche, avec le secteur privé et public. 
+
+
+J’arrive aussi avec un réseau de collaborations établies que je peux mobiliser au profit de l’UdeS.
+McGill University via le projet Jooay.
+Bell Canada.
+Cofomo et Videns AI.
+Et un réseau international établi. 
+
+
+[Pause.]
+
+CONCLUSION
+SLIDE 17 — EN RÉSUMÉ : POURQUOI MOI ?
+
+En résumé, pourquoi suis-je le bon candidat pour ce poste ?
+
+Premièrement, ma formation multidisciplinaire.
+Doctorat en systèmes d’information, et postdoctorats en informatique et en statistique.
+Cela me donne une polyvalence rare. 
+
+
+Deuxièmement, mes expertises sont alignées précisément avec les exigences du poste.
+Gouvernance de l’IA.
+AIOps et MLOps.
+Sécurité des systèmes LLM. 
+
+
+Troisièmement, j’ai des publications de haut niveau, et un pipeline actif.
+Avec des résultats mesurables en impact et en continuité de production. 
+
+
+Quatrièmement, j’ai vingt ans d’expérience terrain, dans plusieurs secteurs.
+Télécom.
+Consulting.
+Secteur public.
+Donc je peux enseigner l’IA “réelle”, celle qui vit dans les organisations. 
+
+
+Et cinquièmement, je m’engage pleinement.
+Recherche.
+Enseignement.
+Encadrement.
+Service à la collectivité. 
+
+
+Mon profil conjugue ces forces.
+Et je suis prêt à contribuer à cette mission, dès le jour un.
+
+[Pause.]
+
+SLIDE 18 — MERCI
+
+Je vous remercie sincèrement de votre attention et de votre temps.
+
+Avant de passer aux questions, je veux simplement réitérer un point.
+Ce poste représente pour moi une opportunité exceptionnelle.
+L'intersection entre gouvernance de l'IA, analytique, et transformation numérique, c'est exactement là où je veux être.
+Et c'est exactement là où je peux créer le plus de valeur.
+
+Je suis maintenant disponible pour répondre à vos questions.
+Sur mon parcours, mes recherches, ma vision pour le SIMQG, ou tout autre sujet.
