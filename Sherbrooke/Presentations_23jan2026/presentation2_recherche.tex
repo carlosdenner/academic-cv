@@ -58,22 +58,22 @@
     {\Large\bfseries Présentation 2 : Programme de recherche}
   \end{beamercolorbox}
   
-  \vspace{0.6cm}
+  \vspace{0.3cm}
   
   \begin{center}
     {\large\textbf{Gestion, gouvernance et ingénierie\\des systèmes d'intelligence artificielle}}
     
-    \vspace{1em}
+    \vspace{0.8em}
     
     {\Large Carlos Denner dos Santos Jr.}
     
-    \vspace{0.8em}
+    \vspace{0.5em}
     
     {\normalsize Département des systèmes d'information\\
     et méthodes quantitatives de gestion (SIMQG)\\
     École de gestion, Université de Sherbrooke}
     
-    \vspace{0.8em}
+    \vspace{0.3em}
     
     {\normalsize 23 janvier 2026}
     
@@ -119,12 +119,12 @@
     \end{column}
     \begin{column}{0.42\textwidth}
       \centering
-      \begin{tikzpicture}[scale=0.8]
+      \begin{tikzpicture}[scale=0.9]
         % Triangle des enjeux
-        \node[draw, fill=axe1color!20, minimum width=3cm, minimum height=1cm, rounded corners] (gouv) at (0,3) {\small Gouvernance};
-        \node[draw, fill=axe2color!20, minimum width=3cm, minimum height=1cm, rounded corners] (ops) at (-1.5,0.5) {\small Opérations};
-        \node[draw, fill=axe3color!20, minimum width=3cm, minimum height=1cm, rounded corners] (perf) at (1.5,0.5) {\small Performance};
-        \node[draw, fill=usherbgreen!30, circle, minimum size=1.5cm] (ia) at (0,1.5) {\footnotesize\textbf{IA}};
+        \node[draw, fill=axe1color!20, minimum width=3.2cm, minimum height=1cm, rounded corners] (gouv) at (0,3.2) {\small Gouvernance};
+        \node[draw, fill=axe2color!20, minimum width=3.2cm, minimum height=1cm, rounded corners] (ops) at (-1.8,0.3) {\small Opérations};
+        \node[draw, fill=axe3color!20, minimum width=3.2cm, minimum height=1cm, rounded corners] (perf) at (1.8,0.3) {\small Performance};
+        \node[draw, fill=usherbgreen!30, circle, minimum size=1.6cm] (ia) at (0,1.6) {\footnotesize\textbf{IA}};
         \draw[->, thick] (gouv) -- (ia);
         \draw[->, thick] (ops) -- (ia);
         \draw[->, thick] (perf) -- (ia);
@@ -587,22 +587,26 @@
 % --- SLIDE 4.2 : Cadre d'évaluation ---
 \begin{frame}{Axe 3 : Cadre d'évaluation de la valeur IA}
   \begin{center}
-    \begin{tikzpicture}[scale=0.85]
-      % Tableau cadre d'évaluation
-      \node[draw, fill=axe3color!20, minimum width=4cm, minimum height=0.8cm] at (0,3) {\textbf{Dimension financière}};
-      \node[draw, fill=axe3color!15, minimum width=4cm, minimum height=0.8cm, font=\small] at (0,2.2) {ROI, coûts, productivité};
+    \begin{tikzpicture}[scale=0.72]
+      % 2x2 grid with wide horizontal gaps - all boxes same size
+      % Top left - Financière
+      \node[draw, fill=axe3color!20, minimum width=5cm, minimum height=0.7cm] at (-4,2.5) {\small\textbf{Dim. financière}};
+      \node[draw, fill=axe3color!15, minimum width=5cm, minimum height=0.7cm, font=\scriptsize] at (-4,1.8) {ROI, coûts, productivité};
       
-      \node[draw, fill=axe3color!20, minimum width=4cm, minimum height=0.8cm] at (5,3) {\textbf{Dimension organisationnelle}};
-      \node[draw, fill=axe3color!15, minimum width=4cm, minimum height=0.8cm, font=\small] at (5,2.2) {Processus, adoption, compétences};
+      % Top right - Organisationnelle
+      \node[draw, fill=axe3color!20, minimum width=5cm, minimum height=0.7cm] at (4,2.5) {\small\textbf{Dim. organisationnelle}};
+      \node[draw, fill=axe3color!15, minimum width=5cm, minimum height=0.7cm, font=\scriptsize] at (4,1.8) {Processus, adoption, compétences};
       
-      \node[draw, fill=axe3color!20, minimum width=4cm, minimum height=0.8cm] at (0,0.8) {\textbf{Dimension sociétale}};
-      \node[draw, fill=axe3color!15, minimum width=4cm, minimum height=0.8cm, font=\small] at (0,0) {Équité, éthique, emploi};
+      % Bottom left - Sociétale
+      \node[draw, fill=axe3color!20, minimum width=5cm, minimum height=0.7cm] at (-4,-0.3) {\small\textbf{Dim. sociétale}};
+      \node[draw, fill=axe3color!15, minimum width=5cm, minimum height=0.7cm, font=\scriptsize] at (-4,-1) {Équité, éthique, emploi};
       
-      \node[draw, fill=axe3color!20, minimum width=4cm, minimum height=0.8cm] at (5,0.8) {\textbf{Dimension environnementale}};
-      \node[draw, fill=axe3color!15, minimum width=4cm, minimum height=0.8cm, font=\small] at (5,0) {Empreinte carbone, ressources};
+      % Bottom right - Environnementale
+      \node[draw, fill=axe3color!20, minimum width=5cm, minimum height=0.7cm] at (4,-0.3) {\small\textbf{Dim. environnementale}};
+      \node[draw, fill=axe3color!15, minimum width=5cm, minimum height=0.7cm, font=\scriptsize] at (4,-1) {Empreinte carbone, ressources};
       
-      % Flèche centrale
-      \node[draw, fill=white, circle, minimum size=1.5cm] at (2.5,1.5) {\footnotesize\textbf{Valeur IA}};
+      % Cercle central - bien séparé
+      \node[draw, fill=white, circle, minimum size=1.5cm] at (0,0.75) {\scriptsize\textbf{Valeur IA}};
     \end{tikzpicture}
   \end{center}
   
