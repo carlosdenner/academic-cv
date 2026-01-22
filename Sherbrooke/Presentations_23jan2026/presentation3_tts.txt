@@ -1,4 +1,4 @@
-PRÉSENTATION 3 : PHILOSOPHIE D'ENSEIGNEMENT ET OFFRE DE COURS
+﻿PRÉSENTATION 3 : PHILOSOPHIE D'ENSEIGNEMENT ET OFFRE DE COURS
 Carlos Denner dos Santos Jr.
 Durée cible : 20 minutes (~2 300 mots)
 =================================================================
@@ -74,11 +74,9 @@ Pour chaque programme, j'indiquerai les cours que je peux enseigner immédiateme
 
 SLIDE 13 — B.A.A. GTA
 Commençons par le baccalauréat en administration, cheminement Gestion des technologies d'affaires. 
-En immédiat, je couvre quatre cours : technologies d'affaires, valorisation des données, manipulation des données, et IA appliquée à la gestion. 
-Deux cours nécessiteraient une préparation ciblée : gestion de projets technologiques et transformation numérique. 
-Quatre sur six : une couverture des fondamentaux du cheminement.
-
-SLIDE 14 — M. Sc. Commerce électronique
+En immédiat, je couvre cinq cours : technologies d'affaires, valorisation des données, manipulation des données, IA appliquée à la gestion, et analytique de données d'affaires.
+Deux cours nécessiteraient une préparation ciblée : gestion de projets technologiques et transformation numérique.
+Cinq sur sept : une couverture des fondamentaux du cheminement.
 Pour la maîtrise en commerce électronique. 
 Je couvre le socle technologique et analytique : stratégie numérique, web analytique, technologies de l'entreprise numérique. 
 Pour les volets marketing et UX, je co-enseignerais volontiers avec des collègues spécialistes — en complémentarité. 
@@ -86,22 +84,18 @@ Quatre cours en immédiat, trois avec préparation, pour un total de sept cours.
 
 SLIDE 15 — M. Sc. SIA
 La maîtrise en Stratégie de l'intelligence d'affaires est un programme de prédilection pour moi. 
-Je couvre l'essentiel : fondements de l'IA, BI et tableaux de bord, analytique, méthodes de recherche, statistiques. Sept cours sur dix en immédiat. 
-Un exemple d'activité signature que j'apporte : un audit de gouvernance IA couplé à un tableau de bord risques et performance. Les étudiants analysent une vraie organisation, identifient les failles, et produisent un livrable utilisable. 
-Mon postdoc en statistique et mon expérience en science des données me qualifient particulièrement pour ce programme. 
-Trois cours nécessitent une préparation : entrepôts de données, forage de données et statistiques décisionnelles avancées.
-
-SLIDE 16 — Microprogramme 3e cycle IA
+Je couvre l'essentiel : fondements de l'IA, BI et tableaux de bord, analytique, statistiques. Six cours sur neuf en immédiat.
+Un exemple d'activité signature que j'apporte : un audit de gouvernance IA couplé à un tableau de bord risques et performance. Les étudiants analysent une vraie organisation, identifient les failles, et produisent un livrable utilisable.
+Mon postdoc en statistique et mon expérience en science des données me qualifient particulièrement pour ce programme.
+Trois cours nécessitent une préparation : entrepôts de données, intelligence géospatiale et forage de données.
 Le microprogramme de troisième cycle en gestion stratégique de l'IA est directement aligné avec mon expertise. 
 Cinq cours sur cinq en immédiat : preuve de concept, valeur d'affaires, faisabilité, implantation, gouvernance. Pleinement autonome. 
 Je peux apporter une valeur ajoutée significative : cas récents sur la sécurité des LLM, frameworks de gouvernance que j'ai publiés, et expérience terrain avec Bell et Videns.
 
 SLIDE 17 — Synthèse des cours
 En synthèse, sur les quatre programmes ciblés. 
-Vingt cours en immédiat, huit avec préparation, pour un total de vingt-huit cours. 
-Mais soyons clairs : mon objectif n'est pas d'enseigner vingt-huit cours. C'est d'assurer une couverture immédiate où vous en avez besoin, et d'apporter deux ou trois cours signature : gouvernance opérationnelle de l'IA, sécurité des LLM, et éthique appliquée. 
-Cela représente une contribution ciblée dès mon arrivée.
-
+Vingt cours en immédiat, huit avec préparation, pour un total de vingt-huit cours.
+Mais soyons clairs : mon objectif n'est pas d'enseigner vingt-huit cours. C'est d'assurer une couverture immédiate où vous en avez besoin, et d'apporter deux ou trois cours signature : gouvernance opérationnelle de l'IA, sécurité des LLM, et éthique appliquée.
 SLIDE 18 — Au-delà des cours existants
 Au-delà des cours existants, je souhaite contribuer de plusieurs façons. 
 Premièrement, co-développer de nouveaux cours et actualiser les cours existants avec mes études de cas et mes recherches récentes. Je pense notamment à un cours signature sur la gouvernance opérationnelle de l'IA, avec cadres, contrôles et cas réels. Aussi des cours sur la sécurité des systèmes LLM ou l'éthique appliquée. 
