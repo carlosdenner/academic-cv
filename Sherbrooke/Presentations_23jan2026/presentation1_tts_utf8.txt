@@ -1,0 +1,344 @@
+﻿SCRIPT TTS-READY â€” PRÃ‰SENTATION 1 (PROFIL DU CANDIDAT)
+SLIDE 1 â€” TITRE
+
+Bonjour Ã  toutes et Ã  tous.
+Je mâ€™appelle Carlos Denner dos Santos.
+Merci de me recevoir aujourdâ€™hui.
+Je suis honorÃ© de pouvoir vous prÃ©senter mon profil, en lien direct avec le poste de professeur en gestion de lâ€™intelligence artificielle au SIMQG.
+Si je devais rÃ©sumer ma contribution en une phrase, ce serait celle-ci : je transforme l'IA en capacitÃ© de gestion. 
+Mon objectif, dans les vingt prochaines minutes, est simple.
+Je veux vous montrer trois choses.
+Un, la cohÃ©rence de mon parcours.
+Deux, lâ€™alignement prÃ©cis de mes expertises avec le poste.
+Trois, la faÃ§on dont je peux contribuer, concrÃ¨tement, Ã  lâ€™Ã©cosystÃ¨me du SIMQG et de lâ€™UniversitÃ© de Sherbrooke.
+
+
+
+SLIDE 2 â€” PLAN
+
+Ma prÃ©sentation est structurÃ©e en trois parties.
+PremiÃ¨re partie : mon parcours acadÃ©mique et professionnel.
+DeuxiÃ¨me partie : mes expertises et mes contributions scientifiques, en lien direct avec les exigences du poste.
+TroisiÃ¨me partie : mes contributions et mes synergies institutionnelles, et comment je me projette au SIMQG et Ã  lâ€™UdeS.
+
+
+
+SECTION 1 â€” PARCOURS
+SLIDE 3 â€” PROFIL EN BREF
+
+En quelques mots, qui suis-je ?
+Je suis chercheur en systÃ¨mes dâ€™information, professeur universitaire depuis plus de quinze ans, et praticien en science des donnÃ©es et en intelligence artificielle.
+
+Mon fil conducteur, depuis vingt ans, câ€™est lâ€™intersection entre trois dimensions.
+Les donnÃ©es et lâ€™analytique.
+Les systÃ¨mes dâ€™information.
+Et la stratÃ©gie organisationnelle.
+
+Ce positionnement est, Ã  mon avis, particuliÃ¨rement pertinent aujourdâ€™hui.
+Parce que lâ€™IA nâ€™est pas seulement une question dâ€™algorithmes.
+Câ€™est une question de gestion, de gouvernance, de performance, de risques, et de transformation.
+
+
+
+SLIDE 4 â€” PARCOURS ACADÃ‰MIQUE
+
+Mon parcours acadÃ©mique est volontairement multidisciplinaire.
+Jâ€™ai commencÃ© par un baccalaurÃ©at en administration au BrÃ©sil.
+Puis une maÃ®trise en administration Ã  lâ€™UniversitÃ© fÃ©dÃ©rale de Minas Gerais.
+
+Jâ€™ai ensuite complÃ©tÃ© un doctorat en systÃ¨mes dâ€™information aux Ã‰tats-Unis.
+Ce doctorat mâ€™a donnÃ© une formation rigoureuse en recherche, en sciences de gestion, et en thÃ©orie des systÃ¨mes dâ€™information.
+
+AprÃ¨s le doctorat, jâ€™ai poursuivi avec des postdoctorats, afin dâ€™approfondir deux compÃ©tences complÃ©mentaires.
+Dâ€™un cÃ´tÃ©, lâ€™informatique et les systÃ¨mes.
+De lâ€™autre, la statistique et la modÃ©lisation.
+
+Le rÃ©sultat, câ€™est une combinaison rare.
+Une base solide en gestion et en systÃ¨mes dâ€™information.
+Et une capacitÃ© technique rÃ©elle pour comprendre, concevoir et Ã©valuer des systÃ¨mes dâ€™IA en contexte organisationnel.
+
+
+
+SLIDE 5 â€” EXPÃ‰RIENCE PROFESSIONNELLE
+
+CÃ´tÃ© acadÃ©mique, je suis professeur associÃ© Ã  lâ€™UniversitÃ© de Brasilia depuis 2012.
+Jâ€™y enseigne et jâ€™y mÃ¨ne des activitÃ©s de recherche dans des thÃ©matiques liÃ©es aux systÃ¨mes dâ€™information, Ã  lâ€™analytique, et Ã  la transformation numÃ©rique.
+
+CÃ´tÃ© recherche appliquÃ©e et partenariats, je suis impliquÃ© dans des collaborations qui relient directement la recherche Ã  des besoins rÃ©els.
+Par exemple, via le projet Jooay, en collaboration avec McGill, une application qui utilise lâ€™IA pour soutenir lâ€™inclusion numÃ©rique.
+
+
+CÃ´tÃ© industrie, jâ€™ai une expÃ©rience trÃ¨s concrÃ¨te, Ã  grande Ã©chelle, dans plusieurs secteurs.
+TÃ©lÃ©com.
+Consulting.
+Et secteur public.
+
+J'ai travaillÃ© trois ans chez Bell Canada, en science des donnÃ©es, sur des problÃ©matiques de big data, de tableaux de bord BI, et d'optimisation en contexte opÃ©rationnel.
+Et j'ai menÃ© des projets en consulting, notamment chez Cofomo et Videns AI, autour de la stratÃ©gie IA, l'identification de cas d'usage, et la formation.
+
+Cette double identitÃ©, acadÃ©mique et terrain, est centrale dans mon profil.
+Parce quâ€™en IA, aujourdâ€™hui, la valeur se joue dans le passage du concept Ã  la production.
+Et câ€™est exactement lÃ  que je suis Ã  lâ€™aise.
+
+
+
+SLIDE 6 â€” TRANSITION VERS SECTION 2
+
+Ce parcours multidisciplinaire mâ€™a prÃ©parÃ©, trÃ¨s directement, pour le poste.
+Je vous propose maintenant de passer au cÅ“ur de la question.
+En quoi mes expertises et ma production scientifique rÃ©pondent-elles prÃ©cisÃ©ment aux exigences du poste ?
+
+
+
+SECTION 2 â€” EXPERTISES ALIGNÃ‰ES AU POSTE
+SLIDE 7 â€” EXPERTISES CLÃ‰S
+
+Mes expertises sâ€™organisent autour de trois blocs.
+Premier bloc : la gouvernance de lâ€™IA.
+DeuxiÃ¨me bloc : lâ€™opÃ©rationnalisation de lâ€™IA, donc AIOps et MLOps, autrement dit la mise en production, la fiabilitÃ©, et la performance.
+TroisiÃ¨me bloc : la sÃ©curitÃ© et la rÃ©silience des systÃ¨mes dâ€™IA, notamment dans le contexte des modÃ¨les de langage, les LLM.
+
+Je prÃ©cise rapidement les termes.
+AIOps et MLOps, câ€™est lâ€™ensemble des pratiques et mÃ©canismes qui rendent lâ€™IA exploitable en production.
+Avec des contraintes de qualitÃ©, de risques, de performance, et de supervision.
+Et les LLM, ce sont les grands modÃ¨les de langage, qui posent aujourdâ€™hui des dÃ©fis spÃ©cifiques de sÃ©curitÃ©, de fiabilitÃ© et de gouvernance.
+
+
+
+SLIDE 8 â€” ALIGNEMENT AVEC LES EXIGENCES DU POSTE
+
+Sur cette diapositive, je rÃ©sume lâ€™alignement.
+Forte adÃ©quation avec les exigences clÃ©s â€” et je peux illustrer chaque point par une preuve.
+
+Pour la gouvernance et la gestion des risques de lâ€™IA, jâ€™ai une production scientifique forte, avec des articles qui ont un impact mesurable, et des travaux empiriques rÃ©cents.
+
+Pour lâ€™impact stratÃ©gique de lâ€™IA, jâ€™ai une expÃ©rience terrain dans plusieurs secteurs, en transformation numÃ©rique, en dÃ©ploiement, et en prise de dÃ©cision.
+
+Pour la performance, je travaille sur la mesure et le pilotage en contexte rÃ©el, avec des tableaux de bord, des indicateurs, et des mÃ©canismes de suivi opÃ©rationnel.
+
+Pour la sÃ©curitÃ© et la rÃ©silience des systÃ¨mes IA, je dÃ©veloppe une ligne de recherche et de conception autour des risques spÃ©cifiques aux LLM et aux systÃ¨mes agentiques.
+
+Et enfin, cÃ´tÃ© enseignement, jâ€™ai enseignÃ© pendant plus de quinze ans, Ã  diffÃ©rents niveaux, et je mâ€™appuie systÃ©matiquement sur des cas rÃ©els pour former des Ã©tudiants capables dâ€™agir dans les organisations.
+
+
+
+SLIDE 9 â€” PUBLICATIONS PHARES EN GOUVERNANCE DE Lâ€™IA
+
+Je mets ici en avant deux contributions phares.
+
+PremiÃ¨re contribution : un cadre intÃ©grateur sur la rÃ©gulation de lâ€™IA, qui a Ã©tÃ© largement citÃ©.
+Lâ€™idÃ©e principale est de fournir un outil de dÃ©cision et de structuration, utile autant pour les chercheurs que pour les dÃ©cideurs.
+
+DeuxiÃ¨me contribution : une Ã©tude empirique plus rÃ©cente, fondÃ©e sur lâ€™observation et lâ€™analyse de la gouvernance de lâ€™IA dans un ensemble dâ€™organisations.
+Ce type dâ€™Ã©tude est important, parce quâ€™il rÃ©vÃ¨le lâ€™Ã©cart entre les principes affichÃ©s et les pratiques rÃ©elles.
+
+Et au-delÃ  de ces deux publications, je maintiens un pipeline actif de manuscrits et de projets, avec une orientation claire : gouvernance, performance, risques, et sÃ©curitÃ© des systÃ¨mes dâ€™IA en contexte organisationnel.
+
+
+
+SLIDE 10 â€” RISQUES LLM
+
+Jâ€™aimerais maintenant insister sur un point trÃ¨s actuel.
+Les modÃ¨les de langage ouvrent des possibilitÃ©s Ã©normes, mais ils introduisent aussi des risques nouveaux.
+
+Je rÃ©sume ces risques avec une grille simple, en quatre catÃ©gories.
+
+PremiÃ¨re catÃ©gorie : les attaques.
+Par exemple, la â€œprompt injectionâ€, qui consiste Ã  manipuler le comportement du modÃ¨le via des instructions malveillantes.
+
+
+DeuxiÃ¨me catÃ©gorie : la fiabilitÃ©.
+Par exemple, les hallucinations, oÃ¹ le systÃ¨me produit une information fausse, tout en ayant lâ€™apparence de la certitude.
+
+
+TroisiÃ¨me catÃ©gorie : lâ€™autonomie.
+Câ€™est la question des systÃ¨mes agentiques, câ€™est-Ã -dire des IA qui ne se contentent pas de rÃ©pondre, mais qui peuvent agir, dÃ©clencher des actions, enchaÃ®ner des dÃ©cisions.
+
+QuatriÃ¨me catÃ©gorie : lâ€™humain.
+Parce que ces systÃ¨mes crÃ©ent des boucles dâ€™interaction, parfois affectives, oÃ¹ lâ€™utilisateur adapte son comportement, et le systÃ¨me adapte sa rÃ©ponse.
+
+Pour moi, câ€™est un terrain majeur de recherche et dâ€™enseignement.
+Parce que les organisations vont adopter ces systÃ¨mes.
+Et elles devront les gouverner, les sÃ©curiser, et les rendre fiables.
+Et justement, cette recherche a donnÃ© naissance Ã  un projet concret : le LLM Firewall.
+C'est un pare-feu pour modÃ¨les de langage, issu directement de mes travaux.
+Pour moi, c'est une preuve que je sais transfÃ©rer la recherche vers l'application.
+Je dÃ©velopperai ce projet en dÃ©tail dans ma prÃ©sentation recherche.
+
+
+SLIDE 11 â€” EXEMPLES MARQUANTS DE PROJETS IA MENÃ‰S
+
+Je vous donne maintenant quelques exemples concrets, qui illustrent la continuitÃ© entre recherche et pratique.
+
+En consulting, j'ai contribuÃ© Ã  une stratÃ©gie IA complÃ¨te.
+Avec plus de cinquante cas dâ€™usage identifiÃ©s.
+Et un programme de formation pour rendre lâ€™organisation capable dâ€™absorber et dÃ©ployer lâ€™IA. 
+
+
+Sur Jooay, en collaboration avec McGill University, l'objectif est l'inclusion numÃ©rique.
+C'est une application mobile qui aide les familles d'enfants en situation de handicap Ã  trouver des activitÃ©s de loisir adaptÃ©es.
+Mon rÃ´le, c'est la partie analytique et les mÃ©canismes de recommandation IA.
+L'application est dÃ©jÃ  dÃ©ployÃ©e, utilisÃ©e par des milliers de familles.
+Et nous continuons Ã  l'amÃ©liorer avec des donnÃ©es rÃ©elles.
+
+
+En tÃ©lÃ©com, chez Bell Canada, j'ai travaillÃ© pendant trois ans en science des donnÃ©es.
+C'Ã©tait un environnement trÃ¨s exigeant, avec des volumes massifs de donnÃ©es.
+J'ai conÃ§u des tableaux de bord BI pour le pilotage opÃ©rationnel.
+J'ai travaillÃ© sur des modÃ¨les prÃ©dictifs pour la gestion de rÃ©seau.
+Et j'ai appris Ã  livrer des solutions qui fonctionnent en production, pas seulement en prototype.
+
+
+Et dans le secteur public, au BrÃ©sil et au Canada, jâ€™ai travaillÃ© sur des sujets de transformation numÃ©rique, de gouvernance des TI, de donnÃ©es ouvertes et de transparence. 
+
+
+Le point commun, câ€™est la maÃ®trise complÃ¨te du cycle, du concept Ã  la production.
+Et câ€™est exactement ce que recouvrent AIOps et MLOps. 
+
+
+
+
+SECTION 3 â€” CONTRIBUTIONS ET SYNERGIES
+SLIDE 12 â€” TRANSITION VERS SECTION 3
+
+Au-delÃ  de lâ€™adÃ©quation de mon profil aux exigencesâ€¦
+Comment est-ce que je peux contribuer activement au SIMQG et Ã  lâ€™UniversitÃ© de Sherbrooke ?
+
+
+
+SLIDE 13 â€” INDICATEURS DE RECHERCHE
+
+Je vous donne quelques chiffres, non pas pour faire un inventaire, mais pour montrer une capacitÃ© dÃ©montrÃ©e Ã  produire et Ã  encadrer.
+
+J'ai cinquante-neuf articles de revue publiÃ©s.
+Avec mille sept cent soixante-seize citations selon Google Scholar.
+Et un indice h de dix-sept.
+
+
+Mais au-delÃ  des chiffres, ce qui compte pour ce poste, câ€™est la capacitÃ© Ã  former la relÃ¨ve.
+Jâ€™ai dirigÃ© environ neuf doctorats.
+Environ six maÃ®trises.
+Et supervisÃ© trois postdoctorats.
+Jâ€™ai aussi participÃ© Ã  vingt-et-un projets de recherche. 
+
+
+Donc, trÃ¨s concrÃ¨tement, je sais encadrer.
+Je sais structurer des projets.
+Et je sais mener des trajectoires jusquâ€™Ã  des rÃ©sultats.
+
+
+
+SLIDE 14 â€” INTÃ‰GRATION AU SIMQG ET SYNERGIES
+
+Je me projette dans lâ€™Ã©cosystÃ¨me de Sherbrooke de faÃ§on trÃ¨s concrÃ¨te.
+
+Au SIMQG, je contribuerai directement en recherche et en enseignement sur la gouvernance de lâ€™IA, lâ€™analytique, et la transformation numÃ©rique. 
+
+
+Au Centre Laurent Beaudoin, je peux mobiliser mes contacts et partenariats industriels.
+Notamment des rÃ©seaux en tÃ©lÃ©com, en consulting, et en intelligence artificielle. 
+
+
+Au CROI, le Centre de recherche sur les organisations intelligentes, mes travaux sur la gouvernance et la performance des systÃ¨mes dâ€™IA sâ€™inscrivent parfaitement. 
+
+
+Et plus largement, Ã  lâ€™Ã‰cole de gestion, je souhaite contribuer aux microprogrammes en IA, et Ã  lâ€™Ã‰cole dâ€™Ã©tÃ© en IA. 
+
+
+Et je veux le dire clairement.
+Je mâ€™investirai pleinement en recherche, en enseignement, en encadrement, et en service Ã  la collectivitÃ©. 
+
+
+
+
+SLIDE 15 â€” VISION ET MISSION DU SIMQG
+
+La mission du SIMQG â€” dÃ©velopper des connaissances en management de l'information et de l'intelligence â€” correspond exactement Ã  ce que je fais depuis vingt ans.
+Transformer la complexitÃ© en opportunitÃ©, c'est ma lecture de cette mission.
+
+
+
+
+
+Et je vous partage, en une phrase, mon â€œPourquoi Sherbrookeâ€.
+Ce qui mâ€™attire au SIMQG, câ€™est lâ€™endroit exact oÃ¹ se rencontrent gouvernance de lâ€™IA, analytique, et transformation numÃ©rique.
+Et câ€™est prÃ©cisÃ©ment lÃ  que mon programme de recherche, et mon expÃ©rience terrain, crÃ©ent le plus de valeur. 
+
+
+Ma contribution se rÃ©sume en deux points.
+PremiÃ¨rement, une recherche appliquÃ©e en gouvernance de lâ€™IA, utile aux organisations qui doivent naviguer la complexitÃ©.
+DeuxiÃ¨mement, un pont crÃ©dible entre thÃ©orie et pratique, parce que je travaille sur les deux fronts. 
+
+
+
+
+
+SLIDE 16 â€” FINANCEMENT ET COLLABORATIONS
+
+Pour mener ce programme, je ciblerai plusieurs sources de financement.
+Le CRSH, pour les aspects gouvernance et gestion de lâ€™IA.
+Le FRQSC, pour des projets dâ€™Ã©quipe.
+Mitacs, pour des partenariats industriels.
+Le CRSNG, pour les aspects plus techniques quand ils sâ€™y prÃªtent.
+Et des contrats de recherche, avec le secteur privÃ© et public. 
+
+
+Jâ€™arrive aussi avec un rÃ©seau de collaborations Ã©tablies que je peux mobiliser au profit de lâ€™UdeS.
+McGill University via le projet Jooay.
+Bell Canada.
+Cofomo et Videns AI.
+Et un rÃ©seau international Ã©tabli. 
+
+
+
+
+CONCLUSION
+SLIDE 17 â€” EN RÃ‰SUMÃ‰ : POURQUOI MOI ?
+
+En rÃ©sumÃ©, pourquoi suis-je le bon candidat pour ce poste ?
+
+PremiÃ¨rement, ma formation multidisciplinaire.
+Doctorat en systÃ¨mes dâ€™information, et postdoctorats en informatique et en statistique.
+Cela me donne une polyvalence rare. 
+
+
+DeuxiÃ¨mement, mes expertises sont alignÃ©es prÃ©cisÃ©ment avec les exigences du poste.
+Gouvernance de lâ€™IA.
+AIOps et MLOps.
+SÃ©curitÃ© des systÃ¨mes LLM. 
+
+
+TroisiÃ¨mement, jâ€™ai des publications de haut niveau, et un pipeline actif.
+Avec des rÃ©sultats mesurables en impact et en continuitÃ© de production. 
+
+
+QuatriÃ¨mement, jâ€™ai vingt ans dâ€™expÃ©rience terrain, dans plusieurs secteurs.
+TÃ©lÃ©com.
+Consulting.
+Secteur public.
+Donc je peux enseigner lâ€™IA â€œrÃ©elleâ€, celle qui vit dans les organisations. 
+
+
+Et cinquiÃ¨mement, je mâ€™engage pleinement.
+Recherche.
+Enseignement.
+Encadrement.
+Service Ã  la collectivitÃ©. 
+
+
+Mon profil conjugue ces forces.
+Et je suis prÃªt Ã  contribuer Ã  cette mission, dÃ¨s le jour un.
+
+
+
+SLIDE 18 â€” MERCI
+
+Je vous remercie sincÃ¨rement de votre attention et de votre temps.
+
+Avant de passer aux questions, je veux simplement rÃ©itÃ©rer un point.
+Ce poste reprÃ©sente pour moi une opportunitÃ© exceptionnelle.
+L'intersection entre gouvernance de l'IA, analytique, et transformation numÃ©rique, c'est exactement lÃ  oÃ¹ je veux Ãªtre.
+Et c'est exactement lÃ  oÃ¹ je peux crÃ©er le plus de valeur.
+
+Je suis maintenant disponible pour rÃ©pondre Ã  vos questions.
+Sur mon parcours, mes recherches, ma vision pour le SIMQG, ou tout autre sujet.
