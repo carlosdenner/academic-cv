@@ -1,0 +1,98 @@
+Bonjour à tous. 
+Pour cette troisième et dernière présentation, je vais vous exposer ma philosophie d'enseignement et les cours que je peux offrir. 
+Si je devais résumer mon approche pédagogique en une phrase : je forme des gestionnaires qui savent décider avec l'IA. 
+
+Cette présentation se divise en deux volets. 
+Dans la première partie, je présenterai ma philosophie pédagogique : une anecdote formatrice, quatre principes directeurs, et comment ils s'alignent avec les valeurs de l'Université de Sherbrooke. 
+Dans la deuxième partie, je détaillerai les cours que je peux enseigner dans chaque programme : le baccalauréat en administration cheminement GTA, la maîtrise en commerce électronique, la maîtrise en stratégie de l'intelligence d'affaires, et le microprogramme de troisième cycle en gestion de l'IA. 
+Pour chaque cours, j'indiquerai s'il est immédiat ou s'il nécessite une préparation.
+
+[Transition vers la philosophie pédagogique.]
+
+Permettez-moi de commencer par une anecdote qui a façonné ma philosophie d'enseignement. 
+En deux mille dix-huit, à Brasilia, j'enseignais un cours de BI avancée. Un groupe d'étudiants avait décroché un partenariat avec l'hôpital universitaire pour analyser leurs données patients. 
+Très vite, ils se sont heurtés à la réalité : données incomplètes, biais dans les variables, et surtout, leur modèle prédictif soulevait des questions éthiques profondes. Pouvait-on utiliser ces prédictions pour prioriser des patients? 
+Ce projet m'a convaincu de trois choses. Premièrement, les cas réels sont irremplaçables pour apprendre. Deuxièmement, la technique seule ne suffit pas. Et troisièmement, l'éthique doit être intégrée dès le départ, pas ajoutée après coup. 
+Depuis ce jour, chaque cours que j'enseigne commence par une situation authentique.
+
+Ma philosophie pédagogique repose sur quatre principes interconnectés. 
+Premier principe : ancrer l'apprentissage dans des situations authentiques. Deuxième principe : combiner rigueur conceptuelle et apprentissage par la pratique. Troisième principe : cultiver l'autonomie réflexive. Et quatrième principe : construire un climat inclusif et exigeant. 
+L'objectif est de former des étudiants autonomes, capables de penser, d'agir et d'innover. Voyons chaque principe plus en détail.
+
+Le premier principe : partir de problèmes réels. 
+Concrètement, je commence toujours mes cours par un cas concret. Par exemple : voici les données d'une entreprise qui a investi deux millions de dollars en IA sans obtenir de retour. Que s'est-il passé? 
+Les concepts théoriques viennent ensuite, pour résoudre le problème, pas avant. 
+Pourquoi cette approche fonctionne? Parce qu'elle crée une motivation intrinsèque, un ancrage mémoriel fort, et facilite le transfert vers le milieu professionnel. 
+Cette approche est directement alignée avec la pédagogie active prônée par l'École de gestion.
+
+Le deuxième principe : équilibrer théorie et pratique. 
+Chaque concept enseigné est immédiatement appliqué via un exercice concret. Études de cas, mini-projets, prototypage. Les étudiants font, échouent, apprennent, et itèrent. 
+En pratique, cela se traduit par des notebooks Python en laboratoire, des audits de systèmes IA existants, ou des pitchs de cinq minutes pour défendre un projet. 
+J'ai d'ailleurs publié sur l'innovation pédagogique, notamment sur les exercices interactifs, les projets itératifs avec feedback, et les jeux sérieux. 
+Les simulations et la ludification permettent aux étudiants d'apprendre par l'expérience, dans un environnement où l'échec est permis et formateur. 
+
+Le troisième principe : former des penseurs critiques. 
+Je pose constamment des questions ouvertes. Pourquoi ce modèle? Quels sont ses biais? Quelles sont les implications éthiques? 
+Voici une question type que je pose en classe : votre modèle prédit un risque de défaut de soixante-dix-huit pourcent. Feriez-vous confiance à cette prédiction si le client était votre mère? 
+Ce type de question force les étudiants à dépasser la technique et à exercer leur jugement. 
+J'intègre systématiquement les questions de biais, de transparence, de sécurité et d'implications sociétales. Mon objectif : former des gestionnaires responsables, pas seulement des techniciens.
+
+Le quatrième principe : bienveillant mais rigoureux. 
+Je fixe des attentes claires dès le premier cours. Je fournis du feedback régulier et constructif. Et je maintiens un droit à l'erreur, car c'est ainsi qu'on apprend. 
+En quinze ans d'enseignement au Brésil et aux États-Unis, en présentiel et en ligne, j'ai appris à m'adapter à différents publics : étudiants en emploi, étudiants internationaux, parcours atypiques. 
+Cette diversité d'expérience m'a rendu particulièrement sensible à l'adaptation pédagogique.
+
+Ma philosophie s'aligne naturellement avec les valeurs de l'Université de Sherbrooke. 
+Pédagogie active : j'utilise des cas réels, des projets et du prototypage. Engagement étudiant : je pose des questions ouvertes et encourage la participation. Interdisciplinarité : je combine gestion, informatique, statistique et éthique. Innovation : j'intègre les grands modèles de langage, la ludification et les simulations. Et responsabilité : l'éthique et la gouvernance sont intégrées à tous mes cours. 
+En somme, je ne cherche pas à m'adapter aux valeurs de l'UdeS. Elles correspondent déjà à ma pratique.
+
+Quelques mots sur mon approche d'évaluation. 
+Je diversifie les formats : travaux d'équipe pour la collaboration, travaux individuels pour l'autonomie, coévaluation par les pairs, présentations orales. 
+Je fournis un feedback détaillé, avec points forts et axes d'amélioration, et j'offre des opportunités de révision quand c'est pertinent. 
+L'évaluation doit mesurer des compétences, pas seulement la mémorisation. Elle doit préparer au monde professionnel et favoriser la réussite étudiante. 
+J'utilise des grilles de correction avec rubriques et calibration pour assurer l'équité inter-équipes. Et concernant l'IA générative : règles claires, traçabilité exigée.
+
+Passons maintenant à l'offre de cours. 
+Pour chaque programme, j'indiquerai les cours que je peux enseigner immédiatement, marqués I, et ceux qui nécessitent une préparation ciblée, marqués P.
+
+Commençons par le baccalauréat en administration, cheminement Gestion des technologies d'affaires. 
+En immédiat, je couvre cinq cours : technologies d'affaires, valorisation des données, manipulation des données, IA appliquée à la gestion, et analytique de données d'affaires.
+Deux cours nécessiteraient une préparation ciblée : gestion de projets technologiques et transformation numérique.
+Cinq sur sept : une couverture des fondamentaux du cheminement.
+Pour la maîtrise en commerce électronique. 
+Je couvre le socle technologique et analytique : stratégie numérique, web analytique, technologies de l'entreprise numérique. 
+Pour les volets marketing et UX, je co-enseignerais volontiers avec des collègues spécialistes — en complémentarité. 
+Quatre cours en immédiat, trois avec préparation, pour un total de sept cours.
+
+La maîtrise en Stratégie de l'intelligence d'affaires est un programme de prédilection pour moi. 
+Je couvre l'essentiel : fondements de l'IA, BI et tableaux de bord, analytique, statistiques. Six cours sur neuf en immédiat.
+Un exemple d'activité signature que j'apporte : un audit de gouvernance IA couplé à un tableau de bord risques et performance. Les étudiants analysent une vraie organisation, identifient les failles, et produisent un livrable utilisable.
+Mon postdoc en statistique et mon expérience en science des données me qualifient particulièrement pour ce programme.
+Trois cours nécessitent une préparation : entrepôts de données, intelligence géospatiale et forage de données.
+Le microprogramme de troisième cycle en gestion stratégique de l'IA est directement aligné avec mon expertise. 
+Cinq cours sur cinq en immédiat : preuve de concept, valeur d'affaires, faisabilité, implantation, gouvernance. Pleinement autonome. 
+Je peux apporter une valeur ajoutée significative : cas récents sur la sécurité des LLM, frameworks de gouvernance que j'ai publiés, et expérience terrain avec Bell et Videns.
+
+En synthèse, sur les quatre programmes ciblés. 
+Vingt cours en immédiat, huit avec préparation, pour un total de vingt-huit cours.
+Mais soyons clairs : mon objectif n'est pas d'enseigner vingt-huit cours. C'est d'assurer une couverture immédiate où vous en avez besoin, et d'apporter deux ou trois cours signature : gouvernance opérationnelle de l'IA, sécurité des LLM, et éthique appliquée.
+Au-delà des cours existants, je souhaite contribuer de plusieurs façons. 
+Premièrement, co-développer de nouveaux cours et actualiser les cours existants avec mes études de cas et mes recherches récentes. Je pense notamment à un cours signature sur la gouvernance opérationnelle de l'IA, avec cadres, contrôles et cas réels. Aussi des cours sur la sécurité des systèmes LLM ou l'éthique appliquée. 
+Deuxièmement, encadrer des travaux dirigés, des mémoires et des thèses. J'ai déjà supervisé environ quinze étudiants gradués à ce jour. 
+Troisièmement, contribuer aux initiatives de l'École : la firme-école, les compétitions étudiantes, et potentiellement l'École d'été en IA stratégique.
+
+[Transition vers la conclusion.]
+
+En résumé, pourquoi moi pour l'enseignement? 
+Premièrement, une philosophie naturellement alignée avec l'Université de Sherbrooke : pédagogie active, cas réels, éthique intégrée. 
+Deuxièmement, une expérience démontrée : enseignement à tous les cycles, deux pays, présentiel et en ligne. 
+Troisièmement, une couverture large des programmes du SIMQG, avec la capacité d'enseigner en immédiat. 
+Quatrièmement, l'innovation pédagogique : utilisation des grands modèles de langage en classe, projets itératifs, coévaluation. 
+Et cinquièmement, un engagement total : encadrement, firme-école, École d'été en IA. 
+Concrètement, dès les douze premiers mois, je peux livrer plusieurs cours du microprogramme et de la maîtrise SIA, plus un cas d'enseignement issu de mes terrains de recherche. 
+Et pour conclure en une phrase : je forme des diplômés capables de décider, pas juste d'utiliser des outils. 
+
+Merci de votre attention. Je suis maintenant disponible pour vos questions.
+
+FIN DE LA 
+Durée estimée : ~19-20 minutes
