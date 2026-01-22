@@ -5,14 +5,14 @@ Bonjour à toutes et à tous.
 Je m’appelle Carlos Denner dos Santos.
 Merci de me recevoir aujourd’hui.
 Je suis honoré de pouvoir vous présenter mon profil, en lien direct avec le poste de professeur en gestion de l’intelligence artificielle au SIMQG.
-Si je devais résumer ma contribution en une phrase, ce serait celle-ci : je transforme l'IA en capacité de gestion. [Pause.]
+Si je devais résumer ma contribution en une phrase, ce serait celle-ci : je transforme l'IA en capacité de gestion. 
 Mon objectif, dans les vingt prochaines minutes, est simple.
 Je veux vous montrer trois choses.
 Un, la cohérence de mon parcours.
 Deux, l’alignement précis de mes expertises avec le poste.
 Trois, la façon dont je peux contribuer, concrètement, à l’écosystème du SIMQG et de l’Université de Sherbrooke.
 
-[Pause.]
+
 
 SLIDE 2 — PLAN
 
@@ -21,7 +21,7 @@ Première partie : mon parcours académique et professionnel.
 Deuxième partie : mes expertises et mes contributions scientifiques, en lien direct avec les exigences du poste.
 Troisième partie : mes contributions et mes synergies institutionnelles, et comment je me projette au SIMQG et à l’UdeS.
 
-[Pause.]
+
 
 SECTION 1 — PARCOURS
 SLIDE 3 — PROFIL EN BREF
@@ -38,7 +38,7 @@ Ce positionnement est, à mon avis, particulièrement pertinent aujourd’hui.
 Parce que l’IA n’est pas seulement une question d’algorithmes.
 C’est une question de gestion, de gouvernance, de performance, de risques, et de transformation.
 
-[Pause.]
+
 
 SLIDE 4 — PARCOURS ACADÉMIQUE
 
@@ -57,7 +57,7 @@ Le résultat, c’est une combinaison rare.
 Une base solide en gestion et en systèmes d’information.
 Et une capacité technique réelle pour comprendre, concevoir et évaluer des systèmes d’IA en contexte organisationnel.
 
-[Pause.]
+
 
 SLIDE 5 — EXPÉRIENCE PROFESSIONNELLE
 
@@ -80,7 +80,7 @@ Cette double identité, académique et terrain, est centrale dans mon profil.
 Parce qu’en IA, aujourd’hui, la valeur se joue dans le passage du concept à la production.
 Et c’est exactement là que je suis à l’aise.
 
-[Pause.]
+
 
 SLIDE 6 — TRANSITION VERS SECTION 2
 
@@ -88,7 +88,7 @@ Ce parcours multidisciplinaire m’a préparé, très directement, pour le poste
 Je vous propose maintenant de passer au cœur de la question.
 En quoi mes expertises et ma production scientifique répondent-elles précisément aux exigences du poste ?
 
-[Pause.]
+
 
 SECTION 2 — EXPERTISES ALIGNÉES AU POSTE
 SLIDE 7 — EXPERTISES CLÉS
@@ -103,7 +103,7 @@ AIOps et MLOps, c’est l’ensemble des pratiques et mécanismes qui rendent l�
 Avec des contraintes de qualité, de risques, de performance, et de supervision.
 Et les LLM, ce sont les grands modèles de langage, qui posent aujourd’hui des défis spécifiques de sécurité, de fiabilité et de gouvernance.
 
-[Pause.]
+
 
 SLIDE 8 — ALIGNEMENT AVEC LES EXIGENCES DU POSTE
 
@@ -120,7 +120,7 @@ Pour la sécurité et la résilience des systèmes IA, je développe une ligne d
 
 Et enfin, côté enseignement, j’ai enseigné pendant plus de quinze ans, à différents niveaux, et je m’appuie systématiquement sur des cas réels pour former des étudiants capables d’agir dans les organisations.
 
-[Pause.]
+
 
 SLIDE 9 — PUBLICATIONS PHARES EN GOUVERNANCE DE L’IA
 
@@ -134,7 +134,7 @@ Ce type d’étude est important, parce qu’il révèle l’écart entre les pr
 
 Et au-delà de ces deux publications, je maintiens un pipeline actif de manuscrits et de projets, avec une orientation claire : gouvernance, performance, risques, et sécurité des systèmes d’IA en contexte organisationnel.
 
-[Pause.]
+
 
 SLIDE 10 — RISQUES LLM
 
@@ -164,7 +164,7 @@ Et justement, cette recherche a donné naissance à un projet concret : le LLM F
 C'est un pare-feu pour modèles de langage, issu directement de mes travaux.
 Pour moi, c'est une preuve que je sais transférer la recherche vers l'application.
 Je développerai ce projet en détail dans ma présentation recherche.
-[Pause.]
+
 
 SLIDE 11 — EXEMPLES MARQUANTS DE PROJETS IA MENÉS
 
@@ -196,7 +196,7 @@ Le point commun, c’est la maîtrise complète du cycle, du concept à la produ
 Et c’est exactement ce que recouvrent AIOps et MLOps. 
 
 
-[Pause.]
+
 
 SECTION 3 — CONTRIBUTIONS ET SYNERGIES
 SLIDE 12 — TRANSITION VERS SECTION 3
@@ -204,7 +204,7 @@ SLIDE 12 — TRANSITION VERS SECTION 3
 Au-delà de l’adéquation de mon profil aux exigences…
 Comment est-ce que je peux contribuer activement au SIMQG et à l’Université de Sherbrooke ?
 
-[Pause.]
+
 
 SLIDE 13 — INDICATEURS DE RECHERCHE
 
@@ -226,7 +226,7 @@ Donc, très concrètement, je sais encadrer.
 Je sais structurer des projets.
 Et je sais mener des trajectoires jusqu’à des résultats.
 
-[Pause.]
+
 
 SLIDE 14 — INTÉGRATION AU SIMQG ET SYNERGIES
 
@@ -249,7 +249,7 @@ Et je veux le dire clairement.
 Je m’investirai pleinement en recherche, en enseignement, en encadrement, et en service à la collectivité. 
 
 
-[Pause.]
+
 
 SLIDE 15 — VISION ET MISSION DU SIMQG
 
@@ -258,7 +258,7 @@ Transformer la complexité en opportunité, c'est ma lecture de cette mission.
 
 
 
-[Pause.]
+
 
 Et je vous partage, en une phrase, mon “Pourquoi Sherbrooke”.
 Ce qui m’attire au SIMQG, c’est l’endroit exact où se rencontrent gouvernance de l’IA, analytique, et transformation numérique.
@@ -271,7 +271,7 @@ Deuxièmement, un pont crédible entre théorie et pratique, parce que je travai
 
 
 
-[Pause.]
+
 
 SLIDE 16 — FINANCEMENT ET COLLABORATIONS
 
@@ -290,7 +290,7 @@ Cofomo et Videns AI.
 Et un réseau international établi. 
 
 
-[Pause.]
+
 
 CONCLUSION
 SLIDE 17 — EN RÉSUMÉ : POURQUOI MOI ?
@@ -329,7 +329,7 @@ Service à la collectivité.
 Mon profil conjugue ces forces.
 Et je suis prêt à contribuer à cette mission, dès le jour un.
 
-[Pause.]
+
 
 SLIDE 18 — MERCI
 

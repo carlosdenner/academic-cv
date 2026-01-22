@@ -1,143 +1,143 @@
-ï»¿NOTES TTS - PRÃ‰SENTATION 2 : PROGRAMME DE RECHERCHE
-DurÃ©e cible : 20 minutes
+NOTES TTS - PRÉSENTATION 2 : PROGRAMME DE RECHERCHE
+Durée cible : 20 minutes
 Style : naturel, clair, professionnel
 ===================================================
 
-SLIDE 1 â€” Titre
-Bonjour Ã  tous. 
-Je vais maintenant vous prÃ©senter mon programme de recherche, centrÃ© sur la gestion, la gouvernance et l'ingÃ©nierie des systÃ¨mes d'intelligence artificielle. 
-Si je devais rÃ©sumer ce programme en une phrase : je rends l'IA gouvernable, sÃ©curisable, mesurable. 
-Ce programme s'inscrit directement dans les thÃ©matiques du poste au SIMQG, et rÃ©pond aux dÃ©fis concrets que j'ai observÃ©s tant dans mes recherches que dans mes collaborations avec l'industrie.
+SLIDE 1 — Titre
+Bonjour à tous. 
+Je vais maintenant vous présenter mon programme de recherche, centré sur la gestion, la gouvernance et l'ingénierie des systèmes d'intelligence artificielle. 
+Si je devais résumer ce programme en une phrase : je rends l'IA gouvernable, sécurisable, mesurable. 
+Ce programme s'inscrit directement dans les thématiques du poste au SIMQG, et répond aux défis concrets que j'ai observés tant dans mes recherches que dans mes collaborations avec l'industrie.
 
-SLIDE 2 â€” Plan de la prÃ©sentation
-Voici le plan de ma prÃ©sentation. 
-Je vais d'abord situer le contexte et ma vision de la gestion de l'IA. Ensuite, je prÃ©senterai les trois axes de mon programme de recherche : la gouvernance et les risques, l'ingÃ©nierie et la sÃ©curitÃ©, puis la performance et l'impact. Je terminerai avec une synthÃ¨se et les perspectives Ã  cinq ans.
+SLIDE 2 — Plan de la présentation
+Voici le plan de ma présentation. 
+Je vais d'abord situer le contexte et ma vision de la gestion de l'IA. Ensuite, je présenterai les trois axes de mon programme de recherche : la gouvernance et les risques, l'ingénierie et la sécurité, puis la performance et l'impact. Je terminerai avec une synthèse et les perspectives à cinq ans.
 
-SLIDE 3 â€” Qu'est-ce que la gestion de l'IA?
-CommenÃ§ons par une question fondamentale : qu'est-ce que la gestion de l'IA? 
-Pendant longtemps, la question principale Ã©tait : que peut-on faire avec l'IA? Aujourd'hui, la vraie question est devenue : comment la gouverner, l'exploiter et la sÃ©curiser de faÃ§on responsable? 
-Les organisations font face Ã  des dÃ©fis concrets. En matiÃ¨re de gouvernance, qui prend les dÃ©cisions? En matiÃ¨re de risques, comment gÃ©rer les biais, la conformitÃ©, la sÃ©curitÃ©? En matiÃ¨re d'opÃ©rations, comment passer du prototype Ã  la production? Et en matiÃ¨re de valeur, l'IA gÃ©nÃ¨re-t-elle vraiment un retour sur investissement ou reste-t-elle une promesse? 
-Mon programme de recherche aborde ces dimensions de faÃ§on intÃ©grÃ©e.
+SLIDE 3 — Qu'est-ce que la gestion de l'IA?
+Commençons par une question fondamentale : qu'est-ce que la gestion de l'IA? 
+Pendant longtemps, la question principale était : que peut-on faire avec l'IA? Aujourd'hui, la vraie question est devenue : comment la gouverner, l'exploiter et la sécuriser de façon responsable? 
+Les organisations font face à des défis concrets. En matière de gouvernance, qui prend les décisions? En matière de risques, comment gérer les biais, la conformité, la sécurité? En matière d'opérations, comment passer du prototype à la production? Et en matière de valeur, l'IA génère-t-elle vraiment un retour sur investissement ou reste-t-elle une promesse? 
+Mon programme de recherche aborde ces dimensions de façon intégrée.
 
-SLIDE 4 â€” Mon positionnement
-Mon positionnement : relier gouvernance, ingÃ©nierie et performance de l'IA, avec des preuves acadÃ©miques et des preuves terrain. 
-CÃ´tÃ© acadÃ©mique, des publications en gouvernance de l'IA dans des revues comme Ethics and Information Technology et Government Information Quarterly. CÃ´tÃ© terrain, des projets IA dans les tÃ©lÃ©communications, le conseil et le secteur public. 
-Ma cartographie de deux cent cinquante mille brevets en IA rÃ©vÃ¨le les domaines Ã©mergents : sÃ©curitÃ© des grands modÃ¨les, dÃ©tection des hallucinations, dÃ©fense contre les injections de prompts. 
-Mes travaux s'inscrivent directement dans les thÃ©matiques du poste.
+SLIDE 4 — Mon positionnement
+Mon positionnement : relier gouvernance, ingénierie et performance de l'IA, avec des preuves académiques et des preuves terrain. 
+Côté académique, des publications en gouvernance de l'IA dans des revues comme Ethics and Information Technology et Government Information Quarterly. Côté terrain, des projets IA dans les télécommunications, le conseil et le secteur public. 
+Ma cartographie de deux cent cinquante mille brevets en IA révèle les domaines émergents : sécurité des grands modèles, détection des hallucinations, défense contre les injections de prompts. 
+Mes travaux s'inscrivent directement dans les thématiques du poste.
 
-SLIDE 5 â€” Vue d'ensemble du programme
-Voici la structure de mon programme. Il s'articule autour de trois axes complÃ©mentaires. 
-L'axe un porte sur la gouvernance et les risques : comment encadrer l'IA de maniÃ¨re responsable. L'axe deux traite de l'ingÃ©nierie et de la sÃ©curitÃ© : comment passer du prototype Ã  une production robuste. L'axe trois examine la performance et l'impact : comment mesurer la valeur rÃ©elle crÃ©Ã©e par l'IA. 
-Ces trois axes sont interconnectÃ©s et se renforcent mutuellement.
+SLIDE 5 — Vue d'ensemble du programme
+Voici la structure de mon programme. Il s'articule autour de trois axes complémentaires. 
+L'axe un porte sur la gouvernance et les risques : comment encadrer l'IA de manière responsable. L'axe deux traite de l'ingénierie et de la sécurité : comment passer du prototype à une production robuste. L'axe trois examine la performance et l'impact : comment mesurer la valeur réelle créée par l'IA. 
+Ces trois axes sont interconnectés et se renforcent mutuellement.
 
-SLIDE 6 â€” Transition Axe 1
+SLIDE 6 — Transition Axe 1
 Passons maintenant au premier axe : la gouvernance et la gestion des risques. 
-La question centrale est : comment les organisations peuvent-elles encadrer et contrÃ´ler l'IA de maniÃ¨re responsable?
+La question centrale est : comment les organisations peuvent-elles encadrer et contrôler l'IA de manière responsable?
 
-SLIDE 7 â€” Axe 1 : Questions de recherche
+SLIDE 7 — Axe 1 : Questions de recherche
 Les questions de recherche de cet axe sont les suivantes. 
-PremiÃ¨rement, comment les organisations structurent-elles la gouvernance de leurs systÃ¨mes d'IA? DeuxiÃ¨mement, quels modÃ¨les de gouvernance, centralisÃ©, fÃ©dÃ©rÃ© ou par domaine, sont adaptÃ©s selon les secteurs? TroisiÃ¨mement, comment cartographier les risques IA pour aider les gestionnaires Ã  prioriser leurs actions? 
-QuatriÃ¨mement, comment implÃ©menter un contrÃ´le rÃ©versible permettant d'ajuster dynamiquement les systÃ¨mes? Pour illustrer concrÃ¨tement : imaginez un pipeline ML avec un "kill switch" qui permet de revenir au modÃ¨le prÃ©cÃ©dent en trente secondes si une anomalie est dÃ©tectÃ©e. Mais attention : qui dÃ©cide de dÃ©clencher? Quelles mÃ©triques servent de seuil? Et quelle traÃ§abilitÃ© pour la reddition de comptes? Ce sont des questions de gestion, pas seulement techniques. C'est Ã§a le contrÃ´le rÃ©versible opÃ©rationnel. 
-Les risques Ã©mergents sont nombreux : biais algorithmiques, non-conformitÃ© rÃ©glementaire, injections de prompts, hallucinations critiques, agents autonomes imprÃ©visibles, et boucles affectives. Un exemple de boucle affective : un chatbot thÃ©rapeutique qui, au lieu d'apaiser l'utilisateur, amplifie son anxiÃ©tÃ© par ses rÃ©ponses. 
-Mon angle, c'est de transformer ces risques techniques en mÃ©canismes de gouvernance opÃ©rationnels : des rÃ´les clairs, des contrÃ´les mesurables, des mÃ©triques de suivi. 
+Premièrement, comment les organisations structurent-elles la gouvernance de leurs systèmes d'IA? Deuxièmement, quels modèles de gouvernance, centralisé, fédéré ou par domaine, sont adaptés selon les secteurs? Troisièmement, comment cartographier les risques IA pour aider les gestionnaires à prioriser leurs actions? 
+Quatrièmement, comment implémenter un contrôle réversible permettant d'ajuster dynamiquement les systèmes? Pour illustrer concrètement : imaginez un pipeline ML avec un "kill switch" qui permet de revenir au modèle précédent en trente secondes si une anomalie est détectée. Mais attention : qui décide de déclencher? Quelles métriques servent de seuil? Et quelle traçabilité pour la reddition de comptes? Ce sont des questions de gestion, pas seulement techniques. C'est ça le contrôle réversible opérationnel. 
+Les risques émergents sont nombreux : biais algorithmiques, non-conformité réglementaire, injections de prompts, hallucinations critiques, agents autonomes imprévisibles, et boucles affectives. Un exemple de boucle affective : un chatbot thérapeutique qui, au lieu d'apaiser l'utilisateur, amplifie son anxiété par ses réponses. 
+Mon angle, c'est de transformer ces risques techniques en mécanismes de gouvernance opérationnels : des rôles clairs, des contrôles mesurables, des métriques de suivi. 
 
-SLIDE 8 â€” Axe 1 : Travaux fondateurs
+SLIDE 8 — Axe 1 : Travaux fondateurs
 Cet axe s'appuie sur mes travaux existants. 
-Ma publication de deux mille vingt-et-un dans Ethics and Information Technology propose un cadre intÃ©grateur pour la rÃ©gulation de l'IA et les politiques publiques. Cet article a reÃ§u plus de cinq cents citations. 
-Ma publication de deux mille vingt-cinq dans Government Information Quarterly prÃ©sente une Ã©tude empirique de la mise en Å“uvre de la gouvernance IA dans vingt-huit organisations publiques sur cinq continents. Elle rÃ©vÃ¨le un Ã©cart significatif entre les principes dÃ©clarÃ©s et les pratiques rÃ©elles. 
-L'extension prÃ©vue consiste Ã  comparer les secteurs public et privÃ©, Ã©valuer l'efficacitÃ© des mÃ©canismes de gouvernance, et dÃ©velopper des typologies et des guides pratiques.
+Ma publication de deux mille vingt-et-un dans Ethics and Information Technology propose un cadre intégrateur pour la régulation de l'IA et les politiques publiques. Cet article a reçu plus de cinq cents citations. 
+Ma publication de deux mille vingt-cinq dans Government Information Quarterly présente une étude empirique de la mise en œuvre de la gouvernance IA dans vingt-huit organisations publiques sur cinq continents. Elle révèle un écart significatif entre les principes déclarés et les pratiques réelles. 
+L'extension prévue consiste à comparer les secteurs public et privé, évaluer l'efficacité des mécanismes de gouvernance, et développer des typologies et des guides pratiques.
 
-SLIDE 9 â€” Axe 1 : Livrables attendus
-Les livrables de cet axe comprennent des contributions thÃ©oriques et pratiques. 
-La contribution thÃ©orique principale : enrichir la littÃ©rature en systÃ¨mes d'information sur la gouvernance opÃ©rationnalisable de l'IA. 
-CÃ´tÃ© thÃ©orique, je vais dÃ©velopper des typologies de structures de gouvernance, des cartes de risques avec les contrÃ´les associÃ©s, et des modÃ¨les de contrÃ´le rÃ©versible. CÃ´tÃ© pratique, je produirai des guides pratiques pour gestionnaires, des cas d'enseignement pour l'Ã‰cole de gestion, et des outils d'auto-Ã©valuation. 
-Les mÃ©thodologies utilisÃ©es incluent les Ã©tudes de cas, les entretiens, les enquÃªtes quantitatives et l'analyse documentaire.
+SLIDE 9 — Axe 1 : Livrables attendus
+Les livrables de cet axe comprennent des contributions théoriques et pratiques. 
+La contribution théorique principale : enrichir la littérature en systèmes d'information sur la gouvernance opérationnalisable de l'IA. 
+Côté théorique, je vais développer des typologies de structures de gouvernance, des cartes de risques avec les contrôles associés, et des modèles de contrôle réversible. Côté pratique, je produirai des guides pratiques pour gestionnaires, des cas d'enseignement pour l'École de gestion, et des outils d'auto-évaluation. 
+Les méthodologies utilisées incluent les études de cas, les entretiens, les enquêtes quantitatives et l'analyse documentaire.
 
-SLIDE 10 â€” Transition Axe 2
-Passons au deuxiÃ¨me axe : l'ingÃ©nierie, les opÃ©rations et la sÃ©curitÃ© des systÃ¨mes d'IA. 
-La question centrale est : comment passer du prototype Ã  un dÃ©ploiement robuste et sÃ©curisÃ©?
+SLIDE 10 — Transition Axe 2
+Passons au deuxième axe : l'ingénierie, les opérations et la sécurité des systèmes d'IA. 
+La question centrale est : comment passer du prototype à un déploiement robuste et sécurisé?
 
-SLIDE 11 â€” Axe 2 : Questions de recherche
+SLIDE 11 — Axe 2 : Questions de recherche
 Les questions de recherche de cet axe sont les suivantes. 
-Comment concevoir des pipelines MLOps gouvernables? Quels patrons d'architecture adopter pour les systÃ¨mes Ã  base de grands modÃ¨les de langage, comme les architectures RAG et les agents? Comment intÃ©grer la sÃ©curitÃ© dans les pratiques MLOps? Comment construire un pare-feu pour grands modÃ¨les de langage? Comment Ã©valuer et attÃ©nuer les hallucinations? 
-Le focus sÃ©curitÃ© est crucial. Les menaces incluent les injections de prompts, les hallucinations critiques, l'exfiltration de donnÃ©es, et les agents ayant trop de permissions.
+Comment concevoir des pipelines MLOps gouvernables? Quels patrons d'architecture adopter pour les systèmes à base de grands modèles de langage, comme les architectures RAG et les agents? Comment intégrer la sécurité dans les pratiques MLOps? Comment construire un pare-feu pour grands modèles de langage? Comment évaluer et atténuer les hallucinations? 
+Le focus sécurité est crucial. Les menaces incluent les injections de prompts, les hallucinations critiques, l'exfiltration de données, et les agents ayant trop de permissions.
 
-SLIDE 12 â€” Axe 2 : Cartographie des brevets
-Un projet clÃ© de cet axe est ma cartographie des brevets. 
-J'ai analysÃ© deux cent cinquante mille familles de brevets en IA et apprentissage machine sur la pÃ©riode deux mille dix Ã  deux mille vingt-cinq. 
-Le signal est clair : la sÃ©curitÃ© LLM est sous-brevetÃ©e par rapport au risque. La dÃ©tection d'hallucinations, la dÃ©fense contre les injections, la sÃ©curitÃ© des agents... tout Ã§a reste largement sous-explorÃ©. 
-Comment je mesure Ã§a? Par l'Ã©cart entre trois indicateurs : le volume de brevets, l'intensitÃ© des publications acadÃ©miques, et la frÃ©quence des incidents et alertes dans la littÃ©rature. C'est cet Ã©cart qui rÃ©vÃ¨le le white space, Ã  la fois scientifique et industriel. C'est lÃ  que je me positionne.
+SLIDE 12 — Axe 2 : Cartographie des brevets
+Un projet clé de cet axe est ma cartographie des brevets. 
+J'ai analysé deux cent cinquante mille familles de brevets en IA et apprentissage machine sur la période deux mille dix à deux mille vingt-cinq. 
+Le signal est clair : la sécurité LLM est sous-brevetée par rapport au risque. La détection d'hallucinations, la défense contre les injections, la sécurité des agents... tout ça reste largement sous-exploré. 
+Comment je mesure ça? Par l'écart entre trois indicateurs : le volume de brevets, l'intensité des publications académiques, et la fréquence des incidents et alertes dans la littérature. C'est cet écart qui révèle le white space, à la fois scientifique et industriel. C'est là que je me positionne.
 
-SLIDE 13 â€” LLM Firewall : Design Science Research en action
-Le LLM Firewall est la piÃ¨ce maÃ®tresse de mon programme de recherche. C'est un projet de Design Science Research appliquÃ© Ã  la sÃ©curitÃ© des grands modÃ¨les de langage. 
-ConcrÃ¨tement, je construis un pare-feu pour grands modÃ¨les de langage, avec des dÃ©fenses multi-phases contre les injections de prompts. Le systÃ¨me analyse les requÃªtes en temps rÃ©el, dÃ©tecte les injections cachÃ©es, et protÃ¨ge les architectures RAG. 
-Ce qui distingue ce projet, c'est la rigueur mÃ©thodologique. La phase Build produit l'artefact. La phase Evaluate teste trois hypothÃ¨ses avec des critÃ¨res d'Ã©valuation prÃ©cis. PremiÃ¨rement, le taux de dÃ©tection : quel pourcentage d'injections sont bloquÃ©es? L'hypothÃ¨se de design pose un seuil de quatre-vingt-quinze pourcent. DeuxiÃ¨mement, le taux de faux positifs : combien de requÃªtes lÃ©gitimes sont bloquÃ©es par erreur? HypothÃ¨se : moins de deux pourcent. TroisiÃ¨mement, l'impact sur la qualitÃ© de la rÃ©ponse LLM : est-ce que le pare-feu dÃ©grade les rÃ©ponses? HypothÃ¨se : moins de cinq pourcent de dÃ©gradation. 
-Ces seuils sont des objectifs de design; l'intÃ©rÃªt scientifique est d'identifier les compromis et les conditions de validitÃ©. Les tests portent sur un dataset de plus de dix mille prompts adversariaux, comparÃ©s aux baselines publiÃ©es.
+SLIDE 13 — LLM Firewall : Design Science Research en action
+Le LLM Firewall est la pièce maîtresse de mon programme de recherche. C'est un projet de Design Science Research appliqué à la sécurité des grands modèles de langage. 
+Concrètement, je construis un pare-feu pour grands modèles de langage, avec des défenses multi-phases contre les injections de prompts. Le système analyse les requêtes en temps réel, détecte les injections cachées, et protège les architectures RAG. 
+Ce qui distingue ce projet, c'est la rigueur méthodologique. La phase Build produit l'artefact. La phase Evaluate teste trois hypothèses avec des critères d'évaluation précis. Premièrement, le taux de détection : quel pourcentage d'injections sont bloquées? L'hypothèse de design pose un seuil de quatre-vingt-quinze pourcent. Deuxièmement, le taux de faux positifs : combien de requêtes légitimes sont bloquées par erreur? Hypothèse : moins de deux pourcent. Troisièmement, l'impact sur la qualité de la réponse LLM : est-ce que le pare-feu dégrade les réponses? Hypothèse : moins de cinq pourcent de dégradation. 
+Ces seuils sont des objectifs de design; l'intérêt scientifique est d'identifier les compromis et les conditions de validité. Les tests portent sur un dataset de plus de dix mille prompts adversariaux, comparés aux baselines publiées.
 
-SLIDE 14 â€” Axe 2 : Livrables attendus
-Les livrables de cet axe incluent des publications ciblÃ©es. 
-La contribution thÃ©orique principale : avancer la design science des systÃ¨mes Ã  base de grands modÃ¨les de langage. 
-Je prÃ©pare un article intitulÃ© Building an LLM Firewall pour Communications of the ACM, un cadre expÃ©rimental sur les hallucinations dans les systÃ¨mes RAG, et un article thÃ©orique intitulÃ© Algorithmic Feelings pour AIS THCI, la revue Transactions on Human-Computer Interaction, qui explore les boucles affectives dans les interactions humain-IA. 
-CÃ´tÃ© artefacts pratiques, je produirai des rÃ©fÃ©rentiels de dÃ©fense contre les injections, des patrons d'architecture RAG sÃ©curisÃ©s, des tableaux de bord risques et performance, et des prototypes open-source. 
-L'approche mÃ©thodologique est le design science, la recherche orientÃ©e artefact, et les partenariats industriels.
+SLIDE 14 — Axe 2 : Livrables attendus
+Les livrables de cet axe incluent des publications ciblées. 
+La contribution théorique principale : avancer la design science des systèmes à base de grands modèles de langage. 
+Je prépare un article intitulé Building an LLM Firewall pour Communications of the ACM, un cadre expérimental sur les hallucinations dans les systèmes RAG, et un article théorique intitulé Algorithmic Feelings pour AIS THCI, la revue Transactions on Human-Computer Interaction, qui explore les boucles affectives dans les interactions humain-IA. 
+Côté artefacts pratiques, je produirai des référentiels de défense contre les injections, des patrons d'architecture RAG sécurisés, des tableaux de bord risques et performance, et des prototypes open-source. 
+L'approche méthodologique est le design science, la recherche orientée artefact, et les partenariats industriels.
 
-SLIDE 15 â€” Transition Axe 3
-Passons au troisiÃ¨me axe : la performance, l'impact et la durabilitÃ© de l'IA. 
-La question centrale est : l'IA crÃ©e-t-elle rÃ©ellement de la valeur, pour qui et Ã  quel coÃ»t?
+SLIDE 15 — Transition Axe 3
+Passons au troisième axe : la performance, l'impact et la durabilité de l'IA. 
+La question centrale est : l'IA crée-t-elle réellement de la valeur, pour qui et à quel coût?
 
-SLIDE 16 â€” Axe 3 : Questions de recherche
+SLIDE 16 — Axe 3 : Questions de recherche
 Les questions de recherche de cet axe sont les suivantes. 
-Comment dÃ©finir et mesurer la performance de l'IA au-delÃ  des mÃ©triques purement techniques? Quels facteurs distinguent les projets qui passent Ã  l'Ã©chelle de ceux qui restent en pilote perpÃ©tuel? Comment intÃ©grer la durabilitÃ© environnementale, Ã©conomique et sociale? Comment l'IA affecte-t-elle la stratÃ©gie et l'innovation? 
-L'objectif est d'aller au-delÃ  de la prÃ©cision algorithmique pour mesurer la valeur Ã©conomique, la qualitÃ© de service, l'impact sur les processus, l'Ã©quitÃ©, et les effets sur le travail humain. Il faut passer des promesses et des preuves de concept Ã  une Ã©valuation rigoureuse.
+Comment définir et mesurer la performance de l'IA au-delà des métriques purement techniques? Quels facteurs distinguent les projets qui passent à l'échelle de ceux qui restent en pilote perpétuel? Comment intégrer la durabilité environnementale, économique et sociale? Comment l'IA affecte-t-elle la stratégie et l'innovation? 
+L'objectif est d'aller au-delà de la précision algorithmique pour mesurer la valeur économique, la qualité de service, l'impact sur les processus, l'équité, et les effets sur le travail humain. Il faut passer des promesses et des preuves de concept à une évaluation rigoureuse.
 
-SLIDE 17 â€” Axe 3 : Cadre d'Ã©valuation
-Je propose un cadre d'Ã©valuation multi-dimensionnel de la valeur IA. 
-La dimension financiÃ¨re examine le retour sur investissement, les coÃ»ts et la productivitÃ©. La dimension organisationnelle analyse les processus, l'adoption et les compÃ©tences. La dimension sociÃ©tale Ã©value l'Ã©quitÃ©, l'Ã©thique et l'impact sur l'emploi. Et la dimension environnementale mesure l'empreinte carbone et les ressources consommÃ©es. 
-Comment vais-je valider ce cadre? ConcrÃ¨tement, je prÃ©vois deux terrains : une organisation privÃ©e et une organisation publique. La mÃ©thode sera une Ã©tude de cas longitudinale sur dix-huit mois. Et les donnÃ©es seront les logs des projets IA combinÃ©s Ã  des entretiens avec les dÃ©cideurs. 
-Pour Ãªtre explicite sur la mÃ©thodo SI : l'unitÃ© d'analyse est le projet IA; les variables dÃ©pendantes sont la valeur perÃ§ue et la pÃ©rennitÃ©; les mÃ©canismes causaux prÃ©sumÃ©s sont la gouvernance, l'alignement stratÃ©gique et la capacitÃ© d'absorption. 
-Ce cadre sera aussi intÃ©grÃ© Ã  l'enseignement, pour former des gestionnaires capables de porter un regard critique sur l'IA.
+SLIDE 17 — Axe 3 : Cadre d'évaluation
+Je propose un cadre d'évaluation multi-dimensionnel de la valeur IA. 
+La dimension financière examine le retour sur investissement, les coûts et la productivité. La dimension organisationnelle analyse les processus, l'adoption et les compétences. La dimension sociétale évalue l'équité, l'éthique et l'impact sur l'emploi. Et la dimension environnementale mesure l'empreinte carbone et les ressources consommées. 
+Comment vais-je valider ce cadre? Concrètement, je prévois deux terrains : une organisation privée et une organisation publique. La méthode sera une étude de cas longitudinale sur dix-huit mois. Et les données seront les logs des projets IA combinés à des entretiens avec les décideurs. 
+Pour être explicite sur la méthodo SI : l'unité d'analyse est le projet IA; les variables dépendantes sont la valeur perçue et la pérennité; les mécanismes causaux présumés sont la gouvernance, l'alignement stratégique et la capacité d'absorption. 
+Ce cadre sera aussi intégré à l'enseignement, pour former des gestionnaires capables de porter un regard critique sur l'IA.
 
-SLIDE 18 â€” Axe 3 : Livrables attendus
-Les livrables de cet axe comprennent des contributions thÃ©oriques et pratiques. 
-La contribution thÃ©orique principale : avancer la mesure de valeur de l'IA via un cadre multi-dimensionnel validÃ© empiriquement. 
-Les publications visÃ©es incluent un article sur le contrÃ´le rÃ©versible pour Information Systems Journal, des cadres d'Ã©valuation multi-dimensionnels, et des thÃ©ories de l'innovation numÃ©rique. 
-Les contributions pratiques incluent des tableaux de bord de performance, des Ã©tudes de cas longitudinales, des outils de priorisation de portefeuilles IA, et l'intÃ©gration au microprogramme en IA et Ã  l'Ã©cole d'Ã©tÃ©. 
-Les mÃ©thodes utilisÃ©es sont les Ã©tudes de cas longitudinales, les quasi-expÃ©riences, et la co-conception avec les partenaires industriels.
+SLIDE 18 — Axe 3 : Livrables attendus
+Les livrables de cet axe comprennent des contributions théoriques et pratiques. 
+La contribution théorique principale : avancer la mesure de valeur de l'IA via un cadre multi-dimensionnel validé empiriquement. 
+Les publications visées incluent un article sur le contrôle réversible pour Information Systems Journal, des cadres d'évaluation multi-dimensionnels, et des théories de l'innovation numérique. 
+Les contributions pratiques incluent des tableaux de bord de performance, des études de cas longitudinales, des outils de priorisation de portefeuilles IA, et l'intégration au microprogramme en IA et à l'école d'été. 
+Les méthodes utilisées sont les études de cas longitudinales, les quasi-expériences, et la co-conception avec les partenaires industriels.
 
-SLIDE 19 â€” Transition SynthÃ¨se
-Passons maintenant Ã  la synthÃ¨se et aux perspectives. 
-Comment ce programme s'inscrit-il dans la mission du SIMQG et de l'UniversitÃ© de Sherbrooke?
+SLIDE 19 — Transition Synthèse
+Passons maintenant à la synthèse et aux perspectives. 
+Comment ce programme s'inscrit-il dans la mission du SIMQG et de l'Université de Sherbrooke?
 
-SLIDE 20 â€” Un programme cohÃ©rent
-Ce programme forme un ensemble cohÃ©rent. 
-Les trois axes sont interconnectÃ©s : la gouvernance encadre l'ingÃ©nierie, l'ingÃ©nierie permet de mesurer la performance, et la performance informe la gouvernance. Au centre se trouve la gestion de l'IA comme discipline intÃ©gratrice. 
-Le programme vise une double contribution. ThÃ©orique, avec l'avancÃ©e des connaissances en systÃ¨mes d'information et en gestion. Pratique, avec des outils, des mÃ©thodes et des cas d'entreprise directement utilisables. 
-Les publications visÃ©es sont Information Systems Journal, AIS THCI, et Communications of the ACM.
+SLIDE 20 — Un programme cohérent
+Ce programme forme un ensemble cohérent. 
+Les trois axes sont interconnectés : la gouvernance encadre l'ingénierie, l'ingénierie permet de mesurer la performance, et la performance informe la gouvernance. Au centre se trouve la gestion de l'IA comme discipline intégratrice. 
+Le programme vise une double contribution. Théorique, avec l'avancée des connaissances en systèmes d'information et en gestion. Pratique, avec des outils, des méthodes et des cas d'entreprise directement utilisables. 
+Les publications visées sont Information Systems Journal, AIS THCI, et Communications of the ACM.
 
-SLIDE 21 â€” Synergies institutionnelles
-Ce programme s'intÃ¨gre naturellement dans l'Ã©cosystÃ¨me de l'UniversitÃ© de Sherbrooke. 
-Au SIMQG, il contribue Ã  la recherche et Ã  l'enseignement en gestion de l'IA. Avec le CROI, il renforce les travaux sur les organisations intelligentes. Avec le Centre Laurent Beaudoin, il facilite les partenariats industriels. Avec le pÃ´le cybersÃ©curitÃ©, il apporte une expertise sur la sÃ©curitÃ© des grands modÃ¨les â€” par exemple un co-encadrement doctoral sur les dÃ©fenses adversariales ou un projet interfacultaire sur la sÃ©curitÃ© des agents LLM. 
-Pour le financement, je vise le CRSH pour la gouvernance, le FRQSC pour les projets d'Ã©quipe, Mitacs pour les partenariats industriels, et le CRSNG pour les aspects techniques. 
-Mais concrÃ¨tement, mon ancrage prioritaire pour les douze premiers mois, c'est le microprogramme IA stratÃ©gique plus un cas d'enseignement sur la gouvernance. C'est lÃ  que je peux contribuer dÃ¨s le dÃ©part. 
+SLIDE 21 — Synergies institutionnelles
+Ce programme s'intègre naturellement dans l'écosystème de l'Université de Sherbrooke. 
+Au SIMQG, il contribue à la recherche et à l'enseignement en gestion de l'IA. Avec le CROI, il renforce les travaux sur les organisations intelligentes. Avec le Centre Laurent Beaudoin, il facilite les partenariats industriels. Avec le pôle cybersécurité, il apporte une expertise sur la sécurité des grands modèles — par exemple un co-encadrement doctoral sur les défenses adversariales ou un projet interfacultaire sur la sécurité des agents LLM. 
+Pour le financement, je vise le CRSH pour la gouvernance, le FRQSC pour les projets d'équipe, Mitacs pour les partenariats industriels, et le CRSNG pour les aspects techniques. 
+Mais concrètement, mon ancrage prioritaire pour les douze premiers mois, c'est le microprogramme IA stratégique plus un cas d'enseignement sur la gouvernance. C'est là que je peux contribuer dès le départ. 
 
-SLIDE 22 â€” Calendrier des livrables
-Voici le calendrier sur cinq ans. Je veux Ãªtre rÃ©aliste sur la progression. 
-Les annÃ©es un et deux sont les fondations : accÃ¨s aux terrains, collecte de donnÃ©es, et un Ã  deux papiers soumis. C'est la phase d'Ã©tablissement. 
-Les annÃ©es trois Ã  cinq sont la consolidation : subventions majeures comme CRSH et FRQSC, et intÃ©gration complÃ¨te dans les programmes. 
-En deux mille vingt-six, je livrerai un cas d'enseignement sur la gouvernance IA, un prototype du pare-feu pour grands modÃ¨les, et une premiÃ¨re version du cadre d'Ã©valuation. 
+SLIDE 22 — Calendrier des livrables
+Voici le calendrier sur cinq ans. Je veux être réaliste sur la progression. 
+Les années un et deux sont les fondations : accès aux terrains, collecte de données, et un à deux papiers soumis. C'est la phase d'établissement. 
+Les années trois à cinq sont la consolidation : subventions majeures comme CRSH et FRQSC, et intégration complète dans les programmes. 
+En deux mille vingt-six, je livrerai un cas d'enseignement sur la gouvernance IA, un prototype du pare-feu pour grands modèles, et une première version du cadre d'évaluation. 
 En deux mille vingt-huit, un guide pratique de gouvernance, une publication dans Communications of the ACM, et une publication dans Information Systems Journal. 
-En deux mille trente, une synthÃ¨se sous forme de livre ou monographie, un bilan de cinq ans, et l'intÃ©gration complÃ¨te dans les programmes de formation. 
-L'objectif Ã  cinq ans est que l'Ã‰cole de gestion soit reconnue comme pÃ´le de rÃ©fÃ©rence pour la gestion stratÃ©gique, la gouvernance et l'ingÃ©nierie des systÃ¨mes d'IA.
+En deux mille trente, une synthèse sous forme de livre ou monographie, un bilan de cinq ans, et l'intégration complète dans les programmes de formation. 
+L'objectif à cinq ans est que l'École de gestion soit reconnue comme pôle de référence pour la gestion stratégique, la gouvernance et l'ingénierie des systèmes d'IA.
 
-SLIDE 23 â€” Transition Conclusion
+SLIDE 23 — Transition Conclusion
 Permettez-moi de conclure.
 
-SLIDE 24 â€” En rÃ©sumÃ©
-En rÃ©sumÃ©, mon programme de recherche couvre trois axes complÃ©mentaires qui forment un tout cohÃ©rent. 
-L'axe gouvernance et risques vise Ã  encadrer l'IA de faÃ§on responsable, avec des politiques, des typologies et des guides pratiques. L'axe ingÃ©nierie et sÃ©curitÃ© vise Ã  passer du prototype Ã  la production sÃ©curisÃ©e, avec un focus particulier sur les grands modÃ¨les de langage et les systÃ¨mes agentiques. L'axe performance et impact vise Ã  mesurer la valeur rÃ©elle crÃ©Ã©e, au-delÃ  des promesses et des preuves de concept. 
-Ce programme est parfaitement alignÃ© avec les thÃ©matiques du poste, la mission du SIMQG, et les besoins concrets des organisations qui dÃ©ploient l'IA. 
-Et pour conclure en une phrase : mon programme transforme l'IA en systÃ¨mes gouvernables et utiles. 
+SLIDE 24 — En résumé
+En résumé, mon programme de recherche couvre trois axes complémentaires qui forment un tout cohérent. 
+L'axe gouvernance et risques vise à encadrer l'IA de façon responsable, avec des politiques, des typologies et des guides pratiques. L'axe ingénierie et sécurité vise à passer du prototype à la production sécurisée, avec un focus particulier sur les grands modèles de langage et les systèmes agentiques. L'axe performance et impact vise à mesurer la valeur réelle créée, au-delà des promesses et des preuves de concept. 
+Ce programme est parfaitement aligné avec les thématiques du poste, la mission du SIMQG, et les besoins concrets des organisations qui déploient l'IA. 
+Et pour conclure en une phrase : mon programme transforme l'IA en systèmes gouvernables et utiles. 
 
-SLIDE 25 â€” Merci
+SLIDE 25 — Merci
 Merci de votre attention. 
-Je serai heureux de rÃ©pondre Ã  vos questions sur les aspects thÃ©oriques, mÃ©thodologiques ou pratiques de ce programme, ou sur les synergies possibles avec les projets en cours au SIMQG et dans les autres unitÃ©s de l'UniversitÃ© de Sherbrooke.
+Je serai heureux de répondre à vos questions sur les aspects théoriques, méthodologiques ou pratiques de ce programme, ou sur les synergies possibles avec les projets en cours au SIMQG et dans les autres unités de l'Université de Sherbrooke.
